@@ -1,0 +1,5 @@
+node_modules/
+*.log
+.env
+debug_*.html
+debug_*.png

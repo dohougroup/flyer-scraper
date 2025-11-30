@@ -1,0 +1,63 @@
+name: Update Flyer Data and Sync to Google Drive
+
+on:
+  schedule:
+    # Check for updates every 6 hours
+    - cron: '0 */6 * * *'
+    # Also run every Thursday at 1:00 AM EST (6:00 UTC) as primary update
+    - cron: '0 6 * * 4'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Scrape flyers and save as CSV
+        run: |
+          echo "Starting flyer scrape at $(date)"
+          npx ts-node src/scrape-to-csv.ts
+          echo "Scraping completed at $(date)"
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet data/*.csv; then
+            echo "No changes detected in flyer data"
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected in flyer data!"
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Upload to Google Drive
+        if: steps.check_changes.outputs.changes == 'true'
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: |
+          echo "Uploading to Google Drive..."
+          node src/upload-to-drive.js
+      
+      - name: Commit and push updated CSV files
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/*.csv
+          git commit -m "Update flyer data - $(date '+%Y-%m-%d %H:%M:%S %Z')"
+          git push
+      
+      - name: No changes message
+        if: steps.check_changes.outputs.changes == 'false'
+        run: echo "No updates needed - flyer data is current"
