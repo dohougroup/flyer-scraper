@@ -1,4 +1,4 @@
-name: Update Flyer Data and Sync to Google Drive
+name: Update Flyer Data
 
 on:
   schedule:
@@ -41,22 +41,13 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet data/*.csv; then
+          if git diff --quiet data/*.csv 2>/dev/null; then
             echo "No changes detected in flyer data"
             echo "changes=false" >> $GITHUB_OUTPUT
           else
             echo "Changes detected in flyer data!"
             echo "changes=true" >> $GITHUB_OUTPUT
           fi
-      
-      - name: Upload to Google Drive
-        if: steps.check_changes.outputs.changes == 'true' && secrets.GOOGLE_CREDENTIALS != ''
-        env:
-          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
-        run: |
-          echo "Uploading to Google Drive..."
-          node src/upload-to-drive.js
-        continue-on-error: true
       
       - name: Commit and push updated CSV files
         if: steps.check_changes.outputs.changes == 'true'
