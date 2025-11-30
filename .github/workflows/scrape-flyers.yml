@@ -49,6 +49,20 @@ jobs:
             echo "changes=true" >> $GITHUB_OUTPUT
           fi
       
+      - name: Upload to Google Drive
+        if: steps.check_changes.outputs.changes == 'true'
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: |
+          if [ -z "$GOOGLE_CREDENTIALS" ]; then
+            echo "⚠️ GOOGLE_CREDENTIALS not set. Skipping Google Drive upload."
+            echo "To enable: Add GOOGLE_CREDENTIALS secret in Settings > Secrets > Actions"
+          else
+            echo "✓ Google credentials found. Uploading to Google Drive..."
+            node src/upload-to-drive.js || echo "⚠️ Google Drive upload failed, but continuing..."
+          fi
+        continue-on-error: true
+      
       - name: Commit and push updated CSV files
         if: steps.check_changes.outputs.changes == 'true'
         run: |
