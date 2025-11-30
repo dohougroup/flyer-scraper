@@ -50,18 +50,13 @@ jobs:
           fi
       
       - name: Upload to Google Drive
-        if: steps.check_changes.outputs.changes == 'true' && env.GOOGLE_CREDENTIALS != ''
+        if: steps.check_changes.outputs.changes == 'true' && secrets.GOOGLE_CREDENTIALS != ''
         env:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
         run: |
           echo "Uploading to Google Drive..."
           node src/upload-to-drive.js
-      
-      - name: Skip Google Drive upload
-        if: steps.check_changes.outputs.changes == 'true' && env.GOOGLE_CREDENTIALS == ''
-        run: |
-          echo "⚠️ GOOGLE_CREDENTIALS secret not set. Skipping Google Drive upload."
-          echo "To enable Google Drive sync, add GOOGLE_CREDENTIALS secret in repository settings."
+        continue-on-error: true
       
       - name: Commit and push updated CSV files
         if: steps.check_changes.outputs.changes == 'true'
