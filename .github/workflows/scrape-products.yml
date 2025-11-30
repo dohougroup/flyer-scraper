@@ -1,0 +1,76 @@
+name: Update Product Data
+
+on:
+  schedule:
+    # Run every 6 hours to get fresh product data
+    - cron: '0 */6 * * *'
+    # Also run every Thursday at 1:00 AM EST (6:00 UTC)
+    - cron: '0 6 * * 4'
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  scrape-products:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Cache node modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Scrape product details and save as CSV
+        run: |
+          echo "Starting product scrape at $(date)"
+          npx ts-node src/scrape-products.ts
+          echo "Product scraping completed at $(date)"
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet data/*_products.csv 2>/dev/null; then
+            echo "No changes detected in product data"
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected in product data!"
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Upload to Google Drive
+        if: steps.check_changes.outputs.changes == 'true'
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: |
+          if [ -z "$GOOGLE_CREDENTIALS" ]; then
+            echo "⚠️ GOOGLE_CREDENTIALS not set. Skipping Google Drive upload."
+          else
+            echo "✓ Uploading product data to Google Drive..."
+            node src/upload-to-drive.js || echo "⚠️ Google Drive upload failed, but continuing..."
+          fi
+        continue-on-error: true
+      
+      - name: Commit and push updated CSV files
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/*_products.csv
+          git commit -m "Update product data - $(date '+%Y-%m-%d %H:%M:%S %Z')"
+          git push
+      
+      - name: No changes message
+        if: steps.check_changes.outputs.changes == 'false'
+        run: echo "No updates needed - product data is current"
