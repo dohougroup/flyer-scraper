@@ -4,192 +4,185 @@ id,storeName,title,validFrom,validTo,postalCode,sourceUrl
 7653926,"Walmart","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7653926-1082245
 7628944,"Toys ""R"" Us","Toybook",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7628944-1165029
 7642240,"Toys ""R"" Us","Flyer",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7642240-1160389
+7663344,"Familiprix","Weekly Flyer - Hosted",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663344-1106664
 7663326,"Familiprix","Weekly Flyer - Hosted",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663326-1106663
 7663340,"Familiprix","Weekly Flyer - Hosted",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663340-1106662
-7663344,"Familiprix","Weekly Flyer - Hosted",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663344-1106664
 7645980,"Leon's","Boxing Week Sale Starts Early",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7645980-1145777
 7656613,"The Beer Store","Flyer",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656613-1100035
-7662864,"Loblaws","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662864-1067991
-7651822,"The Brick","Boxing Day Sneak Peak",2025-12-11T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651822-1167895
-7656667,"Metro","Ontario",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656667-1111752
-7658716,"No Frills","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658716-1070439
-7654538,"Sobeys","Weekly eFlyer 12/11 - 12/17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7654538-1068050
-7658147,"Food Basics","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658147-1169726
-7663170,"IGA","Québec - Weekly eFlyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663170-1077723
-7470363,"The Brick","Weekly Flyer",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7470363-1137514
-7656390,"Foodland","Weekly eFlyer 12/11 - 12/17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656390-1092463
-7658133,"Food Basics","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658133-1073867
-7658178,"Real Canadian Superstore","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658178-1068695
-7651957,"Metro","Quebec",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651957-1104147
-7670113,"Your Independent Grocer","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7670113-1078492
 7654692,"PetSmart","Lookbooks",2025-12-10T18:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7654692-1168835
-7642225,"The Brick","Black Friday Last Chance!",2025-12-02T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7642225-1147630
-7640942,"Surplus Furniture & Mattress Warehouse","Year End Inventory Markdown Event",2025-12-01T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7640942-1147353
+7470363,"The Brick","Weekly Flyer",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7470363-1137514
+7658133,"Food Basics","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658133-1073867
+7662864,"Loblaws","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662864-1067991
+7656390,"Foodland","Weekly eFlyer 12/11 - 12/17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656390-1092463
+7651957,"Metro","Quebec",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651957-1104147
+7654538,"Sobeys","Weekly eFlyer 12/11 - 12/17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7654538-1068050
+7670113,"Your Independent Grocer","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7670113-1078492
+7658716,"No Frills","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658716-1070439
+7658147,"Food Basics","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658147-1169726
+7658178,"Real Canadian Superstore","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658178-1068695
+7658526,"The Brick","Boxing Week Blowout Early Access",2025-12-12T00:00:00-05:00,2025-12-22T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658526-1147631
+7656667,"Metro","Ontario",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656667-1111752
+7663170,"IGA","Québec - Weekly eFlyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663170-1077723
 7643737,"Canadian Tire","Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7643737-1074688
-7310810,"Home Hardware","Farm and Rural Living Guide",2025-06-19T00:00:00-04:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7310810-1120379
-7651647,"Jean Coutu","Special Insert",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651647-1168066
-7614374,"Rossy","Wishlist 2025",2025-10-30T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7614374-1161348
-7624465,"Canadian Tire","Catalogue",2025-11-20T00:00:00-05:00,2025-12-26T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7624465-1152459
-7619426,"Charm Diamond Centres","Holiday Wish Book",2025-11-12T00:00:00-05:00,2026-01-05T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7619426-1160158
-7649719,"BMR","Agrizone",2025-12-04T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649719-1167921
+7640942,"Surplus Furniture & Mattress Warehouse","Year End Inventory Markdown Event",2025-12-01T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7640942-1147353
+7665258,"Wayfair","flyer",2025-12-09T00:00:00-05:00,2025-12-15T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7665258-1170340
+7642916,"Ren's Pets","Monthly",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7642916-1123131
+7663286,"IGA","Aperitif QC",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663286-1170253
+7670112,"Dollarama","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7670112-1171641
+7665197,"Home Depot","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7665197-1130007
+7599005,"Rossy","Christmas Catalog",2025-10-30T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7599005-1158359
+7584021,"Walmart","Toy Shop",2025-10-16T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7584021-1091865
 7647599,"Metro","Chanukah",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647599-1167487
-7032230,"BMR","Agrizone",2024-12-26T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7032230-1075054
-7512411,"Loblaws","Toy Book",2025-10-16T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7512411-1146804
-7662885,"Costco","Flyer",2025-12-08T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662885-1170204
-7618123,"Pharmaprix","Holiday Gift Guide",2025-11-22T00:00:00-05:00,2025-12-19T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7618123-1162862
+7649731,"Walmart","Gaming Guide",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649731-1099776
+7651647,"Jean Coutu","Special Insert",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651647-1168066
+7584000,"Home Hardware","Gift Guide",2025-11-06T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7584000-1072177
+7669870,"IKEA","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7669870-1171624
+7663144,"Newegg ","Flyer",2025-12-08T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663144-1170230
+7656718,"Imaginaire","Catalogue",2025-12-12T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656718-1169524
+7658416,"Pharmaprix","Event",2025-12-12T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658416-1145910
 7614483,"Staples","Gift List Lightened. Holiday brightened.",2025-11-07T00:00:00-05:00,2026-01-02T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7614483-1160222
 7606195,"Chico","Nov 5 - Christmas Catalogue",2025-11-05T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7606195-1158579
-7670005,"Voilà","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7670005-1171633
-7665197,"Home Depot","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7665197-1130007
-7628973,"Sobeys","Price Locked until Dec. 31",2025-11-27T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7628973-1164936
-7599005,"Rossy","Christmas Catalog",2025-10-30T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7599005-1158359
-7670112,"Dollarama","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7670112-1171641
-7628507,"La Boite à Grains","Newcampaign",2025-11-26T00:00:00-05:00,2025-12-30T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7628507-1071544
-7626248,"Accès pharma","Monthly",2025-11-20T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7626248-1083347
-7624228,"Walmart","Entertaining Guide",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7624228-1091867
-7667925,"H&M ","Flyer",2025-12-10T00:00:00-05:00,2025-12-16T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7667925-1170762
-7663499,"L'Équipeur","LEQ",2025-12-11T00:00:00-05:00,2025-12-23T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663499-1170282
-7662930,"Old Navy ","Flyer",2025-12-08T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662930-1170226
-7669869,"Holt Renfrew","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7669869-1171622
-7616137,"Doyon Després","Flyer",2025-11-14T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7616137-1161598
-7598742,"Wholehealth Pharmacy","Flyer",2025-10-30T00:00:00-04:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7598742-1158489
-7512410,"Real Canadian Superstore","Toy Book",2025-10-16T00:00:00-04:00,2025-12-24T23:58:59-05:00,K1P1J1,https://flipp.com/flyer/7512410-1131510
-7669868,"The Shopping Channel","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7669868-1171623
-7641271,"LCBO","FLYERS2025",2025-11-30T00:00:00-05:00,2026-01-03T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7641271-1161051
-7665258,"Wayfair","flyer",2025-12-09T00:00:00-05:00,2025-12-15T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7665258-1170340
-7662842,"Farm Boy","Weekly",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662842-1080239
-7647163,"Rossy","Low Price Promise",2025-12-11T00:00:00-05:00,2026-01-28T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647163-1158940
-7649731,"Walmart","Gaming Guide",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649731-1099776
-7651248,"Walmart","Gifting Guide",2025-12-04T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651248-1151189
-7608729,"Swiss Chalet","New Flyer",2025-11-01T00:00:00-04:00,2025-12-28T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7608729-1160494
-7015969,"BMR","Agrizone",2025-01-02T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7015969-1072774
-7656722,"Metro","Prices Locked Down",2025-12-11T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656722-1169525
-7647597,"Jean Coutu","Special Insert",2025-12-04T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647597-1166851
-7669870,"IKEA","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7669870-1171624
-7647693,"Healthy Planet","Sports Nutrition",2025-12-01T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647693-1094788
-7627020,"Proximed","Monthly  Flyer",2025-12-04T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7627020-1164814
-7658639,"Calendar Club Canada","Seasonal",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658639-1168717
-7656423,"Uniprix Sante","Uniprix Sante",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656423-1115362
-7651739,"Rossy","Weekly Ad",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651739-1097563
-7658278,"Shoppers Drug Mart","Online Deals",2025-12-05T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658278-1162841
 7605872,"RONA & RONA +","Tools Catalogue",2025-11-06T00:00:00-05:00,2026-01-28T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7605872-1160188
-7661418,"IGA","Christmas Book QC",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7661418-1168810
-7663286,"IGA","Aperitif QC",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663286-1170253
+7512411,"Loblaws","Toy Book",2025-10-16T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7512411-1146804
+7614374,"Rossy","Wishlist 2025",2025-10-30T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7614374-1161348
+7641585,"Hart Stores","Flyer",2025-12-10T00:00:00-05:00,2025-12-16T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7641585-1166525
+7646630,"Healthy Planet","Produce",2025-12-01T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7646630-1093571
+7670005,"Voilà","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7670005-1171633
 7647115,"Real Canadian Superstore","Gift Guide Book",2025-12-04T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647115-1167438
-7642916,"Ren's Pets","Monthly",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7642916-1123131
-7643507,"Princess Auto","Price Wrecker",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7643507-1073283
-7661410,"IGA","Catering QC",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7661410-1168783
-7645374,"Chico","Dec 11 - December Flyer",2025-12-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7645374-1078388
-7610061,"Sephora ","Give Something Beautiful",2025-11-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7610061-1152950
-7584011,"Home Hardware","Gift & Toy Guide",2025-11-06T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7584011-1072178
-7658172,"Best Buy","Flyer",2025-12-05T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658172-1169728
-7654697,"T&T Supermarket","Weekly Flyer",2025-12-05T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7654697-1081382
-7584021,"Walmart","Toy Shop",2025-10-16T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7584021-1091865
+7651248,"Walmart","Gifting Guide",2025-12-04T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651248-1151189
+7032230,"BMR","Agrizone",2024-12-26T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7032230-1075054
+7667925,"H&M ","Flyer",2025-12-10T00:00:00-05:00,2025-12-16T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7667925-1170762
+7661418,"IGA","Christmas Book QC",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7661418-1168810
+7628973,"Sobeys","Price Locked until Dec. 31",2025-11-27T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7628973-1164936
+7656722,"Metro","Prices Locked Down",2025-12-11T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656722-1169525
+7663499,"L'Équipeur","LEQ",2025-12-11T00:00:00-05:00,2025-12-23T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663499-1170282
 7645107,"Pharmaprix","Holiday Beauty Book",2025-11-29T00:00:00-05:00,2025-12-12T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7645107-1164504
-7651496,"Loblaws","Chanukah Book",2025-12-04T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651496-1168045
-7599008,"President's Choice","PC Holiday Insiders Report",2025-10-30T00:00:00-04:00,2026-01-02T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7599008-1158534
 7631447,"Win in Health","flyer",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7631447-1165347
+7656728,"Metro","Irresistible",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656728-1169526
+7647163,"Rossy","Low Price Promise",2025-12-11T00:00:00-05:00,2026-01-28T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647163-1158940
+7616137,"Doyon Després","Flyer",2025-11-14T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7616137-1161598
+7647597,"Jean Coutu","Special Insert",2025-12-04T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647597-1166851
+7648339,"Sports Experts","Flyer",2025-12-10T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7648339-1158384
+7619426,"Charm Diamond Centres","Holiday Wish Book",2025-11-12T00:00:00-05:00,2026-01-05T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7619426-1160158
+7647693,"Healthy Planet","Sports Nutrition",2025-12-01T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647693-1094788
+7619788,"Princess Auto","National Sale",2025-12-02T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7619788-1073270
+7669868,"The Shopping Channel","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7669868-1171623
+7654534,"Wine Rack","flyer",2025-12-01T00:00:00-05:00,2025-12-30T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7654534-1168823
+7649719,"BMR","Agrizone",2025-12-04T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649719-1167921
+7656048,"Cosmaroma","Flyer",2025-12-08T00:00:00-05:00,2026-01-07T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656048-1168737
+7512410,"Real Canadian Superstore","Toy Book",2025-10-16T00:00:00-04:00,2025-12-24T23:58:59-05:00,K1P1J1,https://flipp.com/flyer/7512410-1131510
+7668535,"T&T Supermarket","Weekly Flyer",2025-12-12T00:00:00-05:00,2025-12-18T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7668535-1081383
+7669869,"Holt Renfrew","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7669869-1171622
+7638882,"Natural Food Pantry","Flyer",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7638882-1166193
+7628507,"La Boite à Grains","Newcampaign",2025-11-26T00:00:00-05:00,2025-12-30T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7628507-1071544
+7662885,"Costco","Flyer",2025-12-08T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662885-1170204
+7641271,"LCBO","FLYERS2025",2025-11-30T00:00:00-05:00,2026-01-03T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7641271-1161051
 7656730,"Metro","Cuisiner les Fêtes c'est la vie",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656730-1169528
 7658400,"Shoppers Drug Mart","Event",2025-12-12T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658400-1145907
-7108868,"BMR","Agrizone",2025-02-06T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7108868-1094853
-7651508,"Staples","Weekly",2025-12-05T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651508-1168047
-7641585,"Hart Stores","Flyer",2025-12-10T00:00:00-05:00,2025-12-16T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7641585-1166525
-7626517,"Bumper to Bumper","Flyer",2025-12-03T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7626517-1164775
-7656728,"Metro","Irresistible",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656728-1169526
-7654534,"Wine Rack","flyer",2025-12-01T00:00:00-05:00,2025-12-30T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7654534-1168823
-7628707,"Jean Coutu","Special Insert",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7628707-1164980
-7626520,"Hart Stores","Flyer",2025-12-03T00:00:00-05:00,2025-12-19T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7626520-1164776
-7638882,"Natural Food Pantry","Flyer",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7638882-1166193
-7658314,"Pharmaprix","Online Deals",2025-12-05T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658314-1162848
-7663144,"Newegg ","Flyer",2025-12-08T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663144-1170230
-7658416,"Pharmaprix","Event",2025-12-12T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658416-1145910
-7584000,"Home Hardware","Gift Guide",2025-11-06T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7584000-1072177
-7648339,"Sports Experts","Flyer",2025-12-10T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7648339-1158384
-7619788,"Princess Auto","National Sale",2025-12-02T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7619788-1073270
-7646630,"Healthy Planet","Produce",2025-12-01T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7646630-1093571
-7589811,"Real Canadian Superstore","Holiday Decor Book",2025-10-30T00:00:00-04:00,2025-12-24T23:58:59-05:00,K1P1J1,https://flipp.com/flyer/7589811-1157913
+7651496,"Loblaws","Chanukah Book",2025-12-04T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651496-1168045
+7656423,"Uniprix Sante","Uniprix Sante",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656423-1115362
 7669125,"Farmer's Pick","Indexed Weekly",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7669125-1171151
+7627020,"Proximed","Monthly  Flyer",2025-12-04T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7627020-1164814
+7665930,"Staples","Weekly",2025-12-12T00:00:00-05:00,2025-12-18T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7665930-1170391
+7310810,"Home Hardware","Farm and Rural Living Guide",2025-06-19T00:00:00-04:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7310810-1120379
+7015969,"BMR","Agrizone",2025-01-02T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7015969-1072774
+7626517,"Bumper to Bumper","Flyer",2025-12-03T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7626517-1164775
+7662930,"Old Navy ","Flyer",2025-12-08T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662930-1170226
+7626520,"Hart Stores","Flyer",2025-12-03T00:00:00-05:00,2025-12-19T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7626520-1164776
+7626248,"Accès pharma","Monthly",2025-11-20T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7626248-1083347
+7598742,"Wholehealth Pharmacy","Flyer",2025-10-30T00:00:00-04:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7598742-1158489
+7108868,"BMR","Agrizone",2025-02-06T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7108868-1094853
+7589811,"Real Canadian Superstore","Holiday Decor Book",2025-10-30T00:00:00-04:00,2025-12-24T23:58:59-05:00,K1P1J1,https://flipp.com/flyer/7589811-1157913
+7610061,"Sephora ","Give Something Beautiful",2025-11-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7610061-1152950
+7584011,"Home Hardware","Gift & Toy Guide",2025-11-06T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7584011-1072178
+7662842,"Farm Boy","Weekly",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662842-1080239
+7599008,"President's Choice","PC Holiday Insiders Report",2025-10-30T00:00:00-04:00,2026-01-02T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7599008-1158534
+7628707,"Jean Coutu","Special Insert",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7628707-1164980
+7643507,"Princess Auto","Price Wrecker",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7643507-1073283
+7624228,"Walmart","Entertaining Guide",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7624228-1091867
+7645374,"Chico","Dec 11 - December Flyer",2025-12-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7645374-1078388
 7644844,"La-Z-Boy Ottawa & Kingston","Flyer",2025-12-02T00:00:00-05:00,2025-12-25T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7644844-1166813
-7663330,"Familiprix","Weekly Flyer - Extra",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663330-1106504
+7669865,"Dollarama","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7669865-1171619
+7608729,"Swiss Chalet","New Flyer",2025-11-01T00:00:00-04:00,2025-12-28T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7608729-1160494
+7651739,"Rossy","Weekly Ad",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651739-1097563
+7658639,"Calendar Club Canada","Seasonal",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658639-1168717
+7618123,"Pharmaprix","Holiday Gift Guide",2025-11-22T00:00:00-05:00,2025-12-19T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7618123-1162862
+7624465,"Canadian Tire","Catalogue",2025-11-20T00:00:00-05:00,2025-12-26T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7624465-1152459
+7661410,"IGA","Catering QC",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7661410-1168783
 7623301,"On the Run","Direct Flyer",2025-11-19T00:00:00-05:00,2026-01-13T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7623301-1160175
-7656048,"Cosmaroma","Flyer",2025-12-08T00:00:00-05:00,2026-01-07T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656048-1168737
-7660271,"Green Fresh Supermarket","Indexed Weekly",2025-12-05T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7660271-1170026
-7651978,"Blair & Son Home Furnishings","Indexed Weekly",2025-12-04T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651978-1168410
-7668367,"Mid-East Food Centre","Indexed Weekly",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7668367-1171053
-7662904,"Costco","Costco Grocery",2025-12-08T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662904-1170212
-7646523,"Pet Valu","Lookbooks",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7646523-1124882
+7663330,"Familiprix","Weekly Flyer - Extra",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663330-1106504
 7645345,"Costco","Flyer",2025-11-24T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7645345-1166857
+7662904,"Costco","Costco Grocery",2025-12-08T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662904-1170212
+7668367,"Mid-East Food Centre","Indexed Weekly",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7668367-1171053
+7646523,"Pet Valu","Lookbooks",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7646523-1124882
+7651978,"Blair & Son Home Furnishings","Indexed Weekly",2025-12-04T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651978-1168410
 7646522,"Pet Valu","Lookbooks",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7646522-1124886
 7498511,"Party City","Local Ad",2025-08-29T00:00:00-04:00,2026-01-29T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7498511-1062812
 7618092,"Shoppers Drug Mart","Holiday Gift Guide",2025-11-22T00:00:00-05:00,2025-12-19T23:58:59-05:00,K1P1J1,https://flipp.com/flyer/7618092-1162853
 7624565,"Shoppers Drug Mart","Holiday Beauty Book",2025-11-29T00:00:00-05:00,2025-12-12T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7624565-1164503
-7649516,"PharmaChoice","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649516-1077378
+7651275,"Home Hardware","Home Hardware",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651275-1166856
+7644180,"Guardian","Prescription Centre Flyer 5 km",2025-11-28T00:00:00-05:00,2025-12-25T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7644180-1166705
+7652556,"Rexall","Weekly Flyer",2025-12-12T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7652556-1146977
+7647398,"Sport Chek","Flyer",2025-12-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647398-1167436
+7658162,"Provigo","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658162-1078567
+7663164,"FreshCo","Weekly eFlyer 12/11 - 12/17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663164-1073552
+7643525,"Home Hardware","Home Hardware",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7643525-1074127
+7656315,"Super C","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656315-1164749
+7641869,"RONA & RONA +","Weekly Flyer",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7641869-1064875
 7646629,"Healthy Planet","Monthly Ad",2025-12-01T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7646629-1093541
 7646061,"Brunet","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7646061-1057070
-7643525,"Home Hardware","Home Hardware",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7643525-1074127
-7583492,"EB Games Canada","Flyer",2025-11-01T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7583492-1111292
 7621471,"Adonis","Weekly",2025-11-13T00:00:00-05:00,2026-01-07T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7621471-1163950
-7648501,"Uniprix","Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7648501-1124083
-7663164,"FreshCo","Weekly eFlyer 12/11 - 12/17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7663164-1073552
-7654112,"Stokes ","Flyer",2025-12-08T00:01:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7654112-1153603
-7617956,"Adonis","Weekly",2025-11-13T00:00:00-05:00,2026-01-07T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7617956-1162798
-7652556,"Rexall","Weekly Flyer",2025-12-12T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7652556-1146977
-7632909,"Wholesale Club and Club Entrepôt","Flyer - Valid Thursday, November 4 - Wednesday, December 31",2025-12-04T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7632909-1087693
-7645373,"Ren's Pets","Grooming Must Haves",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7645373-1166810
-7644179,"I.D.A.","Prescription Centre Flyer 5 km",2025-11-28T00:00:00-05:00,2025-12-25T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7644179-1166704
-7635849,"Rexall","Weekly Flyer",2025-12-05T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7635849-1146976
-7668325,"Pharmaprix","Flyer",2025-12-13T00:00:00-05:00,2025-12-18T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7668325-1169848
-7656050,"Adonis","Weekly",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656050-1056962
-7649093,"Vistek","Flyer",2025-12-05T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649093-1158930
-7647160,"Michaels Canada","Weekly Ad",2025-12-05T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647160-1084844
-7613252,"Cabela's & Bass Pro","Holiday Gift Guide",2025-11-06T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7613252-1071602
-7647398,"Sport Chek","Flyer",2025-12-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647398-1167436
-7645697,"Shoppers Drug Mart","Flyer",2025-12-06T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7645697-1079159
-7633213,"Brunet","Flyer",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7633213-1164977
-7635959,"Pharmasave","Weekly Flyer and Coupons",2025-11-28T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7635959-1073064
 7656287,"Super C","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656287-1073922
-7658562,"Maxi","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658562-1066380
-7658162,"Provigo","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658162-1078567
-7649523,"PharmaChoice","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649523-1167901
-7656752,"Shoppers Drug Mart","Flyer",2025-12-13T00:00:00-05:00,2025-12-18T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656752-1079160
+7583492,"EB Games Canada","Flyer",2025-11-01T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7583492-1111292
+7648501,"Uniprix","Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7648501-1124083
+7645988,"EB Games Canada","Flyer",2025-12-05T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7645988-1111294
+7658668,"Michaels Canada","Weekly Ad",2025-12-12T00:00:00-05:00,2025-12-18T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658668-1084845
+7644179,"I.D.A.","Prescription Centre Flyer 5 km",2025-11-28T00:00:00-05:00,2025-12-25T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7644179-1166704
+7656050,"Adonis","Weekly",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656050-1056962
 7662934,"M&M Food Market","Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662934-1170220
 7641257,"EB Games Canada","Flyer",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7641257-1166445
-7586774,"Cabela's & Bass Pro","Toy Guide",2025-10-24T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7586774-1071595
-7656315,"Super C","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656315-1164749
-7666044,"Cabela's & Bass Pro","Countdown to Christmas ",2025-12-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7666044-1071609
-7645988,"EB Games Canada","Flyer",2025-12-05T00:00:00-05:00,2025-12-14T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7645988-1111294
-7635963,"Cabela's & Bass Pro","Ice Fishing Catalogue",2025-11-21T00:00:00-05:00,2026-01-30T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7635963-1071605
-7654389,"Pharmaprix","Flyer",2025-12-06T00:00:00-05:00,2025-12-11T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7654389-1168800
-7641869,"RONA & RONA +","Weekly Flyer",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7641869-1064875
-7644180,"Guardian","Prescription Centre Flyer 5 km",2025-11-28T00:00:00-05:00,2025-12-25T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7644180-1166705
 7654709,"Giant Tiger","Weekly Flyer",2025-12-10T00:00:00-05:00,2025-12-16T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7654709-1131316
 7649562,"PharmaChoice","Health Centre Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649562-1167902
-7662835,"Rachelle Béry","Espace Santé",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662835-1122912
-7660272,"Ren's Pets","Big Deals, Shop Local",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7660272-1154518
-7651275,"Home Hardware","Home Hardware",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651275-1166856
+7656752,"Shoppers Drug Mart","Flyer",2025-12-13T00:00:00-05:00,2025-12-18T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656752-1079160
 7656784,"L'Inter-Marché","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656784-1074009
+7662835,"Rachelle Béry","Espace Santé",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662835-1122912
+7662937,"Vistek","Flyer",2025-12-12T00:00:00-05:00,2025-12-18T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662937-1158931
+7586774,"Cabela's & Bass Pro","Toy Guide",2025-10-24T00:00:00-04:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7586774-1071595
+7649523,"PharmaChoice","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649523-1167901
+7649516,"PharmaChoice","Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649516-1077378
+7658562,"Maxi","Weekly Flyer - Valid Thursday December 11 - Wednesday December 17",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658562-1066380
+7654112,"Stokes ","Flyer",2025-12-08T00:01:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7654112-1153603
+7666044,"Cabela's & Bass Pro","Countdown to Christmas ",2025-12-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7666044-1071609
+7635963,"Cabela's & Bass Pro","Ice Fishing Catalogue",2025-11-21T00:00:00-05:00,2026-01-30T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7635963-1071605
+7613252,"Cabela's & Bass Pro","Holiday Gift Guide",2025-11-06T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7613252-1071602
+7617956,"Adonis","Weekly",2025-11-13T00:00:00-05:00,2026-01-07T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7617956-1162798
+7633213,"Brunet","Flyer",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7633213-1164977
+7632909,"Wholesale Club and Club Entrepôt","Flyer - Valid Thursday, November 4 - Wednesday, December 31",2025-12-04T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7632909-1087693
+7660272,"Ren's Pets","Big Deals, Shop Local",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7660272-1154518
+7645373,"Ren's Pets","Grooming Must Haves",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7645373-1166810
+7668325,"Pharmaprix","Flyer",2025-12-13T00:00:00-05:00,2025-12-18T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7668325-1169848
 7652149,"Uniprix","Catalogue",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7652149-1168426
-7648374,"JYSK","Flyer",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7648374-1118472
-7651592,"Jean Coutu","Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651592-1152734
-7658398,"Dormez-Vous","Offre spéciale",2025-12-10T00:00:00-05:00,2025-12-22T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658398-1169836
-7666000,"BMR","Weekly Ad",2025-12-11T00:00:00-05:00,2026-01-07T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7666000-1170397
-7612979,"Harvey's","Flyer",2025-11-17T00:00:00-05:00,2026-01-25T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7612979-1161010
 7656562,"Pro Hockey Life","Flyer",2025-12-08T12:00:00-05:00,2025-12-18T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656562-1150605
-7640921,"PartSource","Current Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7640921-1141819
-7640038,"Pet Valu","Bi-Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7640038-1159768
-7657067,"Pronature","Weekly Flyer",2025-12-09T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7657067-1078945
-7546936,"Showcase","flyer",2025-12-10T00:00:00-05:00,2025-12-17T00:00:59-05:00,K1P1J1,https://flipp.com/flyer/7546936-1152724
-7647896,"Proxim","A Stores Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647896-1074578
 7658369,"Dormez-Vous","Offre spéciale",2025-12-10T00:00:00-05:00,2025-12-22T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658369-1169837
+7612979,"Harvey's","Flyer",2025-11-17T00:00:00-05:00,2026-01-25T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7612979-1161010
+7657067,"Pronature","Weekly Flyer",2025-12-09T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7657067-1078945
 7647754,"Linen Chest","Flyer",2025-12-03T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647754-1167434
+7648374,"JYSK","Flyer",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7648374-1118472
 7662920,"Ecotone","Flyer",2025-12-09T00:00:00-05:00,2025-12-21T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7662920-1141602
-7624503,"Harvey's","Flyer",2025-11-17T00:00:00-05:00,2026-01-25T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7624503-1164502
-7643015,"Mondou","Flyer",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7643015-1159732
+7651592,"Jean Coutu","Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7651592-1152734
+7546936,"Showcase","flyer",2025-12-10T00:00:00-05:00,2025-12-17T00:00:59-05:00,K1P1J1,https://flipp.com/flyer/7546936-1152724
+7640921,"PartSource","Current Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7640921-1141819
 7658409,"Sleep Country Canada","eFlyer",2025-12-10T00:00:00-05:00,2025-12-22T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658409-1169783
+7643015,"Mondou","Flyer",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7643015-1159732
+7658398,"Dormez-Vous","Offre spéciale",2025-12-10T00:00:00-05:00,2025-12-22T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7658398-1169836
 7656715,"Mark's ","Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-23T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7656715-1062881
+7624503,"Harvey's","Flyer",2025-11-17T00:00:00-05:00,2026-01-25T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7624503-1164502
+7666000,"BMR","Weekly Ad",2025-12-11T00:00:00-05:00,2026-01-07T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7666000-1170397
+7640038,"Pet Valu","Bi-Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7640038-1159768
+7647896,"Proxim","A Stores Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7647896-1074578
 7641587,"Fabricland","'Tis the Season for Savings",2025-12-01T00:00:00-05:00,2025-12-31T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7641587-1069059
 7649586,"RxHealthMed","Weekly Flyer",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649586-1129936
 7606169,"Chatters Salon","Flyer",2025-11-06T00:00:00-05:00,2026-01-01T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7606169-1156941
 7619448,"Long & McQuade Musical Instruments","The Dream Book",2025-11-18T00:00:00-05:00,2025-12-25T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7619448-1162971
-7549030,"Long & McQuade Musical Instruments","Gear Issue 2025",2025-10-01T00:00:00-04:00,2026-07-31T23:59:59-04:00,K1P1J1,https://flipp.com/flyer/7549030-1153153
 7649802,"Familiprix","Catalogue",2025-12-11T00:00:00-05:00,2025-12-24T23:59:59-05:00,K1P1J1,https://flipp.com/flyer/7649802-1167933
+7549030,"Long & McQuade Musical Instruments","Gear Issue 2025",2025-10-01T00:00:00-04:00,2026-07-31T23:59:59-04:00,K1P1J1,https://flipp.com/flyer/7549030-1153153
