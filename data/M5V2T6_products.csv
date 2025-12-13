@@ -1,43 +1,20 @@
 flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize,validUnit,imageUrl,validFrom,validTo,category,postalCode
-7645106,"PetSmart","N/A","Purina ONE® dog treats","N/A",$5.00,$6.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","aquatic ornaments & artificial plants","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Pet Bird Food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","ALL Top Paw® beauty & grooming pet supplies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Wild Bird Products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Jay's® My Mighty Wolf & Doggy Bits dog treats","N/A",$6.00,$10.29,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","select cat litter","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","reptile & fish premium frozen food","N/A",$5.09,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Merrick dog food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Purina® Pro Plan® FortiFlora Probiotic & calming care powdered dog & cat supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Wellness® dog food & WHIMZEES® dog treats","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Small pet food, treats, hay & bedding","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Save 20% select cat litter 4.2-15.1 kg","N/A",$15.19,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Save 15% select cat litter 2.2-12.7 kg","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","Holiday Seasonal","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","dog and cat beauty & grooming products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","pet's first bath or groom","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","entire Holiday Collection","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7645106,"PetSmart","N/A","all aquatic cleaning & aeration products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","ALL Authority® dog & cat food","N/A",$1.69,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","3X points Wellness® dog food & WHIMZEES® dog treats","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","reptiles & live plants","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Buy 1, get 2nd 40% off ALL Oxbow® food, treats & chews","N/A",$6.49,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","GET 2% BACK IN SAVINGS ON EVERY PURCHASE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Save 20% Top Paw® & Arcadia Trail™ winter apparel","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
-7646543,"PetSmart","N/A","ALL dog & cat plastic carriers","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","wild bird products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","cat & dog dental","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","PRICE MATCH GUARANTEE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Sale $3 Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
-7646543,"PetSmart","N/A","World's Best Cat Litter™, Naturally Fresh®, Nature's Miracle, Tuft & Paw and Litter Genie cat litter","N/A",$16.79,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Jay's® My Mighty Wolf, Doggy Bits dog treats","N/A",$6.00,$10.29,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Save 15% API®  & Top Fin® fish food & watercare","N/A",$4.66,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Save 15% Wiggles & Wags™, Dentley's® CHEW TIME™, Richmond Valley Farms, Molly's Barkery dog treats & chews","N/A",$1.26,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","ALL Skout's Honor® products","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Nulo, Nutrience®, Halo®, the honest kitchen®, Stella & Chewy's® and Instinct®, Instinct® Grain Free, Instinct® Raw Boost® dog food","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","small pet food, treats, hay & bedding","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
-7646543,"PetSmart","N/A","Save 15% ALL Simply Nourish® dog food","N/A",$1.09,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Purina® TIDY CATS®, Okocat®, sWheat Scoop®, Catit®, Almo, OdourLock® & Dofu Cat® cat litter 2.2-12 7kg","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Buy 1, get 2nd 25% off dog & cat food bags (dog 1.1-3.6 kg. cat 1-2 kg.)","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","3X points on all aquatic cleaning & aeration products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
@@ -57,19 +34,42 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7646543,"PetSmart","N/A","Friskies® cat food","N/A",$0.80,$1.09,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Royal Canin®, Hill's® Science Diet® & Purina® Pro Plan® cat food","N/A",$49.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","aquatic media","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
-7646543,"PetSmart","N/A","cat & dog food variety packs","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
-7646543,"PetSmart","N/A","Buy 1, get 2nd FREE the honest kitchen® dehydrated dog food, 0.9 kg","N/A",$38.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
-7646543,"PetSmart","N/A","ALL wild bird diets","N/A",$1.79,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
-7646543,"PetSmart","N/A","Save 10% ALL ROLLOVER™ dog food","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","3X points Merrick dog food 9.1-11.3 kg","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Save 25% ALL double door wire dog crates","N/A",$67.49,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
-7646543,"PetSmart","N/A","Purina Pro Plan supplements","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Purina ONE® dog treats","N/A",$5.00,$6.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Save 15% ALL Simply Nourish® dog food","N/A",$1.69,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","select cat toppers","N/A",$1.89,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","1,500 points when you spend $15+ on pet bird food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Save 15% reptile & fish premium frozen food","N/A",$2.01,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
+7646543,"PetSmart","N/A","Buy 1, get 2nd FREE the honest kitchen® dehydrated dog food, 0.9 kg","N/A",$38.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
+7646543,"PetSmart","N/A","Save 10% ALL ROLLOVER™ dog food","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
 7646543,"PetSmart","N/A","Save 15% Viva La Kitty® cat food","N/A",$1.52,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
+7646543,"PetSmart","N/A","Purina Pro Plan supplements","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
+7646543,"PetSmart","N/A","ALL wild bird diets","N/A",$1.79,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
+7646543,"PetSmart","N/A","World's Best Cat Litter™, Naturally Fresh®, Nature's Miracle, Tuft & Paw and Litter Genie cat litter","N/A",$16.79,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
+7646543,"PetSmart","N/A","ALL dog & cat plastic carriers","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
+7646543,"PetSmart","N/A","cat & dog food variety packs","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
+7646543,"PetSmart","N/A","Save 15% ALL Simply Nourish® dog food","N/A",$1.09,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-14T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Pet Bird Food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","ALL Top Paw® beauty & grooming pet supplies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Holiday Seasonal","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","dog and cat beauty & grooming products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","pet's first bath or groom","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","entire Holiday Collection","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","all aquatic cleaning & aeration products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Small pet food, treats, hay & bedding","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Jay's® My Mighty Wolf & Doggy Bits dog treats","N/A",$6.00,$10.29,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","reptile & fish premium frozen food","N/A",$5.09,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Merrick dog food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Wild Bird Products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Purina® Pro Plan® FortiFlora Probiotic & calming care powdered dog & cat supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Wellness® dog food & WHIMZEES® dog treats","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Save 20% select cat litter 4.2-15.1 kg","N/A",$15.19,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Save 15% select cat litter 2.2-12.7 kg","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","aquatic ornaments & artificial plants","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","Purina ONE® dog treats","N/A",$5.00,$6.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
+7645106,"PetSmart","N/A","select cat litter","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
 7653926,"Walmart","N/A","Franklin NHL mini hockey goal set","N/A",$69.97,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7653926,"Walmart","N/A","Gabby's Meow-mazing Dollhouse","N/A",$69.97,$89.97,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7653926,"Walmart","N/A","Kids' licensed graphic tees","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
@@ -220,12 +220,16 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7653926,"Walmart","N/A","Glad Tidings tableware","N/A",$1.77,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7653926,"Walmart","N/A","Holiday stocking","N/A",$11.98,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7653926,"Walmart","N/A","Infants' Disney s organic cotton sleepers","N/A",$18.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Barbie Pop Reveal Doll Assortment","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","LEGO® Botanicals Flower Arrangement","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","LEGO® Harry Potter™ Book Nook: Hogwarts™ Express","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE Buggy the Clown's Circus Tent","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Alex Hug Me 15.5"" Panda","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Alex Hug Me 15.5"" Polar Bear","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Alex My First Spin Art","N/A",N/A,$26.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","My First Embroidery Kit","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Electronic Arcade Down The Clown","N/A",N/A,$69.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Adult: Oversize Hoodie","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Hot Wheels Cars 3-Pack Assortment","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Neon Vector Scooter","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","XSHOT Skins Pro Series Longshot Blaster (40 Darts)","N/A",N/A,$54.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","VTech® Explore & Write Deluxe Activity Desk - Pink","N/A",N/A,$99.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","R/C Rattlesnake","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Plushies 18"" Plush Toy - Tan Capybara","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Zuru Rainbocorns Mamacorn Surprise","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
@@ -239,15 +243,12 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7628944,"Toys ""R"" Us","N/A","Men's 2-Piece Pajamas Buffalo Bear","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","BABY born Emma Doll","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Plushies 18"" Plush Toy - Yellow Duck","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Disney Multicharacter 100pc Puzzle","N/A",N/A,$21.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Hasbro Nanomals Assortment","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Minecraft Sniffer Action Figure","N/A",N/A,$41.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Nerf Loadout Shadowspeed Recon Blaster","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","XSHOT Insanity Motorized Rage Fire","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Kids: Oversize Hoodie","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Micro Mini2Grow Deluxe LED Scooter","N/A",N/A,$179.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","LEGO® Creator Retro Camera","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","VTech® Discover & Learn Tablet","N/A",N/A,$22.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Wooden Doll High Chair, Little Flora","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","BABY born Shoes with Pins","N/A",N/A,$6.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","ALEX My First 10pcs Power Drill Set","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
@@ -255,7 +256,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7628944,"Toys ""R"" Us","N/A","Hug-A-Lumps - Medium Plush","N/A",N/A,$21.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® Botanicals Petite Sunny Bouquet","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Electronic Arcade Hover Shot","N/A",N/A,$51.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","WWE Wrestle Mania Elite Collection Build-A-Figure Assortment","N/A",N/A,$37.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Electronic Arcade Basketball (Neon)","N/A",N/A,$51.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Jurassic World Mega Roar Assortment","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Play-Doh Holiday Advent Calendar","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
@@ -265,7 +265,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7628944,"Toys ""R"" Us","N/A","LEGO® Botanicals Japanese Red Maple Bonsai Tree","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Pink Princess Shoes","N/A",N/A,$9.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Twinkling Tea Lights","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Heroes of Goo Jit Zu Ultra Goo Collector's Luffy Figure","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® City Race Car and Car Carrier Truck","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Butterfly Bead Case","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Peppa Pig Peppa's Ice Cream Truck","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
@@ -281,18 +280,13 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7628944,"Toys ""R"" Us","N/A","LeapFrog® 4-in-1 Discovery House","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Lion King - Simba Large Plush","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth Gigantic Thrashers Tyrannotitan Dinosaur Figure","N/A",N/A,$42.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Fisher-Price® Little People Wildlife Train & Trek Set","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","VTech® Baby Explore & Move with Puppy","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® Creator Typewriter with Flowers","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Blokees Transformers- Galaxy Version Wave 6 - English Edition Assortment","N/A",N/A,$12.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Adult Hoodies","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Jenga","N/A",N/A,$22.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Cars - Race Ready Car Wash Play Set with Lightning McQueen","N/A",N/A,$41.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® Speed Champions Mercedes-AMG F1® W15 Race Car","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","XSHOT Insanity Smoking Barrel Blaster (72 darts)","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Minecraft Exploding R/C Creeper","N/A",N/A,$99.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Gravitrax Star Wars Death Star","N/A",N/A,$139.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Baby Hoodies","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth Bite N Blast Mosasaurus Action Figure and Mini Dilophosaurus","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® Star Wars™ Clone Trooper™ & Battle Droid™ Battle Pack","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Fisher-Price Wooden Treehouse Ball Run","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
@@ -301,34 +295,15 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7628944,"Toys ""R"" Us","N/A","Kids Hoodies","N/A",N/A,$25.00,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Blue Princess Dress","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","ALEX My First Deluxe Tools 44pcs Set","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Blokees Transformers- Galaxy Version Wave 5 - English Edition Assortment","N/A",N/A,$12.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® Creator Retro Telephone","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Marvel Legends Series Spider-Man: Across the Spider-verse Collectible 6"" Figure Assortment","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Magic Adventures Binoculars","N/A",N/A,$89.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Peppa Pig Peppa's Family of Five Figure Set","N/A",N/A,$21.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE Windmill Village Hut","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® Creator Playful Cat","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Little Live Pets - My Really Real Puppy Luna the Samoyed","N/A",N/A,$89.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth T-Rex Rage N Roar Mask","N/A",N/A,$75.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® Star Wars™ Millennium Falcon™","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE Buggy the Clown's Circus Tent","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Alex Hug Me 15.5"" Panda","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Alex Hug Me 15.5"" Polar Bear","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Alex My First Spin Art","N/A",N/A,$26.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","My First Embroidery Kit","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Electronic Arcade Down The Clown","N/A",N/A,$69.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Adult: Oversize Hoodie","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Hot Wheels Cars 3-Pack Assortment","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Play-Doh Barbie Designer Fashion Show Play Set","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Electronic Arcade Pinball","N/A",N/A,$69.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Adult Onesie with zip: Buffalo Style","N/A",N/A,$32.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","5 Surprise My Mini Baby Series 2","N/A",N/A,$15.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Little Miss Matched Bike - 18 inch","N/A",N/A,$189.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","LEGO® Botanicals Pretty Pink Flower Bouquet","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Snow Princess Wand","N/A",N/A,$3.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Plushies 18"" Plush Toy - Tan Highland Cow","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Fisher-Price Wooden Vehicle Pack","N/A",N/A,$14.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Barbie Dreamhouse Adventures Dreamplane Doll and Play Set","N/A",N/A,$119.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Disney Mickey 14"" Plush","N/A",N/A,$14.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","BABY born Pink Coat Set 43cm","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth Super Colossal Tyrannosaurus Rex Action Figure","N/A",N/A,$119.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
@@ -342,61 +317,59 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7628944,"Toys ""R"" Us","N/A","LEGO® Ferrari 499P - Hypercar","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Nerf N Series Infinite Blaster (80 darts)","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Xceler8 R/C Rally Panther 1:10","N/A",N/A,$119.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Little People Musical Zoo Train","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","BABY born - High Chair","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","VTech® Baby On-The-Move Activity Ball","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Micro Mini Plus LED Scooter","N/A",N/A,$124.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","ZURU Mini Brands Create Disney Snacks Series 1","N/A",N/A,$15.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Marvel Avengers Hulk Gamma Smash Fists","N/A",N/A,$37.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Blokees Transformers- Galaxy Version Wave 2 - English Edition Assortment","N/A",N/A,$12.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","UNO Quatro","N/A",N/A,$31.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Dickie Toys Giant Garbage Truck","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Hot Wheels Bike - 16 inch","N/A",N/A,$169.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","LeapFrog® First Phonics eReader","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® Animal Crossing™ Able Sisters Clothing Shop","N/A",N/A,$56.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","14"" Sleepover Pink Heart Bear","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Baby Annabell Hannah Let's Play 36cm","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","2-Piece Pajamas Buffalo Bear","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Hot Wheels Racerverse Jurassic World Play Set","N/A",N/A,$64.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Star Wars™ Forge Kyber Core Customizable Lightsaber Assortment","N/A",N/A,$27.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Play-Doh Rainbow Swirl Ice Cream Play Set","N/A",N/A,$32.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","VTech® Explore & Learn Smart TV","N/A",N/A,$34.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Marvel Spider-Man Epic World of Action VenomVersus Venomsaurus Rex 16"" Action Figure","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Marvel Spider-Man Glow FX Mask","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","LEGO® Creator Flatbed Truck with Helicopter","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Dazzling Beauty Vanity Table","N/A",N/A,$64.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Gravitrax Junior Starter-Set Lion King","N/A",N/A,$64.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7628944,"Toys ""R"" Us","N/A","Wooden Doll Cradle, Little Flora","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Play-Doh Blooming Flowers Play Set","N/A",N/A,$32.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Hot Wheels Worldwide Basic Car Assortment","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7628944,"Toys ""R"" Us","N/A","Dickie Toys Vehicle Assortment","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Dickie Toys Vehicle","N/A",$19.97,$29.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","RC Rattlesnake","N/A",$47.97,$59.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Matchbox Jurassic World Mosasaurus Rescue Action Boat Play Set","N/A",$34.97,$49.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Smashers Mini Jurassic Light Up Dino Egg","N/A",$15.97,$19.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Hot Wheels - Basic Car Vehicle","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Pink Unicorn","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Toddler Hoodie","N/A",$14.97,$24.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Toddler Holiday Hoodie","N/A",$12.47,$25.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Alex Canvas Art Set","N/A",$33.67,$44.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Dazzling Beauty Vanity Table","N/A",$38.97,$64.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Adult Vintage Hoodie","N/A",$35.97,$59.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","My First Radio Control Race Car","N/A",$20.97,$34.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Barbie Pink Passport Kenya Adventure Play Set","N/A",$69.97,$99.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Twister Air","N/A",$22.97,$32.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","White Bake Shop","N/A",$10.47,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Blue Milk & Cookie","N/A",$10.47,$14.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Blue Milk & Cookie","N/A",$13.97,$19.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Moose","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","LEGO® Star Wars™ Ahsoka Tano's Duel on Peridea","N/A",$55.97,$79.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Adult Holiday Hoodie","N/A",$29.97,$59.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Baby Holiday Hoodie","N/A",$12.47,$25.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Heart Dress and Shoes for 36cm Doll","N/A",$12.67,$16.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Nerf Zombie Driller Dart Blaster - 16 Darts","N/A",$24.47,$34.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","My First Lace, Count & Color Cards","N/A",$6.97,$9.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Mini Me Moments Reel Fun Fishing Gift Set","N/A",$9.67,$12.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Pink Pig","N/A",$27.97,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Tub Time Grand Prix","N/A",$14.97,$29.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","LEGO® Harry Potter™ Quality Quidditch™ Supplies & Ice Cream Parlour","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","ALEX Junior Artist Case","N/A",N/A,$34.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Fisher-Price Little People Fire Truck","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","BABY born Night Onesie 43cm","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","LEGO® City F1® Garage & Mercedes-AMG & Alpine Cars","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Chelsea 2-in-1 Camper","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","20pc Safari Bucket","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Barbie Party Unboxed Doll Assortment","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","LEGO® Star Wars™ 327th Star Corps Clone Troopers™ Battle Pack","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Yvolution Glider 2in1 3-Wheel Scooter & Ride-On","N/A",N/A,$109.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","PAW Patrol Bike - 12 inch","N/A",N/A,$149.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","PAW Patrol Balance Bike - 10 inch","N/A",N/A,$89.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Marvel Spider-Man Venom Versus Spider-Man Liquid Shifter Action Figure with Accessories","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Steffi Love Baby World","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Steffi Sparkle Unicorn with Dolls","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Nerf Jadestrike","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Nerf N Series Pinpoint (18 darts)","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","You & Me-14"" Twins Baby Set","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Hot Wheels Battling Creature Transports","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Electronic Arcade Pinball","N/A",N/A,$69.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Adult Onesie with zip: Buffalo Style","N/A",N/A,$32.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","5 Surprise My Mini Baby Series 2","N/A",N/A,$15.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Little Miss Matched Bike - 18 inch","N/A",N/A,$189.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Snow Princess Wand","N/A",N/A,$3.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Plushies 18"" Plush Toy - Tan Highland Cow","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Dragonfly Lights 10pk","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Steffi Welcome Surprise Family Set","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Youth Oversize Hoodie","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","XSHOT Pro Motorized Piston Pump (40 darts)","N/A",N/A,$129.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Fairy-Tale Princess Dress","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Pink Hearts","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
+7628944,"Toys ""R"" Us","N/A","Kids Hoodies","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Brown Horse","N/A",$27.97,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Disney 3D Crystal Puzzle","N/A",$13.97,$19.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Robo Boats","N/A",$13.57,$16.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
@@ -410,18 +383,14 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7642240,"Toys ""R"" Us","N/A","The Mandalorian Launching Speeder Playset","N/A",$20.97,$34.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Dickie Toys Parking Garage","N/A",$49.97,$69.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Crazy Forts","N/A",$29.97,$49.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Barbie Chelsea 2-in-1 Camper Play Set","N/A",$29.97,$59.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Care Bears 14"" Good Wishes Bear","N/A",$19.97,$26.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","LEGO® DREAMZzz™ Stable of Dream Creatures","N/A",$76.97,$109.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Monopoly Knockout","N/A",$22.97,$32.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Aqua Sloth","N/A",$13.97,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Miraculous - Deluxe Eiffel Tower Play Set","N/A",$119.97,$199.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","You & Me- Umbrella Stroller","N/A",$9.97,$16.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Aqua Sloth","N/A",$13.97,$19.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","DJ Furblet","N/A",$14.97,$19.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Reindeer Onesie","N/A",$22.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Bath Hoops for the Tub","N/A",$8.97,$17.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Dollhouse and Kitchen 2-in-1 Play Set","N/A",$149.97,$2499.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Grey Polar Bear","N/A",$13.97,$19.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Nerf Zombie Corrupter Dart Blaster - 22 Darts","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Pets Alive Mama Turtle Surprise","N/A",$20.97,$29.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
@@ -430,13 +399,11 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7642240,"Toys ""R"" Us","N/A","Nerf Zombie Strikeout Dart Blaster - 8 Darts","N/A",$17.47,$24.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Blossom Farm Baby Phone","N/A",$12.57,$17.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","WWE WrestleMania Elite Collection Action Figure Assortment","N/A",$29.97,$37.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Connect 4 Frenzy","N/A",$15.97,$22.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","JESSE LULU PINK HEART LOUNGE PAJAMA PANTS","N/A",$10.47,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","LEGO® Star Wars"" Clone Trooper"" & Battle Droid"" Battle Pack","N/A",$34.97,$49.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Pets Alive Mama Bunny % Baby Surprise","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","BABY born Princess Baby Doll – Annabell","N/A",$49.97,$59.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Jurassic World Surprise Reveal Dinosaur Action Figure","N/A",$13.97,$17.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Ladies 2-Piece Pajama Set: Buffalo Bear","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Kids 2-Piece Pajama Set: Buffalo Bear","N/A",$24.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Care Bears 14"" Sweet Serenity Bear","N/A",$19.97,$26.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","ALL* Jan & Jul Outerwear","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
@@ -475,8 +442,41 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7642240,"Toys ""R"" Us","N/A","Mini Wooden Activity Cube","N/A",$20.97,$29.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Baby Hoodie","N/A",$14.97,$24.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Alex Dragonfly Lights","N/A",$13.97,$19.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7642240,"Toys ""R"" Us","N/A","Barbie Face Mask Toy Play Set","N/A",$34.97,$49.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","RC Rattlesnake","N/A",$47.97,$59.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Matchbox Jurassic World Mosasaurus Rescue Action Boat Play Set","N/A",$34.97,$49.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Smashers Mini Jurassic Light Up Dino Egg","N/A",$15.97,$19.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Hot Wheels - Basic Car Vehicle","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Pink Unicorn","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Toddler Hoodie","N/A",$14.97,$24.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Toddler Holiday Hoodie","N/A",$12.47,$25.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Alex Canvas Art Set","N/A",$33.67,$44.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Dazzling Beauty Vanity Table","N/A",$38.97,$64.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Adult Vintage Hoodie","N/A",$35.97,$59.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","My First Radio Control Race Car","N/A",$20.97,$34.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Barbie Pink Passport Kenya Adventure Play Set","N/A",$69.97,$99.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Twister Air","N/A",$22.97,$32.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","White Bake Shop","N/A",$10.47,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Moose","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","LEGO® Star Wars™ Ahsoka Tano's Duel on Peridea","N/A",$55.97,$79.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Adult Holiday Hoodie","N/A",$29.97,$59.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Baby Holiday Hoodie","N/A",$12.47,$25.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Heart Dress and Shoes for 36cm Doll","N/A",$12.67,$16.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Nerf Zombie Driller Dart Blaster - 16 Darts","N/A",$24.47,$34.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","My First Lace, Count & Color Cards","N/A",$6.97,$9.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Mini Me Moments Reel Fun Fishing Gift Set","N/A",$9.67,$12.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Pink Pig","N/A",$27.97,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Tub Time Grand Prix","N/A",$14.97,$29.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7642240,"Toys ""R"" Us","N/A","Men 2-Piece Pajama Set: Buffalo Bear","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Dickie Toys Vehicle","N/A",$19.97,$29.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Dollhouse and Kitchen 2-in-1 Play Set","N/A",$149.97,$2499.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Barbie Face Mask Toy Play Set","N/A",$34.97,$49.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Connect 4 Frenzy","N/A",$15.97,$22.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Blue Milk & Cookie","N/A",$10.47,$14.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","You & Me- Umbrella Stroller","N/A",$9.97,$16.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Bath Hoops for the Tub","N/A",$8.97,$17.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Blue Milk & Cookie","N/A",$13.97,$19.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Barbie Chelsea 2-in-1 Camper Play Set","N/A",$29.97,$59.99,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7642240,"Toys ""R"" Us","N/A","Ladies 2-Piece Pajama Set: Buffalo Bear","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7665266,"2001 Audio Video","N/A","LG 5.1. 1 Channel Dolby Atmos Sound Bar","N/A",$399.00,$797.99,"N/A",each,"N/A",2025-12-12T00:00:00-05:00,2025-12-18T23:59:59-05:00,"N/A",M5V2T6
 7665266,"2001 Audio Video","N/A","55"" Mini LED QLED AI Google TV","N/A",$897.99,N/A,"N/A",each,"N/A",2025-12-12T00:00:00-05:00,2025-12-18T23:59:59-05:00,"N/A",M5V2T6
 7665266,"2001 Audio Video","N/A","STAGE320 PARTYBOX","N/A",$599.98,N/A,"N/A",each,"N/A",2025-12-12T00:00:00-05:00,2025-12-18T23:59:59-05:00,"N/A",M5V2T6
@@ -627,7 +627,113 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7665266,"2001 Audio Video","N/A","CLIP5BL JBL Ultra Portable Bluetooth Speaker","N/A",$69.98,N/A,"N/A",each,"N/A",2025-12-12T00:00:00-05:00,2025-12-18T23:59:59-05:00,"N/A",M5V2T6
 7665266,"2001 Audio Video","N/A","65QD7QFM HISENSE Mini-LED QLED AI TV 60Hz - Fire TV","N/A",$597.99,$947.99,"N/A",each,"N/A",2025-12-12T00:00:00-05:00,2025-12-18T23:59:59-05:00,"N/A",M5V2T6
 7665266,"2001 Audio Video","N/A","LG QNED AI 4K Smart TV 2025","N/A",$547.99,N/A,"N/A",each,"N/A",2025-12-12T00:00:00-05:00,2025-12-18T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Maddox Leather Sofa - Cognac","N/A",$1199.00,$1799.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Kingsdown Mila Medium Queen Mattress","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Serta Panama Firm Full Mattress","N/A",$479.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Brook Bay 7 Piece Extendable Dining Set - Sand, Brown","N/A",$1299.00,$1799.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Chester 3-Piece Queen Storage Bed - Cherry","N/A",$999.00,$1499.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Chester 3-Piece King Storage Bed - Cherry","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort III Firm Eurotop Queen Mattress","N/A",$599.00,$1199.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Axis 26"" End Table - Chrome","N/A",$219.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Emberly Sintered Stone Dining Table - Grey, Black","N/A",$299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Copeland 6-Drawer Dresser - Wire-Brushed Grey","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG Matte Black Electric Dryer with EasyLoad™ Door (7.3 cu.ft) - DLE8400BE","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Danny 7-Piece Dining Set","N/A",$1299.00,$1899.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Cooper Leather Reclining Loveseat with Console - Brown","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Cooper Leather Rocker Recliner - Brown","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Lynn 48"" Sofa Table - Marble and Stainless Steel","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","San Mateo 10-Drawer Dresser - Tuscan","N/A",$999.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Axis 48"" Coffee Table - Glass and Gold","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Beautyrest Duchess Medium Twin Mattress","N/A",$449.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Beautyrest World Class Monarch Firm King Mattress","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Fresh Perspective Cascade 3-Piece Queen Storage Bench Bed - Dovetail Grey","N/A",$1399.00,$1699.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Micah Loveseat - White","N/A",$579.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Miko Side Table - Dark Bronze","N/A",$299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Mackay Loveseat - Grey","N/A",$679.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Silverstone 6-Drawer Dresser - Mist Grey","N/A",$899.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Micah Sofa - White","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 5 Medium Eurotop Twin Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Milo 22"" End Table- Natural","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Copeland Night Table - Wire-Brushed Grey","N/A",$249.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","SELECT DINING SETS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Windchester 5-Drawer Chest - Grey","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Haven Dual Power Reclining Chair - Grey","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Connex 6-Piece Modular Sectional","N/A",$2199.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG White Smart Wi-Fi Enabled Front Load Electric Dryer with Built-In AI (7.4 Cu. Ft.) - DLE3600W","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG Matte Black Top Load Washer with 4-Way™ Agitator (6.1 cu. ft.) - WT8405CB","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Windchester 7-Drawer Dresser - Grey","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Vandelay 6-Piece Power Reclining Sectional","N/A",$2499.00,$3499.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Beautyrest Duchess Medium King Mattress","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","MAJOR KITCHEN APPLIANCES","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG Smudge Resistant Stainless Steel Dishwasher with QuadWash™ - LDPN454HT","N/A",$745.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Haven Dual Power Reclining Loveseat - Grey","N/A",$1279.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Oslo Sofa - Grey","N/A",$799.00,$1599.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Emberly Dining Chair - Grey, Black","N/A",$80.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Vandelay Power Reclining Sofa - Grey","N/A",$1199.00,$1799.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Milo 40"" Lift Top Coffee Table - Natural","N/A",$499.00,$599.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Danny Extendable Dining Table - White","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Fresh Perspective Cascade 8-Drawer Dresser - Dovetail Grey","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Preston 59.75"" Fireplace TV Stand - Charcoal","N/A",$649.00,$999.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Connex Right Arm Chair","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Copeland 3-Piece King Storage Bed - Wire-Brushed Grey","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","San Mateo 3-Piece Queen Bed Package- Tuscan","N/A",$649.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Cinema 3-Piece Queen Storage Bed - Charcoal","N/A",$899.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Plus Sterling Bowie Tight Top Firm King Mattress","N/A",$1049.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 6 Firm Eurotop Queen Mattress","N/A",$799.00,$1599.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Feeling Connected - So Sleepy Arctic Cool Medium Tight Top Twin Mattress-in-a-Box","N/A",$499.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Windchester 3-Piece Queen Storage Bed - Grey","N/A",$999.00,$1999.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","BEDROOM & DINING FURNITURE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Silverstone 3-Piece Queen Storage Bed - Mist Grey","N/A",$749.00,$899.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Windchester 6-Piece Queen Storage Bedroom Package - Grey","N/A",$2299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Chestnut Ridge Dining Table - Dark Brown","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Palatial Crest® Kamden II Firm Eurotop Queen Mattress","N/A",$999.00,$1999.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Kingsdown Mila Medium King Mattress","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Serta Panama Firm King Mattress","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Cinema 6-Drawer Dresser - Charcoal","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Fog 6-Drawer Dresser - White, Black","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Brook Bay Extendable Dining Table - Sand , Brown","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Tempur-Pedic React 2.0 Medium Twin Mattress 10 inches","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 4 Firm Eurotop Twin Mattress","N/A",$499.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 6 Firm Eurotop King Mattress","N/A",$1099.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 4 Firm Eurotop Full Mattress","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG White Ultra Large Capacity Rear Control Electric Dryer with AI Sensing (7.3 Cu. Ft) - DLE8200W","N/A",$895.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","MAJOR KITCHEN APPLIANCES∆","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop King Mattress","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Connex Console with Speakers","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Cinema 3-Piece King Storage Bed - Charcoal","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Kelleher Sofa - Beige","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Micah Chair - White","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG 86"" 4K Smart UHD TV - 86UA7500ZUA","N/A",$999.00,$1299.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","L2 Platform Full Base - White and Black","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","L2 Motion Queen Adjustable Base 2.0","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Connex Armless Chair","N/A",$299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Mackay Chaise Sofa - Blue","N/A",$999.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Stampede Leather Chair - Chestnut","N/A",$110.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LIVING ROOM FURNITURE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Haven Dual Power Reclining Sofa - Grey","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Madeira 50"" Coffee Table - Walnut","N/A",$199.00,$299.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Chester 5-Drawer Chest - Cherry","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG Smudge Resistant Stainless Steel Smart Electric Freestanding Range with Air Sous Vide (6.3 Cu.Ft) - LREN6325XE","N/A",$1295.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Maddox Leather Loveseat - Cognac","N/A",$1179.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop Twin Mattress","N/A",$379.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG White Rear Control Energy Star Dryer with Sensor Dry (7.3 Cu. Ft) - DLE6100W","N/A",$745.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Palatial Crest® Kamden II Firm Eurotop King Mattress","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Granger 60"" Fireplace TV Stand - Antique White","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","SELECT BEDS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Feeling Connected - So Sleepy Arctic Cool Medium Tight Top Queen Mattress-in-a-Box","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Cooper Leather Reclining Sofa - Brown","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Kingsdown Percy Medium Euro Top Twin Mattress","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop Twin XL Mattress","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Silverstone 3-Piece King Storage Bed - Mist Grey","N/A",$999.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Cotton House Microfibre Twin Sheet Set - Assorted Colours","N/A",$19.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Corsica 6-Piece Dual Power Reclining Sectional - Brown","N/A",$3999.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Maxwell Power Recliner - Brown","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG 30"" 22 Cu. Ft. Smudge Resistant Stainless Steel French Door Refrigerator - LRFNS2200S","N/A",$1595.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 5 Medium Eurotop Queen Mattress","N/A",$699.00,$1399.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","L2 Platform Queen Base - White and Black","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Cinema 6-Piece Queen Storage Bedroom Package - Charcoal","N/A",$2199.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG White Top Load Washer with Agitator and SlamProof® Glass Lid (4.8 Cu. Ft) -WT6105CW","N/A",$745.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Piper Accent Chair - Light Grey","N/A",$249.00,$499.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Kingsdown Percy Medium Euro Top King Mattress","N/A",$1249.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7645980,"Leon's","N/A","Maxwell Power Reclining Loveseat - Brown","N/A",$979.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7645980,"Leon's","N/A","Danny Side Chair - Grey","N/A",$100.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7645980,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop Full Mattress","N/A",$389.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
@@ -652,131 +758,25 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7645980,"Leon's","N/A","L2 Platform Twin Base - White and Black","N/A",$199.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7645980,"Leon's","N/A","Oslo Chair - Ivory","N/A",$449.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7645980,"Leon's","N/A","San Mateo 6-Drawer Chest - Tuscan","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Kingsdown Mila Medium Queen Mattress","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Serta Panama Firm Full Mattress","N/A",$479.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Brook Bay 7 Piece Extendable Dining Set - Sand, Brown","N/A",$1299.00,$1799.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Chester 3-Piece Queen Storage Bed - Cherry","N/A",$999.00,$1499.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 4 Firm Eurotop King Mattress","N/A",$899.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Chester 3-Piece King Storage Bed - Cherry","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort III Firm Eurotop Queen Mattress","N/A",$599.00,$1199.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Axis 26"" End Table - Chrome","N/A",$219.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Emberly 5-Piece Sintered Stone Dining Set - Grey, Black","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Emberly Sintered Stone Dining Table - Grey, Black","N/A",$299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Mackay Sofa - Grey","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Copeland 6-Drawer Dresser - Wire-Brushed Grey","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG Matte Black Electric Dryer with EasyLoad™ Door (7.3 cu.ft) - DLE8400BE","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Danny 7-Piece Dining Set","N/A",$1299.00,$1899.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Cooper Leather Reclining Loveseat with Console - Brown","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG 36"" 28 Cu. Ft. Smudge Resistant Stainless Steel French Door Refrigerator with Ice & Water Dispenser - LRFS28XBS","N/A",$2095.00,$2195.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Cooper Leather Rocker Recliner - Brown","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Lynn 48"" Sofa Table - Marble and Stainless Steel","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","San Mateo 10-Drawer Dresser - Tuscan","N/A",$999.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Axis 48"" Coffee Table - Glass and Gold","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Beautyrest Duchess Medium Twin Mattress","N/A",$449.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Beautyrest World Class Monarch Firm King Mattress","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Fresh Perspective Cascade 3-Piece Queen Storage Bench Bed - Dovetail Grey","N/A",$1399.00,$1699.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Chestnut Ridge 7- Piece Dining Set - Dark Brown, Beige","N/A",$999.00,$1499.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Kelleher Ottoman - Beige","N/A",$249.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG Stainless Steel Dishwasher with 3rd Rack - LDFC3532S","N/A",$645.00,$695.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Micah Loveseat - White","N/A",$579.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Miko Side Table - Dark Bronze","N/A",$299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Emberly 5-Piece Sintered Dining Set - Beige, Black","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Mackay Loveseat - Grey","N/A",$679.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Silverstone 6-Drawer Dresser - Mist Grey","N/A",$899.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG 30"" 22.1 Cu. Ft. Stainless Steel Bottom-Freezer Refrigerator - LRDNS2200S","N/A",$1295.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Micah Sofa - White","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop Queen Mattress","N/A",$399.00,$449.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 5 Medium Eurotop Twin Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Milo 22"" End Table- Natural","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Copeland Night Table - Wire-Brushed Grey","N/A",$249.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","SELECT DINING SETS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Windchester 5-Drawer Chest - Grey","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Haven Dual Power Reclining Chair - Grey","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Connex 6-Piece Modular Sectional","N/A",$2199.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG White Smart Wi-Fi Enabled Front Load Electric Dryer with Built-In AI (7.4 Cu. Ft.) - DLE3600W","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG Matte Black Top Load Washer with 4-Way™ Agitator (6.1 cu. ft.) - WT8405CB","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Windchester 7-Drawer Dresser - Grey","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Vandelay 6-Piece Power Reclining Sectional","N/A",$2499.00,$3499.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Beautyrest Duchess Medium King Mattress","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","MAJOR KITCHEN APPLIANCES","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG Smudge Resistant Stainless Steel Dishwasher with QuadWash™ - LDPN454HT","N/A",$745.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","65"" Brayden TV Stand","N/A",$329.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Hisense 65"" 4K Smart QLED MiniLED TV - 65QD7QFM","N/A",$599.00,$699.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Haven Dual Power Reclining Loveseat - Grey","N/A",$1279.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Mackay Queen Sofa Bed - Grey","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Oslo Sofa - Grey","N/A",$799.00,$1599.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Emberly Dining Chair - Grey, Black","N/A",$80.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Vandelay Power Reclining Chair - Grey","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Vandelay Power Reclining Sofa - Grey","N/A",$1199.00,$1799.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Milo 40"" Lift Top Coffee Table - Natural","N/A",$499.00,$599.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Danny Extendable Dining Table - White","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG Stainless Steel 6.3 cu ft. Electric ThinQ® Range with EasyClean -LREL6321S","N/A",$945.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Fresh Perspective Cascade 8-Drawer Dresser - Dovetail Grey","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Preston 59.75"" Fireplace TV Stand - Charcoal","N/A",$649.00,$999.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","SELECT SOFAS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Connex Right Arm Chair","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Copeland 3-Piece King Storage Bed - Wire-Brushed Grey","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","San Mateo 3-Piece Queen Bed Package- Tuscan","N/A",$649.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Cinema 3-Piece Queen Storage Bed - Charcoal","N/A",$899.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Plus Sterling Bowie Tight Top Firm King Mattress","N/A",$1049.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 6 Firm Eurotop Queen Mattress","N/A",$799.00,$1599.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Feeling Connected - So Sleepy Arctic Cool Medium Tight Top Twin Mattress-in-a-Box","N/A",$499.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","TCL 65"" S45K Series 4K UHD HDR LED Smart TV with Google TV – 65S45K","N/A",$579.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Windchester 3-Piece Queen Storage Bed - Grey","N/A",$999.00,$1999.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","BEDROOM & DINING FURNITURE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Silverstone 3-Piece Queen Storage Bed - Mist Grey","N/A",$749.00,$899.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Windchester 6-Piece Queen Storage Bedroom Package - Grey","N/A",$2299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Maxwell Power Recliner - Brown","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG 30"" 22 Cu. Ft. Smudge Resistant Stainless Steel French Door Refrigerator - LRFNS2200S","N/A",$1595.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy® Essentials Evan II Medium Twin Mattress","N/A",$199.00,$399.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 5 Medium Eurotop Queen Mattress","N/A",$699.00,$1399.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","L2 Platform Queen Base - White and Black","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Cinema 6-Piece Queen Storage Bedroom Package - Charcoal","N/A",$2199.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Lynn 39"" Coffee Table - Marble and Stainless Steel","N/A",$379.00,$429.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG White Top Load Washer with Agitator and SlamProof® Glass Lid (4.8 Cu. Ft) -WT6105CW","N/A",$745.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Piper Accent Chair - Light Grey","N/A",$249.00,$499.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Kingsdown Percy Medium Euro Top King Mattress","N/A",$1249.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Mackay Storage Ottoman - Grey","N/A",$499.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Chestnut Ridge Dining Table - Dark Brown","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Palatial Crest® Kamden II Firm Eurotop Queen Mattress","N/A",$999.00,$1999.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Kingsdown Mila Medium King Mattress","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Serta Panama Firm King Mattress","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Cinema 6-Drawer Dresser - Charcoal","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Fog 6-Drawer Dresser - White, Black","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Maxwell Power Reclining Sofa - Brown","N/A",$999.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Brook Bay Extendable Dining Table - Sand , Brown","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Tempur-Pedic React 2.0 Medium Twin Mattress 10 inches","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 4 Firm Eurotop Twin Mattress","N/A",$499.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 6 Firm Eurotop King Mattress","N/A",$1099.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 4 Firm Eurotop Full Mattress","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG White Ultra Large Capacity Rear Control Electric Dryer with AI Sensing (7.3 Cu. Ft) - DLE8200W","N/A",$895.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","MAJOR KITCHEN APPLIANCES∆","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop King Mattress","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Canton Power Recliner - Dark Brown","N/A",$749.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Connex Console with Speakers","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Cinema 3-Piece King Storage Bed - Charcoal","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Kelleher Sofa - Beige","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG Smudge Resistant Stainless Steel Top Control Smart Dishwasher with TrueSteam® - LDTS5552S","N/A",$795.00,$895.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Copeland 6-Piece Queen Storage Bedroom Package - Wire-Brushed Grey","N/A",$1499.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Maxwell 5-Piece Power Reclining Sectional - Brown","N/A",$1799.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Kingsdown Percy Medium Euro Top Queen Mattress","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","L2 Platform King Base - White and Black","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Damien 72"" Flat Panel Television Stand - Black","N/A",$479.00,$599.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Lynn 39"" Coffee Table - Marble and Gold","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 5 Medium Eurotop Full Mattress","N/A",$649.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Maddox Ottoman","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Fog 3-Piece Queen Bed - White, Black","N/A",$349.00,$699.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Beautyrest Duchess Medium Queen Mattress","N/A",$499.00,$999.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Micah Chair - White","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Serta Panama Firm Queen Mattress","N/A",$499.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LG 86"" 4K Smart UHD TV - 86UA7500ZUA","N/A",$999.00,$1299.00,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","L2 Platform Full Base - White and Black","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","L2 Motion Queen Adjustable Base 2.0","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Connex Armless Chair","N/A",$299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Mackay Chaise Sofa - Blue","N/A",$999.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Stampede Leather Chair - Chestnut","N/A",$110.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","LIVING ROOM FURNITURE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7645980,"Leon's","N/A","Haven Dual Power Reclining Sofa - Grey","N/A",$1299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Madeira 22"" End Table - Walnut","N/A",$169.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Vandelay Power Reclining Loveseat - Grey","N/A",$1179.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Windchester Night Table - Grey","N/A",$379.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Fresh Perspective Cascade 3-Piece King Storage Bench Bed - Dovetail Grey","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","LG Stainless Steel Smart Electric Freestanding Range with Air Fry (6.3 Cu.Ft) - LREN6323YE","N/A",$1145.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Plus Sterling Bowie Tight Top Firm Full Mattress","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Sealy Posturepedic® Plus Sterling Bowie Tight Top Firm Twin Mattress","N/A",$649.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Chester 6-Piece King Storage Bedroom Package - Cherry","N/A",$2399.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Silverstone 5-Drawer Chest - Mist Grey","N/A",$749.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","San Mateo Mirror - Tuscan","N/A",$169.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Silverstone 6 - Piece Queen Storage Bedroom Package - Mist Grey","N/A",$1999.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Haven 6-Piece Dual Power Reclining Sectional - Grey","N/A",$2799.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","Silverstone Mirror - Mist Grey","N/A",$169.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7645980,"Leon's","N/A","San Mateo Night Table - Tuscan","N/A",$299.00,N/A,"N/A",each,"N/A",2025-12-04T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7656613,"The Beer Store","N/A","BIRRA MORETTI","N/A",$46.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
 7656613,"The Beer Store","N/A","COORS ORIGINAL","N/A",$49.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
 7656613,"The Beer Store","N/A","CREEMORE LAGER","N/A",$44.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
@@ -801,156 +801,156 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7656613,"The Beer Store","N/A","BEAU'S LUG TREAD","N/A",$45.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
 7656613,"The Beer Store","N/A","COORS LIGHT","N/A",$39.49,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
 7656613,"The Beer Store","N/A","BEAU'S LUG LITE LAGER","N/A",$22.49,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","VANILLA PERSIMMONS, 1.5 kg avg case","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","CUCINA MINI ARANCINI, 500 g","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PORCHETTA DINNER: CATERING MENU #3","N/A",$180.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MARCANGELO LAMB SPIEDINI, 24 PK, 480 g","N/A",$24.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","GOURMET SALADS","N/A",$2.25,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® ORGANICS BLUEBERRIES, 9.8 oz","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® RAW ZIPPERBACK® PACIFIC WHITE SHRIMP 31-40 PER LB, 400 G OR DIANA'S ESCARGOTS 80 G","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MEATBALLS","N/A",$39.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® DOUBLE CREAM BRIE","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BELWOOD BONE-IN TURKEY BREAST","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","DEMPSTER'S WHITE OR WHOLE WHEAT BREAD, 675 G OR ENGLISH MUFFINS, 6'S","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® BACON-WRAPPED WILD SEA SCALLOPS, 260 g","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MEAT & CHEESE WRAPS PLATTER 16 pieces, serves 8-10","N/A",$57.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ITALIAN SANDWICH PLATTER, 22 pieces, Serves 8-10","N/A",$56.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® COCKTAIL SMOKIES, 500 G","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® PORCHETTA, 1.2kg","N/A",$18.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® MINI BEEF JAMAICAN PATTIES OR CHICKEN EMPANADAS, 480 G OR MOZZARELLA CHEESE STICKS, 454 G","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SARDO MARINATED SEAFOOD SALAD, 800 G","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ARANCINI","N/A",$24.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PILLER'S SALAMI OR SAN DANIELE SILVER PROSCIUTTO, 3.08/100 g","N/A",$13.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® BRANDY FRUITCAKE, 600 g","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","NO NAME® HORSERADISH, 250mL","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® MINI CHICKEN OR VEGETABLE SAMOSAS OR BREADED CAULIFLOWER BITES, 288-454 G","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","OVATION NEW ZEALAND FRENCHED LAMB RACK","N/A",$24.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","GREENHOUSE ORGANIC WELLNESS SHOTS, 4x60 ml","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® SHRIMP APPETIZERS, 340-454 G","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BONELESS SALTED COD","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","URBANI TRUFFLE SAUCE, 180G","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","LARGE CHESTNUTS","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SEEDLESS CLEMENTINES, 5 LB","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","TACO DIP, 1 kg","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","LOU'S PEAMEAL BACON, 454 G OR DOUBLE SMOKED BACK BACON, 375 G","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","OVATION NEW ZEALAND LAMB SHOULDER CHOPS","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","TULIPS, 10 STEMS","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FRESH ATLANTIC SALMON STEAK","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ZEPPOLE PASTRY OR FRESH FRUIT TART, 90-110 g","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","#4 MENU: PORCHETTA DINNER WITH PASTA","N/A",$235.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FRUIT & CHEESE PLATTER, Serves 12-15","N/A",$59.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","GREEN FRENCH BEANS, 400 G OR PC® MINI YELLOW, RED OR MIXED POTATOES, 680 G","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","VEAL OR CHICKEN PARMESAN","N/A",$59.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FRESH ICELANDIC COD FILLET","N/A",$13.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ZIGGY'S ROAST BEEF OR PC® COOKED OR SMOKED CHICKEN BREAST","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","OKA MUSHROOMS AND TRUFFLE CHEESE, 190 g","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","WONG WING SPRING ROLLS, DUMPLINGS OR EGG ROLLS, 352-680 G","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","JUMBO HARTLEY WALNUTS","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","DINO MELONS","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BELWOOD TURKEY BREAST SCALLOPINI","N/A",$12.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","TOPPITS SQUID RINGS OR TENTACLES, 500/550 G","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ZIGGY'S® HAM, 2.64/100 g","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","POINSETTIA IN TIN, 7 INCH","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MEAT AND CHEESE PLATTER, SERVES 12-15","N/A",$59.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® ORGANICS ROMAINE HEARTS, 3'S","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MOREL DRIED MUSHROOMS, 14 g","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® ORGANICS HERBS, 20 G","N/A",$3.29,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MERRY METAL TIN ARRANGEMENT","N/A",$59.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FRESH WILD GULF SHRIMP, 16-20 per lb","N/A",$18.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","IFC COOKED BLACK TIGER SHRIMP RING WITH SAUCE, 454 g","N/A",$26.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","OVATION NEW ZEALAND LAMB SHANKS","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ALEDO GRAPES","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FRESH PASTA CLAMS, 907 G","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MAPLE LEAF READY CRISP BACON, 65 g","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SAUSAGE & BREAD STUFFING, Serves 10","N/A",$36.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","LARGE FENNEL","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","STRAWBERRY SHORTCAKE 8"", 1 KG","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SPRINGER'S HOT OR MILD PEPPERONI STICKS OR BEACH ROAD KIELBASA","N/A",$13.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® BONELESS SPIRAL HAM","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","1/4 SLAB STRAWBERRY SHORTCAKE, 1.3 KG","N/A",$44.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ROMAN PIZZA","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","NORTHERN KING SEAFOOD MIX, 600 G OR IFC BREADED CALAMARI, 500 G","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® HICKORY SMOKED SPIRAL-SLICED BONE-IN HALF HAM","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","YON SUSHI PLATTER, 50 PIECES","N/A",$54.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SANDWICH FAVOURITES PLATTER","N/A",$57.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","KIMBERLEY'S FROSTED SUGAR COOKIES, 383 G OR MINI HOLIDAY CUPCAKES, 12'S","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","OVATION NEW ZEALAND LAMB LOIN CHOPS","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PORK LOIN CENTER CUT ROAST OR CHOPS","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MARCANGELO ITALIAN SLICED DELI MEAT, 85 g","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® ORGANICS GARLIC 2'S OR GINGER, 160 G","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FORTINOS MIXED BOUQUETS","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FORTINOS SAUSAGE MEAT","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BEEMSTER TRUFFLE CHEESE","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BROCCOLI CROWNS OR PC® ORGANICS WHOLE WHITE OR CREMINI MUSHROOMS, 227 g","N/A",$1.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","GREEN CABBAGE","N/A",$0.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BRUSSELS SPROUTS OR CARDONE","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FARMER'S MARKET™ PIE, 580 g-1 kg","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FORTINOS MEATLOAF, 800 g","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FORTINOS BONELESS TURKEY BREAST, 800 g","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MINI BRIOCHE SLIDERS PLATTER, serves 8-10","N/A",$39.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","COFFEE ON-THE-GO","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","JUMBO RED CHERRIES","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","DICED BUTTERNUT SQUASH, SWEET POTATO OR TURNIP 400 g","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FORTINOS SIGNATURE HOLIDAY ARRANGEMENT","N/A",$49.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SPRINGER'S SMOKED WHOLE TURKEY","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® ORGANICS OYSTER MUSHROOMS, 100 g","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PONDEROSA DRIED MUSHROOMS, 14 G","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PRIME RIB DINNER: CATERING MENU #1 (FROM A BROCHURE)","N/A",$330.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","STICKY TOFFEE PUDDING CAKE, 560 g","N/A",$21.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® ORGANICS BABY CARROTS, 2 LB","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","TRE STELLE BOCCONCINI, RICOTTA OR MOZZARELLA, 200-475G","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ICHI SUSHI PLATTER","N/A",$31.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PROSCIUTTO WITH TRUFFLE","N/A",$25.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BROCCOFLOWER, ORANGE, PURPLE OR ROMANESCO CAULIFLOWER","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® BLACK TIGER SHRIMP RING WITH MILD COCKTAIL SAUCE, 568 G","N/A",$27.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BOTHWELL BLACK TRUFFLE CHEESE, 170G","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FRESH ONTARIO SMALL LAMB","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FRESH MONKFISH FILLET OR PC® FROZEN PACIFIC WHITE COOKED SHRIMP, 31-40 PER LB, 400 G","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BOS SMOKED ATLANTIC SALMON, 125G","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® DIPS, 227 g","N/A",$3.79,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PALMER MANGO","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® HERBS, 28G","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MARZETTI VEGETABLE DIPS, 340 g","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","TRUFFLE INFUSED MASHED POTATOES","N/A",$36.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","YULE LOG, 1 KG","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® SPIRAL-SLICED APPLEWOOD OR HICKORY SMOKED BONE-IN HALF HAM","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","CRANBERRIES, 340G","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","CORNISH HEN","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SHRIMP & SALMON PLATTER","N/A",$59.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","CABBAGE ROLLS","N/A",$39.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","CIPOLLINE ONIONS OR SHALLOTS","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® ORGANICS YELLOW ONIONS, 2 LB BAG","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® CHICKEN OR PORK SAUSAGE ROLLS, 500 g","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ZEPPOLE, 4 PACK","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FESTIVE TURKEY PIE","N/A",$24.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","LARGE LEMONS","N/A",$1.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SNOW CRAB CLUSTERS, 5-8's","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SPORTS BAR FAVOURITES","N/A",$39.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SPRINGER'S SMOKED PORK PICNIC SHOULDER","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ONTARIO LAMB SHOULDER CHOPS","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BRUSSELS SPROUTS WITH BACON","N/A",$36.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FAMILY SIZE CAESAR SALAD","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","LARGE VEGETABLE TRAY, 1.7 KG","N/A",$22.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ASSORTED CAFE DESSERTS","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","RUFFINI PROSCIUTTO DI PARMA","N/A",$21.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MEAT LASAGNA","N/A",$54.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SOUP TO GO, 128oz","N/A",$37.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® HORS D'OEUVRE, 720/772 g","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BOURSIN TRUFFLE SALT & PEPPER CHEESE, 150g","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","RAPINI, bunch","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","POINSETTIA IN TIN, 8 INCH","N/A",$30.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BLACK TRUFFLE MUSHROOM SOUP, MEDIUM","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","TACO DIP, 600 g","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SEEDLESS MANDARINS, 2 LB","N/A",$3.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","YORSHIRE VALLEY FARMS ORGANIC CHICKEN MEATBALLS, 800 G","N/A",$18.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","COOK'S PORTION HAM","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","CRYSTAL WATERS FRESH CRAB CAKES, 95 g","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","PC® TO BE WINGS® CHICKEN CHUNKS, 800 G","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","ONTARIO LAMB LOIN CHOPS","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","SARDO MARINATED GARLIC SHRIMP, 750/800 g","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","MEDIUM SICILIAN CANNOLI","N/A",$2.19,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","FRESH COHO SALMON FILLET","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
-7662888,"Loblaws","N/A","BOURSIN CHEESE, 150G","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® CHIA FRUIT SPREAD","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® FOCACCIA, 415-456 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® THE PORTION PREPPER MEAL PREP CUBES","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® PLANET FIRST™ ALL-PURPOSE CLEANER, 700 ML","N/A",$4.00,$4.99,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® CHICKEN AND MUSHROOM PIE, 650 G","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","ZARBEE'S SOOTHING CHEST RUB 42 G OR COUGH SYRUP 59-118 ML","N/A",$8.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","L' ORÉAL PARIS PRIMER, 279/354 G","N/A",$16.00,$19.99,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® VEGETABLES, 2 KG","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","L'ORÉAL PARIS EYELINERS OR SHADOW STICK","N/A",$11.04,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PEPSICO BEVERAGES, 6X222ML","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","HOLIDAY GARDEN GIFT BAG","N/A",$22.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","MAYBELLINE GRIPPY SERUM OR JELLY PRIMER","N/A",$10.39,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","MAYBELLINE INSTANT AGE REWIND CONCEALER OR CORRECTOR","N/A",$15.00,$17.99,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","STELLA ARTOIS, 6X473 ML","N/A",$17.09,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","FACECLOTHS","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® 350 THREAD COUNT SHEET SETS KING","N/A",$56.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","MILK CHOCOLATE PEANUTS, 260 G","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","BENTO CALIFORNIA SUSHI, 470/645 G","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","IN-STORE MADE MEALKITS, 981-1234 G","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® PIEROGI BAKE, 770-830 G","N/A",$11.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® HALF CUP TRAY WITH LID","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® PEDIATRIC NUTRITIONAL SUPPLEMENT, 6X235 ML","N/A",$14.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","LIFE AT HOME™ NOVELTY CUSHION OR THROW","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","CAKE BEAUTY HOLIDAY GIFT SET","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","LIFE AT HOME™ POMEGRANATE SCENTED CANDLE, 14 OZ, 3 WICK","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","ARDELL LASHES OR DUO LASH GLUE","N/A",$5.94,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","HAND TOWELS","N/A",$27.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","STARFRIT COOKWARE AND COOKWARE SETS","N/A",$21.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","QUO BEAUTY MEN'S GROOMING COLLECTION","N/A",$9.60,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® SPORTS SUPPLEMENTS","N/A",$23.79,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","DARE REAL FRUIT GUMMIES, 350 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","SPREAD'EM KITCHEN, 200 G, (200X6)","N/A",$9.75,$11.99,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® 2 TABLESPOON TRAY WITH LID","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","LIFE AT HOME™ CRACKLING HEARTH SCENTED CANDLE, 14 OZ, 3 WICK","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® MINI POPPADOMS, 113 G","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","OGX HAIR CARE HOLIDAY GIFT SET","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","MATTEL GAMES","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® BLACK LABEL PIZZA, 370-440 G","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","GRACE CALLALOO, 540 ML","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® COOKWARE AND COOKWARE SETS","N/A",$17.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","NEW YEARS EVE PARTY SUPPLIES","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® GLASS FIBRE SILICONE COOKIE SHEET","N/A",$19.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","L'ORÉAL MEN'S GROOMING CLEANSERS 75-180 ML, MOISTURIZERS 10-50 ML, BARBER CLUB 30-200 ML, OIL CONTROL 100 ML OR KITS 1'S","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","LIFE BRAND® COUGH, COLD PRODUCTS, 20-40'S","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","LIFE AT HOME™ CINNAMON FIRESIDE SCENTED CANDLE, 14 OZ","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","LIFE AT HOME™ SEASONAL DINNERWARE, SERVEWARE OR DRINKWARE","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","IN-STORE MADE ITALIAN ROMANACCIA SANDWICHES, 225-306 G","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","CORONA CERO 0.0% ALCOHOL BEER, 6X330 ML","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","WINTER NEEDS","N/A",$7.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® BLACK LABEL FINE CHEESE SELECTION, 320 G","N/A",$13.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® 2 CUP TRAY WITH LID","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","HOT WHEELS ULTIMATE GARAGE","N/A",$150.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","LIFE AT HOME™ HOT COCOA SCENTED CANDLE, 14 oz, 3 wick","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","GERBER ORGANIC SNACKS, 28-150 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","LIFE AT HOME™ 12 DAYS OF CANDLES GIFT SET, 1.34 oz, 12' s","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","QUEEN PC® 350 THREAD COUNT SHEET SETS","N/A",$49.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® STAINLESS STEEL & BEECHWOOD KITCHEN GADGETS","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® CHILDREN'S CHARITY, 8"" BEAR","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A",""" PRESIDENT'S CHOICE CHILDREN'S CHARITY BEAR","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® 1 CUP TRAY WITH LID","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","TOSTITOS® TORTILLA CHIPS, 205 G - 300 G","N/A",$4.29,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","GERBER® CEREALS, 28 G-227 G","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","DELIGHTFUL HOLIDAY BOUQUET","N/A",$25.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","INFALLIBLE PRESSED POWDER","N/A",$18.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","L' ORÉAL PARIS LUMI BLUSH OR HIGHLIGHTER STICK","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","CRANBERRY COCKTAIL MIX, 300 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","LIFE AT HOME™ WINTER STROLL SCENTED CANDLE, 9 OZ","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","AVEENO STRESS RELIEF OR NEUTROGENA HOLIDAY HYDRO BOOST HOLIDAY GIFT SET","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","SIMPLY GOURMET CRUNCHERS OR PUFFIES SNACKS, 32 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","KERR'S IMMUNITY SUPPORT KIDS LOZENGES OR COLD & SORE THROAT KIDS LOZENGES, 15' S","N/A",$5.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","STARFRIT KITCHEN GADGETS","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","GUMMI BEARS, 280 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","L'ORÉAL PARIS COLOUR RICHE LIPSTICK OR MAYBELLINE SUPERSTAY LIQUID LIPSTICK","N/A",$10.00,$13.99,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","SENSODYNE OR PRONAMEL TOOTHPASTE, 75 ML","N/A",$6.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","FERRERO ROCHER DIAMOND OR COLLECTION BOX, 24/30'S, 248-375 G","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","MCCAFÉ K-CUP PODS, 10/12'S","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","NYX SETTING SPRAYS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","SODASTREAM PEPSI OR CLASSIC SYRUP OR FLAVOURS, 440 ML","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® DUAL BASKET AIR FRYER","N/A",$99.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® STEMLESS BOXED WINE GLASSES","N/A",$16.00,$24.00,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","BEEF RIB FINGER MEAT","N/A",$11.88,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","ROBIN HOOD OR FIVE ROSES FLOUR, 2.5-5 KG","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PREMIER PROTEIN POWDER OR READY TO DRINK SHAKES","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","MILLIE MOON PACK DIAPERS, 54-108'S","N/A",$26.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","CAMPBELL'S® CHUNKY® SOUPS 515 ML","N/A",$2.00,$3.49,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","BATISTE OR MONDAY HAIR CARE GIFT SET","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","KIND EDIT CO SHOE RESTORER OR RESCUE GIFT SET","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PRAN PARATHAS FAMILY PACK, 2400 G","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PAMPERS® ULTRA VALUE BABY DRY DIAPERS, 58-200'S","N/A",$34.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","NO NAME® MARASCHINO CHERRIES, 375 ML","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® SAUSAGES, 375/500 G","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","HELLMANN'S REAL MAYONNAISE, 1.42 L","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","SUMM! SPRING ROLLS OR GYOZA DUMPLINGS, 250 TO 350G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","SHEAMOISTURE® BOND REPAIR SHAMPOO, CONDITIONER 384 ML","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","FARMER'S MARKET™ MINI CARROTS, 2 LB","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","RUBICON JUICE, 1 L","N/A",$2.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","AFTER EIGHT CLASSIC OR ORANGE CHOCOLATE, 200 G","N/A",$6.97,$8.49,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","TYLENOL COUGH & COLD, BENYLIN OR ZARBEE'S","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","JELL-O JELLY POWDER, 9.1-170 G INSTANT PUDDING MIX, 30-113 G PIE FILLING, 30-113 G","N/A",$1.25,$1.95,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PALMOLIVE DISHWASHING LIQUID","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","NATURAL INSTINCTS HAIR COLOUR OR ROOT TOUCH UP","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","NEILSON 18% OR 36% CREAM, 473 ML","N/A",$4.25,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","ROYAL CLUB SIZE DIAPERS, 78-96' S","N/A",$24.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","GOOD START PLUS POWDER BABY FORMULA 942-1020 G OR READY TO FEED 15X250 ML","N/A",$49.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","FRESH RAINBOW TROUT FILLETS","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","TOPPITS COOKED LOBSTER CLAWS, 454 G","N/A",$26.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PORK CENTRE ROAST","N/A",$6.99,$8.59,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® BLACK FIGS","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","ARMSTRONG CHEESE SNACKS OR COMBOS, 180-210 G","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® PORCHETTA SEASONED PORK SHOULDER PICNIC ROAST","N/A",$18.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","ALEXIS DE PORTNEUF BONAPARTE BRIE OR CAMEMBERT, 300 G OR CATHEDRAL CITY CHEDDAR CHEESE, 200 G 300 G","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","AYLMER TOMATOES 796 ML OR ACCENTS 540 ML","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","FARMER'S MARKET™ ENGLISH CUCUMBERS, 3'S","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","FUZE ICED TEA, 1.75 L","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","HUGGIES OR PAMPERS 3X BABY WIPES, 112-216'S","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","BRAR'S RASMALAI,. 850 G","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® HOT SMOKED CANDIED OR SPICY SALMON STRIPS, 150 G","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","TAYLOR FARMS CHOPPED SALAD KITS, 267-383 G","N/A",$3.99,$5.50,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","FRESHLY PREPARED IN-STORE, SINGLE-SERVE ONE-PAN MEALS, 403-570 G","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","SUFRA® HALAL CHICKEN BREAST, 7'S, UP TO 1.51 KG","N/A",$30.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® MOZZARELLA CHEESE STICKS OR TORTILLA AND JALAPENO CHEESE STICKS, 345/454 G","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® DISHWASHING LIQUID, 638 ML - 1 L","N/A",$2.25,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","CARNATIONS, BUNCH","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","JOHN FRIEDA HAIR CARE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® BRIOCHE LOAF, 400 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","LIFE AT HOME™ BOXED CARDS","N/A",$6.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","WAHAHA YOGURT FLAVOURED DRINK, 4' S","N/A",$1.79,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® BLUE MENU® SPARKLING WATER","N/A",$11.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PEPSI SOFT DRINKS 2 L, 6X222/710 ML, 12X355 ML, BUBLY SPARKLING WATER 12X355 ML OR GATORADE SPORTS DRINK 710 ML","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® QUAIL EGGS, 18'S","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","HERSHEY'S KISSES, 161-227 G","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® METAL BAKEWARE AND BAKEWARE SETS","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","SMUCKER'S FRUIT JAM, JELLY OR MARMALADE, 310/500 ML OR ADAMS PEANUT BUTTER, 500 G","N/A",$5.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","NO NAME® FOILWARE","N/A",$10.00,$11.99,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","DAIYA PLANT BASED PIZZA 369-550 G OR FLATBREAD 327-354 G OR CHEESE CAKE 400 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","MISS VICKIES® KETTLE COOKED POTATO CHIPS, 190 G - 200 G","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","ANNIE'S COOKIES, CRACKERS OR GRANOLA BAR, 130/213 G","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","CLASSICO PASTA SAUCE","N/A",$2.97,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","DURACELL COPPERTOP AA, (32'S) OR AAA, (24'S) ALKALINE BATTERIES","N/A",$19.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® COCKTAIL SMOKIES, 500 G","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","SURAJ AGED BASMATI RICE, 8 LB","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","RESTORALAX POWDERS, 119-765 G, GUMMIES, 30/90' S OR PACKETS, 10' S","N/A",$5.76,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","MAYBELLINE LASH SENATIONAL, SKY HIGH OR COLOSSAL BUBBLE MASCARA","N/A",$12.00,$14.99,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","HÄAGEN-DAZS ICE CREAM, 414-450 ML OR BARS, 3/4' S","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","JOE FRESH UNBRANDED EVERYDAY OR HOLIDAY JEWELRY","N/A",$5.25,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","MAXWELL HOUSE ROAST & GROUND COFFEE, 631-900 G","N/A",$17.97,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","QUAKER CAP'N OR HARVEST CRUNCH, LIFE OR SQUARES CEREAL, 350-500 G","N/A",$3.50,$5.49,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","NYX BROW PRODUCTS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","PC® SPLENDIDO® SLICED MEAT, 100 G","N/A",$7.50,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
+7658177,"Real Canadian Superstore","N/A","SIMILAC 360 TOTAL CARE READY TO DRINK INFANT FORMULA, 24 X 59 ML","N/A",$38.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7658147,"Food Basics","N/A","SELECTION SNACKS","N/A",$2.88,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7658147,"Food Basics","N/A","SELECTION PLASTIC GLASSES","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
 7658147,"Food Basics","N/A","SELECTION PASTA SAUCE","N/A",$2.97,N/A,"N/A",each,"N/A",2025-12-11T00:00:00-05:00,2025-12-17T23:59:59-05:00,"N/A",M5V2T6
