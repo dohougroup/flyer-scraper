@@ -1,181 +1,99 @@
 flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize,validUnit,imageUrl,validFrom,validTo,category,postalCode
-7645106,"PetSmart","N/A","pet's first bath or groom","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","entire Holiday Collection","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Small pet food, treats, hay & bedding","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","dog and cat beauty & grooming products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Holiday Seasonal","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Wild Bird Products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Purina ONE® dog treats","N/A",$5.00,$6.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","all aquatic cleaning & aeration products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","reptile & fish premium frozen food","N/A",$5.09,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","ALL Top Paw® beauty & grooming pet supplies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","aquatic ornaments & artificial plants","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Wellness® dog food & WHIMZEES® dog treats","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Jay's® My Mighty Wolf & Doggy Bits dog treats","N/A",$6.00,$10.29,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Save 20% select cat litter 4.2-15.1 kg","N/A",$15.19,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Purina® Pro Plan® FortiFlora Probiotic & calming care powdered dog & cat supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Merrick dog food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Pet Bird Food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","select cat litter","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7645106,"PetSmart","N/A","Save 15% select cat litter 2.2-12.7 kg","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Sale $5 Purina ONE dog treats","N/A",$5.00,$6.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save $10 BLUE BUFFALO, Natural Balance®, Wellness®, Simply Nourish®, Nutrience®, CANIDAE® & NUTRO dog food, 8.1-18.1 kg","N/A",$46.99,$56.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save $12 Royal Canin®, Hill's® Science Diet® & Purina® Pro Plan® dog food","N/A",$87.99,$99.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","3X points Merrick dog food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save 25% Dog & Cat beds excludes Holiday beds","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Sale $49.99 BLUE BUFFALO™ Life Protection Formula™ dog food","N/A",$49.99,$66.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save 20% select cat litter 4.2-15.1 kg","N/A",$16.79,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save $6 Purina® ONE, Beneful, Dog Chow & Beyond, Red Leaf""¢, Nature's Recipe, Iams® & PEDIGREE® dog food","N/A",$28.99,$34.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Buy one, get 2nd 50% off dog & cat treats (excludes holiday treats)","N/A",$1.19,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save 15% select cat litter","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","all aquatic cleaning & aeration products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Buy 4, get 5th FREE select dog food cans, cups & pouches","N/A",$1.19,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save 20% ALL Top Paw® beauty & grooming supplies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","2500 points when you spend $20+ on any small pet food, treats, hay & bedding","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save 25% when you buy 6+ ALL aquatic pets & live plants In stores only","N/A",$1.69,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Buy one, get 2nd 50% off aquatic substrates","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","shop dog","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Save 20% ALL Exquisicat® litter boxes, mats & accessories","N/A",$3.19,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Buy one, get 2nd 50% off Top Paw® dog bowls & Whisker City® cat bowls","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Save $20 Merrick dog food","N/A",$89.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","3X points Wellness® dog food & Whimzees® dog treats","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save 15% select cat litter","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","all aquatic cleaning & aeration products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Buy 4, get 5th FREE select dog food cans, cups & pouches","N/A",$1.19,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","2500 points when you spend $20+ on any small pet food, treats, hay & bedding","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save 25% when you buy 6+ ALL aquatic pets & live plants In stores only","N/A",$1.69,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Sale $3 Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","SHOP REPTILE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","1500 points when you spend $15+ on pet bird food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","2500 points when you spend $25+ on wild bird products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save 20% ALL dog & cat soft sided carriers","N/A",$10.39,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Buy one, get 2nd 25% off Fluval® & Nutrafin® fish food & watercare","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save 20% Petlibro Smart pet feeders & fountain","N/A",$27.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","shop aquatic","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save $20 when you pre-purchase your pet's first bath or groom","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save $10 Nutrience® SubZero® & Care, Instinct® Freeze Dried Raw Boost®, Raw Boost® & Grain Free, Nulo, Stella & Chewy's, Halo® & The Honest Kitchen dog food","N/A",$54.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Sale $49.99 BLUE BUFFALO™ Life Protection Formula™ dog food","N/A",$49.99,$66.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save 20% select cat litter 4.2-15.1 kg","N/A",$16.79,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save 25% Dog & Cat beds excludes Holiday beds","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save $6 Purina® ONE, Beneful, Dog Chow & Beyond, Red Leaf""¢, Nature's Recipe, Iams® & PEDIGREE® dog food","N/A",$28.99,$34.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Sale $6 Jay's® My Mighty Wolf & Doggy Bits dog treats","N/A",$6.00,$10.29,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Buy one, get 2nd 50% off aquatic ornaments & artificial plants excludes Holiday","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save 10% select cat litter","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","100 points on Treat of the month","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Buy one, get 2nd 30% off ALL Freshpet® & HUNGRY HUNTER frozen cat food","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Buy 3, get 2 more FREE dog & cat toys excludes select Holiday & Chance & Friends","N/A",$0.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Buy 2, get 3rd FREE ALL dog pads","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Buy one, get 2nd 30% off ALL Freshpet®, HUNGRY HUNTER™, Instinct®, K9 & Vet Chef fresh and frozen dog food","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","100 points on Treat of the month","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Save 50% Holiday Collection (excludes advent calendars, Chance & Friends, Woof & Playology)","N/A",$0.74,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Buy 8, get 2 more FREE select cat food cans, cups & pouches","N/A",$0.90,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Buy one, get 2nd 50% off reptile substrates","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Save 25% aquatic & reptile starter kits","N/A",$20.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Save 25% ALL Instachew Smart pet toys, feeders & cameras","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Buy one, get 2nd 60% off ALL Full Cheeks small pet bedding & hay","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","2X points Holiday collection","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Save $5 select cat food","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Buy one, get 2nd 40% off ALL small pet & bird food","N/A",$4.79,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","5X points on dog and cat beauty & grooming products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save 15% API® & Top Fin® fish food & watercare","N/A",$4.66,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Save 25% on Litter-Robot accessories when you buy a Litter-Robot","N/A",$16.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save $12 Royal Canin®, Hill's® Science Diet® & Purina® Pro Plan® dog food","N/A",$87.99,$99.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","2X points Holiday collection","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","5X points on dog and cat beauty & grooming products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Sale $5 Purina ONE dog treats","N/A",$5.00,$6.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save 15% API® & Top Fin® fish food & watercare","N/A",$4.66,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save $10 BLUE BUFFALO, Natural Balance®, Wellness®, Simply Nourish®, Nutrience®, CANIDAE® & NUTRO dog food, 8.1-18.1 kg","N/A",$46.99,$56.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Save $8 select cat food 4.5-7.3 kg","N/A",$39.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Buy one, get 2nd 50% off aquatic ornaments & artificial plants excludes Holiday","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save 10% select cat litter","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Buy one, get 2nd 25% off Fluval® & Nutrafin® fish food & watercare","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save $10 Nutrience® SubZero® & Care, Instinct® Freeze Dried Raw Boost®, Raw Boost® & Grain Free, Nulo, Stella & Chewy's, Halo® & The Honest Kitchen dog food","N/A",$54.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","shop aquatic","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save $20 when you pre-purchase your pet's first bath or groom","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","3X points Merrick dog food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Buy one, get 2nd 50% off dog & cat treats (excludes holiday treats)","N/A",$1.19,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
 7663493,"PetSmart","N/A","Save 15% reptile & fish premium frozen food","N/A",$2.01,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","SHOP REPTILE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save 20% ALL dog & cat soft sided carriers","N/A",$10.39,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","1500 points when you spend $15+ on pet bird food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","2500 points when you spend $25+ on wild bird products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Sale $3 Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7663493,"PetSmart","N/A","Save 20% Petlibro Smart pet feeders & fountain","N/A",$27.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","VAHDAM Merry Christmas Tea Gift Set – 9 Bags","N/A",$12.79,$19.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Onn. 10.1"" 32GB tablet Android 14","N/A",$119.98,$159.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Handy Heater Freedom Wearable Neckband Heater","N/A",$36.99,$49.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","EPSON XP-4205 wireless all-in-one colour printer","N/A",$69.98,$99.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Nintendo Switch 2 console and Mario Kart World bundle","N/A",$699.96,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Full motion TV Wall mount for 50""-86"" TVs","N/A",$48.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Smokin' Buds wireless earbuds","N/A",$19.98,$29.88,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Mediheal Teatree / Collagen / Vitamide Pad Set","N/A",$47.42,$101.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Metroid Prime 4: Beyond Donkey Kong Bananza or Pokémon Legends: Z-A for Nintendo Switch 2","N/A",$99.96,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected frames","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","MERACH Foldable Magnetic Rowing Machine 350lbs Capacity","N/A",$215.99,$399.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Onn 2K Streaming device","N/A",$38.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Hello Kitty and Friends Series 2 surprise capsule","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected activity stocking stuffers","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Meta Guest 35 128GB","N/A",$329.96,$357.46,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Bluey premium cloud slime","N/A",$4.97,$9.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Meta Quest 3 512 GB","N/A",$679.36,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Voltaren Emulgel extra strength","N/A",$12.97,$16.48,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected canvas bags with drawstring","N/A",$5.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Tylenol Cold Extra Strength night","N/A",$11.27,$12.77,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","infants' Tylenol","N/A",$8.77,$9.77,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Scoot Home! game","N/A",$4.97,$9.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Licensed ornaments","N/A",$11.48,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Surprise 3"" dragon plush","N/A",$5.97,$8.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Licensed holiday gift bags","N/A",$2.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Licensed Gift Pack Wrap 3-Pack","N/A",$7.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Thumb Wars Superstars","N/A",$4.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Licensed holiday shadow lights","N/A",$24.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","SLIMYGLOOP® Mix'Ems Shark Attack","N/A",$6.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","NIVEA toner 200 mL","N/A",$6.97,$9.26,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Packed party disposable tableware","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Tylenol Complete 24s","N/A",$12.48,$13.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Meta Quest active straps for Touch Plus controllers","N/A",$79.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Snow Boogie TRX Snow Bike","N/A",$59.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected DIY or activity stocking stuffers","N/A",$2.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Packed party disposable tableware","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Equate offset handle cane","N/A",$10.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected DIY or activity stocking stuffers","N/A",$2.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Licensed gift wrap 3-pack","N/A",$7.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Tylenol Complete daytime","N/A",$12.48,$13.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","NIVEA make up remover 125 mL","N/A",$6.97,$9.26,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Surprise 3"" dragon plush","N/A",$5.97,$8.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","1:64+ scale Supercross bike","N/A",$8.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected DIY or activity stocking stuffers","N/A",$2.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Christmas crackers 12-pack","N/A",$10.48,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected kids' activity stocking stuffers","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Children's Tylenol Complete Cold, Cough & Flu","N/A",$8.63,$9.64,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Ensure meal replacement Pack.","N/A",$13.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Tylenol Complete nighttime","N/A",$12.48,$13.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Bluey premium cloud slime","N/A",$4.97,$9.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected Nintendo Switch video games","N/A",$29.96,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","40"" Full HD Roku Smart TV","N/A",$188.00,$248.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","GOOLOO 1500A Car Jump Starter GE1500","N/A",$49.99,$149.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected frames","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected Nintendo Switch video games","N/A",$29.96,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected Frames","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","TCL 43"" 4K QLED TV","N/A",$278.00,$348.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Cate & Chloe Lauren 18k White Gold Plated 22mm Hoop Earrings","N/A",$21.99,$51.28,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Donkey Kong Bananza for Nintendo Switch 2","N/A",$99.96,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Nitro XZ320Q 31.5"" Full HD curved gaming monitor","N/A",$249.98,$329.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","HP DeskJet 4252e all-in-one printer","N/A",$89.98,$134.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Gaming chair","N/A",$159.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","One A Day multivitamin gummies 130s","N/A",$13.97,$15.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","NIVEA 3-in-1 cleansing wipes 40s","N/A",$6.97,$9.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","NIVEA cream","N/A",$6.97,$10.47,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Licensed holiday gift bags","N/A",$2.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Jamieson Vitamin K2 + D3 30s","N/A",$12.77,$14.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Flooring tiles 6-pack","N/A",$14.97,$26.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Jamieson magnesium","N/A",$15.97,$20.47,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Selected DIY or activity stocking stuffers","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","14"" Medium plush","N/A",$19.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","1:64+ scale Supercross bike or colour-changing trucks","N/A",$8.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Rainbow Loom Combo Set","N/A",$19.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Webber Naturals glucosamine 140s","N/A",$18.97,$22.27,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Christmas crackers 12-pack","N/A",$10.48,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Tylenol Cold extra strength","N/A",$11.27,$12.77,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Licensed gift wrap 3-pack","N/A",$7.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Licensed gift wrap 3-pack","N/A",$7.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","NIVEA toner","N/A",$6.97,$9.26,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","PIXMA MG3620 wireless all-in-one inkjet printer","N/A",$59.98,$79.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Save 20% ALL Top Paw® beauty & grooming supplies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","Buy one, get 2nd 50% off aquatic substrates","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7663493,"PetSmart","N/A","shop dog","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-15T00:00:00-05:00,2025-12-25T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","pet's first bath or groom","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","entire Holiday Collection","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Wild Bird Products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Small pet food, treats, hay & bedding","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","dog and cat beauty & grooming products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Holiday Seasonal","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","all aquatic cleaning & aeration products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","reptile & fish premium frozen food","N/A",$5.09,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","ALL Top Paw® beauty & grooming pet supplies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","aquatic ornaments & artificial plants","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Wellness® dog food & WHIMZEES® dog treats","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Jay's® My Mighty Wolf & Doggy Bits dog treats","N/A",$6.00,$10.29,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Purina ONE® dog treats","N/A",$5.00,$6.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Save 20% select cat litter 4.2-15.1 kg","N/A",$15.19,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Pet Bird Food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","select cat litter","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Merrick dog food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Save 15% select cat litter 2.2-12.7 kg","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7645106,"PetSmart","N/A","Purina® Pro Plan® FortiFlora Probiotic & calming care powdered dog & cat supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Head & Shoulders shampoo or conditioner","N/A",$12.12,$14.48,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Big Building Bag 80-Piece Block Set","N/A",$22.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Let's Hit Each Other with Fake Swords","N/A",$19.97,$29.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Aussie conditioner","N/A",$4.47,$5.48,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","NIVEA cleansing cream","N/A",$6.97,$9.26,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","RestoraFIBRE daily gummies 90s","N/A",$13.97,$15.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Gallo extra virgin olive oil","N/A",$9.94,$13.94,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Denim trucker jacket","N/A",$42.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Vaseline lip balms","N/A",$4.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Aveeno Positively Radiant daily moisturizer SPF 30 68 mL","N/A",$19.97,$23.47,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Men's tees 4-pack","N/A",$17.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Selected DIY or activity stocking stuffers","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Covergirl Clean Fresh Yummy lipstick","N/A",$8.97,$10.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","RITZ crackers","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Unico stuffed Manzanilla olives","N/A",$3.77,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Equate incontinence bladder control pads 39s","N/A",$13.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Joe's Tasty Travels roasted peanuts","N/A",$7.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Iyla Knit denim pants","N/A",$26.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Aveeno lotion","N/A",$8.48,$9.48,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","LEGO Fortnite building sets","N/A",$19.76,$24.86,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Better Homes & Gardens Knitted throws","N/A",$29.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Great Value liquid honey","N/A",$6.28,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Great Value naan crackers","N/A",$3.68,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Kawaii surprise capsule","N/A",$9.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Thumb Wars Superstars","N/A",$4.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Red seedless grapes","N/A",$2.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Ferrero chocolates","N/A",$7.77,$9.77,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Scotties facial tissue","N/A",$19.97,$24.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Glassware Sets","N/A",$14.97,$17.47,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Minecraft building sets","N/A",$19.76,$24.86,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Gillette women's razors","N/A",$19.77,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Tylenol Sinus Pressure & Pain 18s","N/A",$8.48,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Kids' socks 6-pack","N/A",$12.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Equate disposable underpads 40-pack","N/A",$10.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Colgate MaxFresh 3 x 150 mL","N/A",$7.97,$9.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Women's waterproof Cold-rated winter boots","N/A",$55.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Premium cloud slime","N/A",$9.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Blink Triple Care lubricating eye drops","N/A",$13.97,$17.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Adults' cozy slippers","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
@@ -205,173 +123,105 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7667973,"Walmart","N/A","Hugmees 10"" Bluey plush","N/A",$14.97,$17.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Glucerna meal replacement","N/A",$13.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Tylenol Children's Complete 100 mL","N/A",$8.63,$9.64,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Great Value cooked shrimp","N/A",$8.96,$10.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Janes Pub Style breaded chicken","N/A",$7.97,$10.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Wrapping paper or ornament box","N/A",$10.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Just My Style ABC beads","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Pillsbury ready-to-bake breads","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","two-bite brownies cinnamon rolls 595 g","N/A",$5.96,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Surprise 3"" dragon plush","N/A",$5.97,$8.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Friskies Party Mix cat treats.","N/A",$1.98,$2.78,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Licensed body pillows","N/A",$19.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Our Finest 35% triple cream brie","N/A",$12.98,$15.08,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","100-Count peel & stick gift tags","N/A",$1.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Creator Surprising","N/A",$13.86,$16.86,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Aveeno Positively Radiant daily moisturizer SPF 15","N/A",$19.97,$23.47,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Purex Laundry detergent","N/A",$9.27,$15.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","132 L Latch tote","N/A",$29.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","ZINUS frame with headboard","N/A",$94.47,$104.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Leclerc Célébration cookies","N/A",$3.98,$4.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Oral-B iO2 Toothbrush, Refill Brush Heads 4-pack","N/A",$49.86,$69.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","1.7 L glass kettle","N/A",$29.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","D'Italiano sliced bread","N/A",$3.28,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Great Value nuts","N/A",$18.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Beautiful 14-Cup programmable coffee maker","N/A",$69.98,$99.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Hungry-Man or Hungry-Man XL frozen entrees","N/A",$4.47,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Aveeno hand cream 97 mL","N/A",$8.48,$9.48,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Surprise 3"" dragon plush","N/A",$5.97,$8.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Maybelline Lash Sensational Mascara","N/A",$12.96,$14.96,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","100-Count peel & stick gift tags","N/A",$1.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Old Spice Batman Gift Sets with Deodorant 85 g and Body Wash 473 ml","N/A",$9.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Aveeno Positively Radiant toner 200 mL","N/A",$10.97,$12.86,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Children's Tylenol","N/A",$8.77,$9.77,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Thumb Wars Superstars","N/A",$4.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Dr. Squatch deodorant","N/A",$15.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Kids' graphic tees","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Enfagrow A+ toddler nutritional powder","N/A",$34.97,$39.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","K-Express Essentials single-serve coffee maker","N/A",$69.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Iyla Crew neck sweater tee","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Meta Quest 3S 256GB","N/A",$449.96,$506.96,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Schick Hydro men's shave holiday gift set.","N/A",$19.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Becel Plant Butter Bricks or Sticks or Margarine","N/A",$3.98,$4.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Your Fresh Market™ real cream bar cake","N/A",$14.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Selected table top frames.","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Friskies Party Mix cat treats","N/A",$1.98,$2.78,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Monsieur Gustav gouda","N/A",$5.37,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Hello Kitty Press N' Pop Diary","N/A",$19.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Crinkle-crepe sleeveless top","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Go4Green 100-piece Cutlery Pack or Great Value Eco napkins 500s","N/A",$5.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Webber Naturals omega","N/A",$18.97,$22.27,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Coca-Cola Pop","N/A",$3.97,$5.88,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Pepcid Complete tablets","N/A",$21.97,$25.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Pine-Sol Cleaners","N/A",$3.97,$6.27,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","NIVEA day cream with SPF 15","N/A",$6.97,$10.47,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Reebok Boys' performance boxer briefs 5-pack","N/A",$18.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Ouchies Husky","N/A",$64.97,$84.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Licensed holiday gift bags","N/A",$2.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","All-purpose potatoes","N/A",$3.94,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Equate incontinence guard for men 52s","N/A",$13.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","essie nail polish","N/A",$9.86,$10.96,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Aveeno oat milk blend conditioner","N/A",$11.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Ozark Trail Adults' waterproof cold-rated winter boots","N/A",$65.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Aveeno Baby newborn balm 141 g","N/A",$12.47,$13.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Maybelline Sky High Mascara.","N/A",$12.96,$14.96,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Quality Street tin","N/A",$15.97,$24.62,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","RITZ crackers","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Surprise 3"" dragon plush Each.","N/A",$5.97,$8.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Country Harvest Farmhouse white or whole wheat bread","N/A",$2.98,$3.67,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Mama Surprise! Families Mama's House","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Selected kids' activity stocking stuffers","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Always Discreet incontinence underwear","N/A",$52.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Licensed glassware gift sets","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Magical Potions or Glowing Volcano Laboratory","N/A",$3.98,$4.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Gillette men's razors","N/A",$19.77,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Portable rechargeable touch lamp","N/A",$24.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Printed Y-neck roll-cuff top","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Elite strap with battery","N/A",$179.96,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Licensed gift wrap 3-pack.","N/A",$7.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Infants' Tylenol Fever & Sore Throat 24 mL","N/A",$8.63,$9.64,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Cheeky Chonks Reversible Plush","N/A",$4.97,$9.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Selected DIY or activity stocking stuffers","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Thumb Wars Superstars","N/A",$4.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","The Grinch 2-in-1 window art","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Covergirl Clean Fresh Yummy lipstick","N/A",$8.97,$10.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Licensed gift wrap 3-pack","N/A",$7.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Selected DIY or activity Stocking Stuffers","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Licensed holiday shadow lights","N/A",$24.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Winged dinosaur toy with sound","N/A",$49.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Blast and Roar","N/A",$34.97,$39.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Meta quest 3/3S compact charging dock","N/A",$79.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Great Value whipped topping 1 L","N/A",$2.97,$3.73,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Your Fresh Market™ potatoes","N/A",$4.44,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","72"" hockey net","N/A",$89.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Chapman's Super Sandwich novelties 12-pack 120 mL","N/A",$5.97,$6.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Aussie conditioner","N/A",$4.47,$5.48,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","NIVEA cleansing cream","N/A",$6.97,$9.26,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Surprise capsule","N/A",$6.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","RestoraFIBRE daily gummies 90s","N/A",$13.97,$15.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Gallo extra virgin olive oil","N/A",$9.94,$13.94,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7667973,"Walmart","N/A","Knorr Sidekicks","N/A",$1.67,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Swiffer duster starter kit","N/A",$14.97,$18.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Pringles","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Christie mini Snak Paks cookies 6- Pack","N/A",$2.48,$2.98,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","eos Holiday lip balm 3-pack","N/A",$9.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Onyx Professional bath fizzer jar gift set","N/A",$19.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Great Value frozen fruit","N/A",$4.66,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Country Harvest Farmhouse white wheat bread","N/A",$2.98,$3.67,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Licensed silk touch throws","N/A",$15.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Pringles","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Redpath sugar","N/A",$2.77,$3.77,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Yoplait Source protein yogurt tub","N/A",$2.97,$3.27,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Schneiders Pepperettes","N/A",$7.97,$12.47,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7667973,"Walmart","N/A","Golden pineapple","N/A",$2.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Micro Mini Plus LED Scooter","N/A",N/A,$124.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Baby Hoodies","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Little Live Pets - My Really Real Puppy Luna the Samoyed","N/A",N/A,$89.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Little People Musical Zoo Train","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Fairy-Tale Princess Dress","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","2-in-1 Wooden Doll Cot with Cabinet","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","ALEX Junior Artist Case","N/A",N/A,$34.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Marvel Spider-Man Glow FX Mask","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Barbie Pink Passport Adventure Set","N/A",N/A,$99.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Play-Doh Rainbow Swirl Ice Cream Play Set","N/A",N/A,$32.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","14"" Sleepover Pink Heart Bear","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Hasbro Rebounce","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE Battle at Arlong Park","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Chelsea 2-in-1 Camper","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Dazzling Beauty Vanity Table","N/A",N/A,$64.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Alex My First Mandala Spiral Studio","N/A",N/A,$26.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Lion King - Simba Large Plush","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE Buggy the Clown's Circus Tent","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Alex Hug Me 15.5"" Polar Bear","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Alex My First Spin Art","N/A",N/A,$26.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","My First Embroidery Kit","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Electronic Arcade Down The Clown","N/A",N/A,$69.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Steffi Welcome Surprise Family Set","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Youth Oversize Hoodie","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Pink Hearts","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Kids Hoodies","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Disney Villains Maleficent's and Cruella De Vil's Dresses","N/A",N/A,$104.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Grey Polar Bear Flannel Fleece Onesies","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Marvellous Mosaics","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Steffi Love Animal World","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Disney 101 Dalmatians - Medium Plush Pongo","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Harry Potter™ Quality Quidditch™ Supplies & Ice Cream Parlour","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Magic Adventures Binoculars","N/A",N/A,$89.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Alex Hug Me 15.5"" Panda","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Blokees Transformers- Galaxy Version Wave 2 - English Edition Assortment","N/A",N/A,$12.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Neon Vector Scooter","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Harry Potter™ Book Nook: Hogwarts™ Express","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® DUPLO® Disney Anna and Elsa's Frozen Castle Party","N/A",N/A,$89.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","5 Surprise My Mini Baby Series 2","N/A",N/A,$15.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Bburago Formula 1 Racing Model Kits 1:24 Assortment","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","WWE Wrestle Mania Elite Collection Build-A-Figure Assortment","N/A",N/A,$37.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Play-Doh Holiday Advent Calendar","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","BABY born Emma Doll","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Twinkling Tea Lights","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® City Race Car and Car Carrier Truck","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Creator Retro Telephone","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Peppa Pig Peppa's Family of Five Figure Set","N/A",N/A,$21.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Heroes of Goo Jit Zu Ultra Goo Collector's Luffy Figure","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Marvel Legends Series Spider-Man: Across the Spider-verse Collectible 6"" Figure Assortment","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Marvel Spider-Man VenomVersus Marvel's Venom Strike Blaster","N/A",N/A,$42.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","BABY born Shoes with Pins","N/A",N/A,$6.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE Windmill Village Hut","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Creator Playful Cat","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Star Wars™ Clone Trooper™ & Battle Droid™ Battle Pack","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","VTech® Discover & Learn Tablet","N/A",N/A,$22.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Blokees Transformers- Galaxy Version Wave 5 - English Edition Assortment","N/A",N/A,$12.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Fisher-Price Wooden Treehouse Ball Run","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Steffi Love Welcome Twins","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Adult: Oversize Hoodie","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Fisher-Price Little People Fire Truck","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Transformers Cyberworld Cyber Changers Assortment","N/A",N/A,$17.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","ALEX My First Deluxe Tools 44pcs Set","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Micro Mini2Grow Deluxe LED Scooter","N/A",N/A,$179.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Barbie Coffee Shop Play Set","N/A",N/A,$54.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Zuru Rainbocorns Mamacorn Surprise","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","BABY born - High Chair","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","UNO Super Mario","N/A",N/A,$11.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Blokees Transformers-Galaxy Version Wave 1 - English Edition Assortment","N/A",N/A,$12.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Transformers Authentics Alpha 7"" Action Figure Assortment","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Jurassic World Mega Roar Assortment","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Nerf Loadout Shadowspeed Recon Blaster","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Creator Retro Camera","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Plushies 18"" Plush Toy - Yellow Duck","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Marvel Avengers Hulk Gamma Smash Fists","N/A",N/A,$37.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Minecraft Sniffer Action Figure","N/A",N/A,$41.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Zuru Pets Alive Mama Bunny & Baby Surprise","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Kids 2-Piece Pajamas Buffalo Bear","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","XSHOT Skins Pro Series Longshot Blaster (40 Darts)","N/A",N/A,$54.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Barbie Party Unboxed Doll Assortment","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","20pc Safari Bucket","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Ferrari 499P - Hypercar","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Step-To-Play Junior Piano Mat","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Marvel Spider-Man Venom Versus Spider-Man Liquid Shifter Action Figure with Accessories","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Baby 2-Piece Pajamas Buffalo Bear","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LeapFrog® 4-in-1 Discovery House","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Nerf N Series Cobaltfury Dart Blaster (24 darts)","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Hot Wheels Bike - 16 inch","N/A",N/A,$169.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Baby Hoodies","N/A",N/A,$25.00,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Cars - Race Ready Car Wash Play Set with Lightning McQueen","N/A",N/A,$41.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Zuru Pets Alive Smitten Kittens","N/A",N/A,$34.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Ideal Games Kids Scramble","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Pink Princess Shoes","N/A",N/A,$9.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Barbie Pop Reveal Doll Assortment","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Royal Princess Dress","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","VTech® Count & Win Sports Center","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","UNO Quatro","N/A",N/A,$31.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Animal Crossing™ Able Sisters Clothing Shop","N/A",N/A,$56.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Onesie With zip: Buffalo Style","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","2-Piece Pajamas Buffalo Bear","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Star Wars™ Forge Kyber Core Customizable Lightsaber Assortment","N/A",N/A,$27.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","XSHOT Pro Motorized Piston Pump (40 darts)","N/A",N/A,$129.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth Super Colossal Tyrannosaurus Rex Action Figure","N/A",N/A,$119.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Yvolution Glider Luna Go Ride-On","N/A",N/A,$149.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Wooden Doll High Chair, Little Flora","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Hot Wheels Worldwide Basic Car Assortment","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Disney Mickey 14"" Plush","N/A",N/A,$14.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Xceler8 R/C Rally Panther 1:10","N/A",N/A,$119.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","BABY born Pink Coat Set 43cm","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Doll Tandem Twin Stroller, Mint Heart","N/A",N/A,$34.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Speed Champions Mercedes-AMG F1® W15 Race Car","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Nerf N Series Infinite Blaster (80 darts)","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth Gigantic Thrashers Tyrannotitan Dinosaur Figure","N/A",N/A,$42.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Jenga","N/A",N/A,$22.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Pictionary Air 2","N/A",N/A,$32.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Nerf Loadout Arctic Zerostriker Blaster","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","UNO Moana 2","N/A",N/A,$11.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Wooden Doll Cradle, Little Flora","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Creator Flatbed Truck with Helicopter","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Fisher-Price Wooden Vehicle Pack","N/A",N/A,$14.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Minecraft 100pc XXL Puzzle","N/A",N/A,$21.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Micro Sprite LED Scooter","N/A",N/A,$199.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Butterfly Bead Case","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Star Wars™ Millennium Falcon™","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","My First Sewing Kit","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Gravitrax Star Wars Death Star","N/A",N/A,$139.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Pokémon Labyrinth","N/A",N/A,$42.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Blokees Transformers- Galaxy Version Wave 6 - English Edition Assortment","N/A",N/A,$12.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Fisher-Price Mix & Learn Music Table","N/A",N/A,$89.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Peppa Pig Peppa's Ice Cream Truck","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Adult Hoodies","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth T-Rex Rage N Roar Mask","N/A",N/A,$75.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Snow Princess Dress","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® City Yellow Construction Wheel Loader","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Kids Hoodies","N/A",N/A,$25.00,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE The Going Merry Pirate Ship","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Onesie with zip: Buffalo Style","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","VTech® Baby Explore & Move with Puppy","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Dragonfly Lights 10pk","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","XSHOT Insanity Smoking Barrel Blaster (72 darts)","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","VTech® Explore & Write Deluxe Activity Desk - Pink","N/A",N/A,$99.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","VTECH® Get Growing Tractor & Mower Ride-On","N/A",N/A,$64.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Kids: Oversize Hoodie","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LEGO® Creator Typewriter with Flowers","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth Bite N Blast Mosasaurus Action Figure and Mini Dilophosaurus","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Hasbro Games Classic Mouse Trap","N/A",N/A,$36.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Play-Doh Cupcake Tower Play Set","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","VTech® Baby On-The-Move Activity Ball","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","LeapFrog® Hero Helpers Walkie Talkies","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Men's 2-Piece Pajamas Buffalo Bear","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7628944,"Toys ""R"" Us","N/A","Adult Hoodies","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Kinder holiday chocolate","N/A",$6.27,$7.47,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Denim trucker jacket","N/A",$42.98,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Licensed ornaments","N/A",$11.48,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Jamieson vitamin C 100s","N/A",$12.77,$14.97,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7667973,"Walmart","N/A","Vaseline lip balms","N/A",$4.97,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7671820,"Toys ""R"" Us","N/A","Nerf N Series Infinite Blaster","N/A",$35.97,$59.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7671820,"Toys ""R"" Us","N/A","Nerf Zombie Strikeout Dart Blaster (8 Darts)","N/A",$17.47,$24.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7671820,"Toys ""R"" Us","N/A","Vintage Poster Faye Valentine","N/A",$29.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
@@ -522,7 +372,225 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7671820,"Toys ""R"" Us","N/A","Nerf Pro Gelfire Ignitor Blaster","N/A",$11.87,$16.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7671820,"Toys ""R"" Us","N/A","Alex My First Spin Art","N/A",$18.87,$26.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7671820,"Toys ""R"" Us","N/A","Nerf Minecraft Pillager's Crossbow Dart Blaster","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679460,"Familiprix","N/A","Gaviscon Regular fruit blend soothing antiacid","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Micro Mini Plus LED Scooter","N/A",N/A,$124.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Baby Hoodies","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Little Live Pets - My Really Real Puppy Luna the Samoyed","N/A",N/A,$89.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Magic Adventures Binoculars","N/A",N/A,$89.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Alex Hug Me 15.5"" Panda","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Blokees Transformers- Galaxy Version Wave 2 - English Edition Assortment","N/A",N/A,$12.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Harry Potter™ Book Nook: Hogwarts™ Express","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® DUPLO® Disney Anna and Elsa's Frozen Castle Party","N/A",N/A,$89.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","5 Surprise My Mini Baby Series 2","N/A",N/A,$15.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Bburago Formula 1 Racing Model Kits 1:24 Assortment","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","WWE Wrestle Mania Elite Collection Build-A-Figure Assortment","N/A",N/A,$37.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","BABY born Emma Doll","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Twinkling Tea Lights","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® City Race Car and Car Carrier Truck","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Creator Retro Telephone","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Peppa Pig Peppa's Family of Five Figure Set","N/A",N/A,$21.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Heroes of Goo Jit Zu Ultra Goo Collector's Luffy Figure","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Marvel Legends Series Spider-Man: Across the Spider-verse Collectible 6"" Figure Assortment","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Marvel Spider-Man VenomVersus Marvel's Venom Strike Blaster","N/A",N/A,$42.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","BABY born Shoes with Pins","N/A",N/A,$6.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE Windmill Village Hut","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Star Wars™ Clone Trooper™ & Battle Droid™ Battle Pack","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","VTech® Discover & Learn Tablet","N/A",N/A,$22.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Fisher-Price Wooden Treehouse Ball Run","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Steffi Love Welcome Twins","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Adult: Oversize Hoodie","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Fisher-Price Little People Fire Truck","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","ALEX My First Deluxe Tools 44pcs Set","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Micro Mini2Grow Deluxe LED Scooter","N/A",N/A,$179.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Barbie Coffee Shop Play Set","N/A",N/A,$54.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Zuru Rainbocorns Mamacorn Surprise","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","BABY born - High Chair","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Blokees Transformers-Galaxy Version Wave 1 - English Edition Assortment","N/A",N/A,$12.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Transformers Authentics Alpha 7"" Action Figure Assortment","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Jurassic World Mega Roar Assortment","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Nerf Loadout Shadowspeed Recon Blaster","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Plushies 18"" Plush Toy - Yellow Duck","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Marvel Avengers Hulk Gamma Smash Fists","N/A",N/A,$37.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Minecraft Sniffer Action Figure","N/A",N/A,$41.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Zuru Pets Alive Mama Bunny & Baby Surprise","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Kids 2-Piece Pajamas Buffalo Bear","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","XSHOT Skins Pro Series Longshot Blaster (40 Darts)","N/A",N/A,$54.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","20pc Safari Bucket","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Ferrari 499P - Hypercar","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Step-To-Play Junior Piano Mat","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Marvel Spider-Man Venom Versus Spider-Man Liquid Shifter Action Figure with Accessories","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Baby 2-Piece Pajamas Buffalo Bear","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LeapFrog® 4-in-1 Discovery House","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Nerf N Series Cobaltfury Dart Blaster (24 darts)","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Hot Wheels Bike - 16 inch","N/A",N/A,$169.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Baby Hoodies","N/A",N/A,$25.00,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Cars - Race Ready Car Wash Play Set with Lightning McQueen","N/A",N/A,$41.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Pink Princess Shoes","N/A",N/A,$9.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Barbie Pop Reveal Doll Assortment","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Royal Princess Dress","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","VTech® Count & Win Sports Center","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","UNO Quatro","N/A",N/A,$31.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Animal Crossing™ Able Sisters Clothing Shop","N/A",N/A,$56.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Onesie With zip: Buffalo Style","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Star Wars™ Forge Kyber Core Customizable Lightsaber Assortment","N/A",N/A,$27.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","XSHOT Pro Motorized Piston Pump (40 darts)","N/A",N/A,$129.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth Super Colossal Tyrannosaurus Rex Action Figure","N/A",N/A,$119.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Yvolution Glider Luna Go Ride-On","N/A",N/A,$149.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Wooden Doll High Chair, Little Flora","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Disney Mickey 14"" Plush","N/A",N/A,$14.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Xceler8 R/C Rally Panther 1:10","N/A",N/A,$119.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","BABY born Pink Coat Set 43cm","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Speed Champions Mercedes-AMG F1® W15 Race Car","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Nerf N Series Infinite Blaster (80 darts)","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth Gigantic Thrashers Tyrannotitan Dinosaur Figure","N/A",N/A,$42.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Pictionary Air 2","N/A",N/A,$32.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Nerf Loadout Arctic Zerostriker Blaster","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","UNO Moana 2","N/A",N/A,$11.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Creator Flatbed Truck with Helicopter","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Fisher-Price Wooden Vehicle Pack","N/A",N/A,$14.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Micro Sprite LED Scooter","N/A",N/A,$199.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Butterfly Bead Case","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Star Wars™ Millennium Falcon™","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","My First Sewing Kit","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Gravitrax Star Wars Death Star","N/A",N/A,$139.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Pokémon Labyrinth","N/A",N/A,$42.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Blokees Transformers- Galaxy Version Wave 6 - English Edition Assortment","N/A",N/A,$12.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Peppa Pig Peppa's Ice Cream Truck","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Adult Hoodies","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth T-Rex Rage N Roar Mask","N/A",N/A,$75.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Snow Princess Dress","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® City Yellow Construction Wheel Loader","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE The Going Merry Pirate Ship","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Onesie with zip: Buffalo Style","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","VTech® Baby Explore & Move with Puppy","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Dragonfly Lights 10pk","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","XSHOT Insanity Smoking Barrel Blaster (72 darts)","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","VTech® Explore & Write Deluxe Activity Desk - Pink","N/A",N/A,$99.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Kids: Oversize Hoodie","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Creator Typewriter with Flowers","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Jurassic World Rebirth Bite N Blast Mosasaurus Action Figure and Mini Dilophosaurus","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Hasbro Games Classic Mouse Trap","N/A",N/A,$36.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Play-Doh Cupcake Tower Play Set","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","VTech® Baby On-The-Move Activity Ball","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LeapFrog® Hero Helpers Walkie Talkies","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Men's 2-Piece Pajamas Buffalo Bear","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Adult Hoodies","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","ALEX My First 10pcs Power Drill Set","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Electronic Arcade Hover Shot","N/A",N/A,$51.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","BABY born Night Onesie 43cm","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","2-in-1 Wooden Doll Cot with Cabinet","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","ALEX Junior Artist Case","N/A",N/A,$34.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Marvel Spider-Man Glow FX Mask","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Barbie Pink Passport Adventure Set","N/A",N/A,$99.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","14"" Sleepover Pink Heart Bear","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Hasbro Rebounce","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE Battle at Arlong Park","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Chelsea 2-in-1 Camper","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Dazzling Beauty Vanity Table","N/A",N/A,$64.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Alex My First Mandala Spiral Studio","N/A",N/A,$26.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Lion King - Simba Large Plush","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® ONE PIECE Buggy the Clown's Circus Tent","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Alex Hug Me 15.5"" Polar Bear","N/A",N/A,$29.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Alex My First Spin Art","N/A",N/A,$26.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","My First Embroidery Kit","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Electronic Arcade Down The Clown","N/A",N/A,$69.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Steffi Welcome Surprise Family Set","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Youth Oversize Hoodie","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Pink Hearts","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Kids Hoodies","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Disney Villains Maleficent's and Cruella De Vil's Dresses","N/A",N/A,$104.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Grey Polar Bear Flannel Fleece Onesies","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Marvellous Mosaics","N/A",N/A,$16.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Steffi Love Animal World","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Disney 101 Dalmatians - Medium Plush Pongo","N/A",N/A,$19.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Fairy-Tale Princess Dress","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Nerf Jadestrike","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Crazy Forts Mega Kit","N/A",N/A,$99.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Fisher-Price® Little People Wildlife Train & Trek Set","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Plushies 18"" Plush Toy - Tan Highland Cow","N/A",N/A,$24.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Barbie Malibu 2-Storey Dollhouse","N/A",N/A,$149.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LeapFrog® LeapMove Active Learning Video Game System","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Blue Princess Dress","N/A",N/A,$39.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","XSHOT Insanity Motorized Rage Fire","N/A",N/A,$79.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® City F1® Garage & Mercedes-AMG & Alpine Cars","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Steffi Sparkle Unicorn with Dolls","N/A",N/A,$44.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Steffi Love Baby World","N/A",N/A,$59.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Adult Onesie with zip: Buffalo Style","N/A",N/A,$32.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Marvel Spider-Man Epic World of Action VenomVersus Venomsaurus Rex 16"" Action Figure","N/A",N/A,$49.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Harry Potter™ Hogwarts™ Castle: Herbology Class","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Minecraft Exploding R/C Creeper","N/A",N/A,$99.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Star Wars™ The Crimson Firehawk™","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","VTech® Explore & Learn Smart TV","N/A",N/A,$34.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","LEGO® Star Wars™ 327th Star Corps Clone Troopers™ Battle Pack","N/A",N/A,N/A,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7628944,"Toys ""R"" Us","N/A","Gravitrax Junior Starter-Set Lion King","N/A",N/A,$64.99,"N/A",each,"N/A",2025-11-27T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","WHOLE BLENDS, IRISH SPRING or SOFTSOAP, Selected products","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","DOVE or DOVE MEN CARE, Selected anti-perspirants","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","SPONGE TOWELS, or Ultra Pro, Paper towels, 3 double rolls","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","POUR EXTRA ET REGULIERE DOWNY UNSTOPABLES or GAIN FIREWORKS In-wash scent booster, 379 g","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Essentiel double-tipped cotton swabs","N/A",$3.79,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","HUGGIES,Baby wipes, recharges selected refills","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","""BIOMEDIC, Decongestant nasal spray, 30 ml","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","ESSENTIEL Sea salt, 2 kg","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Good Start Plus Iron fortified milk-based infant formula 0 months + Powder 1.02kg","N/A",$49.99,$63.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","L'Oréal Paris Excellence Creme Triple Protection Colour permanent hair dye #E Light Brown","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Cashmere 2 ply bathroom tissue rolls 24un","N/A",$9.77,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Dawn Ultra original scent dishwashing liquid 473ml","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","TYLENOL Rhume, Sinus ou Rhume et Sinus/Cold, Sinus or Cold and Sinus, 40 units …","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Gillette Mach-3 cartridges","N/A",$27.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","BIOMEDIC, Vapourizing cold rub ointment, 135 ml","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","DOVE MEN CARE","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Ricola nasal congestion relief lozenges - Icy Menthol Extra Strength","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","HYDRASENSE Daily nasal care, 100 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","IRISH SPRING Selected products","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Chloraseptic sore throat spray cherry flavour 177ml","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","GAVISCON For acid reflux and heartburn selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Pearl Bracelet","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","CÉPACOL or STREPSILS, 24 or 36 units","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","SAMBUCOL, Anti-viral flu care syrup, 230 ml","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","EUCERIN, Selected skin care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","COLGATE Selected buccal products","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","BON DÉPART Powdered infant formula, 1,02 kg","N/A",$49.99,$63.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Essentiel overnight whitening denture cleanser tablets Mint Flavor 96un","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","JOHNSON'S, Selected baby care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","BIOMEDIC, Lozenges, 16 units","N/A",$3.79,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","VITALUX or SYSTANE Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","DEPEND Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","BIOMEDIC Diarrhea relief, 2 mg, 24 caplets","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","ROBITUSSIN, Selected syrups","N/A",$15.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Boost High Protein meal replacement Chocolate","N/A",$12.99,$16.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","ESSENTIEL, Sea salt, 2 kg","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","NEILMED, Sinus Rinse Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Poise long length maximum absorbency pads","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Biomedic muscle & back pain platinum relief caplets 18un","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","TYLENOL, Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","COLGATE, Selected buccal products","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","ESSENTIEL, Tissues, 9 packs","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","TRESEMMÉ, Selected hair products or ESSENTIEL, Sea salt, 2 kg","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","BIOMEDIC, Cold and sinus relief combo or Extra strenght sinus medication, 20 caplets","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Sudocrem for treatment of diaper rash and minor skin irritations","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","DOVE, Body wash, 325 ml","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","ADVIL, Ibuprofen, Pediatric drops, children's or Junior, selected products","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","ENFAMIL A+, Infant formula, ready to feed, 18 x 237 ml","N/A",$69.49,$70.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","NICORETTE Nicotin gum, 2 mg or 4 mg, 30 pieces","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","CETAPHIL BABY Selected baby care products","N/A",$12.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","DOVE or DOVE MEN CARE, Selected anti-perspirants","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","INCOGNITO Selected products","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","SLEEP-EZE or NYTOL, Selected products","N/A",$6.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","SENSODYNE or Selected buccal products","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Poligrip value size strong hold denture adhesive cream","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","BENYLIN, Selected syrups, 250 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Nescafé Rich instant coffee 170g","N/A",$6.99,$11.49,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","NEILMED, Sinus Rinse, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","BIOMEDIC, Cough lozenges, 30 units","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","TYLENOL Acetaminophen for children, 160 mg, 20 tablets","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","RICOLA Lozenges, 34 or 45 units","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Advil Cold & Sinus analgesic and decongestant non-drowsy caplets 40un","N/A",$14.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","VICKS, NyQuil or DayQuil Complete Cold and flu, selected sizes","N/A",$16.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","BIOMEDIC Cough and congestion Syrup, 100 ml","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679458,"Familiprix","N/A","Tylenol Infants fever & pain grape oral suspension","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7679460,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7679460,"Familiprix","N/A","BIOMEDIC Diarrhea relief, 2 mg, 24 caplets","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7679460,"Familiprix","N/A","BIOMEDIC Vitamin C, 1000 mg, 15 effervescent tablets","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
@@ -570,6 +638,7 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7679460,"Familiprix","N/A","SYSTANE Selected lubricant eye drops","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7679460,"Familiprix","N/A","RICOLA Lozenges 34 or 45 units","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7679460,"Familiprix","N/A","Chloraseptic sore throat spray cherry flavour 177ml","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7679460,"Familiprix","N/A","Gaviscon Regular fruit blend soothing antiacid","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7672575,"Dufresne","N/A","Nightstand","N/A",$159.88,N/A,"N/A",each,"N/A",2025-12-19T00:00:00-05:00,2026-01-06T23:59:59-05:00,"N/A",K1P1J1
 7672575,"Dufresne","N/A","Cozy Gunmetal","N/A",$1199.88,N/A,"N/A",each,"N/A",2025-12-19T00:00:00-05:00,2026-01-06T23:59:59-05:00,"N/A",K1P1J1
 7672575,"Dufresne","N/A","Stella Dresser","N/A",$1499.99,N/A,"N/A",each,"N/A",2025-12-19T00:00:00-05:00,2026-01-06T23:59:59-05:00,"N/A",K1P1J1
@@ -870,113 +939,27 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7679448,"Familiprix","N/A","PHILIPS for kids by SONICARE Gift set Battery toothbrush, 5 pieces","N/A",$24.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7679448,"Familiprix","N/A","ESSENTIEL, Mouthwash, 1 litre","N/A",$5.79,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
 7679448,"Familiprix","N/A","AVÈNE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","WHOLE BLENDS, IRISH SPRING or SOFTSOAP, Selected products","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","DOVE or DOVE MEN CARE, Selected anti-perspirants","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","SPONGE TOWELS, or Ultra Pro, Paper towels, 3 double rolls","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","POUR EXTRA ET REGULIERE DOWNY UNSTOPABLES or GAIN FIREWORKS In-wash scent booster, 379 g","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Essentiel double-tipped cotton swabs","N/A",$3.79,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","HUGGIES,Baby wipes, recharges selected refills","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","""BIOMEDIC, Decongestant nasal spray, 30 ml","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","ESSENTIEL Sea salt, 2 kg","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Good Start Plus Iron fortified milk-based infant formula 0 months + Powder 1.02kg","N/A",$49.99,$63.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","L'Oréal Paris Excellence Creme Triple Protection Colour permanent hair dye #E Light Brown","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Cashmere 2 ply bathroom tissue rolls 24un","N/A",$9.77,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Dawn Ultra original scent dishwashing liquid 473ml","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","TYLENOL Rhume, Sinus ou Rhume et Sinus/Cold, Sinus or Cold and Sinus, 40 units …","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Gillette Mach-3 cartridges","N/A",$27.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","BIOMEDIC, Vapourizing cold rub ointment, 135 ml","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","DOVE MEN CARE","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Ricola nasal congestion relief lozenges - Icy Menthol Extra Strength","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","HYDRASENSE Daily nasal care, 100 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","IRISH SPRING Selected products","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Chloraseptic sore throat spray cherry flavour 177ml","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","GAVISCON For acid reflux and heartburn selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Pearl Bracelet","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","CÉPACOL or STREPSILS, 24 or 36 units","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","SAMBUCOL, Anti-viral flu care syrup, 230 ml","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","EUCERIN, Selected skin care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","COLGATE Selected buccal products","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","BON DÉPART Powdered infant formula, 1,02 kg","N/A",$49.99,$63.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Essentiel overnight whitening denture cleanser tablets Mint Flavor 96un","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","JOHNSON'S, Selected baby care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","BIOMEDIC, Lozenges, 16 units","N/A",$3.79,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","VITALUX or SYSTANE Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","DEPEND Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","BIOMEDIC Diarrhea relief, 2 mg, 24 caplets","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","ROBITUSSIN, Selected syrups","N/A",$15.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Boost High Protein meal replacement Chocolate","N/A",$12.99,$16.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","ESSENTIEL, Sea salt, 2 kg","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","NEILMED, Sinus Rinse Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Poise long length maximum absorbency pads","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Biomedic muscle & back pain platinum relief caplets 18un","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","TYLENOL, Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","COLGATE, Selected buccal products","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","ESSENTIEL, Tissues, 9 packs","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","TRESEMMÉ, Selected hair products or ESSENTIEL, Sea salt, 2 kg","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","BIOMEDIC, Cold and sinus relief combo or Extra strenght sinus medication, 20 caplets","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Sudocrem for treatment of diaper rash and minor skin irritations","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","DOVE, Body wash, 325 ml","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","ADVIL, Ibuprofen, Pediatric drops, children's or Junior, selected products","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","ENFAMIL A+, Infant formula, ready to feed, 18 x 237 ml","N/A",$69.49,$70.99,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","NICORETTE Nicotin gum, 2 mg or 4 mg, 30 pieces","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","CETAPHIL BABY Selected baby care products","N/A",$12.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","DOVE or DOVE MEN CARE, Selected anti-perspirants","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","INCOGNITO Selected products","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","SLEEP-EZE or NYTOL, Selected products","N/A",$6.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","SENSODYNE or Selected buccal products","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Poligrip value size strong hold denture adhesive cream","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","BENYLIN, Selected syrups, 250 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Nescafé Rich instant coffee 170g","N/A",$6.99,$11.49,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","NEILMED, Sinus Rinse, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","BIOMEDIC, Cough lozenges, 30 units","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","TYLENOL Acetaminophen for children, 160 mg, 20 tablets","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","RICOLA Lozenges, 34 or 45 units","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Advil Cold & Sinus analgesic and decongestant non-drowsy caplets 40un","N/A",$14.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","VICKS, NyQuil or DayQuil Complete Cold and flu, selected sizes","N/A",$16.49,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","BIOMEDIC Cough and congestion Syrup, 100 ml","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7679458,"Familiprix","N/A","Tylenol Infants fever & pain grape oral suspension","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","LG White Rear Control Energy Star Dryer with Sensor Dry (7.3 Cu. Ft) - DLE6100W","N/A",$695.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Hippopottoman - Brown","N/A",$99.00,$199.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Huston 46"" Coffee Table - Grey","N/A",$249.00,$349.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","LG","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Stormy Ridge 3 - Piece Queen Storage Bed - Slate Black, Chicory","N/A",$999.00,$1299.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Benning Recliner - Dark Brown","N/A",$499.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","In Harmony - Kingsdown Concert Medium Tight Top Queen Mattress","N/A",$649.00,$1299.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","LG Stainless Steel Dishwasher with 3rd Rack - LDFC3532S","N/A",$645.00,$695.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","2-Slice Extra Wide Slot Toaster - Black","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Beautyrest World Class Majesty Medium Queen Mattress","N/A",$899.00,$1799.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Reena Pop up Sofa Bed - Grey","N/A",$799.00,$1599.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","LG White Smart Wi-Fi Enabled Steam Front Load Washer with AI Direct Drive Technology (5.2 Cu.Ft) WM3600HWA","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","AI Sensor Dry TM 7.4 Cu. Ft. Dryer","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Verissimo Leather Sofa - Silver","N/A",$799.00,$1599.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Hearst 7-Piece Extendable Trestle Dining Set - Dark Oak","N/A",$1799.00,$2499.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Reindeer Storage Ottoman - Brown","N/A",$99.00,$199.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Nyla 5-Piece Sintered Stone Round Dining Set - White, Black, Grey","N/A",$749.00,$1099.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Samsung 75"" 4K CUHD Smart LED TV - UN75U8000FFXZC","N/A",$799.00,$899.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","LG 30"" 22 Cu. Ft. Smudge Resistant Stainless Steel French Door Refrigerator - LRFNS2200S","N/A",$1595.00,$1695.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Beautyrest Duchess Medium Queen Mattress","N/A",$499.00,$999.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Noah 59.75"" Fireplace TV Stand - Aged Oak","N/A",$599.00,$799.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Polar Bear Storage Ottoman - White","N/A",$99.00,$199.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","London 50"" Lift-Top Coffee Table - Natural Pine","N/A",$549.00,$699.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Pig Storage Ottoman - Grey","N/A",$99.00,$199.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","3.5L Stand Mixer 12 Speed - Black","N/A",$49.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","5.7L / 6QT Large Capacity Air Fryer","N/A",$39.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Dianna II Sofa - Grey","N/A",$799.00,$1599.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Windchester 3-Piece Queen Storage Bed - Grey","N/A",$999.00,$1999.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Elephant Storage Ottoman - Grey","N/A",$99.00,$199.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","LG White Top Load Washer with Agitator and SlamProof® Glass Lid (4.8 Cu. Ft) -WT6105CW","N/A",$695.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Preston 59.75"" Fireplace TV Stand - Charcoal","N/A",$649.00,$999.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Cow Storage Ottoman - Black and White","N/A",$99.00,$199.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Weston 6-Piece Power Reclining Sectional with Console - Granite","N/A",$2199.00,$2999.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Dinosaur Storage Ottoman - Green","N/A",$99.00,$199.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Lucien Accent Chair - Light Grey","N/A",$299.00,$349.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Dawson Power Reclining Sofa - Graphite","N/A",$1349.00,$2699.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Rhino Storage Ottoman - Green","N/A",$99.00,$199.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Samsung 58"" 4K CUHD Smart LED TV - UN58U8000FFXZC","N/A",$599.00,$699.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","Sealy® Essentials Evan II Medium Twin Mattress","N/A",$199.00,$399.00,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","LG Stainless Steel 6.3 cu ft. Electric ThinQ® Range with EasyClean -LREL6321S","N/A",$945.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
-7670208,"Leon's","N/A","2-IN-1 Cordless Hand/Stick Vacuum Cleaner - Grey, Blue","N/A",$69.00,N/A,"N/A",each,"N/A",2025-12-18T00:00:00-05:00,2025-12-24T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","BEAU'S LUG TREAD","N/A",$45.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","MICHELOB ULTRA","N/A",$49.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","STEAM WHISTLE PILSNER","N/A",$47.49,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","BIRRA MORETTI","N/A",$46.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","BEAU'S LUG LITE LAGER","N/A",$22.49,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","MILLER LITE","N/A",$46.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","MOLSON CANADIAN","N/A",$47.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","MADRI EXCEPCIONAL LAGER","N/A",$18.49,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","COORS LIGHT","N/A",$39.49,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","BUDWEISER","N/A",$47.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","SLEEMAN VINTAGE MIX PACK","N/A",$23.93,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","MADRI EXCEPCIONAL LAGER","N/A",$25.19,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","KRONENBOURG 1664 CELEBRATION PACK","N/A",$14.23,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","GUINNESS PUB DRAUGHT","N/A",$11.59,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","SLEEMAN CLEAR 2.0","N/A",$87.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","MOLSON CANADIAN","N/A",$25.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","CORONA","N/A",$26.19,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","MILLER HIGH LIFE","N/A",$39.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","HEINEKEN","N/A",$44.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","Sleeman Original Lager","N/A",$36.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","MOOSEHEAD LAGER","N/A",$47.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","STELLA ARTOIS","N/A",$46.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","CREEMORE LAGER","N/A",$44.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
+7656613,"The Beer Store","N/A","COORS ORIGINAL","N/A",$49.99,N/A,"N/A",each,"N/A",2025-12-08T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",K1P1J1
