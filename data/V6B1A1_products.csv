@@ -1,7 +1,4 @@
 flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize,validUnit,imageUrl,validFrom,validTo,category,postalCode
-7645106,"PetSmart","N/A","Save 15% select cat litter 2.2-12.7 kg","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
-7645106,"PetSmart","N/A","Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
-7645106,"PetSmart","N/A","aquatic ornaments & artificial plants","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
 7645106,"PetSmart","N/A","Wellness® dog food & WHIMZEES® dog treats","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
 7645106,"PetSmart","N/A","Merrick dog food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
 7645106,"PetSmart","N/A","pet's first bath or groom","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
@@ -15,9 +12,12 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7645106,"PetSmart","N/A","Small pet food, treats, hay & bedding","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
 7645106,"PetSmart","N/A","ALL Top Paw® beauty & grooming pet supplies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
 7645106,"PetSmart","N/A","Purina ONE® dog treats","N/A",$5.00,$6.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
+7645106,"PetSmart","N/A","Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
 7645106,"PetSmart","N/A","Purina® Pro Plan® FortiFlora Probiotic & calming care powdered dog & cat supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
-7645106,"PetSmart","N/A","Save 20% select cat litter 4.2-15.1 kg","N/A",$15.19,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
+7645106,"PetSmart","N/A","aquatic ornaments & artificial plants","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
+7645106,"PetSmart","N/A","Save 15% select cat litter 2.2-12.7 kg","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
 7645106,"PetSmart","N/A","select cat litter","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
+7645106,"PetSmart","N/A","Save 20% select cat litter 4.2-15.1 kg","N/A",$15.19,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
 7687563,"PetSmart","N/A","Save 15% aquatic pets, reptiles & live plants","N/A",$2.54,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
 7687563,"PetSmart","N/A","Save 20% select dog (4.5-8.1 kg.) & cat (2.1-3.8 kg.) food bags","N/A",$22.39,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
 7687563,"PetSmart","N/A","New Customer Special Save $20 when you pre-purchase your pet's first bath or groom","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",V6B1A1
@@ -599,261 +599,156 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7680433,"Leon's","N/A","Beautyrest World Class Grandeur 2.0 Plush Twin XL Mattress","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",V6B1A1
 7680433,"Leon's","N/A","Samsung White Electric Dryer with Sensor Dry (7.2 Cu.Ft) - DVE45T3200W/AC","N/A",$695.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",V6B1A1
 7680433,"Leon's","N/A","Kingsdown Mila Medium King Mattress","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL MA710 7.2-Channel 8K AV Receiver - Black (JBLMA710BLKAM)","N/A",$1199.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","TCL TP200K 220W IPX4 Waterproof Portable Party Speaker (TP200K)","N/A",$449.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Sony ULT Tower 9 Party Speaker","N/A",$999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Amelia 89"" Modern TV Stand with Storage and Cable Management for TVs up to 100""- White & Black Two","N/A",$659.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Escalade Dublin Bristle Dartboard Cabinet Set","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Harman Kardon Aura Studio 4 130W Transparent Dome Speaker (HKAURAS4BLKAM)","N/A",$429.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","POLK 3.1.2 CH Dolby Atmos DTS:X 3D Audio Soundbar with Wireless Subwoofer (Signa S4)","N/A",$549.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch Reference R-30C 400 W Centre Channel Speaker","N/A",$649.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch New York Music City Light Up Party Speaker (New York)","N/A",$1099.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Walker Pier","N/A",$325.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch Miami Music City Light Up Portable Party Speaker (Miami)","N/A",$849.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Emry 87.5"" 3-Piece Wall Unit Entertainment Centre with Storage and Cable Management for TVs up to 90""- White","N/A",$699.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","LG S90TR Home Theatre Soundbar with Dolby Atmos® and Rear Speakers (S90TR.DCANLLK)","N/A",$1599.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","HISENSE 65"" - 300"" C2 Ultra Triple Laser 4K UHD Smart VIDAA OS Mini Projector (C2ULTRLP)","N/A",$3299.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch Reference R-40M 200 W Bookshelf Stereo Speakers","N/A",$429.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","HISENSE 65"" - 300"" C2 Triple Laser 4K UHD Smart VIDAA OS Mini Projector (C2MINILP)","N/A",$2499.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","TCL TP300K 340W IPX4 Waterproof Party Speaker (TP300K)","N/A",$549.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Yamaha RV-V385 5.1-Channel AV Receiver","N/A",$479.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Authentics 500 Bluetooth Smart Home Speaker with Wi-Fi and Dolby Atmos® (JBLAUTH500BLKAM)","N/A",$999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Oakley 59"" Glam TV Stand with Storage and Cable Management for TVs up to 65""- Silver","N/A",$1149.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","SAMSUNG MX-ST50 240W Bi-Directional Wireless IPX5 Water Resistant Party Speaker (MX-ST50B/ZC)","N/A",$699.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","SAMSUNG MX-ST90 1700W Bi-Directional Wireless IPX5 Water Resistant Party Speaker (MX-ST90B/ZC)","N/A",$1599.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","LG 5.1.1 CH Bluetooth Dolby Atmos DTS:X Soundbar with Rear Speakers and Wireless Subwoofer (S70TR.ACANLLK)","N/A",$799.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","HISENSE 65""-200"" M2 Pro Triple Laser 4K UHD Smart VIDAA OS Mini Projector (M2 Pro)","N/A",$1999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Melody 60"" TV Stand with Storage and Cable Management for TVs up to 65""- Brown","N/A",$469.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Glendale 60"" TV Stand with Storage and Cable Management for TVs up to 65""- Espresso","N/A",$359.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Sony ULT Tower 10 Wireless Waterproof Party Speaker","N/A",$1499.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Authentics 200 Bluetooth Smart Home Speaker with Wi-Fi (JBLAUTH200BLKAM)","N/A",$499.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","KLIPSCH Flexus Core 100 2.1-Channel 100W Soundbar (XCORE100W)","N/A",$549.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Swiftflyte ""Smash"" Table Tennis Table","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL PartyBox Stage 320 240W JBL Pro Sound Wireless Party Speaker (JBLPBSTAGE320AM)","N/A",$799.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Hisense PL2 80"" - 150"" 4K Ultra Short Throw Laser Cinema Projector","N/A",$2999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL MA310 5.2-Channel 4K AV Receiver - Black (JBLMA310BLKAM)","N/A",$599.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Nordika Tonik 72"" TV Stand - Natural Maple/White","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Anda Seat Dark Wizard Premium Genuine Leather Gaming Chair - Black","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Hisense PX3-Pro 80"" - 150"" Trichroma 4K Laser Cinema Projector","N/A",$3999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","68"" Snug Foam Chaise Lounger","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Sony 2-Channel Stereo Receiver with Phono Input and Bluetooth - STRDH190","N/A",$279.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Madison 60"" Rustic TV Stand with Storage and Cable Management for TVs up to 65""- White","N/A",$1099.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Surge Nintendo Switch/Lite Starter Kit 2.0","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","TCL 65"" NXTVISION 4K QLED Smart Google TV (65A300W)","N/A",$1999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Sealy Bala Faux Fur High Density Foam Bean Bag Chair - Grey","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Sony 5.2-Channel 4K Ultra Home Theatre AV Receiver - STRDH590","N/A",$549.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Prepac Simply Modern 70"" TV Stand - Black","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Rhys 70"" Modern TV Stand with Mount, Storage and Cable Management for TVs up to 80""- Distressed Grey","N/A",$549.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Archer 71"" Modern TV Stand with Storage and Cable Management for TVs up to 80""- Brown","N/A",$289.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","LG 27"" StanbyME 2 QHD Portable Touch Screen","N/A",$1599.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Ameriwood Home Lumina Electric Fireplace TV Stand for TVs up to 70"" - White","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL PartyBox On-The-Go Essential 100W JBL Pro Sound Wireless Party Speaker (JBLPBOTGESAM)","N/A",$449.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Surge Livewire Xbox Series X/S Microwatt Jr Blue Controller","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Authentics 300 Bluetooth Smart Home Speaker with Wi-Fi (JBLAUTH300BLKAM)","N/A",$649.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Samsung LS03FW 65"" 4K Neo QLED The Frame Pro Smart TV with Vision AI","N/A",$2799.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL PartyBox Club 120 160W Light Up Bluetooth Portable Party Speaker (JBLPBCLUB120SWAM)","N/A",$549.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Walker 62"" TV Stand with Storage and Cable Management for TVs up to 70""- Distressed Grey","N/A",$399.95,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Yamaha RX-V6A AV Receiver with Dolby Atmos® and Voice Assistant Compatibility - RXV6A B","N/A",$899.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Audio-Technica AT-LP60X Stereo Red Turntable Music Player","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Sony 98"" BRAVIA 5 4K HDR Mini-LED Google TV","N/A",$8499.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Jett 62"" TV Stand with Storage for TVs up to 70"" - Black","N/A",$239.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Emme 72"" Modern TV Stand with Storage and Cable Management for TVs up to 80""- Light Brown","N/A",$379.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","LG boom Stage 301 by will.i.am Portable Bluetooth Speaker","N/A",$499.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch Reference R-101SW 300 W 10"" Subwoofer","N/A",$599.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Stage 245C 2.5-Way Quad 4.5"" Centre Channel Loudspeaker (JBL245CBLK)","N/A",$569.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch Reference R-800F 600 W Floorstanding Speakers - Set of Two","N/A",$1698.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","YAMAHA 2.0 CH Dolby Atmos True X Surround Soundbar with Wireless Subwoofer (SR-X50A)","N/A",$799.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch Vegas Music City Light Up Party Speaker (Vegas)","N/A",$449.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Melody Pier - Brown","N/A",$515.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Samsung HW-Q900F 7.1.2-Channel Soundbar with Subwoofer","N/A",$1599.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Samsung 65"" LS03F 4K QLED The Frame TV with Vision AI","N/A",$2299.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","SONY X-Series Wireless Portable Bluetooth Karaoke Party Speaker IPX4 Rated with 25 Hour-Battery Omnidirectional Sound (SRSXV800)","N/A",$799.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","TCL 98"" Q79K QLED 4K UHD Smart Google TV (98Q79K) - 2025 Model","N/A",$3999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Royce 58"" Modern TV Stand with Storage and Cable Management for TVs up to 65""- Distressed Grey","N/A",$399.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Hisense PX3-Pro 80"" - 150"" Trichroma 4K Laser Cinema Projector","N/A",$3299.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Sony Turntable with Bluetooth® Connectivity - 1M8906","N/A",$379.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Escalade American Legend Kirkwood Foosball Table","N/A",N/A,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Adam 78"" Modern TV Stand with Storage and Cable Management for TVs up to 85""- White","N/A",$649.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Bridge","N/A",$250.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","SAMSUNG MX-ST40 160W Bi-Directional Wireless IPX5 Water Resistant Party Speaker (MX-ST40B/ZC)","N/A",$499.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch Reference R-600F 400 W Floorstanding Speakers - Set of Two","N/A",$1398.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Glendale Pier - Espresso","N/A",$340.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Adam 68"" Modern TV Stand with Storage and Cable Management for TVs up to 75""- Black","N/A",$549.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Glendale Pier - Rustic","N/A",$100.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Madison Bookcase Pier - White","N/A",$770.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Samsung 98"" 4K UHD Edge Lit Dynamic Crystal Colour HDR10 120Hz Smart TV (UN98DU9000FXZC)","N/A",$3999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Samsung 43"" The Sero QLED 4K Quantum HDR HGiG Auto Rotating Screen Smart TV (QN43LS05BAFXZC)","N/A",$1899.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","LG 98"" LED 4K UHD HDR10 HGiG 120Hz webOS Smart TV (98UT9000PUA.ACCQ)","N/A",$3999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Hisense 100"" QD7QFM Series Mini-LED QLED AI Fire TV (100QD7QFM)","N/A",$4999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Stage 240B 2-Way 4.5"" Bookshelf Loudspeaker Pair - Black (JBL240BBLK)","N/A",$429.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Stage 280F Floorstanding Loudspeaker Set of Two - Black","N/A",$1699.98,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Bailey 47"" TV Stand with Storage and Cable Management for TVs up to 55""- Coffee Brown","N/A",$289.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Stage 220P 12"" 500W Powered Subwoofer - Black (JBL220PBLKAM)","N/A",$849.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Emry 87.5"" 3-Piece Wall Unit Entertainment Centre with Storage and Cable Management for TVs up to 90""- White","N/A",$500.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","SONY HTB600 3.1.2 Channel Soundbar with Wireless Subwoofer (HT-B600)","N/A",$799.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Stage 260F Floorstanding Loudspeaker Set of Two - Black","N/A",$1399.98,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL MA510 5.2-Channel 8K AV Receiver - Black (JBLMA510BLKAM)","N/A",$849.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Garbo 63"" Modern TV Stand with Storage and Cable Management for TVs up to 70""- White","N/A",$549.97,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Yamaha RX-V4A AV Receiver with CINEMA DSP 3D and Voice Assistant Compatibility - RXV4A B","N/A",$699.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch Reference R-50M 300 W Bookshelf Stereo Speakers","N/A",$549.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch Reference R-50C 400 W Centre Channel Speaker","N/A",$499.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Stage 200P 10"" 300W Powered Subwoofer - Black (JBL200PBLKAM)","N/A",$699.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Quinn Oakley Pier","N/A",$975.00,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Stage 250B 2-Way 5.25"" Bookshelf Loudspeaker Pair - Black (JBL250BBLK)","N/A",$569.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","JBL Bluetooth® Spinner Turntable","N/A",$599.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Klipsch Reference R-121SW 400 W 12"" Subwoofer","N/A",$799.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Samsung HW-Q990F 11.1.4-Channel Soundbar with Subwoofer","N/A",$2199.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7470349,"The Brick","N/A","Hisense 65"" Canvas QLED 4K HDR10 Dolby Vision 144Hz Google Smart TV (65S7N)","N/A",$1999.99,N/A,"N/A",each,"N/A",2025-09-04T00:00:00-04:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Small Bar Cakes","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Prepared Fresh Daily In-Store Mango Salsa or Guacamole","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Whole Festive Chicken Dagwood Sandwich","N/A",$13.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","GOLD BOND Lotion","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Grape Tomatoes","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Patisseries","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","FRANZELUTA Artek Waffle Cookies","N/A",$3.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Salsa","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Chinese Long Beans","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","ENFAMIL A + NeuroPro Powder","N/A",$49.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","SPICE IT UP Veggie Pakoras","N/A",$6.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","SUKU Vitamin Gummies","N/A",$21.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","CHARMIN Bathroom Tissue","N/A",$22.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Candies","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","DAN-D ORGANIC Organic Chestnuts","N/A",$1.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","FRESH CHOICE Oysters","N/A",$1.00,$1.50,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","NONGSHIM Instant Noodles","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","ROSHEN Korivka Milk Sweets","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","H & H Dried Fruit Family Pack","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","PAMPERS Super Pack Diapers","N/A",$28.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Prepared In Store Daily Mixed Fruit Salad or Tropical Fruit Salad","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","ROBITUSSIN","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","ATHLETIC BREWING CO. Non-Alcoholic Beer","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Wild Sockeye Salmon Fillets","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","PATAK'S Cooking Kits","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","BBQ PIT BOYS Seasonings","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Hummus or Dips","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","PURINA Tidy Cats Multi-Cat Clumping Litter","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","OLD SPICE or SECRET Deodorant","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","GOLDEN BEE Floral","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Laundry Scent Booster Beads","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","MEZZETTA Olives","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Newfoundland Cooked Snow Crab Clusters","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","HUMPTY DUMPTY Party Mix","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","MILK-BONE Dog Biscuits, Treats or Chews","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","TYLENOL Complete","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","LINDT Swiss Classic Chocolate Bars","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","SPICE IT UP FOODS Chicken Korma with Rice","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Raspberries Red Half Pint or Blackberries 170 g","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Grab & Go Trays Cookie Lover's Bliss, Dessert Bars or Patisseries","N/A",$12.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","PANACHE Cheddar","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Prosciutto Pesto or"" Sweet Stinger"" Hot Honey, Cup & Char Pepperoni Flatbreads","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp in Rings with Sauce","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","POLYSPORIN Ointment","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","KETTLE BRAND 99 Chips","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS or PANACHE Chicken Wings, Meat Appetizers, Meatballs, Egg Rolls or Spring Rolls","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","ROYAL NUTS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","PILLER'S Mini Pepperoni or Turkey Bites","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","CAMPBELL'S Ready To Serve Soup","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","HEINEKEN Non-Alcoholic Beer","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Long English Cucumbers","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","PURINA Friskies Lil' Soups Wet Cat Food","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","CRACKER BARREL Cheese Slices","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Cauliflower","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","SYSTANE Eye Drops","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","CASCADE Dishwasher Tabs","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","PURINA Friskies Dry Cat Food","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp In Ring with Sauce","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","MCCAIN Pizza Pockets","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","BAREBELLS Protein Bars","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS or PANACHE Chicken Wings, Meat Appetizers, Meatballs, Egg Rolls, Spring Rolls or Seafood Appetizers","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","PANACHE Ham or Oven Roasted Chicken","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Fresh Skinless Pork Belly Portion","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Asian Entrées and Sides","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","40 FATHOMS Breaded Haddock or Cod Fillets","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Charcuterie Boards","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","HELLO Deodorant","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp in Rings with Sauce","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Persimmons","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","CREST 3D White Toothpaste or ORAL-B Toothpaste or Floss","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Macaroni & Cheese","N/A",$1.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","MOTT'S Clamato or Garden Cocktail or NESTEA Lemon Iced Tea","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","KIKKOMAN Panko Bread Crumbs","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","BETTY CROCKER Super Moist Cake Mix","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","SIMILAC Go & Grow Toddler Powder","N/A",$26.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","MAILLE Gherkins","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","TIPIAK Quinoa Gourmand","N/A",$6.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","AROY-D Coconut Milk","N/A",$2.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","FOCO 100% Coconut Water","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Flat Cabbage","N/A",$1.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","WONG WING Entrées or Appetizers","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Perogies","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Fresh Skinless Pork Belly sliced","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","HALO Clementines","N/A",$5.88,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Organic LIL SNAPPERS Gala, Pink Lady or Fuji Apples","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","LAKEWOOD Juice","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Chestnuts","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Strudel Fingers, Turnovers or Mini Strudel","N/A",$3.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Glorious Gerbera Bouquet","N/A",$24.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Compliments Cooked Shrimp In Ring with Sauce","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Roast & Ground Coffee","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","DARE Bear Paws Family Packs","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Compliments Cooked Shrimp In Ring with Sauce","N/A",$25.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS or PANACHE Chicken Wings, Meat Appetizers, Meatballs, Egg Rolls or Spring Rolls","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","SCHNEIDERS Bacon, Juicy Jumbos, Smoked Sausages or Sausage Rings","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Donuts","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","SCHNEIDERS Ham, Turkey, Jumbo Summer Sausage or Thuringer Sausage","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","JOHN FRIEDA Hair Care","N/A",$10.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Cheese","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","GAIN Liquid Detergent","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","CATELLI Protein Pasta","N/A",$3.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS ORGANIC Baby Purées","N/A",$1.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","FRANZELUTA Puff Pastry Butterfly Cookies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","GLAD Cling Wrap","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Seafood Sauce","N/A",$1.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","FRANK'S RedHot Sauce or Thick Hot Sauce","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Chicken Balls","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Two-Bite Brownies, Macaroons or Cinnamon Buns","N/A",$6.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","NESTLÉ Juniors","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","FINO FINE FOODS Fire Roasted Red Peppers","N/A",$5.79,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","BONTE Donair Kits","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","TRADITION Fresh Apple Cider product","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Ataulfo Mangoes","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","WENDY'S Fresh Ground Beef Patties","N/A",$11.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp Rings With Sauce","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Monterey Jack, Gouda or Havarti Cheese","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","KÜHNE Gourmet Selection Gherkins","N/A",$4.79,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","DEL MONTE Fruit Bowls","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Peaches in Light Syrup","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","METHOD Surface Cleaners","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","ADVIL Tablets or Liqui-Gels","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","ZIPLOC Freezer Bags","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Lobster Tails 6-7 oz frozen","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Atlantic Canada 3-4 oz","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","TOFFIFEE","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","SNACK FACTORY Pretzel Crisps","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","DAWN Dish Soap","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp In Ring with Sauce","N/A",$25.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Small Crusty Buns","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","ARMSTRONG Cheese Sticks","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","REVELLO or FUDGSICLE Novelties","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Bleach","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","HERBAL ESSENCES Shampoo or Conditioner","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","FINO FINE FOODS Margherita Mediterranean Flatbread","N/A",$9.79,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","TYLENOL Pain Relief","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp in Rings with Sauce","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","ILCHESTER Applewood Smoked Cheddar or KING JAMES Blue Stilton","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","HELLMANN'S Dipping Sauces","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp in Rings with Sauce","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Calathea Plants","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","AURORA Arborio Rice","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Fresh AIR-CHILLED Split Wings","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","BUBLY or MONTELLIER Sparkling Water","N/A",$5.49,$6.49,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Bartlett or Bosc Pears","N/A",$1.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","SAVI GOURMET Gnocchi, Risotto or Penne Pasta Meals","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Organic Sliced White or Brown Mushrooms","N/A",$4.44,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","DARE Viva Puffs or Ultimate Cookies","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","COMPLIMENTS Lemonade","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","FONTAINE SANTE or LANTANA Topped Hummus","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7686777,"Safeway","N/A","Prepared In-Store Seacuterie Boards with Smoked Salmon, Shrimp or Crab-Flavoured Seafood","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Midea 24"" Front-Control Dishwasher with Interior Light - MDF24P2BST","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Kort & Co. Pinecone Tree","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Kort & Co. Pine Berry in Speckled Tapered Bowl","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Lark Bedroom 6-Drawer Dresser, 58""W x 35""H - Rustic White","N/A",$479.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Vale Dining Table, Wood, 72""W - Brown","N/A",$749.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Midea 4.5 Cu. Ft. Top Load Agitator Washer White - MLTW45A2BWW","N/A",$499.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Silas Bedroom Chest of Drawers, 5-Drawer, 33""W x 47.5""H - Rustic Brown","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","23 oz. Assorted Motif Scented Candle","N/A",$25.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Tempur-Pedic® TEMPUR Support® Firm King Mattress","N/A",$2599.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Plum 7pc Dining Set with Table & 6 Chairs, Wood, Live-Edge Look, 70.75""W- Nutmeg Brown","N/A",$1399.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Hugo 37"" Genuine Leather Power Reclining Chair with Power Headrest, Dual Cupholders and USB Port - Brown","N/A",$1499.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Oscar 15.75"" 3-Drawer Lateral Filing Cabinet - Distressed Grey","N/A",$139.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Tempur-Pedic® TEMPUR Support® Soft King Mattress","N/A",$3199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Cornell Reclining Chair","N/A",$599.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","TEMPUR Align® ProLo™ Queen Pillow - Stomach/Back Sleeper","N/A",$199.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Quest 1.0 Twin XL Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Garbo Dining Table with Glass Insert, Pedestal Base, Glam, 78.75""W - White","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Midea 4.5 Cu. Ft. Top Load Agitator Washer and 7.0 Cu. Ft. Electric Dryer White","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Colson 50"" Rustic Sofa Table with Storage and Shelf - Driftwood","N/A",$599.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Beautyrest Black Hotel Presidential Suite Eurotop Medium King Mattress","N/A",$1399.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Hayes 38"" Genuine Leather Power Reclining Chair with Adjustable Headrest - Steel Grey","N/A",$1199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","SAMSUNG 43"" U8000 Crystal 4K UHD Smart Tizen OS TV (UN43U8000FFXZC) - 2025 Model","N/A",$429.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Garbo 63"" Modern TV Stand with Storage and Cable Management for TVs up to 70""- White","N/A",$359.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Hisense 30"" 18 Cu. Ft. Top-Mount Refrigerator - Stainless Steel - RT18A2FID","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Cami Dining Table with Genuine Marble Top, 70""W - White","N/A",$979.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Chelsea Dining Table, 48""W Round - Walnut Brown","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Arbor Bedroom Chest of Drawers, 5-Drawer, 31.5""W x 48.4""H - Driftwood White","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Vida Bedroom Dresser Mirror - Sand","N/A",$369.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Royce 58"" Modern TV Stand with Storage and Cable Management for TVs up to 65""- Distressed Grey","N/A",$259.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Whirlpool 4.8 Cu. Ft. Top Load Washer and 7 Cu. Ft. Electric Dryer with AutoSensing - White","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Grove 36"" Genuine Leather Power Reclining Chair with Adjustable Headrest - Cream","N/A",$799.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Aspen Dining Chair with Fabric Seat, Slat-Back - Natural","N/A",$169.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Made in Canada Scarlett 41.5"" Chenille Fabric Chair with Rolled Arms and Accent Pillow - Marine Blue","N/A",$1199.97,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Ava Bedroom Dresser Mirror with LED Light, Glam - White","N/A",$369.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Plum Dining Chair with Polyester Fabric, Wood, Ladder-Back - Nutmeg Brown","N/A",$159.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Stratus 59 Faux Fur Fabric Chair with Power Sliding Chaise - Fog Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Silas Bedroom Dresser Mirror - Rustic Brown","N/A",$109.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Lark Bedroom Chest of Drawers, 5-Drawer, 35""W x 47""H - Rustic White","N/A",$449.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","HISENSE 65"" QD7QFM Mini-LED QLED 4K UHD AI Smart Fire TV (65QD7QFM)","N/A",$599.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Lark Panel Bed with Headboard & Frame, Chevron Pattern, Rustic White - Queen Size","N/A",$449.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Sienna 33.5"" Accent Storage Cabinet with Sliding Door - Dark Oak","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Eva 29.5"" Faux Suede Power Reclining Chair - Dark Grey","N/A",$579.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Garbo 7pc Dining Set with Table & 6 Chairs, Glass Insert, Pedestal Base, Glam, 78.75""W - White","N/A",$1589.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Madison 60"" Rustic TV Stand with Storage and Cable Management for TVs up to 65""- White","N/A",$649.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Kylie Bedroom Chest of Drawers, 5-Drawer, 35""W x 51""H - Sand","N/A",$449.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Silas Platform Bed with Headboard & Frame, LED, Rustic Brown - Queen Size","N/A",$669.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Kort & Co. Kassia 90.6"" Linen-Look Fabric Sofa with Wood Base and Legs - Orange","N/A",$1579.97,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","87"" Cornell Genuine Leather Reclining Sofa","N/A",$799.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Silas Bedroom 6-Drawer Dresser, 64""W x 33.4""H - Rustic Brown","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Madison 50"" Rustic Sofa Table with Storage and Shelf - White Wood","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Halo Bedside 2-Drawer Nightstand with LED Light, 21""W x 24""H, Glam - White","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Ollie 60"" Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 65""- Grey","N/A",$649.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","KitchenAid 36"" 19.4 Cu. Ft. French-Door Refrigerator - Stainless Steel - KRQC506MPS","N/A",$2895.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Kort & Co. Oaklyn Modular 5-Piece Fabric Sectional with Tufted Seat Cushions - Beige","N/A",$1999.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Aspen 7pc Dining Package with 80-104"" Extension Table & 6 Chairs, Fabric - Natural","N/A",$1899.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Levi Bedroom 7-Drawer Dresser, 67""W x 38""H, Wood - Drift Grey","N/A",$769.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","SAMSUNG B-Series 2.1 Channel Soundbar with Wireless Subwoofer (HW-B550F/ZC)","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Made in Canada Nofia 80"" Chenille Fabric Sofa with Two Accent Pillows and Wood Legs - Charcoal Grey","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Adel 28.5"" Linen-Look Fabric Accent Chair with Wood Base - Beige","N/A",$329.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Halo Bedroom 6-Drawer Dresser with LED Light, 58""W x 35""H, Glam - White","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Berni 18"" Glam Mirror & Glass Top End Table with Shelf - Silver Metal with Diamond Look Legs","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Madison 16"" Rustic Chairside Table with Storage - White Wood","N/A",$329.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Madison Bookcase Pier Brown","N/A",$200.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Chateau dAx Angelo 84.25"" Genuine Leather Power Reclining Sofa with Power Headrests - Grey","N/A",$1599.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Lotus 5pc Dining Set with Table & 4 Slat-Back Chairs, Wood, 82""W - Natural","N/A",$1795.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Casey 50"" Rustic Sofa Table with Storage and Shelf - Brown Wood","N/A",$479.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Beautyrest GL8 Eurotop Plush King Mattress","N/A",$1149.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Levi Bedroom Chest of Drawers, 6-Drawer, 39""W x 56""H, Wood - Drift Grey","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Aspen Dining Bench with Fabric Seat, 64.25""W - Natural","N/A",$329.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Ava 5pc Bedroom Set with Bed, Dresser & Mirror, LED, Glam, White - Queen Size","N/A",$3289.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Vida Bedroom 5-Drawer Chest, 38""W x 52""H - Sand","N/A",$1099.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Garmin Instinct E Supertough Smartwatch 45 Mm - Military Spec 810, Gps, Compass, Barometric Altimeter","N/A",$329.99,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Masterguard® Charcoal Queen Mattress Protector with 2 Queen Pillows","N/A",$119.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Viola 29.5"" Modern Round Top Coffee Table Black Ash","N/A",$149.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","LG 75"" UA7000 4K UHD Smart webOS TV (75UA7000PUB.ACC) 2025 Model","N/A",$799.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","BEDGEAR Glacier Cuddle Curve 1.0 Pillow - Stomach Sleeper","N/A",$199.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Halo Panel Bed with Headboard & Frame, LED, Glam, White - Queen Size","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Scott Living Evolve Modular 5-Piece Linen-Look Fabric Armless Sectional with Feather Down Cushions - Grey","N/A",$2699.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","LG 5.2 Cu. Ft. Front-Load Washer 7.4 Cu. Ft. Electric Dryer with AI - White","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Stearns & Foster Founders Collection Cardiff City Eurotop Queen Mattress","N/A",$2199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Manson 24"" Tiffany Style Hand-Blown Glass Table Lamp","N/A",$189.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Berni 18"" Glam Mirror & Glass Top End Table with Shelf - Silver Metal with Diamond Look Legs","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Vale 7pc Dining Set with Table & 6 Chairs, Wood, 72""W - Brown & Beige","N/A",$1643.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Whirlpool 5.4 Cu. Ft. Top-Load Washer - White - WTW5057LW","N/A",$795.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Ava Bedside 2-Drawer Nightstand with LED Light, 32.5""W x 28""H, Glam - White","N/A",$449.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Finn Barstool with Swivel & Adjustable Seat, Vegan Leather Fabric, Metal - Beige","N/A",$99.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Escalade Triumph Playmaker Double Shootout Basketball Game","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Maytag 30"" 5.3 Cu. Ft. Electric Range with No Preheat Air Fry - Stainless Steel - YMFES6030RZ","N/A",$1295.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Kort & Co. Capri Dining Table with Marble-Look Top & Gold Accent, Pedestal Base, 72""W - Black/White","N/A",$579.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","SAMSUNG B-Series 2 Channel Soundbar with Buit-in Suboofer (HW-B400F/ZC)","N/A",$119.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Manhasset 63"" Electric Fireplace TV Stand with Storage for TVs up to 70"" - Valley Pine","N/A",$1299.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","LG 2.1 CH Bluetooth Dolby Atmos DTS:X Soundbar (SQC1.DCANLLK)","N/A",$139.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Vibe 76"" Genuine Leather Massage Power Reclining Loveseat with Immersive Audio and Power Headrests - Brown","N/A",$5399.97,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Landon 48"" Modern Lift Top Coffee Table With Storage, Shelf and Casters - Dark Brown","N/A",$398.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","KitchenAid 24"" 47 dBA Dishwasher with Third Level Utensil Rack PrintShield Stainless - KDFS224SPS","N/A",$995.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Kort & Co. Capri 7pc Dining Set with Table & 6 Chairs, Gold Accent, Pedestal Base, 72""W - White","N/A",$1349.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Silas Bedside 2-Drawer Nightstand, 26""W x 23.9""H - Rustic Brown","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Bari 5pc Dining Set with Table & 4 Grey Swivel Chairs, Marble-Look Ceramic Top, Metal, 63""W","N/A",$1595.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Chateau dAx Vita 87"" 100% Genuine Leather Sofa with Diamond Pattern Stitching and Wood Legs - Seafoam Green","N/A",$2679.97,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Chelsea Dining Chair with Linen-Look Fabric - Aqua Blue","N/A",$115.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Whirlpool 7 Cu. Ft. Electric Dryer with Steam - White - YWED5050LW","N/A",$695.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Aspen 6pc Dining Package with 80-104""Extension Table, Bench & 4 Chairs, Fabric - Natural","N/A",$1899.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Lotus Dining Chair with Polyester Fabric, Wood, Slat-back - Natural","N/A",$199.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Miko Bunk Bed with Ladder & Guard Rail for Kids, Grey - Twin/Twin","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","PureZone Elite 4-In-1 True HEPA Air Purifier - CA-PEAIRTWR","N/A",$179.99,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Maytag 30"" 19.6 Cu. Ft. French-Door Refrigerator - Fingerprint Resistant Stainless Steel - MFB2055FRZ","N/A",$1595.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Springwall Florence Eurotop Medium Queen Mattress","N/A",$449.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Stearns & Foster Founders Collection Crystal Palace Pillowtop Queen Mattress","N/A",$1899.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Asel Area Rug - 5' x 8'","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Caper Area Rug - 5' x 8'","N/A",$149.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Levi 5pc Bedroom Set with Storage Bed, Dresser & Mirror, Wooden, Drift Grey - Queen Size","N/A",$1799.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Sealy® Raven 25.2 Adjustable Ergonomic Office Chair with Mesh Padding - Black","N/A",$139.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Arbor Panel Bed, Driftwood White - Queen Size","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Tuxedo 5pc Dining Set with Table & 4 Chairs, Glass Top, Pedestal Base, 72""W - Black","N/A",$1265.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Elite 86"" Genuine Leather Massage Power Reclining Sofa with Power Headrests and Storage Arms - Putty","N/A",$1999.99,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","LG 6.3 Cu. Ft. Smart Electric Range with Air Fry - Fingerprint Resistant Stainless Steel - LREN6325XE","N/A",$1295.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Elite 74"" Genuine Leather Massage Power Reclining Loveseat with Power Headrests and Storage Arms - Putty","N/A",$4999.97,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Antoni Pier - White","N/A",$230.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Midea 18 Cu. Ft. Top-Freezer Refrigerator - MT18DDSCR1RCM","N/A",$699.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Scott Living Prescott 42.5"" Genuine Leather Power Reclining Chair with Power Headrest - Platinum Grey","N/A",$2999.97,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Wyatt 59.29"" Traditional TV Stand with Storage and Cable Management for TVs up to 65"" - Chalked Chestnut","N/A",$99.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Kylie Bedroom Dresser Mirror, Attachable, Wall Hanging - Sand","N/A",$169.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Vale 5pc Dining Set with Table & 4 Chairs, Wood, 72""W - Brown & Beige","N/A",$1345.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Bari 7pc Dining Set with Table & 6 Grey Swivel Chairs, Marble-Look Ceramic Top, Metal, 63""W","N/A",$1993.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Portia 3-Piece Twin Comforter Set - Grey","N/A",$49.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Vivia 86"" Genuine Leather Sofa with Removable Seat Cushions and Wood Base - Navy Blue","N/A",$1199.99,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Stratus 108"" Faux Fur Fabric Full-Size Sofa Bed with Power Sliding - Fog Grey","N/A",$1899.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Samsung 98"" 4K UHD Edge Lit Dynamic Crystal Colour HDR10+ 120Hz Smart TV (UN98DU9000FXZC)","N/A",$2499.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Casey 48"" Rustic Coffee Table with Storage, Shelf and Casters - Brown Wood","N/A",$439.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Zenith 64"" Electric Fireplace TV Stand with Storage for TVs up to 70"" - Black","N/A",$1199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Florence 32"" Open Bookcase - Grey","N/A",$229.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Kylie Bedside 2-Drawer Nightstand with USB Port, 26""W x 25""H - Sand","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Lara Panel Bed with Headboard & Frame, Antique Grey - Queen Size","N/A",$398.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Huntley 59"" Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 65""- White","N/A",$498.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Made in Canada Febe 75"" Chenille Fabric Loveseat with Flared Arms and Accent Pillows - Charcoal Grey","N/A",$1479.97,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","SAMSUNG 65"" U7900F Crystal UHD 4K Smart Tizen OS TV (UN65U7900FFXZC) - 2025 Model","N/A",$629.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Chateau dAx Vita 87"" 100% Genuine Leather Sofa with Diamond Pattern Stitching and Wood Legs - Seafoam Green","N/A",$1079.99,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Kort & Co. Capri Dining Chair with Boucle Fabric & Gold Accent, Metal - Black","N/A",$129.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","LG 7.3 Cu. Ft. Electric Dryer - White - DLE6100W","N/A",$745.00,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Tuxedo 7pc Dining Set with Table & 6 Chairs, Glass Top, Pedestal Base, 72""W - Grey","N/A",$1563.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Landon 20"" Modern End Table with Storage and Shelf - Dark Brown with USB","N/A",$249.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Silas 5pc Bedroom Set with Platform Bed, Dresser & Mirror, LED, Rustic Brown - Queen Size","N/A",$1279.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Solo 31.1"" Sherpa Fabric Curved Accent Chair - Ice Cream","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Berni 47.2"" Glam Mirror & Glass Top Coffee Table with Shelf - Silver Metal with Diamond Look Legs","N/A",$528.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Maven 34.5"" Grey Genuine Leather Stress Free Reclining Chair with Footrest and Wood and Metal Base - Grey","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Lighting","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Chandler 82"" Chenille Fabric Reclining Sofa - Grey","N/A",$559.99,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Colson 18"" Rustic Chairside Table with Storage - Driftwood","N/A",$359.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Willow 66"" Light Grey Fabric Loveseat with Track Arms and Reversible Seat and Back Cushions","N/A",$1279.97,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
+7668921,"The Brick","N/A","Lark 5pc Bedroom Set with Panel Bed, Dresser & Mirror, Rustic White - Queen Size","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-23T00:00:00-05:00,2025-12-29T23:59:59-05:00,"N/A",V6B1A1
 7689122,"Real Canadian Superstore","N/A","NO NAME® CHICKEN WINGS, 908 G","N/A",$15.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
 7689122,"Real Canadian Superstore","N/A","M.Y.SAN SKY FLAKES CRACKERS, 800 G","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
 7689122,"Real Canadian Superstore","N/A","SANPELLEGRINO NATURALI OR LIGHT SPARKLING DRINKS, 6X330 ML","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
@@ -1004,148 +899,298 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7689122,"Real Canadian Superstore","N/A","NO NAME® BACON, 500 G","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
 7689122,"Real Canadian Superstore","N/A","PC® SOFT DRINKS, 2 L","N/A",$1.48,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
 7689122,"Real Canadian Superstore","N/A","FRIDABABY, FRIDAMOM OR FRIDA SOUND MACHINE OR HUMIDIFIER","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","GAY LEA SPREADABLES BUTTER, 227 G","N/A",$4.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","GATORADE, 24 X 591 ML","N/A",$23.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® LUXURY BISCUIT ASSORTMENT, 1 KG","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","D'ITALIANO BREAD","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FARMER'S MARKET™ GRAPE TOMATO, 283 g MINI CUCUMBERS 6'S","N/A",$3.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","DR. OETKER RISTORANTE OR CASA DI MAMA PIZZA, 320-410 G","N/A",$4.00,$5.50,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BLACKBERRIES OR RASPBERRIES, HALF PINT","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","MARCANGELO VALUE PACK PORK SAUSAGES OR ITALIAN STYLE MEATBALLS, 1-1.4 KG","N/A",$13.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","COCA-COLA OR PEPSI SOFT DRINKS, 24X355 ML","N/A",$12.79,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BONNE MAMAN JAM OR SPREAD, 250-290 ML","N/A",$5.00,$7.50,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","GOLDFISH BAKED SNACK CRACKERS OR CRISPS 156-200 G OR PC® CRACKERS, PITA CRACKERS OR CHEESE TWISTS 100-225 G","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BETTY CROCKER SUPERMOIST CAKE MIX, 375-404 G FROSTINGS, 340-450 G","N/A",$2.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","SAPUTO BOCCONCINI, 200 G OR MOZZARELLA FRESCA, 190 G","N/A",$6.00,$7.49,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BLUEBERRIES","N/A",$3.77,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","GENERAL MILLS CEREAL, 830 G-1.3 KG","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","APPLEWOOD SMOKED CHEDDAR","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","COLGATE TOOTHPASTE 52-95 ML OR MANUAL TOOTHBRUSH EA.","N/A",$1.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","STRIPLOIN GRILLING STEAK","N/A",$10.88,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","30 PIECE WINGS & WEDGES BUCKET, 1.2-2 KG","N/A",$30.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","DELI SERVICE CASE SIKORSKI GRANDPA & GRANDMA HAM","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FREYBE SALAMI, 125-150 G","N/A",$6.00,$7.99,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","IFC CANADIAN SNOW CRAB CLUSTERS COOKED 500 g OR PC® PACIFIC WHITE SHRIMP RING WITH MILD COCKTAIL SAUCE 568 g","N/A",$19.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® FROZEN FRUIT, 300-600 G OR BREYERS CREAMERY STYLE ICE CREAM, 1.41 L","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BECEL MARGARINE, 637/850 G OR PC® BUTTER QUARTERS, 454 G","N/A",$7.00,$9.49,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PORK SIDE RIB PORTION","N/A",$3.50,$4.49,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","GRASS FED EXTRA LEAN GOUND BEEF, 450 G","N/A",$8.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC®, BLUE MENU® ORGANICS OR PROTEIN TORTILLAS, 342-650 G","N/A",$3.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® SPLENDIDO® COLD-PRESSED EXTRA VIRGIN OLIVE OIL, 500 ML","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® CRISPY SHRIMP HORS D'OEUVRE TRIO, 528 G","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NO NAME® POTATO CHIPS OR CRISPS, 142-200 G","N/A",$1.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NIVEA SKINCARE PRODUCTS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® ROLLED WAFERS, 400 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","CHEEZ-IT BAKED SNACK CRACKERS, 191-200 G CRISPERS OR CRISPERS BITS AND BITES SNACK OR CRACKER MIX, 145 G","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","INSTORE PREPARED FAMILY PASTA TRAY, 900 G-1.14 KG","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","TYLENOL PAIN, COUGH & COLD, COMPLETE OR TYLENOL KIDS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FRESH STEELHEAD TROUT FILLETS","N/A",$13.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","KUHN RIKON","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","TIDY CATS LIGHT WEIGHT LITTER, 2.72 KG","N/A",$12.00,$14.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FARMER'S MARKET™ CARROTS, 2 LB BAG OR YELLOW ONIONS, 3 LB BAG","N/A",$3.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PARTY PLATTER, 696 G-1.15 KG","N/A",$30.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NO NAME® CHEESE BARS, 700 G OR PC® CHEESE SHREDS, 620 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","QUAKER DIPPS OR CHEWY GRANOLA BARS, 120-156 G 120-156 G","N/A",$2.75,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","CHARCUTERIE BOARDS, 211-433 G","N/A",$14.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NATIVE DEODORANT, 75 G, DRY SPRAY, 99 G, WHOLE BODY DEODORANT, CREAM OR SPRAY, 68-99 G OR BODY WASH, 532 ML","N/A",$11.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® LITTLE GEMS™ MIXED, RED OR YELLOW MINI POTATOES, 680 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","VASELINE BODY LOTION, 600/947 ML","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","STONEMILL BREAD, 454/550 G","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NESTLÉ CHOCOLATE SINGLES, 33-60 G","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® OR BLUE MENU® ENTRÉES, 2/2.27 KG OR HIGH LINER PAN SEAR OR SIGNATURE FISH, 425-540 G","N/A",$14.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","MCCAIN DEEP'N DELICIOUS CAKES, 510 G","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® ORGANICS FRUIT, 600 G","N/A",$8.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BATISTE DRY SHAMPOO, 200 ML","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PUREX, PERSIL OR SUNLIGHT LAUNDRY DETERGENT, SNUGGLE FABRIC SOFTENER OR SHEETS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","JAPANESE SWEET YAM, PURPLE UBE YAM","N/A",$2.88,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® SALAD DRESSING, 475 ML","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","MINUTE RICE","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NO NAME® CHEESE FLAVOURED OR CORN SNACKS OR CORN CHIPS, 200 G","N/A",$2.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","HUMPTY DUMPTY CHEESE FLAVOURED SNACKS OR PARTY MIXES OR OLD DUTCH POTATO CHIPS, 200-290 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","COSMIC CRISP PRODUCT OF U.S.A., US EXTRA FANCY OR HONEYCRISP APPLES PRODUCT OF WESTERN PROVINCES, CANADA FANCY GRADE","N/A",$3.00,$4.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","SOFTSOAP LIQUID HAND SOAP REFILL, 1.47 L","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® DOUBLE CREAM BRIE, 450 G","N/A",$13.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® PACIFIC LARGE WHITE SHRIMP, 400 G","N/A",$9.00,$10.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PULLED PORK BAO BUNS, GYRO, FAJITA CHICKEN OR SHRIMP TACO TRAY, 1-1.15 KG","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® NATURALLY SMOKED BACON, 375/500 G","N/A",$7.00,$9.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FARMER'S MARKET™ AVOCADO BAG, 6' S","N/A",$3.58,$4.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BEN'S BISTRO RICE, 240/250 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PANTENE HAIR CARE","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","STARBUCKS ICED COFFEE 1.18/1.42 OR ACTIVIA YOGURT 12X100 G","N/A",$7.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","POPCORNERS, 142 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","COFFEEMATE COFFEE ENHANCER, 946 ML","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BUTTER CROISSANTS, 12'S","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","LA ROCCA 8 INCH OCCASION CAKES, 1.1-1.7 KG","N/A",$30.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FARMER'S MARKET™ CUPCAKES, 284-318 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","LYSOL DISINFECTANT SPRAYS, 350 G, WIPES, 75-84'S OR ALL PURPOSE CLEANERS, 950 ML","N/A",$13.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","OIKOS GREEK YOGURT, 4X100 G","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","OGX® SELECTED HAIR CARE PRODUCTS","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® MAYONNAISE, 750-890 ML","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","COCA-COLA OR CANADA DRY SOFT DRINKS, 2 L","N/A",$6.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® ORGANICS SALAD MIX, 142 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FONTAINE SANTÉ HUMMUS, 454/482 G","N/A",$6.00,$7.50,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PANTENE OR HEAD & SHOULDERS","N/A",$6.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","SARDO BULK OLIVES","N/A",$3.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","HEAD & SHOULDERS HAIR CARE","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","ROMAINE HEARTS, 3'S","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® PEANUT BUTTER FILLED PRETZELS, 680 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","LARGE VEGETABLE OR FRUIT PLATTER, 1.58-2.2 KG","N/A",$23.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BOURSIN SOFT CHEESE, 150 G","N/A",$6.00,$7.99,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","iiÖGO FROZEN YOGURT 946 ML OR BARS 4/8'S","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PLANTER'S CASHEW HALVES, COCKTAIL PEANUTS OR MIXED NUTS WITH 60% PEANUTS, 200-225 G","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","SELECTED HAIR CARE PRODUCTS","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NO NAME® HORS D'OEUVRES, 454-800 G","N/A",$11.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® HORS D'OEUVRE COLLECTION, 300-772 G","N/A",$14.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FARMER'S MARKET™ LEMONS, 3 LB OR PC® MANDARIN, 3 LB","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","DARE, BRETON, VEGGIE CRISP, GRISSOL OR VINTA CRACKERS OR BITES, 100-225 G","N/A",$3.25,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","KINGS HAWAIIAN ROLLS OR FURLANI GARLIC TOAST","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® HOT SMOKED CANDIED OR SPICY SALMON STRIPS, 150 G","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","TRESEMMÉ® AMPLIFIED VOLUME SHAMPOO, CONDITIONER, 1.15 L","N/A",$11.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® SHRIMP APPETIZERS SELECTED VARIETIES, 294-454 G OR SMOKED SALMON OR CRAB & LOBSTER BAKE & SERVE DIP, 360 G","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® DISTILLED WATER, 4 L","N/A",$1.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","DOVE INTENSIVE REPAIR SHAMPOO, CONDITIONER, 828 ML","N/A",$10.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","CINNAMON BUNS, DANISH OR CREAM CHEESE ICED, 10'S","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BREADED PORK LOIN SCHNITZEL, 300 G","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","ROYALE BATHROOM TISSUE 30=60 ROLLS OR TIGER TOWEL 6=12 ROLLS OR FACIAL TISSUE 12'S","N/A",$13.99,$19.99,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","AXE, OLD SPICE, METHOD OR DOVE MENS HAIR CARE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PARTY PLATTERS, 1-2.5 KG","N/A",$45.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® ORANGE JUICE, 1.54 L OR LIBERTÉ MÉDITERRANÉE YOGURT, 500 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","ACE BAKERY BAGUETTE, 325-400 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® SPLENDIDO® CHUBS OR CAPITAL PACKERS SAUSAGE RINGS, 225-300 G","N/A",$10.00,$12.99,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","SANPELLEGRINO ITALIAN SPARKLING WATER, 6X330 ML","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","DISCOVER OUR SELECTION OF FRESHLY PREPARED PLATTERS FOR YOUR NEXT OCCASION.","N/A",$25.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","CHRISTIE OREO, CHIPS AHOY! ANIMAL CRACKERS, TEDDY GRAHAMS OR POKÉMON SNACK PACKS, 144-200 G","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","ROMA SLICED PEPPERONI, 900 G","N/A",$11.00,$12.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","CREST GUM OR KIDS TOOTHPASTE 63-105 ML, CREST REGULAR 4-PACK TOOTHPASTE OR ORAL-B MANUAL TOOTHBRUSH","N/A",$6.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","INSTORE PREPARED TURKEY CRANBERRY, 750 G","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® SPINACH & PARMESAN DIP FLIPS, 180 G","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FRUITOPIA OR PEACE TEA, 1.75 L","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","OLAY SUPER SERUM, REGENERIST MOISTURIZERS OR TREATMENTS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","BALDERSON CHEDDAR 250/280 OR PILLER'S KOLBASSA 300-375","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NO NAME® CHEESE BARS, 700 G OR PC® CHEESE, 620 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","DR. SQUATCH BAR SOAP, 141.7 G BODY WASH DEODORANT 75 G","N/A",$7.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","EXTRA LARGE BLACK, GREEN OR RED SEEDLESS GRAPES","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","AVEENO SELECTED HAIR CARE PRODUCTS","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","JAMIESON VITAMINS OR SUPPLEMENTS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® EXTRA THICK CINNAMON RAISIN BREAD, 675 G","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NESCAFÉ INSTANT COFFEE CONCENTRATE 500 ML OR LIPTON YELLOW LABEL BLACK OR GREEN TEA 200 G OR ROYNEST MATCHA 50 G","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","SOURDOUGH OR PUMPERNICKEL BREAD, 675 G","N/A",$4.00,$4.79,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NATURE VALLEY GRANOLA BARS 120-230 G OR BETTY CROCKER OR MOTT'S FRUIT SNACKS 128-226 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® BLUE MENU OR PC® SPARKLING WATER, 12 X 355 ML","N/A",$11.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","SELSUN BLUE HAIRCARE, 300 ML","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","NO NAME® CREAM CHEESE, 227/250 G","N/A",$7.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","VAN HOUTTE GROUND COFFEE 340 G OR WHOLE BEAN 300 G, MCCAFÉ K-CUPS, 12/10'S OR KICKING HORSE K-CUPS 10'S","N/A",$14.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","GUACAMOLE, 270 G OR PICO DE GALLO SALSA, 170 G","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FANTINO & MONDELLO SALAMETTI, 100-200 G","N/A",$7.00,$8.49,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","GLAD INDOOR BUNDLE, 12-48'S, DOWNY OR GAIN FABRIC SOFTENER, 1.66-2.63 L, RINSE, 473 ML, BOUNCE OR GAIN SHEETS, 120-200'S, DOWNY OR GAIN BEADS, 379 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","STARBUCKS WHOLE BEAN, 907 G","N/A",$23.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","FAMILY SIZE SALADS","N/A",$18.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® NAAN CRISPS 170 G OR DIPPERS 200 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","MINI COOKIES, 24'S","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® SALSA, 650","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","MOTT'S CLAMATO JUICE, 1.89 L OR OCEAN SPRAY 100% JUICE BLEND OR COCKTAIL, 1.77 L -1.89 L","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","Herbal Essences hair care","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","CANTALOUPES PRODUCT OF GUATEMALA OR HONDURAS, MINI SEEDLESS WATERMELONS PRODUCT OF GUATEMALA, HONDURAS, COSTA RICA, MEXICO OR BRAZIL OR PINEAPPLE PRODUCT OF COSTA RICA OR MEXICO","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® MEATBALLS, 850-907 G","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","OLD SPICE HAIR CAR","N/A",$7.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
-7689063,"Loblaws","N/A","PC® MISO VEGETABLE OR CHICKEN BULGOGI HOT MAKI, 444 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Small Bar Cakes","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Prepared Fresh Daily In-Store Mango Salsa or Guacamole","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Whole Festive Chicken Dagwood Sandwich","N/A",$13.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","GOLD BOND Lotion","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Grape Tomatoes","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Patisseries","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","FRANZELUTA Artek Waffle Cookies","N/A",$3.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Salsa","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Chinese Long Beans","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","ENFAMIL A + NeuroPro Powder","N/A",$49.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","SPICE IT UP Veggie Pakoras","N/A",$6.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","SUKU Vitamin Gummies","N/A",$21.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","CHARMIN Bathroom Tissue","N/A",$22.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Candies","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","DAN-D ORGANIC Organic Chestnuts","N/A",$1.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","FRESH CHOICE Oysters","N/A",$1.00,$1.50,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","NONGSHIM Instant Noodles","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","ROSHEN Korivka Milk Sweets","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","H & H Dried Fruit Family Pack","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","PAMPERS Super Pack Diapers","N/A",$28.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Prepared In Store Daily Mixed Fruit Salad or Tropical Fruit Salad","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","ROBITUSSIN","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","ATHLETIC BREWING CO. Non-Alcoholic Beer","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Wild Sockeye Salmon Fillets","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","PATAK'S Cooking Kits","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","BBQ PIT BOYS Seasonings","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Hummus or Dips","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","PURINA Tidy Cats Multi-Cat Clumping Litter","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","OLD SPICE or SECRET Deodorant","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","GOLDEN BEE Floral","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Laundry Scent Booster Beads","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","MEZZETTA Olives","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Newfoundland Cooked Snow Crab Clusters","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","HUMPTY DUMPTY Party Mix","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","MILK-BONE Dog Biscuits, Treats or Chews","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","TYLENOL Complete","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","LINDT Swiss Classic Chocolate Bars","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","SPICE IT UP FOODS Chicken Korma with Rice","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Raspberries Red Half Pint or Blackberries 170 g","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Grab & Go Trays Cookie Lover's Bliss, Dessert Bars or Patisseries","N/A",$12.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","PANACHE Cheddar","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Prosciutto Pesto or"" Sweet Stinger"" Hot Honey, Cup & Char Pepperoni Flatbreads","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp in Rings with Sauce","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","POLYSPORIN Ointment","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","KETTLE BRAND 99 Chips","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS or PANACHE Chicken Wings, Meat Appetizers, Meatballs, Egg Rolls or Spring Rolls","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","ROYAL NUTS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","PILLER'S Mini Pepperoni or Turkey Bites","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","CAMPBELL'S Ready To Serve Soup","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","HEINEKEN Non-Alcoholic Beer","N/A",$10.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Long English Cucumbers","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","PURINA Friskies Lil' Soups Wet Cat Food","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","CRACKER BARREL Cheese Slices","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Cauliflower","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","SYSTANE Eye Drops","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","CASCADE Dishwasher Tabs","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","PURINA Friskies Dry Cat Food","N/A",$7.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp In Ring with Sauce","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","MCCAIN Pizza Pockets","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","BAREBELLS Protein Bars","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS or PANACHE Chicken Wings, Meat Appetizers, Meatballs, Egg Rolls, Spring Rolls or Seafood Appetizers","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","PANACHE Ham or Oven Roasted Chicken","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Fresh Skinless Pork Belly Portion","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Asian Entrées and Sides","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","40 FATHOMS Breaded Haddock or Cod Fillets","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Charcuterie Boards","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","HELLO Deodorant","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp in Rings with Sauce","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Persimmons","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","CREST 3D White Toothpaste or ORAL-B Toothpaste or Floss","N/A",$8.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Macaroni & Cheese","N/A",$1.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","MOTT'S Clamato or Garden Cocktail or NESTEA Lemon Iced Tea","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","KIKKOMAN Panko Bread Crumbs","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","BETTY CROCKER Super Moist Cake Mix","N/A",$2.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","SIMILAC Go & Grow Toddler Powder","N/A",$26.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","MAILLE Gherkins","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","TIPIAK Quinoa Gourmand","N/A",$6.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","AROY-D Coconut Milk","N/A",$2.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","FOCO 100% Coconut Water","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Flat Cabbage","N/A",$1.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","WONG WING Entrées or Appetizers","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Perogies","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Fresh Skinless Pork Belly sliced","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","HALO Clementines","N/A",$5.88,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Organic LIL SNAPPERS Gala, Pink Lady or Fuji Apples","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","LAKEWOOD Juice","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Chestnuts","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Strudel Fingers, Turnovers or Mini Strudel","N/A",$3.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Glorious Gerbera Bouquet","N/A",$24.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Compliments Cooked Shrimp In Ring with Sauce","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Roast & Ground Coffee","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","DARE Bear Paws Family Packs","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Compliments Cooked Shrimp In Ring with Sauce","N/A",$25.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS or PANACHE Chicken Wings, Meat Appetizers, Meatballs, Egg Rolls or Spring Rolls","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","SCHNEIDERS Bacon, Juicy Jumbos, Smoked Sausages or Sausage Rings","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Donuts","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","SCHNEIDERS Ham, Turkey, Jumbo Summer Sausage or Thuringer Sausage","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","JOHN FRIEDA Hair Care","N/A",$10.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Cheese","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","GAIN Liquid Detergent","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","CATELLI Protein Pasta","N/A",$3.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS ORGANIC Baby Purées","N/A",$1.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","FRANZELUTA Puff Pastry Butterfly Cookies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","GLAD Cling Wrap","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Seafood Sauce","N/A",$1.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","FRANK'S RedHot Sauce or Thick Hot Sauce","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Chicken Balls","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Two-Bite Brownies, Macaroons or Cinnamon Buns","N/A",$6.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","NESTLÉ Juniors","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","FINO FINE FOODS Fire Roasted Red Peppers","N/A",$5.79,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","BONTE Donair Kits","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","TRADITION Fresh Apple Cider product","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Ataulfo Mangoes","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","WENDY'S Fresh Ground Beef Patties","N/A",$11.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp Rings With Sauce","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Monterey Jack, Gouda or Havarti Cheese","N/A",$5.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","KÜHNE Gourmet Selection Gherkins","N/A",$4.79,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","DEL MONTE Fruit Bowls","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Peaches in Light Syrup","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","METHOD Surface Cleaners","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","ADVIL Tablets or Liqui-Gels","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","ZIPLOC Freezer Bags","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Lobster Tails 6-7 oz frozen","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Atlantic Canada 3-4 oz","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","TOFFIFEE","N/A",$2.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","SNACK FACTORY Pretzel Crisps","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","DAWN Dish Soap","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp In Ring with Sauce","N/A",$25.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Small Crusty Buns","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","ARMSTRONG Cheese Sticks","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","REVELLO or FUDGSICLE Novelties","N/A",$5.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Bleach","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","HERBAL ESSENCES Shampoo or Conditioner","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","FINO FINE FOODS Margherita Mediterranean Flatbread","N/A",$9.79,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","TYLENOL Pain Relief","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp in Rings with Sauce","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","ILCHESTER Applewood Smoked Cheddar or KING JAMES Blue Stilton","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","HELLMANN'S Dipping Sauces","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Cooked Shrimp in Rings with Sauce","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Calathea Plants","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","AURORA Arborio Rice","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Fresh AIR-CHILLED Split Wings","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","BUBLY or MONTELLIER Sparkling Water","N/A",$5.49,$6.49,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Bartlett or Bosc Pears","N/A",$1.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","SAVI GOURMET Gnocchi, Risotto or Penne Pasta Meals","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Organic Sliced White or Brown Mushrooms","N/A",$4.44,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","DARE Viva Puffs or Ultimate Cookies","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","COMPLIMENTS Lemonade","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","FONTAINE SANTE or LANTANA Topped Hummus","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7686777,"Safeway","N/A","Prepared In-Store Seacuterie Boards with Smoked Salmon, Shrimp or Crab-Flavoured Seafood","N/A",$12.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","SOURDOUGH OR PUMPERNICKEL, 675 G","N/A",$4.00,$4.79,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PANTENE OR HEAD & SHOULDERS","N/A",$6.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","OIKOS GREEK YOGURT, 4X100 G","N/A",$12.00,$14.97,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","CHEEZ-IT BAKED SNACK CRACKERS, 191-200 G OR CRISPERS OR CRISPERS BITS AND BITES SNACK OR CRACKER MIX, 145 G","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","QUAKER DIPPS OR CHEWY GRANOLA BARS, 120-156 G","N/A",$2.75,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® NATURALLY SMOKED BACON, 375/500 G","N/A",$7.00,$9.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® SPLENDIDO® COLD-PRESSED EXTRA VIRGIN OLIVE OIL, 500 ML","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FREYBE SALAMI, 125-150 G","N/A",$6.00,$7.99,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FARMER'S MARKET™ CARROTS, 2 LB BAG OR YELLOW ONIONS,3 LB BAG","N/A",$3.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","DR. OETKER RISTORANTE OR CASA DI MAMA PIZZA, 320-410 G","N/A",$4.00,$5.50,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PORK SIDE RIB PORTION","N/A",$3.50,$4.49,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","DR. SQUATCH BAR SOAP, 141.7 G BODY WASH, 414 ML OR DEODORANT, 75 G","N/A",$7.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","JAPANESE SWEET YAM OR PURPLE UBE YAM","N/A",$2.88,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","TYLENOL PAIN, COUGH & COLD, COMPLETE OR TYLENOL KIDS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","COLGATE TOOTHPASTE, 52-95 ML OR MANUAL TOOTHBRUSH EA.","N/A",$1.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","ROYALE BATHROOM TISSUE, 30=60 ROLLS OR TIGER TOWEL, 6=12 ROLLS OR FACIAL TISSUE, 12'S","N/A",$13.99,$19.99,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","JAMIESON VITAMINS OR SUPPLEMENTS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® EXTRA THICK CINNAMON RAISIN BREAD, 675 G","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","COSMIC CRISP OR HONEYCRISP APPLES","N/A",$3.00,$4.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® SHRIMP APPETIZERS, 294-454 G OR SMOKED SALMON OR CRAB & LOBSTER BAKE & SERVE DIP, 360 G","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","VASELINE BODY LOTION, 600/947 ML","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FARMER'S MARKET™ GRAPE TOMATO, 283 G MINI CUCUMBERS 6'S","N/A",$3.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","CHARCUTERIE BOARDS, 211-433 G","N/A",$14.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","IFC CANADIAN SNOW CRAB CLUSTERS, COOKED, 500 G PC® PACIFIC WHITE SHRIMP RING WITH MILD COCKTAIL SAUCE, 568 G","N/A",$19.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FANTINO & MONDELLO SALAMETTI DICED OR SLICED, 100-200 G","N/A",$7.00,$8.49,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","EXTRA LARGE BLACK,, GREEN OR RED SEEDLESS GRAPES","N/A",$4.49,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","GRASS FED EXTRA LEAN GOUND BEEF, 450 G","N/A",$8.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","30 Piece Wings & Wedges Bucket, 1.2-2 kg","N/A",$30.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® SPLENDIDO® CHUBS OR CAPITAL PACKERS SAUSAGE RINGS, 225-300 G","N/A",$10.00,$12.99,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","CANTALOUPES MINI SEEDLESS WATERMELONS OR PINEAPPLE","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","SAPUTO BOCCONCINI, 200 G OR MOZZARELLA FRESCA, 190 G","N/A",$6.00,$7.49,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","D'ITALIANO BREAD","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BECEL MARGARINE, 637/850 G OR PC® BUTTER QUARTERS, 454 G","N/A",$7.00,$9.49,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","CINNAMON BUNS DANISH OR CREAM CHEESE ICED, 10'S","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","STARBUCKS ICED COFFEE, 1.18/1.42 OR ACTIVIA YOGURT, 12X100 G","N/A",$7.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","KINGS HAWAIIAN ROLLS OR FURLANI GARLIC TOAST","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® DISTILLED WATER, 4 L","N/A",$1.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BETTY CROCKER SUPERMOIST CAKE MIX, 375-450 G OR FROSTINGS, 340-450 G","N/A",$2.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","ROMAINE HEARTS, 3'S","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","GAY LEA SPREADABLES BUTTER, 227 G","N/A",$4.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","COCA-COLA OR CANADA DRY SOFT DRINKS, 2 L","N/A",$6.50,$7.98,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® SALAD DRESSING, 475 ML","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NO NAME® CREAM CHEESE, 227/250 G","N/A",$7.50,$8.98,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","SOFTSOAP LIQUID HAND SOAP REFILL, 1.47 L","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","COCA-COLA OR PEPSI SOFT DRINKS, 24X355 ML","N/A",$12.79,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","HUMPTY DUMPTY CHEESE FLAVOURED SNACKS OR PARTY MIXES OR OLD DUTCH POTATO CHIPS, 200-290 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FRUITOPIA OR PEACE TEA, 1.75 L","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® FROZEN FRUIT, 300-600 G OR BREYERS CREAMERY STYLE ICE CREAM, 1.41 L","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","STRIPLOIN GRILLING STEAK","N/A",$10.88,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","DELI SERVICE CASE SIKORSKI GRANDPA & GRANDMA HAM","N/A",$3.00,$3.79,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BLUEBERRIES, PINT","N/A",$3.77,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NESCAFÉ INSTANT COFFEE CONCENTRATE, 500 ML LIPTON YELLOW LABEL BLACK OR GREEN TEA, 200 G ROYNEST MATCHA, 50 G","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BREADED PORK LOIN SCHNITZEL, 300 G","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PLANTER'S CASHEW HALVES, COCKTAIL PEANUTS OR MIXED NUTS WITH 60% PEANUTS, 200-225 G","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FAMILY SIZE SALADS","N/A",$18.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® HOT SMOKED CANDIED OR SPICY SALMON STRIPS, 150 G","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","STARBUCKS WHOLE BEAN COFFEE, 907 G","N/A",$23.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NO NAME® CHEESE BARS, 700 G OR PC® CHEESE SHREDS, 620 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® ORGANICS SALAD MIX, 142 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","AVEENO SELECTED HAIR CARE PRODUCTS","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","POPCORNERS, 142 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FRESHLY PREPARED PLATTERS","N/A",$25.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® LUXURY BISCUIT ASSORTMENT, 1 KG","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® SALSA, 650 ML","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","GOLDFISH BAKED SNACK CRACKERS OR CRISPS, 156-200 G OR OR PC® CRACKERS PITA CRACKERS OR CHEESE TWISTS, 100-225 G","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","GLAD INDOOR BUNDLE 12-48'S, DOWNY OR GAIN FABRIC SOFTENER 1.66-2.63 L, RINSE 473 ML, BOUNCE OR GAIN SHEETS 120-200'S, DOWNY OR GAIN BEADS 379 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NIVEA SKINCARE PRODUCTS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","HERBAL ESSENCES HAIR CARE","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","OLD SPICE HAIR CAR","N/A",$7.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® PACIFIC LARGE WHITE SHRIMP, 31-40 PER LB, 400 G","N/A",$9.00,$10.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","TRESEMMÉ® AMPLIFIED VOLUME SHAMPOO, CONDITIONER, 1.15 L","N/A",$11.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NO NAME® POTATO CHIPS OR CRISPS, 142-200 G","N/A",$1.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","INSTORE PREPARED FAMILY PASTA TRAY","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","Kuhn Rikon","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® CRISPY SHRIMP HORS D'OEUVRE, 528 G","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","GATORADE, 24 X 591 ML","N/A",$23.99,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","LYSOL DISINFECTANT SPRAYS, 350 G WIPES, 75-84'S ALL PURPOSE CLEANERS, 950 ML","N/A",$13.00,$15.98,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","MOTT'S CLAMATO JUICE, 1.89 L OR OCEAN SPRAY 100% JUICE BLEND OR COCKTAIL, 1.77 - 1.89 L","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","STONEMILL BREAD, 454/550 G","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC®, MENU®, ORGANICS OR PROTEIN TORTILLAS, 342-650 G","N/A",$3.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NATIVE DEODORANT, 75 G, DRY SPRAY, 99 G, WHOLE BODY DEODORANT, CREAM OR SPRAY, 68-99 G OR BODY WASH, 532 ML","N/A",$11.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BEN'S BISTRO RICE, 240/250 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","SARDO BULK OLIVES","N/A",$3.29,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® ROLLED WAFERS,400 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","HEAD & SHOULDERS HAIR CARE","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BONNE MAMAN JAM OR SPREAD, 250-290 ML","N/A",$5.00,$7.50,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","AXE, OLD SPICE METHOD OR DOVE MENS HAIR CARE","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","SELSUN BLUE HAIRCARE, 300 mL","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","CHRISTIE OREO,, CHIPS AHOY! ANIMAL CRACKERS TEDDY GRAHAMS OR POKÉMON SNACK PACKS, 144-200 G","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® ORGANICS FRUIT, 600 G","N/A",$8.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® MAYONNAISE, 750-890 ML","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BALDERSON CHEDDAR, 250/280 G OR PILLER'S KOLBASSA , 300-375 G","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® ORANGE JUICE, 1.54 L OR LIBERTÉ MÉDITERRANÉE YOGURT, 500 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® HORS D'OEUVRE COLLECTION, 300-772 G","N/A",$14.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® DOUBLE CREAM BRIE, 450 G","N/A",$13.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PARTY PLATTERS","N/A",$45.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NO NAME® HORS D'OEUVRES, 454-800 G","N/A",$11.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","SELECTED HAIR CARE PRODUCTS","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","DARE, BRETON, VEGGIE CRISP, GRISSOL OR VINTA CRACKERS OR BITES, 100-225 G","N/A",$3.25,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","VAN HOUTTE GROUND COFFEE, 340 G OR WHOLE BEAN, 300 G, MCCAFÉ K-CUPS, 12/10'S OR KICKING HORSE K-CUPS 10'S","N/A",$14.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NO NAME® CHEESE FLAVOURED CORN SNACKS OR CORN CHIPS, 200 G","N/A",$2.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","GUACAMOLE, 270 G OR PICO DE GALLO SALSA, 170 G","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","MCCAIN DEEP 'N DELICIOUS CAKES, 510 G","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® MISO VEGETABLE OR CHICKEN BULGOGI HOT MAKI, 444 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","SANPELLEGRINO ITALIAN SPARKLING WATER, 6X330 ML","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","MINUTE RICE, 1.2/1.4 KG","N/A",$7.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","SELECTED HAIR CARE PRODUCTS","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FARMER'S MARKET™ CUPCAKES, 284-318 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PUREX, PERSIL OR SUNLIGHT LAUNDRY DETERGENT, SNUGGLE FABRIC SOFTENER OR SHEETS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FARMER'S MARKET™ AVOCADO BAG, 6'S","N/A",$3.58,$6.58,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FARMER'S MARKET™ LEMONS, 3 LB OR PC® MANDARIN 3 LB","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® MEATBALLS, 850-907 G","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","TIDY CATS LIGHT WEIGHT LITTER, 2.72 KG","N/A",$12.00,$14.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","LA ROCCA 8 INCH OCCASION CAKES, 1.1-1.7 KG","N/A",$30.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","ACE BAKERY BAGUETTE, 325-400 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NO NAME® CHEESE BARS, 700 G OR PC® CHEESE SHREDS, 620 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","OLAY SUPER SERUM, REGENERIST MOISTURIZERS OR TREATMENTS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","LARGE VEGETABLE OR FRUIT PLATTER, 1.58-2.2 KG","N/A",$23.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® NAAN CRISPS, 170 G OR DIPPERS, 200 G","N/A",$4.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BATISTE DRY SHAMPOO, 200 ML","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® LITTLE GEMS™ MIXED, RED OR YELLOW MINI POTATOES, 680 G","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PARTY PLATTER, 696 G-1.15 KG","N/A",$30.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","CREST GUM OR KIDS TOOTHPASTE, 63-105 ML, CREST REGULAR 4-PACK TOOTHPASTE OR ORAL-B MANUAL TOOTHBRUSH, EA.","N/A",$6.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","MARCANGELO VALUE PACK PORK SAUSAGES OR ITALIAN STYLE MEATBALLS, 1-1.4 KG","N/A",$13.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","DOVE INTENSIVE REPAIR SHAMPOO, CONDITIONER, 828 ML","N/A",$10.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","COFFEEMATE COFFEE ENHANCER, 946 ML","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NESTLÉ CHOCOLATE SINGLES,33-60 G","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","INSTORE PREPARED TURKEY CRANBERRY, 750 G","N/A",$16.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","APPLEWOOD SMOKED CHEDDAR","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® BLUE MENU OR PC® SPARKLING WATERWATER, 12 X 355 ML","N/A",$11.00,$12.98,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BUTTER CROISSANTS, 12'S","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","NATURE VALLEY GRANOLA BARS, 120-230 G OR BETTY CROCKER OR MOTT'S FRUIT SNACKS, 128-226 G","N/A",$9.00,$11.25,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","ROMA SLICED PEPPERONI, 900 G","N/A",$11.00,$12.00,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PULLED PORK BAO BUNS, GYRO, FAJITA CHICKEN OR SHRIMP TACO TRAY, 1-1.15 KG","N/A",$20.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® OR BLUE MENU® ENTRÉES, 2/2.27 KG OR HIGH LINER PAN SEAR OR SIGNATURE FISH, 425-540 G","N/A",$14.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","GENERAL MILLS CEREAL","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BOURSIN SOFT CHEESE, 150 G","N/A",$6.00,$7.99,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FONTAINE SANTÉ HUMMUS, 454/482 G","N/A",$6.00,$7.50,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","BLACKBERRIES OR RASPBERRIES","N/A",$4.50,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® SPINACH & PARMESAN DIP FLIPS, 180 G","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","MINI COOKIES, 24'S","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PC® PEANUT BUTTER FILLED PRETZELS, 680 G","N/A",$9.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","FRESH STEELHEAD TROUT FILLETS","N/A",$13.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","PANTENE HAIR CARE","N/A",$8.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
+7688004,"Your Independent Grocer","N/A","IÖGO FROZEN YOGURT, 946 ML OR BARS, 4/8'S","N/A",$5.00,N/A,"N/A",each,"N/A",2025-12-25T03:00:00-05:00,2025-12-31T23:59:59-05:00,"N/A",V6B1A1
