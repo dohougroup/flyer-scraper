@@ -1,4 +1,18 @@
 flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize,validUnit,imageUrl,validFrom,validTo,category,postalCode
+7645106,"PetSmart","N/A","reptile & fish premium frozen food","N/A",$5.09,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","Merrick dog food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","ALL Top Paw® beauty & grooming pet supplies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","pet's first bath or groom","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","Jay's® My Mighty Wolf & Doggy Bits dog treats","N/A",$6.00,$10.29,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","Save 15% select cat litter 2.2-12.7 kg","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","entire Holiday Collection","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","Wellness® dog food & WHIMZEES® dog treats","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","Save 20% select cat litter 4.2-15.1 kg","N/A",$15.19,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","Purina ONE® dog treats","N/A",$5.00,$6.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","Purina® Pro Plan® FortiFlora Probiotic & calming care powdered dog & cat supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","aquatic ornaments & artificial plants","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","select cat litter","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7645106,"PetSmart","N/A","Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Save 15% aquatic pets, reptiles & live plants","N/A",$2.54,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Buy 1, get 2nd 25% off select cat toppers 21-170 g.","N/A",$1.59,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Buy 1, get 2nd 25% off aquatic media","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
@@ -15,29 +29,15 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7687563,"PetSmart","N/A","Sale $6 Jays My Mighty Wolf, Doggy Bits dog treats","N/A",$6.00,$10.29,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Save 15% API® & Top Fin® fish food & watercare","N/A",$4.66,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Buy 1, get 2nd 50% off Exquisicat® and DR. ELSEY'S® Precious Cat cat litter 3.1-18.1 kg.","N/A",$14.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7687563,"PetSmart","N/A","Buy 2, get 3rd FREE dog and cat treats","N/A",$1.19,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Save 20% Stella and Chewy's and The Honest Kitchen dog food","N/A",$1.59,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Save 20% select dog (4.5-8.1 kg.) & cat (2.1-3.8 kg.) food bags","N/A",$22.39,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Save 30% aquatic, small pet, bird & reptile habitats (excludes open glass)","N/A",$10.49,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Save 60% Holiday","N/A",$0.57,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Save 15% Catit®, Purina® TIDY CATS®, Almo, Dofu, sWheat Scoop® , Odour Lock and Okocat cat litter 2.2-12.7 kg.","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7687563,"PetSmart","N/A","Save 10% ARM & HAMMER™, Pretty Litter, Odour Beater, Boxie Cat, Sustainably Yours™, Wee Kitty® and Odour Buster cat litter 3.1-18.1 kg.","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7687563,"PetSmart","N/A","Save 50% CANADA POOCH, Hotel Doggy, Arcadia Trail, Muttluks & Top Paw winter apparel and accessories","N/A",$12.49,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7687563,"PetSmart","N/A","Save 20% Merrick®, Nutrience®, Simply Nourish®, BLUE BUFFALO™ NUTRO™, Instinct® Wellness® Natural Balance® & Nulo dog food 4.5-9 kg.","N/A",$24.79,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","reptile & fish premium frozen food","N/A",$5.09,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","Merrick dog food","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","Benny Bully's cat treats","N/A",$3.00,$4.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","ALL Top Paw® beauty & grooming pet supplies","N/A",$3.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","pet's first bath or groom","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","Jay's® My Mighty Wolf & Doggy Bits dog treats","N/A",$6.00,$10.29,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","Save 15% select cat litter 2.2-12.7 kg","N/A",$12.74,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","entire Holiday Collection","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","Wellness® dog food & WHIMZEES® dog treats","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","Save 20% select cat litter 4.2-15.1 kg","N/A",$15.19,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","aquatic ornaments & artificial plants","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","Purina® Pro Plan® FortiFlora Probiotic & calming care powdered dog & cat supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","Purina ONE® dog treats","N/A",$5.00,$6.99,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
-7645106,"PetSmart","N/A","select cat litter","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-01T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7687563,"PetSmart","N/A","Save 50% CANADA POOCH, Hotel Doggy, Arcadia Trail, Muttluks & Top Paw winter apparel and accessories","N/A",$12.49,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7687563,"PetSmart","N/A","Buy 2, get 3rd FREE dog and cat treats","N/A",$1.19,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
+7687563,"PetSmart","N/A","Save 10% ARM & HAMMER™, Pretty Litter, Odour Beater, Boxie Cat, Sustainably Yours™, Wee Kitty® and Odour Buster cat litter 3.1-18.1 kg.","N/A",$13.04,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-04T23:59:59-05:00,"N/A",T2P3M3
 7685916,"Walmart","N/A","Enfamil A+ NeuroPro formula","N/A",$47.47,$52.97,"N/A",each,"N/A",2026-01-01T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7685916,"Walmart","N/A","Royale facial tissue","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-01-01T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7685916,"Walmart","N/A","LEGO Frozen Olaf and Bruni's Picnic Fun","N/A",$64.86,N/A,"N/A",each,"N/A",2026-01-01T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
@@ -188,6 +188,51 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7685916,"Walmart","N/A","Frito-Lay variety pack 42s","N/A",$19.97,N/A,"N/A",each,"N/A",2026-01-01T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7685916,"Walmart","N/A","Ferrero Rocher or Collection chocolates","N/A",$17.77,N/A,"N/A",each,"N/A",2026-01-01T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7685916,"Walmart","N/A","Oîkos yogurt drinks","N/A",$1.44,$2.58,"N/A",each,"N/A",2026-01-01T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Monster Trucks Power Smashers Charge & Chase Challenge","N/A",$48.67,$64.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Zuru XSHOT SKINS Pro Series Fury-X","N/A",$20.97,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Alex My First Embroidery Kit","N/A",$10.17,$16.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Zuru Robotic Boat Series 1","N/A",$12.67,$16.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Block Tech THESE BLOCK BOUQUET FLOWERS BUILDING SETS","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","ZURU Deep Sea Monster Surprise Series 1","N/A",$22.47,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Nerf N-Series Gear Up Pack","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Alex My First Lace, Count & Color Cards","N/A",$5.97,$9.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Pajama Pants: White Bake Shop","N/A",$10.97,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Crazy Forts Multi Color","N/A",$35.97,$59.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Alex Activity Roll","N/A",$4.97,$9.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Sonic Assortment","N/A",$2.97,$4.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Little Live Pets-My Really Real Puppy Luna the Samoyed","N/A",$67.47,$89.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Nanomals","N/A",$19.97,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Blanket with Sleep Mask: White Bakeshop","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Little Live Pets Mama Surprise Bunny Play Set","N/A",$67.47,$89.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Little Live Pets Needees Single Pack","N/A",$10.47,$13.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Blokees Transformers Galaxy Version Wave 5","N/A",$10.97,$12.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Imports Dragon Miraculous Deluxe Eiffel Tower Play Set","N/A",$119.97,$199.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Gelli Mats - Alphabet Fun","N/A",$77.97,$129.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Blokees Transformers Shiny Wave Version Wave 3","N/A",$15.97,$18.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Cookeez Makery Yum Yumz 2 Pack","N/A",$15.97,$19.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","LEGO® Creator Typewriter with Flowers","N/A",$35.97,$42.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","THESE BLOCK BOUQUET FLOWERS BUILDING SETS","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Fleece Onesie : Grey Polar Bear","N/A",$21.97,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Mattel Jurassic World Crushivores","N/A",$13.97,$19.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Rainbocorns Mamacorn Surprise","N/A",$22.47,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","6-in-1 Baby Doll Gear Set","N/A",$59.97,$99.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Oversized Hooded Blanket: White Bakeshop","N/A",$20.17,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","City Super Police Station Play Set","N/A",$28.47,$37.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Fisher-price Link Squad Opposites Fox","N/A",$17.47,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Crazy Forts Glow in the Dark","N/A",$35.97,$59.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Power Weed Trimmer With Goggles","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Little Lot My First Ride On","N/A",$20.97,$34.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Crazy Forts","N/A",$29.97,$49.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","ALEX 10 Pcs Power Drill Set","N/A",$16.97,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Plush Giraffe 11""","N/A",$11.87,$16.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Crazy Forts Mega Kit","N/A",$59.97,$99.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Deep Sea Creatures Set","N/A",$20.97,$34.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","ZURU Hamstermania","N/A",$18.67,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Heroes Of Goo Jit Zu Ultra Goo Hero Pack Luffy","N/A",$29.97,$39.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","ALEX Rock Pets - Frog","N/A",$11.47,$22.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Blanket with Sleep Mask: Aqua Sloth","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Nerf N-Series Pinpoint Blaster","N/A",$20.97,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Pitter Patter Pets Pretty Little Kitty","N/A",$9.97,$16.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Sleepover Bear: Pink Heart","N/A",$14.97,$19.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Marvel Character Assortment","N/A",$2.97,$4.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Oversized Hooded Blanket: Pink Heart","N/A",$20.17,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
@@ -203,13 +248,11 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7686889,"Toys ""R"" Us","N/A","Everest Blokees Transformers Classic Class Optimus Prime","N/A",$23.77,$27.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Little Live Pets Ouchies - Cooper The Retriever Puppy","N/A",$67.47,$89.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","University Games Techno Trax Space Odyssey","N/A",$71.97,$89.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Alex Rock Pets - Caterpillar","N/A",$11.47,$22.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Block Tech Cornflower Block Bouquet","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","LEGO® Creator Playful Cat","N/A",$27.97,$32.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Hot Wheels City Battling Creature Transports","N/A",$44.97,$59.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Crazy Forts Lights - 2 pack","N/A",$14.97,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","NHL Series 2 Tin","N/A",$99.97,$124.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Baby Mode Plush Brown Doggy 18""","N/A",$17.47,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Sleepover Bear: White Bakeshop","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Imports Dragon Teenage Mutant Ninja Turtles Ooze Canister","N/A",$6.97,$13.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Pitter Patter Pets Playful Puppy Pal","N/A",$9.97,$16.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
@@ -220,72 +263,28 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7686889,"Toys ""R"" Us","N/A","LEGO® DUPLO® My First Big Feelings & Emotions","N/A",$34.77,$40.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Plush Yellow Duck 18""","N/A",$17.47,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","ALEX Power Chainsaw With Goggles","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","LEGO® Animal Crossing™ Able Sisters Clothing Shop","N/A",$44.97,$56.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Monster Trucks Power Smashers Charge & Chase Challenge","N/A",$48.67,$64.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Zuru XSHOT SKINS Pro Series Fury-X","N/A",$20.97,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Alex My First Embroidery Kit","N/A",$10.17,$16.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Zuru Robotic Boat Series 1","N/A",$12.67,$16.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Block Tech THESE BLOCK BOUQUET FLOWERS BUILDING SETS","N/A",$9.99,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Disney Assortment","N/A",$2.97,$4.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","ZURU Deep Sea Monster Surprise Series 1","N/A",$22.47,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Nerf N-Series Gear Up Pack","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Alex My First Lace, Count & Color Cards","N/A",$5.97,$9.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Pajama Pants: White Bake Shop","N/A",$10.97,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Crazy Forts Multi Color","N/A",$35.97,$59.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Alex Activity Roll","N/A",$4.97,$9.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Sonic Assortment","N/A",$2.97,$4.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Little Live Pets-My Really Real Puppy Luna the Samoyed","N/A",$67.47,$89.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Nanomals","N/A",$19.97,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Blanket with Sleep Mask: White Bakeshop","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Little Live Pets Mama Surprise Bunny Play Set","N/A",$67.47,$89.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","LEGO® NINJAGO® Kai's Mech Storm Rider","N/A",$61.97,$72.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Little Live Pets Needees Single Pack","N/A",$10.47,$13.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Blokees Transformers Galaxy Version Wave 5","N/A",$10.97,$12.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Imports Dragon Miraculous Deluxe Eiffel Tower Play Set","N/A",$119.97,$199.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Gelli Mats - Alphabet Fun","N/A",$77.97,$129.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Blokees Transformers Shiny Wave Version Wave 3","N/A",$15.97,$18.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Cookeez Makery Yum Yumz 2 Pack","N/A",$15.97,$19.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","LEGO® Creator Typewriter with Flowers","N/A",$35.97,$42.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","THESE BLOCK BOUQUET FLOWERS BUILDING SETS","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Fleece Onesie : Grey Polar Bear","N/A",$21.97,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Mattel Jurassic World Crushivores","N/A",$13.97,$19.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Zuru Pets Alive Polly the Magic Bird","N/A",$33.67,$44.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Rainbocorns Mamacorn Surprise","N/A",$22.47,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","6-in-1 Baby Doll Gear Set","N/A",$59.97,$99.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Oversized Hooded Blanket: White Bakeshop","N/A",$20.17,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","City Super Police Station Play Set","N/A",$28.47,$37.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Fisher-price Link Squad Opposites Fox","N/A",$17.47,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Crazy Forts Glow in the Dark","N/A",$35.97,$59.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Power Weed Trimmer With Goggles","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Little Lot My First Ride On","N/A",$20.97,$34.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Crazy Forts","N/A",$29.97,$49.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","ALEX 10 Pcs Power Drill Set","N/A",$16.97,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Plush Giraffe 11""","N/A",$11.87,$16.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Crazy Forts Mega Kit","N/A",$59.97,$99.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Deep Sea Creatures Set","N/A",$20.97,$34.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","ZURU Hamstermania","N/A",$18.67,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Blokees Transformers Limited Edition Gold Series 2","N/A",$84.97,$99.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Heroes Of Goo Jit Zu Ultra Goo Hero Pack Luffy","N/A",$29.97,$39.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","My First Sewing Kit","N/A",$17.97,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","ALEX Rock Pets - Frog","N/A",$11.47,$22.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Plush Pink Pig 18""","N/A",$17.47,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Jesse & Lulu Lounge Blanket with Sleep Mask: Aqua Sloth","N/A",$14.97,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Nerf N-Series Pinpoint Blaster","N/A",$20.97,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Pitter Patter Pets Pretty Little Kitty","N/A",$9.97,$16.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","ALEX Power Leaf Blower With Goggles","N/A",$27.97,$39.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","LEGO® DUPLO® Disney Anna and Elsa's Frozen Castle Party","N/A",$76.47,$89.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Zuru Mega Dino Fossil Find Series 1","N/A",$29.97,$39.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","Ideal Sno Toys Sno-Art Kit","N/A",$15.97,$19.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7686889,"Toys ""R"" Us","N/A","You & Me 2-in-1 Doll Pram","N/A",$26.97,$44.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Block Tech Lilac Block Bouquet","N/A",$10.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","You & Me 2-in-1 Doll Pram","N/A",$26.97,$44.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Zuru Mega Dino Fossil Find Series 1","N/A",$29.97,$39.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","LEGO® DUPLO® Disney Anna and Elsa's Frozen Castle Party","N/A",$76.47,$89.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Ideal Sno Toys Sno-Art Kit","N/A",$15.97,$19.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Dollhouse & Kitchen 2-in-1 Play Set","N/A",$149.97,$249.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","LEGO City F1 Garage & Mercedes-AMG & Alpine Cars","N/A",$93.47,$109.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Ideal Sno Toys Sno-Striker","N/A",$19.97,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Zuru Robo Turtle Series 1","N/A",$10.97,$14.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","Flexfigs Lilo & Stitch","N/A",$7.47,$9.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Zuru Pets Alive Polly the Magic Bird","N/A",$33.67,$44.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","My First Sewing Kit","N/A",$17.97,$29.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Disney Assortment","N/A",$2.97,$4.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Plush Pink Pig 18""","N/A",$17.47,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","LEGO® Animal Crossing™ Able Sisters Clothing Shop","N/A",$44.97,$56.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686889,"Toys ""R"" Us","N/A","LEGO® NINJAGO® Sora's Dragon Spinjitzu Spinner","N/A",$12.67,$14.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Blokees Transformers Limited Edition Gold Series 2","N/A",$84.97,$99.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","LEGO® NINJAGO® Kai's Mech Storm Rider","N/A",$61.97,$72.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Baby Mode Plush Brown Doggy 18""","N/A",$17.47,$24.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7686889,"Toys ""R"" Us","N/A","Alex Rock Pets - Caterpillar","N/A",$11.47,$22.99,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Samsung 50"" QN80F 4K NeoQLED TV","N/A",$899.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
-7671958,"London Drugs","N/A","Samsung 75"" U8000j UHD 4K TV","N/A",$849.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Sony α7 III with 28 – 70mm Lens","N/A",$1949.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Barista Express Impress Espresso Machine","N/A",$899.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Sony a7 III Body Only","N/A",$1749.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
@@ -342,7 +341,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7671958,"London Drugs","N/A","Ogx Hair Care","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Samsung 65"" QN80F 4K NeoQLED","N/A",$1299.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","LG 42"" C5 4K OLED Smart TV","N/A",$1199.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
-7671958,"London Drugs","N/A","Frigidaire 1.2 cu. ft. 3-In-1 Combo Microwave with Air Fryer and Convection","N/A",$159.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Gibson Home Marbleton Ceramic Non-Stick Aluminum Frypan 11""","N/A",$19.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Jack Link's Jerky","N/A",$11.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Electric Breast Pump","N/A",$109.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
@@ -391,7 +389,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7671958,"London Drugs","N/A","Coffee Grinder","N/A",$49.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Bissell PowerClean Cordless Stick Vacuum","N/A",$99.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Smart Sweets Gummy Candy","N/A",$6.00,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
-7671958,"London Drugs","N/A","Ninja CREAMi Deluxe","N/A",$249.99,$349.99,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Laica Bath Scale","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","e.l.f. Cosmetics","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Olay Super Serum Body Wash","N/A",$13.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
@@ -403,7 +400,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7671958,"London Drugs","N/A","Softsoap Refill","N/A",$6.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","M & M' s, Maltesers, Twix, Mars, Snickers, Musketeers or Bounty","N/A",$2.50,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Sports Research Collagen","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
-7671958,"London Drugs","N/A","Colgate Extra Clean Toothbrush","N/A",$3.00,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","JBL Bar 1000MK2 960W 7.1. 4-ch Speaker System with Wireless Subwoofer","N/A",$1249.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Select Systane or Clear Care Products","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Elastoplast Bandages","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
@@ -434,6 +430,10 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7671958,"London Drugs","N/A","Philips Sonicare 6300 ProtectiveClean Rechargeable Toothbrush","N/A",$84.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Cottonelle Flushable Wipes","N/A",$8.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7671958,"London Drugs","N/A","Old Spice Body Wash","N/A",$7.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
+7671958,"London Drugs","N/A","Nexcare Sensitive Skin Tape","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
+7671958,"London Drugs","N/A","CREAMi Ice Cream Maker","N/A",$199.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
+7671958,"London Drugs","N/A","Pantene Hair Care","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
+7671958,"London Drugs","N/A","Colgate or Tom's Natural Toothpaste","N/A",$4.99,N/A,"N/A",each,"N/A",2025-12-26T00:00:00-05:00,2026-01-01T23:59:59-05:00,"N/A",T2P3M3
 7686871,"London Drugs","N/A","Partake Non-Alcoholic Beer","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686871,"London Drugs","N/A","Vital Proteins Collagen Peptides","N/A",$55.99,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7686871,"London Drugs","N/A","Glysomed Hand or Eczema Cream","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
@@ -722,7 +722,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7680431,"Leon's","N/A","Serta® Perfect Sleeper Pacific Medium Eurotop King Mattress","N/A",$949.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
 7680431,"Leon's","N/A","Reflections 3 - Piece Queen Bed - White","N/A",$649.00,$849.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
 7680431,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop Twin Mattress","N/A",$379.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
-7680431,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop Queen Mattress","N/A",$399.00,$449.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
 7680431,"Leon's","N/A","Silverstone 6 - Piece Queen Storage Bedroom Package - Mist Grey","N/A",$1999.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
 7680431,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
 7680431,"Leon's","N/A","In Harmony - Kingsdown Concert Medium Tight Top Full Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
@@ -734,137 +733,7 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7680431,"Leon's","N/A","Reflections Full Bed","N/A",$629.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
 7680431,"Leon's","N/A","Jackson Leather 5-Piece Power Reclining Sectional with Heat and Massage - Butternut","N/A",$3699.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
 7680431,"Leon's","N/A","Breeze 6-Piece Dining Set - White, Grey","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Bubly or Aha Sparkling Water 12 Pack or Montellier 10 Pack","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Oasis Juice or SunRype or Arizona 960ml or Bai Beverages 530ml","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Canadian Harvest or Sunflower Flax Bread","N/A",$3.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Fresh Attitude Salad Blends","N/A",$5.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Annie's Homegrown Pasta","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Waterview Market Shrimp & Sauce","N/A",$9.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Kick Sugar","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Potato Chips","N/A",$7.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Iceberg Lettuce","N/A",$2.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Whole Pork Tenderloin, Bone In Pork Shoulder Blade Steaks or Roast","N/A",$3.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Diced Melons Cantaloupe, Honeydew, Watermelon","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Haribo Candy","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Red Mangoes","N/A",$1.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Oikos Yogurt","N/A",$3.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Organic Tofu","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Dare or Christie Crackers 100-225g or Hardbite Kettle Chips","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","UpMeals Salads & Meals","N/A",$11.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Fruit Source or Fruit to Go","N/A",$10.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","St. Louis Style Pork Side Ribs","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","RestoraLAX and RestoraFIBRE","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","TreSemme Hair Care 828ml and Styling 255-311g or Pantene Hair Care 237-530ml and Secret Clinical Deodorant 45g","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Pork Sausage","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Schneiders Lunchmate","N/A",$9.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Frozen Fish Filet","N/A",$14.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Wing Sauces","N/A",$4.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Pasta Kits","N/A",$8.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Cracker Barrel Cheese Block","N/A",$8.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Nicoderm 7's and Nicorette Gum 105's, Lozenges 80's, and Quick Mist 150 Spray","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Lightlife Smart Bacon or Dogs","N/A",$4.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Marinated Chicken Wings","N/A",$0.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Sausage Chubs","N/A",$5.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Grimm's Black Forest Ham","N/A",$3.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Juici Apples","N/A",$2.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Harvest Pepperoni Snack Sticks","N/A",$2.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Jamieson Vitamins and Supplements","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Blueberries","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Hair Care or Body Wash","N/A",$4.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Russet Potatoes","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Hellmann's Mayonnaise","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Armstrong Block Cheese 750g or Black Diamond Cheese Strings 588g","N/A",$11.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Amooza or Black Diamond Cheese Strings","N/A",$6.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Deli Snack Packs or Snack Trays or Sandwich Salad Packs","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Avocados","N/A",$1.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Naturals Sport Supplements","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Island City Baking","N/A",$7.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Whiskas Temptations Cat Treats 180g or Milk Bone Chewy 113g or Biscuits 283-900g","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Häagen-Dazs Ice Cream","N/A",$5.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Sizzlin Smokies or Pepperoni Bites","N/A",$7.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Gummy Gainz Protein Gummies","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Huggies Mega Colossal Diapers","N/A",$36.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Poise Pads 22-66' s or Depends Underwear 12-19' s and Guards or Shields 52-58' s","N/A",$18.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Wild Rose D-tox Kits","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Founders & Farmers Muffins","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Greenfield Bacon, Wieners or Burns Cooked Sliced Ham","N/A",$8.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Aspirin 81mg 100-120' s and Aleve 40-100' s","N/A",$13.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Sweet Corn and Black Bean Salad","N/A",$2.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Shredded Cheese","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Wild Yellow Fin Tuna Steaks","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Rockit Apples","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Founders & Farmers Mini Cucumbers","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Impossible Burger Patties or Nuggets","N/A",$7.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Inside Round Oven Roast","N/A",$11.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Kicking Horse Pods or McCafe Coffee 10-12 Pack or Starbucks Nespresso 8 Pack","N/A",$12.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Beefsteak Tomatoes","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Christie Cookies or Peek Frean","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Boneless Skinless Chicken Breast","N/A",$6.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Carbonaut All Clean Ingredients","N/A",$7.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Whole Rainbow Trout","N/A",$2.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Harmony Bouquet","N/A",$13.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Simmering or Braising Beef Short Ribs","N/A",$14.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Marinated Beef Skewers","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Founders & Farmers Mini Cookies","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Aqua Gems Fillets","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Grimm's Pepperoni 450-600g, Bites 175g, or Minis 250g","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Hemp Yeah! Hemp Hearts or Granola or Quaker Harvest Crunch or Vector","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Pasta Sauce","N/A",$3.27,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Crispy Minis or Rice Cakes","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Mighty Protein Chicken Sticks","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Made Good Bars or Valley","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Quaker Protein or Fibre Instant Oatmeal or Stoked Oats Granola","N/A",$4.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Chicken Pot Pie Family Size","N/A",$15.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Fruitsations","N/A",$3.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Founders & Farmers Cruffins","N/A",$3.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Mediterranean Sea Bass or Salmon Skewers with Citrus Marinade","N/A",$15.97,$17.97,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","High Protein Milk or High Protein Chocolate Milk","N/A",$6.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","St Hubert Tourtiere 800g or Montana's and Swiss Chalet Pot Pie 650-655g","N/A",$8.97,$9.97,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Founders & Farmers All Butter Pain Au Chocolat, Croissants or Palm Leaves","N/A",$4.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Face Care","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","LeanFit Protein","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","School Safe Muffin Bars or Oat Bites","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","14 Grain Protein, Protein or Ancient Grain Bread","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Danone Oikos Yogurt Tubs 650-750g or Danone Activia Yogurt Drinks 8 Pack","N/A",$6.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","4"" Primula","N/A",$3.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Cold Foam","N/A",$4.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Boneless Skinless Chicken Thighs","N/A",$8.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Raw or Cooked Pacific White Shrimp","N/A",$10.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Veggie Noodles","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Wild Sockeye Salmon Fillets","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Le Brie","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Mini Cookies","N/A",$2.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Founders & Farmers Bagels","N/A",$4.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Fresh Cooked Mussels in Garlic Butter","N/A",$16.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Small Salad Blends","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Dairyland Milk 2 Go or Neilson Milkshakes","N/A",$1.67,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Bartlett Pears","N/A",$1.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Old EL Paso Dinner & Bowl Kit","N/A",$3.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Oven Roasters","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Superbelly or Latte","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Plant Up Dumplings & Bites","N/A",$8.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Light Tuna","N/A",$1.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Prime Chicken Drumsticks","N/A",$13.77,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Rib Eye Grilling Steak","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Organic or Krema Yogurt","N/A",$4.47,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Tri Colour Sweet Peppers","N/A",$4.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Sensodyne Toothpaste","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Mitsoh Bison Pemmican","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Cereal","N/A",$4.87,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Eye Drops","N/A",$8.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","6"" Mini Rose","N/A",$14.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Pure Protein Bars","N/A",$9.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Vega or Bio-X Protein Powder","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Superfries or Tasti Taters and Shredded Hashbrowns","N/A",$8.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Campbell's Chunky Soup","N/A",$2.67,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Nutritional Shakes","N/A",$12.97,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7699286,"Calgary Co-op","N/A","Cheese Triangles","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-02T00:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7679497,"The Brick","N/A","Frigidaire Gallery 30"" 20 Cu. Ft. Standard-Depth French-Door Refrigerator - Smudge-Proof® Stainless Steel - GRFN2023AF","N/A",$1695.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
-7679497,"The Brick","N/A","Samsung 6.3 Cu. Ft. Smart Electric Free Standing Range with Air Fry - Stainless Steel - NE63A6511SS/AC","N/A",$995.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
-7679497,"The Brick","N/A","Samsung 30"" 22.1 Cu. Ft. French-Door Refrigerator - Stainless Steel - RF22A4111SR/AA","N/A",$1495.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
-7679497,"The Brick","N/A","KitchenAid 1.9 Cu. Ft. Over-the-Range Microwave with 7 Sensor Functions - Stainless Steel - YKMMS130RPS","N/A",$595.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
-7679497,"The Brick","N/A","Cuisinart 10-Piece Classic Collection® Stainless Steel Cookware Set - CSS-10BC","N/A",$229.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
-7679497,"The Brick","N/A","Cuisinart 10-Piece Classic Collection® Stainless Steel Cookware Set - CSS-10BC","N/A",$229.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
+7680431,"Leon's","N/A","Anthena Chair - Charcoal","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",T2P3M3
 7679497,"The Brick","N/A","Shay 33"" Chenille Fabric Swivel Glider Reclining Accent Chair - River Rock Beige","N/A",$599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
 7679497,"The Brick","N/A","Kort & Co. Capri 20 Modern Round End Table with White Sintered Stone Top - Black and Gold","N/A",$249.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
 7679497,"The Brick","N/A","Kort & Co. 22"" Pine Berry Cypress Wreath","N/A",$12.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
@@ -1009,46 +878,12 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7679497,"The Brick","N/A","LG 55"" UA7000 4K UHD Smart webOS TV (55UA7000PUB.ACC) 2025 Model","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
 7679497,"The Brick","N/A","Whirlpool 4.8 Cu. Ft. Top Load Washer with 2-in-1 Removable Agitator - WTW4107SW","N/A",$695.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
 7679497,"The Brick","N/A","Electrolux 5.2 Cu. Ft. Front-Load Washer and 8 Cu. Ft. Electric Dryer - Titanium","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","MISS VICKIE'S KETTLE COOKED CHIPS, 190-200 G","N/A",$3.77,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","TETLEY TEA, 20/24' S","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","CRISPY ROTI, 750 G","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","NO NAME® PEROGIES, 2 KG","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","NO NAME® NATURALLY IMPERFECT™ AVOCADO, 2.2 LB","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","ESSIE NAIL COLOR, EXPRESSIE OR NAIL TREATMENT","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","FARMER'S MARKET™ GRAPE TOMATOES","N/A",$6.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","MILK 2GO MILK, 6X200 ML","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","PLAYTEX DIAPER GENIE DISPOSABLE SYSTEM REFILL OR DIAPER GENIE REFILL, 3 ROLL OR 18' S","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","PC® BLUE MENU® WHOLE GRAIN PASTA, 375 G","N/A",$2.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","DELI SNACKING TRAY, 355-400 G","N/A",$7.00,$8.00,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","ACE BISTRO LOAF, 545-640 G","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","SEAQUEST® WHOLE TILAPIA, 800 G, POMPANO, 1.36 KG OR 3FISH COOKED WHOLE RAZOR CLAM, 340 G","N/A",$9.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","NO NAME® BREADED CHICKEN, 1.81 KG","N/A",$11.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","DELI WORLD RYE BREAD, 500 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","WONDER BREAD 570 G OR BUNS 12' S","N/A",$2.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","NO NAME® ALMOND CHEWY OR CHOCOLATE CHIP GRANOLA BAR, 120-175 G","N/A",$2.25,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","CHACHA SUNFLOWER SEEDS, 260 G","N/A",$2.48,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","GREEN ZUCCHINI","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","LECLERC CÉLÉBRATION COOKIES, 200/240 G","N/A",$3.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","ROOSTER® TOFU, 454 G","N/A",$4.98,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","WINDEX GLASS CLEANER 765 ML, SCRUBBING BUBBLES OR FANTASTIK CLEANER 650-950 ML/385-623 G","N/A",$8.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","NO NAME® DISHWASHING LIQUID, 800 ML","N/A",$1.88,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","GOGO SQUEEZ, 4X90 G OR HOMESTYLE CUPS, 388 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","MARC ANTHONY OR CAKE HAIR CARE","N/A",$9.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","ALWAYS PADS, 7-92' S OR LINERS, 92-96' S","N/A",$12.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","ILLY K-CUP COFFEE, 10' S OR DAVIDSTEA MATCHA, 65/78 G","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","BEN'S ORIGINAL BISTRO EXPRESS, 240/250 G","N/A",$9.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","IÖGO NANO, 6X93 ML OR SIGGI'S SKYR, 4X100 G YOGURT","N/A",$3.39,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","PC® NUTS, 680-907 G","N/A",$16.00,$18.00,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","BONELESS BEEF STEW","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","PEACE RIVER HONEY, 500 G","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","NO NAME® PLASTIC WRAP, 60 M","N/A",$2.88,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","VATIKA HAMAM ZAITH HAIR CARE, 1 KG","N/A",$11.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","SPAM LUNCHEON MEAT OR HEREFORD CORNED BEEF, 340 G","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","NO NAME® CROUTONS, 145 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","SPERRI READY TO DRINK PLANT BASED PROTEIN SHAKE","N/A",$18.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","HELLMANN'S MAYONNAISE, 710-890 ML","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","LEANFIT ORGANIC PLANT BASED OR WHEY NATURAL FLAVORED PROTEIN DRINK MIX, 715 875 G","N/A",$45.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","MINUTE RICE, 1.2/1.4 KG","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7679497,"The Brick","N/A","Odesos 72"" Modern Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 80""- White","N/A",$1299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
+7679497,"The Brick","N/A","Made in Canada Everett 33.5"" Fabric Reclining Chair - Chocolate Brown","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
+7679497,"The Brick","N/A","Odesos 72"" Modern Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 80""- White","N/A",$1299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
+7679497,"The Brick","N/A","Odesos 72"" Modern Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 80""- White","N/A",$1299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
+7679497,"The Brick","N/A","Scott Living Evolve Modular 5-Piece Linen-Look Fabric Armless Sectional with Feather Down Cushions - Grey","N/A",$2699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
+7679497,"The Brick","N/A","Velocity 24"" Ergonomic Gaming Chair - Black & Red","N/A",$129.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",T2P3M3
 7689526,"Real Canadian Superstore","N/A","NO NAME® POTATO CRISPS, 142/150 G","N/A",$2.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7689526,"Real Canadian Superstore","N/A","CRISPY POUND CAKE, 368 G","N/A",$3.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7689526,"Real Canadian Superstore","N/A","FRENCH'S KETCHUP","N/A",$4.29,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
@@ -1121,6 +956,38 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7689526,"Real Canadian Superstore","N/A","DOVE BAR SOAP, 3X106 G, BODY WASH 325 ML, BASE DEODORANT, 45/74 G, SHAMPOO OR CONDITIONER, 355 ML OR STYLING, 142-198 G/195 ML","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7689526,"Real Canadian Superstore","N/A","SIWIN LONGANISA OR TOSINO, 375 G","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7689526,"Real Canadian Superstore","N/A","CESAR DOG FOOD, 12'S","N/A",$17.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","ZIGGY'S® SLICED MEAT, 175/300 G","N/A",$3.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","MASTRO GENOA MILD OR HOT SALAMI, 375 G OR SAN DANIELE PROSCIUTTO, 200 G","N/A",$10.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","ORGANIC TRADITIONS TEA, 140/150 G","N/A",$19.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","IAMS CAT FOOD, 1.36/1.59 KG","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","ARMSTRONG SNACKS OR COMBOS, 180-210 G","N/A",$4.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","VATIKA SHAMPOO OR CONDITIONER, 400 ML","N/A",$6.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","NO NAME® BATHROOM TISSUE, 12 = 24 ROLLS","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","NO NAME® BACON","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","YOGI TEA, 16 BAGS","N/A",$6.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","PEARS BAR SOAP, 3X75 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","PREMIER PROTEIN READY TO DRINK SHAKES","N/A",$12.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","PC® SMOKIES™ SAUSAGE, 1 KG","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","MCCAFÉ K-CUP COFFEE PODS, 30' S","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","LOTTE MOCHI, 270 ML","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","MINI BABYBEL CHEESE, 102/120 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","METHOD HAIR CARE","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","L' ORÉAL HAIR EXPERTISE HAIR CARE","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","SURAJ® NAAN, 5'S","N/A",$3.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","ZUKE'S DOG TREATS, 170 G","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","UFC COCONUT WATER, 1 L","N/A",$2.88,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","PC® BLUE MENU® BEANS, PEAS, LENTILS OR SOUP MIX, 900 G","N/A",$3.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","RED DELICIOUS APPLES","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","TAIWANESE FLAT CABBAGE","N/A",$0.88,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","GREEN OR RED SEEDLESS GRAPES","N/A",$2.47,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","PORK CENTRE CUT CHOPS","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","NO NAME® ORIGINAL WIENERS, 450 G","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","GAIN LIQUID 4.25 L OR FLINGS 25/42' S LAUNDRY DETERGENT OR BEADS 515 G","N/A",$13.97,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","NO NAME® VEGETABLES, 2 KG","N/A",$6.29,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","LADY OR MEN'S SPEED STICK BASE DEODORANT, 45/70 G OR SOFTSOAP PUMPS, 221 ML","N/A",$2.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","O'TASTY DUMPLINGS, 567 G","N/A",$3.88,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","NO NAME® BEVERAGE, 1 L","N/A",$1.25,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","LEE KUM KEE SOY SAUCE, 1.9 L","N/A",$5.88,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7689526,"Real Canadian Superstore","N/A","KOHINOOR SAUCES, 375 G","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7689526,"Real Canadian Superstore","N/A","BUTTER CROISSANTS, 6' S","N/A",$4.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7689526,"Real Canadian Superstore","N/A","NO NAME® GARLIC COIL SAUSAGE, 750 G","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
@@ -1156,6 +1023,77 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7689526,"Real Canadian Superstore","N/A","CHICKEN GIZZARDS, HEARTS OR LIVERS","N/A",$5.88,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7689526,"Real Canadian Superstore","N/A","NO NAME® FLAVOURED TORTILLA CHIPS, 200 G","N/A",$2.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
 7689526,"Real Canadian Superstore","N/A","NO NAME® BEEF BURGERS, 1.36 KG","N/A",$17.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","COSMIC CRISP APPLES","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","EVERYDAY ESSENTIALS™ 12 PIECE DINNERWARE SET","N/A",$30.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
-7689526,"Real Canadian Superstore","N/A","NO NAME Make it a meal at low prices","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","MISS VICKIE'S KETTLE COOKED CHIPS, 190-200 G","N/A",$3.77,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","TETLEY TEA, 20/24' S","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","CRISPY ROTI, 750 G","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","NO NAME® PEROGIES, 2 KG","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","NO NAME® NATURALLY IMPERFECT™ AVOCADO, 2.2 LB","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","ESSIE NAIL COLOR, EXPRESSIE OR NAIL TREATMENT","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","FARMER'S MARKET™ GRAPE TOMATOES","N/A",$6.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","MILK 2GO MILK, 6X200 ML","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","PLAYTEX DIAPER GENIE DISPOSABLE SYSTEM REFILL OR DIAPER GENIE REFILL, 3 ROLL OR 18' S","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","PC® BLUE MENU® WHOLE GRAIN PASTA, 375 G","N/A",$2.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689526,"Real Canadian Superstore","N/A","DELI SNACKING TRAY, 355-400 G","N/A",$7.00,$8.00,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® PEANUT BUTTER, 1 KG","N/A",$4.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® NAAN ROUNDS, 480 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® PEANUT BUTTER, 1 KG","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","CAULIFLOWER","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","CATELLI SMART OR HEALTHY HARVEST PASTA, 340/375 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","COUNTRY HARVEST BREAD, 600/650 G OR BAGELS, 6'S","N/A",$3.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® SPLENDIDO® OLIVE OIL, 1 L","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","CAMPBELL'S CONDENSED SOUP, 284 ML","N/A",$1.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","ACTIVIA, 650 G OR OIKOS, 4X100 G YOGURT","N/A",$3.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® PROBIOTIC YOGURT, 650 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® SMOKIES, 1 KG","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","ITALPASTA, 750 g=G","N/A",$2.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PORK BACK RIBS","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","GENERAL MILLS FAMILY SIZE CEREAL, 455-778 G","N/A",$4.87,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® DICED TOMATOES, 796 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® CHEESE, 700 G","N/A",$8.79,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","FARMER'S MARKET™ BUTTER CROISSANTS, 260-336 G OR MUFFINS, 6' S","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PORK BACK RIBS","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","BLUEBERRIES, PINT, AVOCADOS, PKG OF 5 OR 6","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® VINEGAR, 4 L","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","SCHNEIDERS LUNCHMATE LUNCH KITS, STACKERS or SNACK KITS, 75-120 G","N/A",$2.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","T & T® FROZEN POTSTICKERS, 567 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","JANES COSMIC CHICKEN NUGGETS, 500 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® MINI MUFFINS, 336 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® MAYONNAISE, 890 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® DINNER ENTRÉES, 212-365 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","CLOVER LEAF LIGHT TUNA, 85/170 g","N/A",$1.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","BLACKBERRIES, RASPBERRIES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","BECEL MARGARINE, 850 G","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","SCHNEIDERS JUICY JUMBOS or SMOKED SAUSAGES, 375/450 G","N/A",$6.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PILLER'S SLICED DELI MEAT, 150/200 G","N/A",$4.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® CHEESE BARS, 400 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® CHOCOLATE COVERED NUTS, 340-400 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® CHIPS, 200 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","RED or GREEN GRAPES","N/A",$2.47,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® SOUR CREAM, 500 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","TIDE SIMPLY LIQUID LAUNDRY DETERGENT 2.72 L, FLEECY FABRIC SOFTENER 3.5 L OR DRYER SHEETS 200'S","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","BLACK DIAMOND SLICES PROCESSED CHEESE PRODUCT, 410 g","N/A",$3.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","FARMER'S MARKET™ ENGLISH CUCUMBERS, MINI SWEET PEPPERS","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® PASTA SAUCE, 410/650 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","KUHN RIKON SWISS DESIGN OVENWARE!","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® BUTTER QUARTERS, 454 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NATURE VALLEY GRANOLA BARS 130-210 g or GENERAL MILLS CEREAL BARS 120-160 g","N/A",$2.47,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","ALLEN'S DRINK BOXES, 24X200 ML OR GATORADE SPORT DRINKS, 6X591 ML","N/A",$6.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NESCAFÉ GOLD INSTANT COFFEE, 95/100 G","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","MR. NOODLES INSTANT NOODLES 85 G OR MAGGI NOODLES 70 G","N/A",$0.27,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® FLOUR, 2.5 KG","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® MICROWAVE POPCORN, 6 x 82 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","KELLOGG'S EGGO WAFFLES 8'S, 270/280 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® MAX STRENGTH AND THICKNESS PAPER TOWELS, 3 = 6 ROLLS","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","ROOSTER® SCENTED JASMINE RICE, 18.1 KG","N/A",$28.88,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","MCCAIN DEEP'N DELICIOUS CAKES, 510 G","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","LACTANTIA LACTOSE FREE or PUR FILTRE MILK, 2 L","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® MAPLE SYRUP, 500 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","MCCAIN SUPERFRIES OR SPECIALTY FRIES, 454-800 G OR POCKETS, 300 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","SEAQUEST® WHITE COLOSSAL SHRIMP, 16/20 PER LB, 300G, SHRIMP RING, 227G, OR BAY SCALLOPS, 400G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","COCA-COLA OR PEPSI SOFT DRINKS, 2 L","N/A",$1.89,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® STRAWBERRY JAM","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","NO NAME® WINDSHIELD WASHER FLUID, 3.78 L","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","HIGH LINER PAN-SEAR OR BATTERED FISH FILLETS, 425-600 G","N/A",$8.00,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® ORANGE JUICE, 1.54 L","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","OIKOS, SIGGI'S, ACTIVIA EXPERT 650/750 G OR IÖGO 16X100 G YOGURT","N/A",$6.50,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
+7689735,"No Frills","N/A","PC® 100% JUICE, 1 L","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-01T03:00:00-05:00,2026-01-07T23:59:59-05:00,"N/A",T2P3M3
