@@ -1,4 +1,5 @@
 flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize,validUnit,imageUrl,validFrom,validTo,category,postalCode
+7695980,"Walmart","N/A","Tide Pods laundry detergent 45s-76s","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7695980,"Walmart","N/A","Rustica rising crust frozen pizza","N/A",$7.97,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7695980,"Walmart","N/A","Pooboo Foldable Weight Bench Adjustable Incline Bench Strength Training Bench for Full Body","N/A",$145.55,$299.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7695980,"Walmart","N/A","Samsung Galaxy Fit3","N/A",$52.99,$79.00,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -148,7 +149,8 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7695980,"Walmart","N/A","Navel oranges","N/A",$5.98,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7695980,"Walmart","N/A","Spa Sensations 8"" memory foam mattress","N/A",$299.97,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7695980,"Walmart","N/A","CHRISTIE RITZ Drizzled minis","N/A",$4.98,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7695980,"Walmart","N/A","CHRISTIE OREO CAKESTERS soft snack cakes","N/A",$5.28,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715311,"Familiprix","N/A","VICKS NyQuil Cold and flu","N/A",$16.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715311,"Familiprix","N/A","BENADRYL Selected products","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715311,"Familiprix","N/A","BONTERRA Bathroom tissue, 9 triple rolls","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715311,"Familiprix","N/A","LISTERINE Selected buccal products","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715311,"Familiprix","N/A","ENSURE Meal replacement","N/A",$10.99,$17.79,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -215,8 +217,13 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7715311,"Familiprix","N/A","TENA Selected pads or liners","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715311,"Familiprix","N/A","THRIVE Complete Nicotine gum, 2 mg, 108 pieces","N/A",$26.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715311,"Familiprix","N/A","NIC-HIT Nicotine liquid, vaporisation/spray, 1 mg, 30 ml","N/A",$13.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715311,"Familiprix","N/A","VICKS NyQuil Cold and flu","N/A",$16.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715311,"Familiprix","N/A","BENADRYL Selected products","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715327,"Familiprix","N/A","BIOMEDIC, Digital pregnancy test, 1 test","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715327,"Familiprix","N/A","HYDRASENSE, NetiRinse, Trousse Nasal and sinus irrigation kit","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715327,"Familiprix","N/A","Clairol Root Touch-Up Colorblend permanent root cover up #4 Dark Brown","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715327,"Familiprix","N/A","PAMPERS Sensitive, 336 units","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715327,"Familiprix","N/A","PAMPERS, Selected diapers","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715327,"Familiprix","N/A","ENFAMIL A+ NeuroPro Gentlease, ready to feed, 18 x 237 ml","N/A",$74.99,$83.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715327,"Familiprix","N/A","EUCERIN, Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715327,"Familiprix","N/A","Garnier Belle Color permanent hair dye #60 Light Brown","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715327,"Familiprix","N/A","RESOLVE Laundry stain remover, 946 ml","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715327,"Familiprix","N/A","BABY GOURMET Organic, Baby cereal, 227 g","N/A",$6.49,$8.49,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -360,13 +367,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7715327,"Familiprix","N/A","BIOMEDIC Nicotine replacement therapy to help quit smoking, 1 mg, 150 pulvérisations/spray","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715327,"Familiprix","N/A","Centrum Selected multivatamin and multimineral supplements, 250 tablets","N/A",$35.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715327,"Familiprix","N/A","L'ORÉAL PARIS Selected facial care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715327,"Familiprix","N/A","BIC, Selected disposable razors","N/A",$6.79,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715327,"Familiprix","N/A","Herbal Essences grapefruit volume shampoo 400ml","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715327,"Familiprix","N/A","ESSENTIEL BÉBÉ Baby wash and shampoo or daily moisturizing lotion","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715327,"Familiprix","N/A","GARNIER Belle Color Colorant cream","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715327,"Familiprix","N/A","TYLENOL Selected products","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715327,"Familiprix","N/A","LA ROCHE-POSAY Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715327,"Familiprix","N/A","LA ROCHE-POSAY Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715315,"Familiprix","N/A","TENA MEN Selected products","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715315,"Familiprix","N/A","ADVIL Cold and sinus","N/A",$15.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715315,"Familiprix","N/A","ENSURE, Meal replacement, 6 x 235 ml","N/A",$10.99,$17.79,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -421,6 +421,23 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7715315,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 144 capsules or 250 tablets","N/A",$23.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Reflections 6 - Piece Queen Bedroom Package - White","N/A",$1699.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Jessica Sofa - Dove","N/A",$599.00,$1199.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Serta® Perfect Sleeper Pacific Medium Eurotop Queen Mattress","N/A",$699.00,$1399.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Morrison II Leather Sofa - Cognac","N/A",$998.00,$1998.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Beautyrest Duchess Medium Twin Mattress","N/A",$469.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Canton Power Recliner - Dark Brown","N/A",$749.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Vermont 48"" Coffee Table - Deep Espresso","N/A",$349.00,$399.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Neptune 2-Piece Sectional with Reversible Chaise - Grey","N/A",$999.00,$1799.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","3.5L Stand Mixer 12 Speed - Black","N/A",$49.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Cambridge 66"" Fireplace TV Stand - Natural Oak","N/A",$499.00,$799.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Sassari Round Dining Table","N/A",$249.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Chair","N/A",$100.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Kasey 2-Piece Sectional with Left Facing Chaise - Grey","N/A",$1499.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Sean 48"" Coffee Table- Grey Stone","N/A",$169.00,$249.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Dannery Pop-Up Sofa Bed - Light Grey","N/A",$1199.00,$2399.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Kingsdown Mila Medium Twin XL Mattress","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Sophie 3-Piece Queen Bed - Weathered Grey","N/A",$399.00,$799.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Silverstone 3-Piece Queen Storage Bed - Mist Grey","N/A",$749.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Sealy® Essentials Evan II Medium Queen Mattress","N/A",$198.00,$398.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Alba Leather Power Reclining Sofa - Grey","N/A",$1348.00,$2498.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Beautyrest World Class Grandeur 2.0 Plush Full Mattress","N/A",$979.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -445,7 +462,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7680429,"Leon's","N/A","Silverstone Mirror - Mist Grey","N/A",$169.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","San Mateo 3-Piece Queen Storage Bed - Tuscan","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","San Antonio Dual Power Recliner - Grey","N/A",$1199.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Samsung 70"" 4K Crystal UHD U8000F Smart TV","N/A",$709.00,$909.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","SELECT TV STANDS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","San Mateo 3-Piece King Bed -Tuscan","N/A",$749.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Camelot 3 - Piece King Storage Bed - Burnished Beige","N/A",$1199.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -553,22 +569,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7680429,"Leon's","N/A","Beautyrest Countess Tight Top Firm King Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Tilley Ottoman - Taupe","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Reflections Mirror - White","N/A",$229.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Emberly Sintered Stone Dining Table - Grey, Black","N/A",$299.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Calvin 20"" End Table - Beige","N/A",$229.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Maxwell Power Recliner - Brown","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Chelsea 3-Piece King Storage Bed - Grey","N/A",$1199.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","In Harmony - Kingsdown Concert Medium Tight Top Full Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Maxwell Power Reclining Loveseat with Console - Brown","N/A",$1279.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Kingsdown Mila Medium King Mattress","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Beautyrest World Class Grandeur 2.0 Plush Twin Mattress","N/A",$949.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Jackson Leather 6-Piece Power Reclining Sectional with Heat and Massage - Butternut","N/A",$3999.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Tempur-Pedic React 2.0 Medium Twin Mattress 10 inches","N/A",$1399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Kingsdown Percy Medium Euro Top Twin Mattress","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Dallas Reclining Sofa With Drop Down Table- Mocha","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Chelsea Mirror - Grey","N/A",$269.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Lucie Rocker Recliner - Charcoal","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7714612,"IGA","N/A","COMPLIMENTS FROZEN VEGETABLES","N/A",$3.99,$4.69,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7714612,"IGA","N/A","ROMA ITALIAN TOMATOES","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7714612,"IGA","N/A","LACTANTIA LACTOSE-FREE MILK","N/A",$5.99,$6.49,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -719,9 +719,36 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7714612,"IGA","N/A","ASIAN YELLOW OR YA PEARS","N/A",$1.49,$5.49,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7714612,"IGA","N/A","TRADESCANTIA","N/A",$19.99,$22.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7714612,"IGA","N/A","MAPLE LEAF READY CRISP PRECOOKED BACON","N/A",$7.99,$8.49,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Plum 5pc Dining Set with Table & 4 Chairs, Wood, Live-Edge Look, 70.75""W- Nutmeg Brown","N/A",$1099.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","LG 4.8 Cu. Ft. Top-Load Washer with 4-Way Agitator and 7.3 Cu. Ft. Electric Dryer","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Febe 100"" Chenille Fabric Sofa with Flared Arms and Accent Pillows - Charcoal Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Asher 60"" Rustic Electric Fireplace TV Stand with Storage & Cable Management for TVs up to 65""- Brown Oak","N/A",$479.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Pawhut 67inch Cat Tree With Scratching Post, Cat Condo Tower With Cat House, Toy, Perch, Grey","N/A",$98.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Magnavox 65"" 4K Ultra HD Roku Smart TV","N/A",$416.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Alenna 60"" 3-Door Accent Cabinet - Black with Weathered White Doors","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Koda 92"" Chenille and Faux Fur Fabric Sofa with Removable Cushions - Plush Paloma Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Maytag 4.8 Cu. Ft. Top Load Washer and 7.0 Cu. Ft Electric Dryer White - MATL4205","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Soozier Adjustable Weight Bench With Barbell Rack And Leg Developer For Weight Lifting And Strength Training Multifunctional Workout Station For Home Gym Fitness, Black","N/A",$127.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Lennox 83"" Chenille Fabric Sofa with Reversible Cushions and Accent Pillows - Grey","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Velocity 24"" Ergonomic Gaming Chair - Black & Red","N/A",$129.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Queen Size Dark Brown Leather-look Bed","N/A",$259.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Jude 55"" Reversible Office Desk with 3-Drawers & Cabinet- Hazelnut","N/A",$369.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Huntley 59"" Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 65""- White","N/A",$549.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Paseo Upholstered Platform Bed in Navy Fabric - Queen Size","N/A",$298.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kegan 28"" Executive Mesh Office Chair - White","N/A",$329.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Scarlett 41.5"" Chenille Fabric Chair with Rolled Arms and Accent Pillow - Marine Blue","N/A",$679.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Davvero Sofa - Navy","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kenmore Imersion Blender with Chopper, Whisk & Beaker - KKIBC5SS","N/A",$69.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Serta Back Logic 3.0 Eurotop Plush Queen Mattress","N/A",$799.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Everett 33.5"" Fabric Reclining Chair - Chocolate Brown","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Bailey 47"" TV Stand with Storage and Cable Management for TVs up to 55""- Coffee Brown","N/A",$189.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kenmore 12-Cup Programmable Coffee Maker Black - KKCM12B","N/A",$89.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Katie 45.75"" Wingback Storage Bench - White","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Tempur-Pedic® TEMPUR Support® Medium Hybrid Queen Mattress","N/A",$2999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Malibu 72"" Modern TV Stand with Storage and Cable Management for TVs up to 80""- Distressed Grey","N/A",$289.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","TCL 2.0 CH Bluetooth Dolby Atmos DTS Virtual:X Soundbar (S45H)","N/A",$93.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","Masterguard® Ultra Advanced 4-Piece Queen Sheet Set - Grey","N/A",$39.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","Scott Living Evolve Modular 39.5"" Linen-Look Fabric Storage Ottoman with Feather Down Cushion - Grey","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Morgan 2-Piece Right-Facing Chenille Fabric Sectional with Sofa and Accent Pillows - Grey","N/A",$1599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","Cedar 7pc Dining Set with Table & 6 Chairs, Pine Wood, Trestle-Base, 72.07""W - Brown","N/A",$2199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","Woodland 23.4"" Rustic Coffee Table - Brown Oak Finish with Metal Legs","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","Sealy® Fionn 30.5 Adjustable Office Chair - Black","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
@@ -735,7 +762,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7679509,"The Brick","N/A","Adelaide 5-Piece Power Reclining Sectional - Grey","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","Kenmore 4-Slice Toaster with Dual Controls Stainless Steel - KKTSDC4SS","N/A",$99.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","LG 65"" NANO80 LED 4K UHD Smart webOS TV (65NANO80AUA.ACC) - 2025 Model","N/A",$766.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Vault 6-Piece Right-Facing Sectional with Sofa Bed Loveseat, Three Storage Chairs and Storage Chaise - Grey","N/A",$3199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","Bardini 28.25"" Display Cabinet with Framed Glass Door - Cherry Brown","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","Vibe 40"" Genuine Leather Massage Power Reclining Chair with Immersive Audio and Power Headrests - Brown","N/A",$2599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","Kinsley 43.3"" Modern Coffee Table - Dark Brown Wood","N/A",$169.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
@@ -843,32 +869,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7679509,"The Brick","N/A","Tempur-Pedic® TEMPUR ProSupport® Firm King Mattress","N/A",$2599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","Margo 59"" Glam Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 65""- Silver","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7679509,"The Brick","N/A","SAMSUNG 65"" Q6F QLED Vision AI 4K UHD Smart Tizen OS TV (QN65Q6FAAFXZC) - 2025 Model","N/A",$746.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Oliver 60"" Folding Corner Office Desk with Storage & USB Ports - Grey","N/A",$419.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Chateau d'Ax Lusso 69"" 100% Genuine Leather Loveseat with Wood Legs - Smoke Grey","N/A",$1779.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","KitchenAid 24"" 47 dBA Dishwasher with Third Level Utensil Rack PrintShield Stainless - KDFS224SPS","N/A",$995.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Silas Bedroom Chest of Drawers, 5-Drawer, 33""W x 47.5""H - Rustic Brown","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kort & Co. Capri 7pc Dining Set with Table & 6 Chairs, Gold Accent, Pedestal Base, 72""W - White","N/A",$1493.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","SAMSUNG 55"" U8000 Crystal 4K UHD Smart Tizen OS TV (UN55U8000FFXZC) - 2025 Model","N/A",$566.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","KitchenAid 20 Cu. Ft. 30"" French Door Refrigerator - PrintShield® Stainless Steel - KRFF330SPS","N/A",$2135.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Nathan 47.25"" Rustic Lift Top Coffee Table with Storage and Casters - Light Brown","N/A",$549.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Brooke 62"" Contemporary Electric Fireplace TV Stand with Storage & Cable Management for TVs up to 70""- Grey","N/A",$849.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Bello 51.6"" Leather-Look Fabric Power Reclining Chair - Brown","N/A",$1499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","GE 1.6 Cu. Ft. Over-the-Range Microwave with Programmable Defrost and 300 CFM - Slate - JVM1635SLJC","N/A",$395.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Mia 15.75"" Faux Marble Chairside Table - White & Gold","N/A",$49.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","23 oz. Assorted Motif Scented Candle","N/A",$25.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Weighted Sherpa Throw - Ivory","N/A",$59.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Sonoma Panel Bed with Headboard & Frame, Mango Brown - Queen Size","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Chelsea Dining Table, 60""W - Walnut Brown","N/A",$248.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Cedar Dining Table, Pine Wood, Trestle-Base, 72.07""W - Brown","N/A",$185.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Bellmont 89"" Chenille Fabric Sofa with Reversible Cushions and Wood Legs - Platinum Grey","N/A",$799.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Madison 60"" Rustic TV Stand with Storage and Cable Management for TVs up to 65""- White","N/A",$649.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kinsley 47.25"" Modern Sofa Table - Dark Brown Wood","N/A",$179.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Bellmont 89"" Chenille Fabric Sofa with Reversible Cushions and Wood Legs - Platinum Grey","N/A",$1099.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Mosse 5pc Counter Height Dining Set, Grey","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Marseille 32"" Accent Cabinet with Drawer - Antique Blue","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Beautyrest Black Hotel Executive Suite Eurotop Firm King Mattress","N/A",$1399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Oliver Small Bookcase","N/A",$159.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Adam 68"" Modern TV Stand with Storage and Cable Management for TVs up to 75""- White","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7711411,"Metro","N/A","SOUPES À L'OIGNON BÂTON ROUGE | BÂTON ROUGE FROZEN ONION SOUPS","N/A",$11.99,$12.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7711411,"Metro","N/A","BEURRE D'ARACHIDE MIEUX‑ÊTRE | PEANUT BUTTER","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7711411,"Metro","N/A","SOUPE | SOUP","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -1169,84 +1169,35 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7693523,"Canadian Tire","N/A","Hoover Power Scrub XL Carpet Cleaner.","N/A",$199.99,$349.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7693523,"Canadian Tire","N/A","SODASTREAM MIX Sparkling Water Maker","N/A",$129.99,$199.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7693523,"Canadian Tire","N/A","PADERNO Pearson 20-Pc Flatware Set, Satin","N/A",$49.99,$79.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
-7721792,"Marché Fu Tai","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-09T00:00:00-05:00,2026-01-15T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","KARINE JONCAS Eye patch","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","KARINE JONCAS Facial patch","N/A",$17.00,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Foldable walker","N/A",$229.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","MAYBELLINE NEW YORK Selected makeup products","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Wart remover","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","COVERGIRL Selected makeup products","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Selected canes or can tips","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Personal lubricating gel","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","BE BETTER","N/A",$4.00,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","McKESSON","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","ANNABELLE Selected makeup products","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION +","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","ZORAH","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","L'ORÉAL PARIS Selected makeup products","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Oral wound cleanser","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION +","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Hot-cold pack Selected products","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","SALLY HANSEN XTREME WEAR Selected nail polishes","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Hand soap","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","NOSH & CO.","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Selected body lotions","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Selected thermometers","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Body wash","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","IDC+ Selected facial or body care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","URBAN SPA Selected accessories","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Selected dental care products","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","MARCELLE Selected makeup products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","COCOONING LOVE Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","LOTUS AROMA Selected Phyto-aromatic products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Instant cold pack","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Liners for bladder leakage","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7697617,"Proxim","N/A","OPTION + Selected home care accessories","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
