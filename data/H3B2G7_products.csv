@@ -149,6 +149,8 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7695980,"Walmart","N/A","Navel oranges","N/A",$5.98,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7695980,"Walmart","N/A","Spa Sensations 8"" memory foam mattress","N/A",$299.97,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7695980,"Walmart","N/A","CHRISTIE RITZ Drizzled minis","N/A",$4.98,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715311,"Familiprix","N/A","VICKS NyQuil Cold and flu","N/A",$16.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715311,"Familiprix","N/A","BENADRYL Selected products","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715311,"Familiprix","N/A","BONTERRA Bathroom tissue, 9 triple rolls","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715311,"Familiprix","N/A","LISTERINE Selected buccal products","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715311,"Familiprix","N/A","ENSURE Meal replacement","N/A",$10.99,$17.79,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -215,60 +217,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7715311,"Familiprix","N/A","TENA Selected pads or liners","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715311,"Familiprix","N/A","THRIVE Complete Nicotine gum, 2 mg, 108 pieces","N/A",$26.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715311,"Familiprix","N/A","NIC-HIT Nicotine liquid, vaporisation/spray, 1 mg, 30 ml","N/A",$13.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715311,"Familiprix","N/A","VICKS NyQuil Cold and flu","N/A",$16.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715311,"Familiprix","N/A","BENADRYL Selected products","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","TENA MEN Selected products","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","ADVIL Cold and sinus","N/A",$15.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","ENSURE, Meal replacement, 6 x 235 ml","N/A",$10.99,$17.79,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","Cascades Fluff Excellence soft bathroom tissue rolls - Jumbo 12un","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","TYLENOL Acetaminophen, 500 mg, 100 caplets or tablets, 325 mg, 120 tablets or Douleurs Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","Nicorette stop smoking nicotine 4mg gum Fresh Fruit 30un","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","TYLENOL Rhume, Sinus ou Rhume et Sinus Cold, Sinus or Cold and Sinus,","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","SCOTTIES Tissues, 6  packs","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","Adrien Gagnon Feminex Anti-Wrinkles capsules 60un","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","CYSTOPLUS Sodium citrate powder, 6 sachets","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","Thrive Complete regular strength 2mg fresh spearmint nicotine replacement gum 108un","N/A",$26.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","VICKS NyQuil Complete Cold and flu, selected sizes","N/A",$16.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","Tylenol Extra Strength 500mg tablets 100un","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","NICODERM, Timbre Nicotine transdermal system, 7 patches","N/A",$33.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXIN, Maux de dos et douleurs Back and muscle pain, selected products","N/A",$32.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","BIOMEDIC Nicotine gum, 2 mg or 4 mg,","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","BENADRYL, Selected products","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","NIZORAL Anti-dandruff shampoo, 120 ml or Conditioner, 278 ml","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","THRIVE Complete, nicotine replacement, 96 pieces","N/A",$32.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","BIOMEDIC Clotrimazole vaginal cream, 3 treatments","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","WAMPOLE On selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","BIOMEDIC, Cough lozenges, 30 units","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","BAUSCH + LOMB Selected products","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","BIOMEDIC Nicotine replacement therapy to help quit smoking, 1 mg, 150 spray","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","NIC-HIT Nicotine liquid, vaporisation/spray, 1 mg, 30 ml","N/A",$13.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","Tena Overnight unisex protective underwear - Large 11un","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","BIOMEDIC Glycerin suppositories, 48 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","NEILMED Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","HYDRASENSE Nasal care","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","Cépacol Sensations value pack honey & lemon lozenges 36un","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","Voltaren Emulgel topical pain relieving gel back & muscle pain - Triple Effect 100g","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","BIOMEDIC Ivy leaf cough syrup, 100 ml","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","POLYSPORIN Selected products, 30 g","N/A",$13.29,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","Advil Pediatric Drops for infant ibuprofen oral suspension grape 24ml","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","WAMPOLE On selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","TYLENOL Complete, cold, cough and flu, selected sizes","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","NEILMED Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","WAMPOLE selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","ADRIEN GAGNON Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","NICORETTE Nicotin gum, 2 mg or 4 mg, 30 pieces","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","SENOKOT or SENOKOT-S Laxative","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","ADRIEN GAGNON Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","TENA, Serviettes ou Selected pads or liners","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","ADRIEN GAGNON Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","ADRIEN GAGNON Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","CUTIBase, Ceramyd, Selected products","N/A",$16.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","ANTIPHLOGISTINE Selected products","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7715315,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 144 capsules or 250 tablets","N/A",$23.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715327,"Familiprix","N/A","BIOMEDIC, Digital pregnancy test, 1 test","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715327,"Familiprix","N/A","HYDRASENSE, NetiRinse, Trousse Nasal and sinus irrigation kit","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715327,"Familiprix","N/A","Clairol Root Touch-Up Colorblend permanent root cover up #4 Dark Brown","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -419,30 +367,60 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7715327,"Familiprix","N/A","BIOMEDIC Nicotine replacement therapy to help quit smoking, 1 mg, 150 pulvérisations/spray","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715327,"Familiprix","N/A","Centrum Selected multivatamin and multimineral supplements, 250 tablets","N/A",$35.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7715327,"Familiprix","N/A","L'ORÉAL PARIS Selected facial care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Samsung 70"" 4K Crystal UHD U8000F Smart TV","N/A",$709.00,$909.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","5.7L / 6QT Large Capacity Air Fryer","N/A",$39.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","SELECT SOFA BEDS","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Lucie Rocker Recliner - Charcoal","N/A",$349.00,$699.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","TENA MEN Selected products","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","ADVIL Cold and sinus","N/A",$15.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","ENSURE, Meal replacement, 6 x 235 ml","N/A",$10.99,$17.79,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","Cascades Fluff Excellence soft bathroom tissue rolls - Jumbo 12un","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","TYLENOL Acetaminophen, 500 mg, 100 caplets or tablets, 325 mg, 120 tablets or Douleurs Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","Nicorette stop smoking nicotine 4mg gum Fresh Fruit 30un","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","TYLENOL Rhume, Sinus ou Rhume et Sinus Cold, Sinus or Cold and Sinus,","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","SCOTTIES Tissues, 6  packs","N/A",$5.77,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","Adrien Gagnon Feminex Anti-Wrinkles capsules 60un","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","CYSTOPLUS Sodium citrate powder, 6 sachets","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","Thrive Complete regular strength 2mg fresh spearmint nicotine replacement gum 108un","N/A",$26.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","VICKS NyQuil Complete Cold and flu, selected sizes","N/A",$16.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","Tylenol Extra Strength 500mg tablets 100un","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","NICODERM, Timbre Nicotine transdermal system, 7 patches","N/A",$33.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXIN, Maux de dos et douleurs Back and muscle pain, selected products","N/A",$32.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","BIOMEDIC Nicotine gum, 2 mg or 4 mg,","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","BENADRYL, Selected products","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","NIZORAL Anti-dandruff shampoo, 120 ml or Conditioner, 278 ml","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","THRIVE Complete, nicotine replacement, 96 pieces","N/A",$32.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","BIOMEDIC Clotrimazole vaginal cream, 3 treatments","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","WAMPOLE On selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","BIOMEDIC, Cough lozenges, 30 units","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","BAUSCH + LOMB Selected products","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","BIOMEDIC Nicotine replacement therapy to help quit smoking, 1 mg, 150 spray","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","NIC-HIT Nicotine liquid, vaporisation/spray, 1 mg, 30 ml","N/A",$13.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","Tena Overnight unisex protective underwear - Large 11un","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","BIOMEDIC Glycerin suppositories, 48 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","NEILMED Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","HYDRASENSE Nasal care","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","Cépacol Sensations value pack honey & lemon lozenges 36un","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","Voltaren Emulgel topical pain relieving gel back & muscle pain - Triple Effect 100g","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","BIOMEDIC Ivy leaf cough syrup, 100 ml","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","POLYSPORIN Selected products, 30 g","N/A",$13.29,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","Advil Pediatric Drops for infant ibuprofen oral suspension grape 24ml","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","WAMPOLE On selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","TYLENOL Complete, cold, cough and flu, selected sizes","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","NEILMED Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","WAMPOLE selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","ADRIEN GAGNON Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","NICORETTE Nicotin gum, 2 mg or 4 mg, 30 pieces","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","SENOKOT or SENOKOT-S Laxative","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","ADRIEN GAGNON Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","TENA, Serviettes ou Selected pads or liners","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","ADRIEN GAGNON Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","ADRIEN GAGNON Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","CUTIBase, Ceramyd, Selected products","N/A",$16.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","ANTIPHLOGISTINE Selected products","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7715315,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 144 capsules or 250 tablets","N/A",$23.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Reflections 6 - Piece Queen Bedroom Package - White","N/A",$1699.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Jessica Sofa - Dove","N/A",$599.00,$1199.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Beautyrest Duchess Medium Twin Mattress","N/A",$469.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Canton Power Recliner - Dark Brown","N/A",$749.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Vermont 48"" Coffee Table - Deep Espresso","N/A",$349.00,$399.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Neptune 2-Piece Sectional with Reversible Chaise - Grey","N/A",$999.00,$1799.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Serta® Perfect Sleeper Pacific Medium Eurotop Queen Mattress","N/A",$699.00,$1399.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Morrison II Leather Sofa - Cognac","N/A",$998.00,$1998.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","3.5L Stand Mixer 12 Speed - Black","N/A",$49.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Cambridge 66"" Fireplace TV Stand - Natural Oak","N/A",$499.00,$799.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Sassari Round Dining Table","N/A",$249.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Chair","N/A",$100.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Kasey 2-Piece Sectional with Left Facing Chaise - Grey","N/A",$1499.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Sean 48"" Coffee Table- Grey Stone","N/A",$169.00,$249.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Dannery Pop-Up Sofa Bed - Light Grey","N/A",$1199.00,$2399.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Kingsdown Mila Medium Twin XL Mattress","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Sophie 3-Piece Queen Bed - Weathered Grey","N/A",$399.00,$799.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Silverstone 3-Piece Queen Storage Bed - Mist Grey","N/A",$749.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7680429,"Leon's","N/A","Sealy® Essentials Evan II Medium Queen Mattress","N/A",$198.00,$398.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Alba Leather Power Reclining Sofa - Grey","N/A",$1348.00,$2498.00,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Beautyrest World Class Grandeur 2.0 Plush Full Mattress","N/A",$979.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Stampede Leather Ottoman - Chestnut","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -569,6 +547,28 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7680429,"Leon's","N/A","Reflections 3 - Piece King Bed - White","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Tilley Loveseat - Taupe","N/A",$779.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7680429,"Leon's","N/A","Haven 5-Piece Dual Power Reclining Sectional - Grey","N/A",$2599.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Kingsdown Natasha Plush Queen Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Beautyrest Countess Tight Top Firm King Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Tilley Ottoman - Taupe","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Reflections Mirror - White","N/A",$229.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Emberly Sintered Stone Dining Table - Grey, Black","N/A",$299.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Calvin 20"" End Table - Beige","N/A",$229.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Maxwell Power Recliner - Brown","N/A",$549.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Chelsea 3-Piece King Storage Bed - Grey","N/A",$1199.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","In Harmony - Kingsdown Concert Medium Tight Top Full Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Maxwell Power Reclining Loveseat with Console - Brown","N/A",$1279.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Kingsdown Mila Medium King Mattress","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Beautyrest World Class Grandeur 2.0 Plush Twin Mattress","N/A",$949.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Jackson Leather 6-Piece Power Reclining Sectional with Heat and Massage - Butternut","N/A",$3999.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Tempur-Pedic React 2.0 Medium Twin Mattress 10 inches","N/A",$1399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Kingsdown Percy Medium Euro Top Twin Mattress","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Dallas Reclining Sofa With Drop Down Table- Mocha","N/A",$799.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Chelsea Mirror - Grey","N/A",$269.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Lucie Rocker Recliner - Charcoal","N/A",$349.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Serta® Perfect Sleeper Provence Firm Eurotop Full Mattress","N/A",$779.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7680429,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop Twin Mattress","N/A",$379.00,N/A,"N/A",each,"N/A",2025-12-25T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7711411,"Metro","N/A","POITRINES DE POULET DÉSOSSÉES | BONELESS CHICKEN BREASTS","N/A",$4.99,$8.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7711411,"Metro","N/A","AILES DE POULET MÈRE MICHEL | MÈRE MICHEL FROZEN CHICKEN WINGS","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7711411,"Metro","N/A","SOUPES À L'OIGNON BÂTON ROUGE | BÂTON ROUGE FROZEN ONION SOUPS","N/A",$11.99,$12.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -719,156 +719,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7711411,"Metro","N/A","BOLOGNE GASPÉSIEN | GASPÉSIEN BOLOGNA","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7711411,"Metro","N/A","DESSERT GLACÉ NESTLÉ | NESTLÉ FROZEN DESSERT","N/A",$5.44,$6.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7711411,"Metro","N/A","DÉTERGENT POUR LA VAISSELLE SELECTION | SELECTION DISHES DETERGENT","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Plum 5pc Dining Set with Table & 4 Chairs, Wood, Live-Edge Look, 70.75""W- Nutmeg Brown","N/A",$1099.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","LG 4.8 Cu. Ft. Top-Load Washer with 4-Way Agitator and 7.3 Cu. Ft. Electric Dryer","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Febe 100"" Chenille Fabric Sofa with Flared Arms and Accent Pillows - Charcoal Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Asher 60"" Rustic Electric Fireplace TV Stand with Storage & Cable Management for TVs up to 65""- Brown Oak","N/A",$479.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Pawhut 67inch Cat Tree With Scratching Post, Cat Condo Tower With Cat House, Toy, Perch, Grey","N/A",$98.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Magnavox 65"" 4K Ultra HD Roku Smart TV","N/A",$416.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Alenna 60"" 3-Door Accent Cabinet - Black with Weathered White Doors","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Koda 92"" Chenille and Faux Fur Fabric Sofa with Removable Cushions - Plush Paloma Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Maytag 4.8 Cu. Ft. Top Load Washer and 7.0 Cu. Ft Electric Dryer White - MATL4205","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Soozier Adjustable Weight Bench With Barbell Rack And Leg Developer For Weight Lifting And Strength Training Multifunctional Workout Station For Home Gym Fitness, Black","N/A",$127.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","TCL 2.0 CH Bluetooth Dolby Atmos DTS Virtual:X Soundbar (S45H)","N/A",$93.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Lennox 83"" Chenille Fabric Sofa with Reversible Cushions and Accent Pillows - Grey","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Velocity 24"" Ergonomic Gaming Chair - Black & Red","N/A",$129.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Queen Size Dark Brown Leather-look Bed","N/A",$259.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Jude 55"" Reversible Office Desk with 3-Drawers & Cabinet- Hazelnut","N/A",$369.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Huntley 59"" Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 65""- White","N/A",$549.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Paseo Upholstered Platform Bed in Navy Fabric - Queen Size","N/A",$298.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kegan 28"" Executive Mesh Office Chair - White","N/A",$329.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Scarlett 41.5"" Chenille Fabric Chair with Rolled Arms and Accent Pillow - Marine Blue","N/A",$679.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Davvero Sofa - Navy","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kenmore Imersion Blender with Chopper, Whisk & Beaker - KKIBC5SS","N/A",$69.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Serta Back Logic 3.0 Eurotop Plush Queen Mattress","N/A",$799.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Everett 33.5"" Fabric Reclining Chair - Chocolate Brown","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Bailey 47"" TV Stand with Storage and Cable Management for TVs up to 55""- Coffee Brown","N/A",$189.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kenmore 12-Cup Programmable Coffee Maker Black - KKCM12B","N/A",$89.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Katie 45.75"" Wingback Storage Bench - White","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Tempur-Pedic® TEMPUR Support® Medium Hybrid Queen Mattress","N/A",$2999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Malibu 72"" Modern TV Stand with Storage and Cable Management for TVs up to 80""- Distressed Grey","N/A",$289.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Masterguard® Ultra Advanced 4-Piece Queen Sheet Set - Grey","N/A",$39.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Scott Living Evolve Modular 39.5"" Linen-Look Fabric Storage Ottoman with Feather Down Cushion - Grey","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Cedar 7pc Dining Set with Table & 6 Chairs, Pine Wood, Trestle-Base, 72.07""W - Brown","N/A",$2199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Woodland 23.4"" Rustic Coffee Table - Brown Oak Finish with Metal Legs","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Midea 30"" 6.3 Cu. Ft. Electric Range - MER30B14ASTC","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Haven Bedside 3-Drawer Nightstand with USB Port, 26""W x 28""H - White","N/A",$449.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Haven 5pc Bedroom Set with Panel Bed, Dresser & Mirror, White - King Size","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Scott Living Dante Panel Bed with Headboard & Frame, Brown - Queen Size","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Eclipse Modular 4-Piece Linen-Look Fabric Pit Sofa Sectional with Reversible Feather Down Cushions - Navy Blue","N/A",$2299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Eva 29.5"" Faux Suede Power Reclining Chair - Dark Grey","N/A",$599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Adelaide 5-Piece Power Reclining Sectional - Grey","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kenmore 4-Slice Toaster with Dual Controls Stainless Steel - KKTSDC4SS","N/A",$99.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","LG 65"" NANO80 LED 4K UHD Smart webOS TV (65NANO80AUA.ACC) - 2025 Model","N/A",$766.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Bardini 28.25"" Display Cabinet with Framed Glass Door - Cherry Brown","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Vibe 40"" Genuine Leather Massage Power Reclining Chair with Immersive Audio and Power Headrests - Brown","N/A",$2599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kinsley 43.3"" Modern Coffee Table - Dark Brown Wood","N/A",$169.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Scott Living Dante Bedroom Dresser Mirror - Brown","N/A",$79.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Maven 34.5"" Grey Genuine Leather Stress Free Reclining Chair with Footrest and Wood and Metal Base - Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Petite 36"" Chenille Fabric Swivel Cuddler Accent Chair - Teddy Star Grey","N/A",$599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Moon 91"" Fabric Curved Sofa with Accent Pillows - Wooly Almond White","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Shay 33"" Chenille Fabric Swivel Glider Reclining Accent Chair - River Rock Beige","N/A",$599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Messina 19"" Jewelry Mirror Cabinet - Espresso","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Plum Dining Table, Wood, Live-Edge Look, 70.75""W- Nutmeg Brown","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Serta iComfort Hybrid ProHD Vanguard 3.0 Eurotop Queen Mattress Set","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","LG 65"" B5 OLED 4K UHD evo AI Smart webOS TV (OLED65B5PUA.ACC) - 2025 Model","N/A",$1516.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","SAMSUNG 65"" Q8F QLED AI 4K UHD Smart Tizen OS TV (QN65Q8FAAFXZC) - 2025 Model","N/A",$916.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","LG 65"" UA7000 4K UHD Smart webOS TV (65UA7000PUB.ACC) 2025 Model","N/A",$616.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","SAMSUNG B-Series 2.1 Channel Soundbar with Wireless Subwoofer (HW-B550F/ZC)","N/A",$203.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","LG 6.3 Cu. Ft. Smart Electric Range with Air Fry - Stainless Steel - LREN6323YE","N/A",$1145.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Samsung 6.1 Cu. Ft. Pet Care Top-Load Washer and 7.4 Cu. Ft. Electric Dryer","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","LG 5.8 Cu. Ft. Smart Top-Load Washer with EasyUnload™ and AI Sensing - Platinum Black - WT8200CL","N/A",$945.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","LG 50"" UA77 4K UHD Smart webOS TV (50UA7700PUB.ACCQ) - 2025 Model","N/A",$466.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","GE 4.9 Cu. Ft. Top Load Agitator Washer - White - GTW491BMRWS","N/A",$745.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Samsung 5.2 Cu. Ft. Front-Load Washer and 7.5 Cu. Ft. Electric Dryer - White","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Whirlpool 29"" 7.0 Cu. Ft. Electric Dryer with AutoSensing - YWED4105SW","N/A",$595.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Maytag 5.4 Cu Ft. Top Load Agitator Washer with Pet Pro Option Volcano Black - MTW5605RU","N/A",$895.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Midea 20 Cu. Ft. 3-in-1 Convertible Refrigerator-Freezer - White - MRU21C7BWW","N/A",$1039.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Midea 10.3 Cu. Ft. Convertible Chest Refrigerator-Freezer - MRC10M4CWW","N/A",$389.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Samsung 5.2 Cu. Ft. Front-Load Washer - White - Stackable - WF45T6000AW/A5","N/A",$945.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Whirlpool 5.2 Cu. Ft. Smart Front-Load Washer with FreshFlow™ Vent System - White - WFW5720RW","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Cuisinart 4-Slice Belgian Waffle Maker - WAF-150EC","N/A",$89.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Whirlpool 24"" 47 dBA Built-In Top-Control Dishwasher - Fingerprint Resistant Stainless Steel - WDTA50SAKZ","N/A",$795.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","GE 5 Cu. Ft. Electric Range with True European Convection and Air Fry - Slate - JCB840ETES","N/A",$1195.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Midea 21 Cu. Ft. Convertible 2-in-1 Upright Refrigerator-Freezer - Stainless Steel - MRU21B6ASL","N/A",$939.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Electrolux 5.2 Cu. Ft. Front-Load Washer and 8 Cu. Ft. Electric Dryer - Titanium","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Maytag 5.4 Cu Ft. Top Load Agitator Washer and 7.0 Cu. Ft. Electric Dryer Volcano Black - MATL565B","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Samsung 1.7 Cu. Ft. Over-the-Range Microwave with 300 CFM and Auto Cook & Reheat - Stainless Steel - ME17R7011ES/AC","N/A",$315.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Samsung 98"" 4K UHD Edge Lit Dynamic Crystal Colour HDR10+ 120Hz Smart TV (UN98DU9000FXZC)","N/A",$2516.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Whirlpool 5.2 Cu. Ft. Smart Front-Load Washer and 7.4 Cu. Ft. Electric Dryer - White","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","SAMSUNG 65"" U7900F Crystal UHD 4K Smart Tizen OS TV (UN65U7900FFXZC) - 2025 Model","N/A",$616.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Customizable Sofa Lab Track 85"" Linen-Look Fabric Sofa with Track Arms - Luna Domino Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Bari Dining Table with Marble-Look Ceramic Top, Metal, Geometric Base, 63""W - White","N/A",$799.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Luxe 3-Piece Right-Facing Fabric Sectional with Removable Cushions - Zaftig Dove Grey","N/A",$2699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Aimy 28"" Linen Look Fabric Accent Chair with Cylindrical Wood Legs - Light Grey","N/A",$229.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Lappland 70"" Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 80""- Black","N/A",$949.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Vibe 76"" Genuine Leather Massage Power Reclining Loveseat with Immersive Audio and Power Headrests - Brown","N/A",$3479.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Plum Dining Bench, Wood, Live-Edge Look, 47.25""W- Nutmeg Brown","N/A",$209.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Ava Panel Bed with Headboard & Frame, LED, Glam, White - Queen Size","N/A",$1569.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Marco 5pc Bedroom Set with Bed, Dresser & Mirror, Cherry Brown - Queen Size","N/A",$1299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Franco 89"" Genuine Leather Zero Gravity Power Reclining Sofa with USB Ports - Brown","N/A",$1599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Zoe Dining Chair with Polyester Fabric & Channeled Tufting, Metal - Ivory","N/A",$149.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Moon 78"" Fabric Curved Loveseat with Accent Pillows - Wooly Almond White","N/A",$879.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Koda 67"" Chenille and Faux Fur Fabric Loveseat with Removable Cushions - Plush Paloma Grey","N/A",$979.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Tempur-Pedic® TEMPUR Support® Medium King Mattress","N/A",$3199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Mason Fabric Chair","N/A",$369.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Vida Dining Table with Glass Inserts, 78""W - Sand","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Scott Living Elevate Modular 7-Piece Right-Facing Chenille Fabric Power Reclining and Sliding Sectional - Beige","N/A",$3599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Sealy® Reflexion® Ultra Lifestyle Base - Queen","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Milan 5pc Bedroom Set with Bed, Dresser & Mirror, Mid-Century Modern, Black - Queen Size","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Driftwood Mates Bed with Bookcase Headboard Set for Kids, Brown - Twin Size","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Dawson 87"" Fabric Power Reclining Sofa with USB Port and Accent Pillows - Beige","N/A",$1199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Sealy Posturepedic® Fiore 2.0 Eurotop Queen Mattress","N/A",$649.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kimberly 47.25"" Hall Table with Three Baskets - Beige","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Bari 7pc Dining Set with Table & 6 Grey Swivel Chairs, Marble-Look Ceramic Top, Metal, 63""W","N/A",$1993.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Odesos 72"" Modern Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 80""- White","N/A",$1299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Springwall Austin Eurotop Medium Queen Mattress","N/A",$579.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Arista 4-Piece Full/Queen Comforter Set - Grey","N/A",$99.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Jude 55"" Reversible Office Desk with 3-Drawers & Cabinet- Hazelnut","N/A",$269.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Franco 79"" Genuine Leather Zero Gravity Power Reclining Loveseat with Storage Console and USB Ports - Brown","N/A",$1599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kort & Co. Capri Dining Chair with Boucle Fabric & Gold Accent, Metal - White","N/A",$149.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Silas Bedroom 6-Drawer Dresser, 64""W x 33.4""H - Rustic Brown","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Silas Bedside 2-Drawer Nightstand, 26""W x 23.9""H - Rustic Brown","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Nathan 24"" Rustic End Table with Storage and Shelf - Light Brown","N/A",$319.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Customizable Sofa Lab Track 62"" Linen-Look Fabric Loveseat with Track Arms - Luna Domino Grey","N/A",$979.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Walker Pier","N/A",$220.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Zona Linen-look Fabric Loveseat With Flared Wood Legs - Beige","N/A",$1199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Haven Bedroom 4-Drawer Chest with Storage Cabinet, 48""W x 48""H - White","N/A",$969.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Dalilah 16"" 2-Pack Accent Table Package - White Marble with Gold Base","N/A",$249.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Sicily 48"" Traditional Lift Top Coffee Table With Storage, Shelf and Casters - Dark Brown with Mable Look Top","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Beautyrest Black Hotel Executive Suite Eurotop Firm Queen Mattress","N/A",$1199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Emry 84"" TV Stand with Storage and Cable Management for TVs up to 90""- White","N/A",$449.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Galeveston 50"" Rustic Sofa Table with Storage and Shelf - Brown Woodgrain Wood","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Ignatius 64"" Modern Electric Fireplace TV Stand with Storage & Cable Management for TVs up to 70""- White","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Tiffin Counter Stools Set Of 2, Saddle Seat With Studded Trim, Vegan Leather - Brown","N/A",$229.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Silas Platform Bed with Headboard & Frame, LED, Rustic Brown - Queen Size","N/A",$669.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Garbo 26"" Glam End Table - White and Silver with Glitter Accents","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Plum 6pc Dining Set with Table, Bench & 4 Chairs, Wood, Live-Edge Look, 70.75""W- Nutmeg Brown","N/A",$1299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Vibe 85"" Genuine Leather Massage Power Reclining Sofa with Immersive Audio and Power Headrests - Brown","N/A",$3499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Lexi Dining Chair with Velvet-Look Fabric, Metal - Blue","N/A",$129.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Mila Counter Stool with Swivel Seat, Vegan Leather Fabric, Metal - Black","N/A",$99.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Blazen 64"" Electric Fireplace TV Stand with Storage for TVs up to 70"" - Black","N/A",$1799.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kort & Co. Aiden 72"" TV Stand with Storage and Cable Management for TVs up to 80""- Natural and White","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Beautyrest Black Hotel Royal Suite Euro Pillowtop Plush King Mattress","N/A",$1399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Made in Canada Midi 42"" Chenille Fabric Swivel Cuddler Accent Chair - Plush Thunder Grey","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Cedar Dining Chair with Polyester Fabric, Pine Wood - Beige","N/A",$259.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Chateau dAx Angelo 38.58"" Genuine Leather Swivel Rocker Power Reclining Chair - Grey","N/A",$1399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Sicily 22"" Modern End Table with Shelf - Beige and Dark Brown","N/A",$159.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Moon 35.8"" Fabric Curved Chair with Accent Pillow - Wooly Almond White","N/A",$679.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Zoe 5pc Dining Set with Table & 4 Chairs, Glass Top, Metal Geometric Base, 47""W Round - Black & Ivory","N/A",$895.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Kort & Co. Capri 5pc Dining Set with Table & 4 Chairs, Gold Accent, Pedestal Base, 72""W - White","N/A",$1195.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Springwall Red Cedar Tight Top Medium Twin Mattress-in-a-Box","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Madison Bookcase Pier White","N/A",$500.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Nashik 24"" Round Accent Table - Grey Brown","N/A",$169.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","TCL 65"" Q79K QLED 4K UHD Smart Google TV (65Q79K) 2025 Model","N/A",$666.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Cedar 6pc Dining Set with Table, Bench & 4 Chairs, Pine Wood, Trestle-Base, 72.07""W - Brown","N/A",$2199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Samsung 5.8 Cu. Ft. Front-Load Steam Washer - Black Stainless Steel - Stackable - WF50BG8300AVUS","N/A",$1195.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Tempur-Pedic® TEMPUR ProSupport® Firm King Mattress","N/A",$2599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Margo 59"" Glam Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 65""- Silver","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","SAMSUNG 65"" Q6F QLED Vision AI 4K UHD Smart Tizen OS TV (QN65Q6FAAFXZC) - 2025 Model","N/A",$746.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Oliver 60"" Folding Corner Office Desk with Storage & USB Ports - Grey","N/A",$419.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
-7679509,"The Brick","N/A","Chateau d'Ax Lusso 69"" 100% Genuine Leather Loveseat with Wood Legs - Smoke Grey","N/A",$1779.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7714612,"IGA","N/A","COMPLIMENTS CHEESE","N/A",$4.99,$6.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7714612,"IGA","N/A","COMPLIMENTS FROZEN VEGETABLES","N/A",$3.99,$4.69,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7714612,"IGA","N/A","ROMA ITALIAN TOMATOES","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -1019,6 +869,156 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7714612,"IGA","N/A","ST-HUBERT FRESH MEAL","N/A",$7.99,$9.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7714612,"IGA","N/A","ASIAN YELLOW OR YA PEARS","N/A",$1.49,$5.49,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7714612,"IGA","N/A","TRADESCANTIA","N/A",$19.99,$22.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Plum 5pc Dining Set with Table & 4 Chairs, Wood, Live-Edge Look, 70.75""W- Nutmeg Brown","N/A",$1099.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","LG 4.8 Cu. Ft. Top-Load Washer with 4-Way Agitator and 7.3 Cu. Ft. Electric Dryer","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Febe 100"" Chenille Fabric Sofa with Flared Arms and Accent Pillows - Charcoal Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Asher 60"" Rustic Electric Fireplace TV Stand with Storage & Cable Management for TVs up to 65""- Brown Oak","N/A",$479.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Pawhut 67inch Cat Tree With Scratching Post, Cat Condo Tower With Cat House, Toy, Perch, Grey","N/A",$98.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Alenna 60"" 3-Door Accent Cabinet - Black with Weathered White Doors","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Koda 92"" Chenille and Faux Fur Fabric Sofa with Removable Cushions - Plush Paloma Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Maytag 4.8 Cu. Ft. Top Load Washer and 7.0 Cu. Ft Electric Dryer White - MATL4205","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Soozier Adjustable Weight Bench With Barbell Rack And Leg Developer For Weight Lifting And Strength Training Multifunctional Workout Station For Home Gym Fitness, Black","N/A",$127.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","TCL 2.0 CH Bluetooth Dolby Atmos DTS Virtual:X Soundbar (S45H)","N/A",$93.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Lennox 83"" Chenille Fabric Sofa with Reversible Cushions and Accent Pillows - Grey","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Velocity 24"" Ergonomic Gaming Chair - Black & Red","N/A",$129.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Jude 55"" Reversible Office Desk with 3-Drawers & Cabinet- Hazelnut","N/A",$369.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Huntley 59"" Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 65""- White","N/A",$549.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Paseo Upholstered Platform Bed in Navy Fabric - Queen Size","N/A",$298.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kegan 28"" Executive Mesh Office Chair - White","N/A",$329.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Scarlett 41.5"" Chenille Fabric Chair with Rolled Arms and Accent Pillow - Marine Blue","N/A",$679.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Davvero Sofa - Navy","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kenmore Imersion Blender with Chopper, Whisk & Beaker - KKIBC5SS","N/A",$69.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Serta Back Logic 3.0 Eurotop Plush Queen Mattress","N/A",$799.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Everett 33.5"" Fabric Reclining Chair - Chocolate Brown","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Bailey 47"" TV Stand with Storage and Cable Management for TVs up to 55""- Coffee Brown","N/A",$189.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kenmore 12-Cup Programmable Coffee Maker Black - KKCM12B","N/A",$89.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Katie 45.75"" Wingback Storage Bench - White","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Tempur-Pedic® TEMPUR Support® Medium Hybrid Queen Mattress","N/A",$2999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Malibu 72"" Modern TV Stand with Storage and Cable Management for TVs up to 80""- Distressed Grey","N/A",$289.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Masterguard® Ultra Advanced 4-Piece Queen Sheet Set - Grey","N/A",$39.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Scott Living Evolve Modular 39.5"" Linen-Look Fabric Storage Ottoman with Feather Down Cushion - Grey","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Cedar 7pc Dining Set with Table & 6 Chairs, Pine Wood, Trestle-Base, 72.07""W - Brown","N/A",$2199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Woodland 23.4"" Rustic Coffee Table - Brown Oak Finish with Metal Legs","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Midea 30"" 6.3 Cu. Ft. Electric Range - MER30B14ASTC","N/A",$849.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Haven Bedside 3-Drawer Nightstand with USB Port, 26""W x 28""H - White","N/A",$449.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Haven 5pc Bedroom Set with Panel Bed, Dresser & Mirror, White - King Size","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Scott Living Dante Panel Bed with Headboard & Frame, Brown - Queen Size","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Eclipse Modular 4-Piece Linen-Look Fabric Pit Sofa Sectional with Reversible Feather Down Cushions - Navy Blue","N/A",$2299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Eva 29.5"" Faux Suede Power Reclining Chair - Dark Grey","N/A",$599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Adelaide 5-Piece Power Reclining Sectional - Grey","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kenmore 4-Slice Toaster with Dual Controls Stainless Steel - KKTSDC4SS","N/A",$99.99,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","LG 65"" NANO80 LED 4K UHD Smart webOS TV (65NANO80AUA.ACC) - 2025 Model","N/A",$766.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Bardini 28.25"" Display Cabinet with Framed Glass Door - Cherry Brown","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Vibe 40"" Genuine Leather Massage Power Reclining Chair with Immersive Audio and Power Headrests - Brown","N/A",$2599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kinsley 43.3"" Modern Coffee Table - Dark Brown Wood","N/A",$169.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Scott Living Dante Bedroom Dresser Mirror - Brown","N/A",$79.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Maven 34.5"" Grey Genuine Leather Stress Free Reclining Chair with Footrest and Wood and Metal Base - Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Petite 36"" Chenille Fabric Swivel Cuddler Accent Chair - Teddy Star Grey","N/A",$599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Moon 91"" Fabric Curved Sofa with Accent Pillows - Wooly Almond White","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Shay 33"" Chenille Fabric Swivel Glider Reclining Accent Chair - River Rock Beige","N/A",$599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Messina 19"" Jewelry Mirror Cabinet - Espresso","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Plum Dining Table, Wood, Live-Edge Look, 70.75""W- Nutmeg Brown","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Serta iComfort Hybrid ProHD Vanguard 3.0 Eurotop Queen Mattress Set","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","LG 65"" B5 OLED 4K UHD evo AI Smart webOS TV (OLED65B5PUA.ACC) - 2025 Model","N/A",$1516.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","SAMSUNG 65"" Q8F QLED AI 4K UHD Smart Tizen OS TV (QN65Q8FAAFXZC) - 2025 Model","N/A",$916.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","LG 65"" UA7000 4K UHD Smart webOS TV (65UA7000PUB.ACC) 2025 Model","N/A",$616.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","SAMSUNG B-Series 2.1 Channel Soundbar with Wireless Subwoofer (HW-B550F/ZC)","N/A",$203.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","LG 6.3 Cu. Ft. Smart Electric Range with Air Fry - Stainless Steel - LREN6323YE","N/A",$1145.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Samsung 6.1 Cu. Ft. Pet Care Top-Load Washer and 7.4 Cu. Ft. Electric Dryer","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","LG 5.8 Cu. Ft. Smart Top-Load Washer with EasyUnload™ and AI Sensing - Platinum Black - WT8200CL","N/A",$945.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","GE 4.9 Cu. Ft. Top Load Agitator Washer - White - GTW491BMRWS","N/A",$745.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Samsung 5.2 Cu. Ft. Front-Load Washer and 7.5 Cu. Ft. Electric Dryer - White","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Whirlpool 29"" 7.0 Cu. Ft. Electric Dryer with AutoSensing - YWED4105SW","N/A",$595.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Maytag 5.4 Cu Ft. Top Load Agitator Washer with Pet Pro Option Volcano Black - MTW5605RU","N/A",$895.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Midea 20 Cu. Ft. 3-in-1 Convertible Refrigerator-Freezer - White - MRU21C7BWW","N/A",$1039.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Midea 10.3 Cu. Ft. Convertible Chest Refrigerator-Freezer - MRC10M4CWW","N/A",$389.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Samsung 5.2 Cu. Ft. Front-Load Washer - White - Stackable - WF45T6000AW/A5","N/A",$945.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Whirlpool 5.2 Cu. Ft. Smart Front-Load Washer with FreshFlow™ Vent System - White - WFW5720RW","N/A",$1045.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Cuisinart 4-Slice Belgian Waffle Maker - WAF-150EC","N/A",$89.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Whirlpool 24"" 47 dBA Built-In Top-Control Dishwasher - Fingerprint Resistant Stainless Steel - WDTA50SAKZ","N/A",$795.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","GE 5 Cu. Ft. Electric Range with True European Convection and Air Fry - Slate - JCB840ETES","N/A",$1195.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Midea 21 Cu. Ft. Convertible 2-in-1 Upright Refrigerator-Freezer - Stainless Steel - MRU21B6ASL","N/A",$939.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Electrolux 5.2 Cu. Ft. Front-Load Washer and 8 Cu. Ft. Electric Dryer - Titanium","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Maytag 5.4 Cu Ft. Top Load Agitator Washer and 7.0 Cu. Ft. Electric Dryer Volcano Black - MATL565B","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Samsung 1.7 Cu. Ft. Over-the-Range Microwave with 300 CFM and Auto Cook & Reheat - Stainless Steel - ME17R7011ES/AC","N/A",$315.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Samsung 98"" 4K UHD Edge Lit Dynamic Crystal Colour HDR10+ 120Hz Smart TV (UN98DU9000FXZC)","N/A",$2516.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Whirlpool 5.2 Cu. Ft. Smart Front-Load Washer and 7.4 Cu. Ft. Electric Dryer - White","N/A",N/A,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","SAMSUNG 65"" U7900F Crystal UHD 4K Smart Tizen OS TV (UN65U7900FFXZC) - 2025 Model","N/A",$616.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Customizable Sofa Lab Track 85"" Linen-Look Fabric Sofa with Track Arms - Luna Domino Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Bari Dining Table with Marble-Look Ceramic Top, Metal, Geometric Base, 63""W - White","N/A",$799.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Luxe 3-Piece Right-Facing Fabric Sectional with Removable Cushions - Zaftig Dove Grey","N/A",$2699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Aimy 28"" Linen Look Fabric Accent Chair with Cylindrical Wood Legs - Light Grey","N/A",$229.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Lappland 70"" Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 80""- Black","N/A",$949.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Vibe 76"" Genuine Leather Massage Power Reclining Loveseat with Immersive Audio and Power Headrests - Brown","N/A",$3479.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Plum Dining Bench, Wood, Live-Edge Look, 47.25""W- Nutmeg Brown","N/A",$209.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Ava Panel Bed with Headboard & Frame, LED, Glam, White - Queen Size","N/A",$1569.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Marco 5pc Bedroom Set with Bed, Dresser & Mirror, Cherry Brown - Queen Size","N/A",$1299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Franco 89"" Genuine Leather Zero Gravity Power Reclining Sofa with USB Ports - Brown","N/A",$1599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Zoe Dining Chair with Polyester Fabric & Channeled Tufting, Metal - Ivory","N/A",$149.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Moon 78"" Fabric Curved Loveseat with Accent Pillows - Wooly Almond White","N/A",$879.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Koda 67"" Chenille and Faux Fur Fabric Loveseat with Removable Cushions - Plush Paloma Grey","N/A",$979.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Tempur-Pedic® TEMPUR Support® Medium King Mattress","N/A",$3199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Mason Fabric Chair","N/A",$369.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Vida Dining Table with Glass Inserts, 78""W - Sand","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Scott Living Elevate Modular 7-Piece Right-Facing Chenille Fabric Power Reclining and Sliding Sectional - Beige","N/A",$3599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Sealy® Reflexion® Ultra Lifestyle Base - Queen","N/A",$399.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Milan 5pc Bedroom Set with Bed, Dresser & Mirror, Mid-Century Modern, Black - Queen Size","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Driftwood Mates Bed with Bookcase Headboard Set for Kids, Brown - Twin Size","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Dawson 87"" Fabric Power Reclining Sofa with USB Port and Accent Pillows - Beige","N/A",$1199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Sealy Posturepedic® Fiore 2.0 Eurotop Queen Mattress","N/A",$649.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kimberly 47.25"" Hall Table with Three Baskets - Beige","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Bari 7pc Dining Set with Table & 6 Grey Swivel Chairs, Marble-Look Ceramic Top, Metal, 63""W","N/A",$1993.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Odesos 72"" Modern Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 80""- White","N/A",$1299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Springwall Austin Eurotop Medium Queen Mattress","N/A",$579.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Arista 4-Piece Full/Queen Comforter Set - Grey","N/A",$99.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Jude 55"" Reversible Office Desk with 3-Drawers & Cabinet- Hazelnut","N/A",$269.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Franco 79"" Genuine Leather Zero Gravity Power Reclining Loveseat with Storage Console and USB Ports - Brown","N/A",$1599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kort & Co. Capri Dining Chair with Boucle Fabric & Gold Accent, Metal - White","N/A",$149.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Silas Bedroom 6-Drawer Dresser, 64""W x 33.4""H - Rustic Brown","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Silas Bedside 2-Drawer Nightstand, 26""W x 23.9""H - Rustic Brown","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Nathan 24"" Rustic End Table with Storage and Shelf - Light Brown","N/A",$319.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Customizable Sofa Lab Track 62"" Linen-Look Fabric Loveseat with Track Arms - Luna Domino Grey","N/A",$979.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Walker Pier","N/A",$220.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Zona Linen-look Fabric Loveseat With Flared Wood Legs - Beige","N/A",$1199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Haven Bedroom 4-Drawer Chest with Storage Cabinet, 48""W x 48""H - White","N/A",$969.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Dalilah 16"" 2-Pack Accent Table Package - White Marble with Gold Base","N/A",$249.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Sicily 48"" Traditional Lift Top Coffee Table With Storage, Shelf and Casters - Dark Brown with Mable Look Top","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Beautyrest Black Hotel Executive Suite Eurotop Firm Queen Mattress","N/A",$1199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Emry 84"" TV Stand with Storage and Cable Management for TVs up to 90""- White","N/A",$449.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Galeveston 50"" Rustic Sofa Table with Storage and Shelf - Brown Woodgrain Wood","N/A",$499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Ignatius 64"" Modern Electric Fireplace TV Stand with Storage & Cable Management for TVs up to 70""- White","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Tiffin Counter Stools Set Of 2, Saddle Seat With Studded Trim, Vegan Leather - Brown","N/A",$229.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Silas Platform Bed with Headboard & Frame, LED, Rustic Brown - Queen Size","N/A",$669.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Garbo 26"" Glam End Table - White and Silver with Glitter Accents","N/A",$299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Plum 6pc Dining Set with Table, Bench & 4 Chairs, Wood, Live-Edge Look, 70.75""W- Nutmeg Brown","N/A",$1299.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Vibe 85"" Genuine Leather Massage Power Reclining Sofa with Immersive Audio and Power Headrests - Brown","N/A",$3499.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Lexi Dining Chair with Velvet-Look Fabric, Metal - Blue","N/A",$129.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Mila Counter Stool with Swivel Seat, Vegan Leather Fabric, Metal - Black","N/A",$99.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Blazen 64"" Electric Fireplace TV Stand with Storage for TVs up to 70"" - Black","N/A",$1799.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kort & Co. Aiden 72"" TV Stand with Storage and Cable Management for TVs up to 80""- Natural and White","N/A",$199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Beautyrest Black Hotel Royal Suite Euro Pillowtop Plush King Mattress","N/A",$1399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Made in Canada Midi 42"" Chenille Fabric Swivel Cuddler Accent Chair - Plush Thunder Grey","N/A",$699.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Cedar Dining Chair with Polyester Fabric, Pine Wood - Beige","N/A",$259.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Chateau dAx Angelo 38.58"" Genuine Leather Swivel Rocker Power Reclining Chair - Grey","N/A",$1399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Sicily 22"" Modern End Table with Shelf - Beige and Dark Brown","N/A",$159.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Moon 35.8"" Fabric Curved Chair with Accent Pillow - Wooly Almond White","N/A",$679.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Zoe 5pc Dining Set with Table & 4 Chairs, Glass Top, Metal Geometric Base, 47""W Round - Black & Ivory","N/A",$895.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kort & Co. Capri 5pc Dining Set with Table & 4 Chairs, Gold Accent, Pedestal Base, 72""W - White","N/A",$1195.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Springwall Red Cedar Tight Top Medium Twin Mattress-in-a-Box","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Madison Bookcase Pier White","N/A",$500.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Nashik 24"" Round Accent Table - Grey Brown","N/A",$169.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","TCL 65"" Q79K QLED 4K UHD Smart Google TV (65Q79K) 2025 Model","N/A",$666.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Cedar 6pc Dining Set with Table, Bench & 4 Chairs, Pine Wood, Trestle-Base, 72.07""W - Brown","N/A",$2199.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Samsung 5.8 Cu. Ft. Front-Load Steam Washer - Black Stainless Steel - Stackable - WF50BG8300AVUS","N/A",$1195.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Tempur-Pedic® TEMPUR ProSupport® Firm King Mattress","N/A",$2599.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Margo 59"" Glam Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 65""- Silver","N/A",$899.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","SAMSUNG 65"" Q6F QLED Vision AI 4K UHD Smart Tizen OS TV (QN65Q6FAAFXZC) - 2025 Model","N/A",$746.70,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Oliver 60"" Folding Corner Office Desk with Storage & USB Ports - Grey","N/A",$419.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Chateau d'Ax Lusso 69"" 100% Genuine Leather Loveseat with Wood Legs - Smoke Grey","N/A",$1779.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","KitchenAid 24"" 47 dBA Dishwasher with Third Level Utensil Rack PrintShield Stainless - KDFS224SPS","N/A",$995.00,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Silas Bedroom Chest of Drawers, 5-Drawer, 33""W x 47.5""H - Rustic Brown","N/A",$399.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
+7679509,"The Brick","N/A","Kort & Co. Capri 7pc Dining Set with Table & 6 Chairs, Gold Accent, Pedestal Base, 72""W - White","N/A",$1493.95,N/A,"N/A",each,"N/A",2025-12-30T00:00:00-05:00,2026-01-12T23:59:59-05:00,"N/A",H3B2G7
 7693523,"Canadian Tire","N/A","Paderno 6.5-Qt Cast-Iron Dutch Oven","N/A",$89.99,$139.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7693523,"Canadian Tire","N/A","Selected Humidifiers, Heaters and Air Purifiers","N/A",$49.99,$59.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7693523,"Canadian Tire","N/A","Nespresso Selected Coffee Machine","N/A",$149.99,$279.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
@@ -1169,3 +1169,61 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7693523,"Canadian Tire","N/A","Hoover Power Scrub XL Carpet Cleaner.","N/A",$199.99,$349.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7693523,"Canadian Tire","N/A","SODASTREAM MIX Sparkling Water Maker","N/A",$129.99,$199.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
 7693523,"Canadian Tire","N/A","PADERNO Pearson 20-Pc Flatware Set, Satin","N/A",$49.99,$79.99,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","ALWAYS Serviettes ou protège-dessous sélectionnés/Selected hygienic pads or pantyliners TAMPAX Tampons","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","OPTION+ Produits dentaires sélectionnés/Selected dental products","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","TYLENOL Acétaminophène/ Acetaminophen, Dissolution facile/Easy dissolve Sachets","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","BIOTÈNE BOUCHE SÈCHE Rince-bouche/ Mouthwash, Vapo/Spray, Dentifrice Toothpaste, Gel","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","AVEENO Produits sélectionnés/ Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","DEPEND, POISE Sous-vêtements, culottes ou serviettes sélectionnés/Selected underwear, panties or pads","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","ORAL-B Brosses à dents rechargeables ou brossettes sélectionnées/ Selected rechargeable toothbrushes or brush heads","N/A",$49.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","NICORETTE Gommes/Gums","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","THRIVE COMPLET Gommes/Gums","N/A",$26.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","CAPRINA Produits sélectionnés/Selected products","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","L'ORÉAL PARIS EVERPURE Produits capillaires sélectionnés/Selected hair products","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","MITCHUM Antisudorifiques sélectionnés/Selected antiperspirants","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","ARCTIC POWER Détergent à lessive/Laundry detergent Liquide/Liquid, FLEECY Assouplisseur de tissus/Fabric softener, Liquide/Liquid, ROYALE Mouchoirs/Facial tissues","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","DOVE, DOVE MEN+CARE, VASELINE Produits sélectionnés/Selected products, AXE STYLING Produits coiffants sélectionnés/Selected hair styling products","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","SAVVY Papier hygiénique/Bathroom tissue, Rouleaux doubles/Double rolls","N/A",$4.44,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","JAMIESON Produits naturels sélectionnés/Selected natural products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","OPTION+ Culottes d'entraînement/Training pants","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","OPTION+ Gel anesthésique oral/Oral anesthetic gel","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","ASPIRIN A.A.S./A.S.A. Produits sélectionnés/ Selected products, ALEVE Naproxène/Naproxen Compr./Tablets, caplets ou/or capsules","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","GAVISCON Antiacide/Antacid, Compr. à croquer/Chewable tablets","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","TYLENOL ACÉTAMINOPHÈNE / ACETAMINOPHEN","N/A",$18.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","THE UNSCENTED COMPANY Produits sélectionnés/Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","BUCKLEY Pastilles/Lozenges","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","IRISH SPRING Nettoyant pour le corps/Body wash","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","NIVEA, NIVEA MEN Nettoyant pour le corps/Body wash","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","BLISTEX Produits sélectionnés/Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","OPTION+ Rasoirs jetables/Disposable razors","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","HYDRALYTE Électrolytes sélectionnés/Selected electrolytes","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","ADVIL Ibuprofène/Ibuprofen Liqui-Gels, PLUS ACÉTAMINOPHÈNE Compr./Tablets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","SUNSTAR G·U·M Brosses à dents sélectionnées/Selected toothbrushes","N/A",$1.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","OPTION+ Acétaminophène/Acetaminophen, Régulier/Regular 325 mg","N/A",$8.79,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","SYSTANE Gouttes oculaires sélectionnées/Selected eye drops","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","CREST, ORAL-B Produits dentaires sélectionnés/Selected dental products","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","BOOST DIABÉTIQUE, HYPERPROTÉINÉ, PLUS CALORIES, PROTEIN+, ORIGINAL, ENFANTS ESSENTIELS Substituts de repas, saveurs sélectionnées/Meal replacements, selected flavors, Boissons/Beverages, Poudings/Puddings","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","CLARITIN Allergies/Allergy, 10 mg, AERIUS Allergies/Allergy, 5 mg","N/A",$31.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","REACTINE Allergies/Allergy, Extra fort/Extra-strength, 10 mg, Gélules/Softgels, Compr./Tablets","N/A",$32.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","TYLENOL Acétaminophène/Acetaminophen, Extra fort/Extra-strength ou/or caplets","N/A",$8.79,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","GILLETTE, OLD SPICE Produits sélectionnés/Selected products","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","ARM & HAMMER Antisudorifiques sélectionnés/Selected antiperspirants, Bâton/Stick","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","OPTION+ Produits solaires sélectionnés/Selected sun products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","OPTION+ Timbres transdermiques de nicotine/Transdermal nicotine patches","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","METAMUCIL Thérapie par les fibres/ Fiber therapy, Poudre/Powder","N/A",$32.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","BENYLIN Sirops sélectionnées/Selected syrups, TYLENOL Rhume et sinus/Cold & Sinus ou Rhume/Cold Extra fort/Extra-strength","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","TYLENOL, MOTRIN Produits pour enfants sélectionnés/Selected products for children","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","GREEN BEAVER Antisudorifique naturel sans aluminium/ Aluminum-free natural antiperspirant","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","OPTION+ Crème de clotrimazole/Clotrimazole cream","N/A",$8.79,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","SCHICK, EDGE, SKINTIMATE, BILLIE Produits sélectionnés/Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","LISTERINE Rince-bouches sélectionnés/Selected mouthwashes, POCKETPAKS, POCKETMIST Produits sélectionnés/Selected products, SENSODYNE Brosses à dents sélectionnées/Selected toothbrushes, Dentifrices sélectionnés/Selected toothpastes","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","POLYSPORIN Onguents ou crèmes antibiotiques sélectionnés/Selected antibiotic ointments or creams, Crème anti-démangeaison/Anti-itch cream","N/A",$11.49,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","NIVEA MEN Soins du visage ou du corps sélectionnés/Selected facial or body care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","OPTION+ Multivitamines sélectionnées/Selected multivitamins","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","HEAD & SHOULDERS Shampooing/Shampoo","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","SYSTANE Soins des yeux sélectionnés / Selected eye care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","OPTION+ Crème analgésique topique/Topical analgesic cream","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","MONISTAT Traitements sélectionnés/ Selected treatments, Jours/Days","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","COLGATE Brosses à dents ou dentifrices sélectionnés/Selected toothbrushes or toothpastes","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","BUCKLEY Sirops sélectionnés/Selected syrups COMPLET NEOCITRAN Produits sélectionnés/ Selected products","N/A",$11.79,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
+7699588,"Uniprix Sante","N/A","GARNIER WHOLE BLENDS, FRUCTIS Produits capillaires sélectionnés/ Selected hair products","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-08T00:00:00-05:00,2026-01-14T23:59:59-05:00,"N/A",H3B2G7
