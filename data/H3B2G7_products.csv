@@ -122,84 +122,33 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7729648,"Walmart","N/A","Your Fresh Market"" BBQ or herb & garlic chicken","N/A",$9.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7729648,"Walmart","N/A","Alcan non-stick foil 25'","N/A",$4.77,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7729648,"Walmart","N/A","Sesame Street multivitamins","N/A",$15.77,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Activia probiotic yogurt tub","N/A",$3.47,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Activia Expert yogurt tubs","N/A",$6.98,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Activia probiotic yogurt drinks","N/A",$7.38,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Activia probiotic yogurt","N/A",$6.48,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Activia probiotic yogurt","N/A",$7.38,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","PowerSmart 18"" Corded Electric Snow Blower, 15A, 120V","N/A",$199.99,$399.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Listerine mouthwash","N/A",$5.47,$7.78,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Parent's Choice training pants","N/A",$21.94,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","0.7-cu. ft. Microwave","N/A",$69.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Kraft Dinner","N/A",$9.97,$12.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Pepsi","N/A",$7.98,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Your Fresh Market™ dips or hummus","N/A",$2.98,$3.74,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Québon chocolate milk","N/A",$1.48,$2.88,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Pop-Tarts pastries","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Always pads","N/A",$12.47,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Lipton dry soup mix","N/A",$2.82,$3.57,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Dove x Crumbl liquid hand soap","N/A",$4.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Olymel Tuscan chicken breasts","N/A",$16.98,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Systane Complete eye drops","N/A",$10.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Christie mini Snak Paks cookies 6-pack","N/A",$2.48,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Hidden Valley salad dressing","N/A",$3.48,$4.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Ol Roy dry dog food","N/A",$27.98,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Premier Protein shakes","N/A",$11.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Ol Roy dry dog food","N/A",$27.98,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","2-qt. Digital air fryer","N/A",$49.97,$59.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Vibrant Life cat tree","N/A",$80.00,$159.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7729648,"Walmart","N/A","Nestle Drumstick or confectioneries, Del Monte novelties, Real Dairy confectionery tubs or Haagen-Dazs novelties or ice cream tubs","N/A",$5.44,$6.77,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ABREVA Cold sore treatment, 2 g","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","LADY SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Advil Cold & Sinus analgesic and decongestant non-drowsy caplets","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","L'ORÉAL PARIS Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ESSENTIEL Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Gaviscon Regular fruit blend soothing antiacid 600ml","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","BUCKLEY'S, Selected syrups, 250 ml","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","VALDA, Lozenges, 50 units","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","EMERGEN-C Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ALWAYS Selected products","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","TYLENOL Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","SPONGE TOWELS, Ultra Pro, Paper towels, 6 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ADVIL Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Centrum Women Multigummies multivitamin & mineral supplement cherry berry and orange","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","CAPRINA Selected products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","SPEED STICK or LADY SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","CAPRINA","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","FRUCTIS, Shampoo or conditioner, selected sizes","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","SENSODYNE Selected toothpastes","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","DAWN Dishwashing liquid, 431 ml or 473 ml","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","PROBACLAC Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","La Parisienne Biodégradable fabric softener Sunshine 60 loads 1.44L","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","LA PARISIENNE, Liquid detergent","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","CASCADES Fluff, Bathroom tissue, 24 jumbo rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","L'ORÉAL PARIS, Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","BON AMI Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","DOVE MEN CARE Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules or Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ESSENTIEL, Bathroom tissue, 8 double rolls or Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Scrubbing Bubbles rainshower mega shower foamer 946ml","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","SIMILAC, Powdered infant formula, 850 g","N/A",$33.99,$38.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","DOVE MEN CARE, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Back and muscle pain, 120 g or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","FANTASTIK, SCRUBBING BUBBLES, BON AMI or WINDEX, Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 100 caplets or tablets, 325 mg, 120 tablets or Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Tampax tampons regular abs 40un","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","TUMS, Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXISAL, Back and muscle pain, 18 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","FINISH, Powerball All In 1 Max, Dishwasher detergent, 55 tabs","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Downy liquid fabric softener","N/A",$12.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Swiffer PowerMop starter kit","N/A",$29.97,$39.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Rascals premium super econo pack diaper","N/A",$28.88,$32.88,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","two-bite cupcakes","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Cashmere bathroom tissue 30 = 62, 253 sheets per roll","N/A",$14.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Platform bed","N/A",$149.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Folgers ground coffee","N/A",$16.96,$21.96,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Enfamil A+ Gentlease powder formula","N/A",$47.47,$52.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Bulk Roma tomatoes","N/A",$2.94,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Olymel ground chicken or turkey","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Adults' sneakers","N/A",$19.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Enfamil A+ NeuroPro or NeuroPro Gentlease ready-to-feed formula","N/A",$74.97,$83.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Royale facial tissue","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Cracker Barrel cheese block 400 g","N/A",$6.48,$7.48,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Speed Stick deodorant or antiperspirant stick","N/A",$5.48,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Folgers ground coffee","N/A",$16.96,$21.96,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Tylenol Cold & Sinus","N/A",$7.47,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Pure Balance chicken or duck tenders","N/A",$9.98,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Softsoap liquid hand soap","N/A",$3.98,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Bounty Select-A-Size paper towels 8 = 16 rolls","N/A",$16.47,$21.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Mère Michel bacon","N/A",$4.98,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Ziploc freezer or sandwich bags","N/A",$8.97,$9.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Avocados","N/A",$3.94,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Great Value English muffins 6-pack","N/A",$1.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Leclerc celebration cookies","N/A",$2.98,$4.98,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","iögo nanö drinkable yogurt","N/A",$5.28,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7729648,"Walmart","N/A","Persil 37- 48 loads laundry detergent","N/A",$9.47,$15.97,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","ESSENTIEL COSMETIK, Rose water, 1/3 in 1 Make-up remover wipes, 2 x 25 units","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","BIOMEDIC Diarrhea relief, 2 mg, 24 caplets","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","BIOMEDIC Meal replacement, 6 x 235 ml","N/A",$9.99,$12.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
@@ -228,37 +177,37 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7734853,"Familiprix","N/A","Biomedic dry cough syrup bronchophan forte dm 120ml","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","TRESEMMÉ Selected hair products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","BIOMEDIC, Hydrating nasal care, 135 ml","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","Colgate Extra Clean toothbrush Soft","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","Dove Baby sensitive moisture fragrance free tip to toe wash 384ml","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","INCOGNITO Selected pantyliners or pads","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","Colgate Extra Clean toothbrush Soft","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","BIOMEDIC, Vitamin B12, 250 mcg, 100 tablets","N/A",$7.79,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","TIDE, Simply All in One, Laundry detergent, 946 ml","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","ESSENTIEL Bathroom tissue, 12 double rolls 8 triple rolls, Tissues, 9 packs or Ultra Paper towels, 6 rolls","N/A",$15.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","DOVE, DOVE MEN CARE or WHOLE BLENDS, Selected products","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","BIOMEDIC Omega 3","N/A",$14.39,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","HUGGIES, Baby wipes, selected refills","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","ENSURE Selected meal replacements, 6 x 235 ml","N/A",$13.99,$17.79,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","Colgate cavity protection toothpaste Regular 95ml","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","ESSENTIEL Bathroom tissue, 12 double rolls, 8 triple rolls, Tissues, 9 packs or Ultra, Paper towels, rolls","N/A",$15.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","ESSENTIEL Liquid hand soap, recharge/refill, 1 litre","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","CASCADE, Selected products","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","INCOGNITO, Selected pantyliners or pads","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","Biomedic adults multivitamin gummies 150un","N/A",$10.19,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","CERAVE Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","ESSENTIEL Bathroom tissue, 12 double rolls, 8 triple rolls, Tissues, 9 packs or Ultra, Paper towels, 6 rolls","N/A",$15.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","essentiel Feminine wipes","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","essentiel Single use underpads, 18 units","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","CERAVE or VICHY, Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","ESSENTIEL Epsom salt, 2 kg","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","AXE Selected products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","Essentiel mint dental floss picks 90un","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","HUGGIES, Baby wipes, selected refills","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","ENSURE Selected meal replacements, 6 x 235 ml","N/A",$13.99,$17.79,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","CERAVE Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","Colgate cavity protection toothpaste Regular 95ml","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","ESSENTIEL Bathroom tissue, 12 double rolls, 8 triple rolls, Tissues, 9 packs or Ultra, Paper towels, rolls","N/A",$15.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","GAIN, Selected products","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","BIOMEDIC, Collagen, 400 mg, 90 capsules","N/A",$12.59,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","ESSENTIEL COSMETIK Micellar water all-in-one, 400 ml","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","BIOMEDIC, Pregnancy test, early result, 2 tests","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","Essentiel antiseptic mouthwash cool blue mint 1L","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","GOOD START, Plus, Powdered infant formula, 1,02 kg","N/A",$49.99,$63.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","ESSENTIEL Bathroom tissue, 12 double rolls, 8 triple rolls, Tissues, 9 packs or Ultra, Paper towels, 6 rolls","N/A",$15.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","essentiel Feminine wipes","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","TIDE, Simply All in One, Laundry detergent, 946 ml","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","Dove Baby sensitive moisture fragrance free tip to toe wash 384ml","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","Essentiel demineralized spring water 4L","N/A",$0.99,$1.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","essentiel Single use underpads, 18 units","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","ESSENTIEL Liquid hand soap, recharge/refill, 1 litre","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","CASCADE, Selected products","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","INCOGNITO, Selected pantyliners or pads","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734853,"Familiprix","N/A","Biomedic adults multivitamin gummies 150un","N/A",$10.19,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734853,"Familiprix","N/A","ESSENTIEL Bathroom tissue, 12 double rolls 8 triple rolls, Tissues, 9 packs or Ultra Paper towels, 6 rolls","N/A",$15.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734853,"Familiprix","N/A","CERAVE Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734843,"Familiprix","N/A","Attitude Super Leaves hand soap orange leaves 473ml","N/A",$7.19,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734843,"Familiprix","N/A","TRESemmé extra firm control hairspray 311g","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
@@ -409,52 +358,85 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7734843,"Familiprix","N/A","ESSENTIEL COSMETIK, Tampons Cosmetic pads, 3 x 100 units","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734843,"Familiprix","N/A","ESSENTIEL COSMETIK, Selected nail polish removers","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
 7734843,"Familiprix","N/A","BOIRON, Selected homeopathic medicines for kids","N/A",$13.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734843,"Familiprix","N/A","DRANO MAX GEL Clog remover, 900 ml","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Biomedic vapourizing cold rub ointment 57ml","N/A",$4.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","CREST, 3D Whitestrips, Vivid, Dental whitening kit, 10 treatments","N/A",$31.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","KANDJU Candies","N/A",$4.99,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","VICKS, ZzzQuil, Nighttime sleep aid, 354 ml, 24 liquicaps or 36 liquicaps","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","VOLTAREN, Back and muscle pain, 120 g or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","COVERGIRL Selected makeup products","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7734843,"Familiprix","N/A","DOVE, DOVE MEN CARE or WHOLE BLENDS, Selected products","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Dairy digestive, extra strength, 40 caplets","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC Nighttime sleep aid, 354 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","ESSENTIEL, Selected protective underwear","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","Webber Naturals Selected products","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Electrolyte powder, 10 sachets x 5,5 g","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Acetaminophen for children, 160 mg, 20 tablets","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Psyllium fibre capsules, 525 mg, 160 capsules","N/A",$23.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","WEBBER NATURALS, Selected products","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Hair and nails, 120 softgels","N/A",$20.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Cough lozenges","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC Hydrating nasal care, 135 ml","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC Vitamin B12, 250 mcg 100 tablets","N/A",$7.79,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC Cold + sinus","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Selected probiotics","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Daily intimate wash, 240 ml","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","biomedic Biomyrte Bronchi and sinuses","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Ibuprofen, 200 mg, 72 capsules","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","CeraVe moisturizing cream MVE technology for normal to dry skin 57g","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","WEBBER NATURALS, Selected products","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Collagen, 400 mg, 90 capsules","N/A",$12.59,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC Diarrhea relief","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Selected orthopedic products","N/A",$17.84,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","WEBBER NATURALS, Selected products","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","POISE Pads or liners selected sizes","N/A",$11.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC Omega 3","N/A",$14.39,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","ESSENTIEL Bathroom tissue, 12 double rolls, 8 triple rolls, Tissues, 9 packs or Ultra, Paper towels, rolls","N/A",$15.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","ESSENTIEL, Bathroom tissue, 12 double rolls, 8 triple rolls, Tissues, 9 packs or Ultra, Paper towels, 6 rolls","N/A",$15.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC Selected multivitamin gummies","N/A",$10.19,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Meal replacement, 6 x 235 ml","N/A",$9.99,$12.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC Acetaminophen, 500 mg, 500 tablets or caplets","N/A",$25.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","CERAVE Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","PROSPAN by HELIXIA, Cough, Syrup","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Melatonin, 10 mg, 90 capsules","N/A",$7.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","Genacol Ovoflex natural eggshell membrane 60un","N/A",$27.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","Biomedic dry cough syrup bronchophan forte dm 120ml","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","LAX-A-DAY, Laxative, 1020 g","N/A",$34.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","BIOMEDIC, Pregnancy test, early result, 2 tests","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","CERAVE or VICHY Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","ENSURE, Selected meal replacements","N/A",$13.99,$17.79,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","Essentiel demineralized spring water","N/A",$0.99,$1.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7734831,"Familiprix","N/A","POISE Pads or liners selected sizes","N/A",$11.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FERRERO ROCHER, Fine hazelnut chocolate, 100 g","N/A",$8.99,$11.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ADRIEN GAGNON","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Ö HYDRATION Vitamin water, 4 x 355 ml","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","EDGE or SCHICK Selected products","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SENSODYNE, Clinical White, Daily toothpaste, 75 ml","N/A",$8.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ANNABELLE, Selected makeup products","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","STYLÉ Selected women's socks","N/A",$21.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 100 caplets or tablets, 325 mg, 120 tablets or Douleurs Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","MARC ANTHONY, Selected hair products","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","LADY SPEED STICK","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","OMBRELLE, Selected suncare products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","NICORETTE, Nicotin gum, 2 mg or 4 mg, 30 pieces","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","STYLÉ Selected women's socks","N/A",$21.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LE GOURMET Milk chocolate hearts, 24 g","N/A",$2.49,$3.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","CLAIROL, Selected colors","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",$11.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GLYSOMED Hand cream, 200 ml or foot balm, 120 ml","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","McCORMICKS Cinnamon hearts, 300 g","N/A",$5.19,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","DOVE MEN CARE Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Solo Care Aqua twin pack all-in-one solution for soft contact lenses","N/A",$23.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LYSOL Selected disinfecting products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","POUR EXTRA HOLISTA or WEBBER NATURALS, Selected products","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","TUMS, Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Cascades Fluff Excellence soft bathroom tissue rolls - Jumbo 24un","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","L'ORÉAL PARIS Magic Root Cover Up, Selected products","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LINDT, Lindor, Milk chocolate, 60 g","N/A",$7.99,$10.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","L'ORÉAL PARIS Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Buckley's Complete Plus Extra Strength Mucus Relief cough syrup 250ml","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC, Ibuprofen, 200 mg, 144 capsules","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FLORASTOR On selected probiotics","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","SWIFFER Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","HARIBO, Gummy candies, 175 g","N/A",$2.99,$3.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","DOVE MEN CARE, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","A&D MEDICAL, Multi-user bluetooth blood pressure monitor, model UA-770CNBLE","N/A",$59.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","MUNCHKIN, Selected accessories for baby and children","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Clairol Natural Instincts demi-permanent hair dye #4 Dark Brown","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Avène Cleanance anti-blemishes concentrate 30ml","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Colgate 360° Sensitive Pro-Relief toothbrush Ultra Soft","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","VICKS, NyQuil or DayQuil, Selected products","N/A",$10.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","GUM Proxabrush interdental cleaners Size 1 Ultra Tight 8un","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Pampers Easy Ups training underwear for boys Size 4-5 (over 37lb) - 66un","N/A",$26.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Annabelle Selected makeup product","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","MAYBELLINE NEW YORK SUPER STAY® VINYL INK LONGWEAR LIQUID LIP COLOUR","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Colgate Sensitive Pro-Relief complete protection anticavity toothpaste 75ml","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","JOUVIANCE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Aleve naproxen sodium tablets 50un","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","TURTLES, Classic, Milk chocolate with smooth caramel and pecans, 167 g","N/A",$13.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","CW BEGGS On selected men's care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","L'IL CRITERS, Multivitamin gummies, 190 gummy vitamins","N/A",$15.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Essentiel disinfectant multi-surface cleaner lemon","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Always Anti-Bunch Xtra Protection liners extra long 68un","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","TYLENOL, Complete, cold, cough and flu, selected sizes","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ANNABELLE Selected makeup products","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","BIOMEDIC, Relieves occasional constipation, 238 g","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","FINISH, Jet-Dry, Rinse aid, 621 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","essentiel On selected hair coloring and nail accessories","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","CAPRINA, Selected products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","BIOMEDIC, Loratadine, Allergy, 10 mg, 20 tablets","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","NIVEA, Selected products","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","WERTHER'S ORIGINAL Caramel hard candies, 116 g","N/A",$2.99,$3.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","NIVEA MEN, Shaving gel, 198 g or Creme, Visage, corps, Face, body, hands, 75 ml","N/A",$6.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ANNABELLE Selected makeup products","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","COVERGIRL Selected makeup products","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","AVEENO Selected products","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC first aid products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Q-TIPS, Cotton swabs, 400 units","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","ABREVA, Cold sore treatment, 2 g","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","KINDER MIX, 7 Valentine treats with one plush, 98 g","N/A",$13.99,$15.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","AVEENO, Selected products","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
@@ -499,81 +481,79 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7752500,"Familiprix","N/A","OLAY, Age defy, Soap, 4 x 90 g","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","METAMUCIL Fibre therapy, selected products","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","Caprina goat milk body wash original","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ORAJEL, Anticavity fluoride toothpaste gel, 119 g","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","OLD SPICE Selected antiperspirants or deodorants","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","DIVA, Culotte Reusable period underwear, 1 unit","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Essentiel mini liners regular 64un","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","JOUVIANCE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","HYDRASENSE, Eye drops, 2 x 10 ml","N/A",$18.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","DOVE, Hand wash, 300 ml to 355 ml","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SENSODYNE, Selected toothpastes","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Jelly Belly Sour Pucker Up Lips Candy 79g","N/A",$2.99,$3.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FANTASTIK, SCRUBBING BUBBLES, BON AMI or WINDEX Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC Selected suncare products, 177 ml","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","IVORY, Body wash, 621 ml","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","TYLENOL or MOTRIN, Selected products for infants or children","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","NAIR, Selected hair removal products","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Insta-Dri, Nail polish","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Insta-Dri Nail polish","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SWICAL ENERGY Vitamins minerals and plant extracts","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LINDT, Lindor, Chocolate, 250 g","N/A",$27.49,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ADVIL, Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","FRUCTIS, Shampoo or conditioner, selected sizes","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","STYLÉ, Collection Mini, Selected jewelry","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","DEPEND Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","CHLORASEPTIC, Lozenges, 15 units","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ENFAMIL A+, NeuroPro or Infant formula, prête à servir/ready to feed, 18 x 237 ml","N/A",$74.99,$83.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","JERGENS, Moisturizer oil infused, 620 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","CELLA'S, Cherries covered chocolate, 141 g","N/A",$3.49,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","NIZORAL, Anti-dandruff shampoo, 325 ml","N/A",$26.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","BIO-K+ On selected probiotics","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Dove hypoallergenic body wash sensitive skin 325ml","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules or Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Robax Platinum back & muscle pain ibuprofen and methocarbamol caplets 18un","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Munchkin weighted flexi-straw cup 6m+ 7oz","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ESSENTIEL Moisturizing lotion 532 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Biomedic extra strength muscle & back pain relief caplets 75un","N/A",$25.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","L'ORÉAL PARIS Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","AVÈNE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$23.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","COVERGIRL Selected makeup products","N/A",$10.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$23.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","URIAGE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","THE GREEN BEAVER COMPANY, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","GARNIER Selected facial care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ESSENTIEL, double rolls or Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","SYSTANE Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","BAN, Selected antiperspirants or deodorants","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","STYLÉ Selected women's socks","N/A",$21.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","BAND-AID, Selected adhesive bandages","N/A",$6.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","FIRST RESPONSE, Selected pregnancy tests","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","FREDDO Milk chocolate with a irresistible smooth centre, 80 g","N/A",$4.99,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","BIORÉ, Blemish patches day and night, 30 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","COMPOUND W, Skin tag remover, 8 applications or Freeze Off, Wart removal system, 15 treatments""","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","BIOMEDIC, Acid reducer, 50 tablets","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","DAWN Dishwashing liquid, 431 ml or 473 ml","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","STYLÉ, Selected women's socks","N/A",$21.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GOOD PROTEIN, All-in-one shake, 440 g","N/A",$34.99,$37.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC, Cold + Sinus Plus, 40 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","PAMPERS, Selected diapers","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","WEBBER NATURALS, Selected products","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","CLARITIN, Allergy, 10 tablets","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC Glycerin suppositories USP, 12 units","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","TAMPAX","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BREATHE RIGHT, Nasal strips, 26 or 30 unités","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","CAPRINA Selected products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SESAME STREET, Selected vitamins","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FERRERO COLLECTION Assortment of chocolates and confections, 205 g","N/A",$22.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Biomedic day/night cold medication caplets combo pack 20un","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SIMILAC Powdered infant formula, 850 g","N/A",$33.99,$38.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GLADE, Air freshener, 226 g","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Biomedic nighttime acetaminophen caplets with antihistamine for adults 40un","N/A",$16.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LIFTER GLOSS LIP GLOSS","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SCOTTIES, Ultra Soft, Tissues, 4 x 52 units","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","TIDE, Power Pods Oxi Max, Liquid laundry detergent pacs, 45 capsules","N/A",$22.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",$11.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","AVENT, Selected baby products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","MARCELLE On selected makeup products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","ADVIL Cold and sinus, 40 caplets","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","BIOMEDIC, Lubricant jelly, 225 g","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","HAMLET, Chocolate candy pralines, 200 g","N/A",$10.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","BIOMEDIC Lozenges","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","POLYSPORIN, Selected products, 30 g","N/A",$13.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","DULCOLAX, Laxative, 5 mg, 60 tablets or For women, 50 tablets","N/A",$10.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Unisom ultra strength sleep-aid tablets","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","NESTLÉ, Milk chocolate, 30 mini bars","N/A",$10.49,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","L'ORÉAL PARIS, Selected makeup products","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","URIAGE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Pantene Pro-V Miracles regenerative oil blend shampoo for extremely damaged hair 400ml","N/A",$10.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","NERVIVE, Nerve relief or Nerve health, 30 tablets","N/A",$27.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Laboratoire Suisse Probiotic 20B Strong vegetal capsules 70un","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","COTTONELLE Disposable wipes, 4 x 42 units","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","HEAD & SHOULDERS Selected shampoo or conditioners","N/A",$10.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","DOVE Body wash, 325 ml","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LISTERINE Selected mouthwashes, 1 litre","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","essentiel Moisturizing lotion, 532 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ENFAMIL A+, NeuroPro or NeuroPro Gentlease, Infant formula, ready to feed, 18 x 237 ml","N/A",$74.99,$83.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GLYCERODERMINE, Dermatological skin cream, 240 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIO-K+ On selected probiotics","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FREDDO Milk chocolate with a irresistible smooth centre, 80 g","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","RELAXA Laxative, 510 g or 30 sachets x 17 g","N/A",$20.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BAUSCH + LOMB Selected products","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BRAUN AgePrecision, Digital termometer","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC, Allergy, 10 mg, 84 tablets","N/A",$35.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","POISE Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LITTLE GOURMET, Organic, Fruit and veggie puree, 113 ml","N/A",$2.49,$3.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FERRERO ROCHER, Chocolate bar, 90 g","N/A",$3.99,$4.89,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","STYLÉ, Collection Mini, Selected jewelry","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","URIAGE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752500,"Familiprix","N/A","Vitalux Advanced eye vitamin & mineral coated caplets 120un","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","VOLTAREN, Back and muscle pain, 120 g ou/or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","Tylenol cold & sinus daytime and nighttime extra strength caplets 40un","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","TUMS Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","CENTRUM, MultiGummies Selected vitamin and mineral supplements","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","POUR EXTRA DOVE or DOVE MEN CARE, Soap, 12 x 106 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","MYOFLEX, Extra strength, Pain relief rub, 100 g","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","EMERGEN-C, Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","VALDA, Lozenges, 50 units","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","L'ORÉAL PARIS, Superior Preference or Magic Root Cover Up, Selected products","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FREDDO Chocolate hearts, 150 g","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ADRIEN GAGNON","N/A",$11.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Ferrero Rocher Ferrero Rocher fine hazelnut chocolates 200g","N/A",$10.49,$14.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GILLETTE, Selected cartridges","N/A",$46.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","TYLENOL, Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BLISTEX Selected lip care products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","DR SCHOLL'S, Selected foot care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LAURA SECORD Fruity harvest jelly treats, 200 g","N/A",$10.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","ADVIL, Cold and sinus, 40 caplets","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","DEPEND or POISE Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","Probaclac Travelers 9 probiotic strains vegetable capsules","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","ADVIL, Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXISAL, Back and muscle pain, 18 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","VALDA Lozenges, 50 units","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","CASCADES, Fluff, Bathroom tissue, 24 jumbo rolls or SPONGE TOWELS, Ultra Pro, Paper towels, 6 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
@@ -581,54 +561,74 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7752488,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 100 caplets caplets or tablets, 325 mg, 120 tablets or Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","BUCKLEY'S, Selected syrups, 250 ml","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","Tylenol cold & sinus daytime and nighttime extra strength caplets 40un","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","TUMS Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","CENTRUM, MultiGummies Selected vitamin and mineral supplements","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","Probaclac Travelers 9 probiotic strains vegetable capsules","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","EMERGEN-C Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","ABREVA Cold sore treatment, 2 g","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Dairy digestive, extra strength, 40 caplets","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC Nighttime sleep aid, 354 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","ESSENTIEL, Selected protective underwear","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","Webber Naturals Selected products","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Electrolyte powder, 10 sachets x 5,5 g","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Acetaminophen for children, 160 mg, 20 tablets","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Psyllium fibre capsules, 525 mg, 160 capsules","N/A",$23.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","WEBBER NATURALS, Selected products","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Hair and nails, 120 softgels","N/A",$20.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Cough lozenges","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC Hydrating nasal care, 135 ml","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC Vitamin B12, 250 mcg 100 tablets","N/A",$7.79,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC Cold + sinus","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Selected probiotics","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Daily intimate wash, 240 ml","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","biomedic Biomyrte Bronchi and sinuses","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Ibuprofen, 200 mg, 72 capsules","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","CeraVe moisturizing cream MVE technology for normal to dry skin 57g","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","WEBBER NATURALS, Selected products","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Collagen, 400 mg, 90 capsules","N/A",$12.59,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC Diarrhea relief","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Selected orthopedic products","N/A",$17.84,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","WEBBER NATURALS, Selected products","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","POISE Pads or liners selected sizes","N/A",$11.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC Omega 3","N/A",$14.39,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","ESSENTIEL Bathroom tissue, 12 double rolls, 8 triple rolls, Tissues, 9 packs or Ultra, Paper towels, rolls","N/A",$15.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","ESSENTIEL, Bathroom tissue, 12 double rolls, 8 triple rolls, Tissues, 9 packs or Ultra, Paper towels, 6 rolls","N/A",$15.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC Selected multivitamin gummies","N/A",$10.19,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Meal replacement, 6 x 235 ml","N/A",$9.99,$12.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC Acetaminophen, 500 mg, 500 tablets or caplets","N/A",$25.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","CERAVE Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","PROSPAN by HELIXIA, Cough, Syrup","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Melatonin, 10 mg, 90 capsules","N/A",$7.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","Genacol Ovoflex natural eggshell membrane 60un","N/A",$27.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","Biomedic dry cough syrup bronchophan forte dm 120ml","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","LAX-A-DAY, Laxative, 1020 g","N/A",$34.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","BIOMEDIC, Pregnancy test, early result, 2 tests","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","CERAVE or VICHY Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","ENSURE, Selected meal replacements","N/A",$13.99,$17.79,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","Essentiel demineralized spring water","N/A",$0.99,$1.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734831,"Familiprix","N/A","POISE Pads or liners selected sizes","N/A",$11.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ADVIL, Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXISAL, Back and muscle pain, 18 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","DEPEND or POISE Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","VOLTAREN, Back and muscle pain, 120 g ou/or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DOVE MEN CARE Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules or Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ESSENTIEL, Bathroom tissue, 8 double rolls or Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Scrubbing Bubbles rainshower mega shower foamer 946ml","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SIMILAC, Powdered infant formula, 850 g","N/A",$33.99,$38.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Back and muscle pain, 120 g or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ESSENTIEL Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Gaviscon Regular fruit blend soothing antiacid 600ml","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","BUCKLEY'S, Selected syrups, 250 ml","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","VALDA, Lozenges, 50 units","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","EMERGEN-C Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ALWAYS Selected products","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","TYLENOL Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SPONGE TOWELS, Ultra Pro, Paper towels, 6 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ADVIL Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Centrum Women Multigummies multivitamin & mineral supplement cherry berry and orange","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CAPRINA Selected products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SPEED STICK or LADY SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Advil Cold & Sinus analgesic and decongestant non-drowsy caplets","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","L'ORÉAL PARIS Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DAWN Dishwashing liquid, 431 ml or 473 ml","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","PROBACLAC Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","La Parisienne Biodégradable fabric softener Sunshine 60 loads 1.44L","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","LA PARISIENNE, Liquid detergent","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CASCADES Fluff, Bathroom tissue, 24 jumbo rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","L'ORÉAL PARIS, Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","BON AMI Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ABREVA Cold sore treatment, 2 g","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","LADY SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CAPRINA","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","FRUCTIS, Shampoo or conditioner, selected sizes","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SENSODYNE Selected toothpastes","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DOVE MEN CARE, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Tampax tampons regular abs 40un","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","TUMS, Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXISAL, Back and muscle pain, 18 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","FINISH, Powerball All In 1 Max, Dishwasher detergent, 55 tabs","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","FANTASTIK, SCRUBBING BUBBLES, BON AMI or WINDEX, Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 100 caplets or tablets, 325 mg, 120 tablets or Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Maxwell Power Reclining Loveseat with Console - Brown","N/A",$979.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Beautyrest World Class Monarch Firm Full Mattress","N/A",$749.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
@@ -779,6 +779,55 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7722560,"Leon's","N/A","Caylie 7-Piece Dining Set - Ivory, Driftwood","N/A",$999.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Cinema 3-Piece King Storage Bed - Charcoal","N/A",$1199.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Kingsdown Mila Medium Full Mattress","N/A",$499.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CLEMENTINES","N/A",$4.97,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CANTON BROTH FOR FONDUE","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ACTIVIA PROBIOTIC YOGURT","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LACTANTIA MILK OR CHOCOLATE MILK","N/A",$5.99,$6.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","DOSE APPLE CIDER VINEGAR","N/A",$11.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","KASHI BARS","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","HERSHEY'S KISSES TREATS","N/A",$7.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","COMPLIMENTS FRESH PASTA","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","C'EST PRÊT! À CUIRE FRESH MARINATED CHICKEN DRUMSTICKS","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CROWN OF BROCCOLI","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MARINA DEL REY FROZEN RAW WILD ARGENTINIAN SHRIMP","N/A",$11.99,$15.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CANTON DIPPING SAUCE","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","GAIN LAUNDRY DETERGENT","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","HEINEKEN BEER","N/A",$22.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MILLER LITE BEER","N/A",$39.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ATTITUDE FRAÎCHE DRY SHALLOTS","N/A",$7.00,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SLEEMAN CLEAR 2.0 BEER","N/A",$39.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MISS VICKIE'S CHIPS OR TORTILLA CHIPS","N/A",$8.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ASTRO ORIGINAL YOGURT","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","KIM PHAT FROZEN POTSTICKER- STYLE DUMPLINGS","N/A",$6.98,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","KELLOGG'S RICE KRISPIES BARS, RICE SQUARES OR TARTS","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SEEDLESS BLACK GRAPES","N/A",$3.99,$13.21,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","FERRERO ROCHER, COLLECTION TREATS","N/A",$8.99,$10.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LIBERTÉ GREC (650 ou 750 g), MÉDITERRANÉE (900 g) YOGURT","N/A",$6.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","GREEN OCEAN FROZEN BAY SCALLOPS","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","FRESH PORK TENDERLOINS","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MAPLE LEAF READY CRISP BACON","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MAPLE LEAF VIENNA SAUSAGE","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","COMPLIMENTS WHITE EGGS","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","PRIX CLUB CHOCOLATINES","N/A",$8.49,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SIGGI'S SKYR YOGURT","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LES INDISPENSABLES CACTUS OR SUCCULENT","N/A",$6.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LES INDISPENSABLES CACTUS OR SUCCULENT","N/A",$6.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BLACKBERRIES","N/A",$3.99,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BENNY & CO. FROZEN BREADED CHICKEN FILLETS","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MR. PRETZELS FROZEN PIZZA","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","VALEUR PLUS FROZEN MEAT LASAGNA","N/A",$14.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","FRESH BONELESS CHICKEN THIGHS","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","NATURE NUX PEANUT BUTTER","N/A",$5.99,$6.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","HENRI DE MÉRICOURT WHITE OR RED WINE","N/A",$12.49,$15.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","HEINZ TOMATO KETCHUP","N/A",$4.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","RASPBERRIES","N/A",$4.99,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","FRESH CHICKEN","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ASIAN YELLOW OR YA PEARS","N/A",$1.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","PILLSBURY TOASTER STRUDEL PASTRIES","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","GENERAL MILLS CEREAL","N/A",$3.33,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LA BELLE BRETAGNE COUNTRY STYLE OR LIVER PÂTÉ","N/A",$2.47,$4.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","PRIMO LEGUMES","N/A",$1.99,$2.59,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","RICARDO FROZEN SEAFOOD LASAGNA","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","LACTANTIA PUR FILTRE MILK","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","MARCANGELO SEASONED CHICKEN BREAST STRIPS","N/A",$6.99,$8.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","C'EST PRÊT! À CUIRE FRESH BEEF ROSETTES","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
@@ -880,202 +929,153 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7752410,"IGA","N/A","STRUB'S PICKLES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","OASIS REFRIGERATED FRUIT JUICE OR SMOOTHIE","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","COMPLIMENTS COOKED HAM","N/A",$1.99,$2.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","STRUB'S PICKLES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","ACTIVIA EXPERT PROBIOTIC","N/A",$8.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","MARCANGELO SLICED ITALIAN DELI MEATS","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","FRESH PORK OR CHICKEN BREAST SOUVLAKIS, PORK SHOULDER PICNIC ROAST OR FRESH BUTTERFLIED PORK TENDERLOIN","N/A",$9.99,$11.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","FAMILLE FONTAINE VEAL CUBES FOR STEW","N/A",$18.99,$44.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","STEFANO FAITA PASTA SAUCE","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","FROZEN PASTRAMI-STYLE SMOKED ATLANTIC SALMON","N/A",$6.49,$32.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","RED MANGOS","N/A",$8.00,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","COMPLIMENTS FROZEN FRIED POTATOES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","PAYSAN BRETON CREPES","N/A",$8.49,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","STARBUCKS COFFEE ENHANCER","N/A",$7.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","LES INDISPENSABLES SUCCULENT","N/A",$6.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","VASCO & CO FROZEN SMOKED ATLANTIC SALMON","N/A",$10.99,$19.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","RED CHERRY TOMATOES","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","COMPLIMENTS GALA, McINTOSH, CORTLAND, EMPIRE, SPARTAN OR AMBROSIA APPLES","N/A",$3.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","BEACH DAY EVERY DAY ALCOHOLIC DAY ALCOHOLIC MALT BEVERAGE","N/A",$22.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","THE LITTLE POTATO COMPANY SMALL POTATOES","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","VERACI WHITE OR RED WINE","N/A",$12.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","FONTAINE SANTÉ GARLIC SAUCE, SPREAD, DIP OR TZATZIKI","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","RICARDO BEEF CHILI","N/A",$9.49,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","KIM PHAT SHIITAKE MUSHROOMS","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","KIM PHAT HEARTS OF PALM","N/A",$3.48,$5.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","YELLOW PEACHES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","FROMAGERIE BERGERON CLASSIQUE CHEESE","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","LAFLEUR WIENERS","N/A",$4.99,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","TACO BELL CREAMY SAUCE","N/A",$4.99,$5.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","COMPLIMENTS FROZEN BEEF BURGERS","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","ST-HUBERT FROZEN PIE, TOURTIÈRE, GRATIN OR QUICHE","N/A",$6.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","NANDO'S WING SAUCE","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","COORS LIGHT BEER","N/A",$39.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","VILLAGGIO (550 à 675 g) OR BON MATIN (600 g) SLICED BREAD","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","BECEL MARGARINE","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","C'EST PRÊT! À CUIRE FRESH STUFFED SALMON TENDER","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","BLUEBERRIES","N/A",$4.99,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","P'TIT QUÉBEC CHEESE SNACKS","N/A",$15.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","LAGABIÈRE NON-ALCOHOLIC BEER","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","AVEC MÉLANIE ASTROLOGICAL PLANT","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","FRESH PORK OR CHICKEN BREAST SOUVLAKIS, PORK SHOULDER PICNIC ROAST OR FRESH BUTTERFLIED PORK TENDERLOIN","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","COCA-COLA","N/A",$4.44,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","WALLAROO TRAIL WHITE OR RED WINE","N/A",$11.99,$15.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","KINDER CHOCOLATE","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","GASPÉSIEN SMOKED QUARTER HAM","N/A",$11.49,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","STROMBOLI PIZZA","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","COCA-COLA","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","ARCHIBALD DEALCOHOLIZED BEER","N/A",$20.99,$24.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","NON-ALCOHOLIC BEER","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","GUINESS NON-ALCOHOLIC BEER","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","SMOKY BAY ALCOHOL-FREE WINE","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752410,"IGA","N/A","TRE STELLE CHEESE","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","ARRANGEMENT FLORAL MA BOUQUETERIE | MA BOUQUETERIE FLORAL ARRANGEMENT","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","COQUILLE DE FRUITS DE MER | FROZEN SEAFOOD SHELL","N/A",$3.99,$5.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CÔTELETTES D'AGNEAU FAMILLE FONTAINE | FONTAINE FAMILY DEFROSTED LAMB CHOPS","N/A",$18.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FILETS DE SOLE | SOLE FILLETS","N/A",$11.99,$16.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BOLOGNE SELECTION | SELECTION BOLOGNA","N/A",$5.49,$6.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","JUS OU COCKTAIL SELECTION | SELECTION JUICE OR COCKTAIL","N/A",$3.79,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","DENTIFRICE COLGATE | COLGATE TOOTHPASTE","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FROMAGE BERGERON | BERGERON CHEESE","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","THÉ GLACÉ PURE LEAF | PURE LEAF ICED TEA","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BOEUF HACHÉ MI-MAIGRE | MEDIUM GROUND BEEF","N/A",$7.49,$8.39,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PLANTE PACHIRA MA BOUQUETERIE | MA BOUQUETERIE PACHIRA PLANT","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BARRE ÉNERGÉTIQUE CLIF | CLIF BAR BAR ENERGY BAR","N/A",$1.99,$2.69,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","POITRINES DE POULET FARCI | STUFFED CHICKEN BREASTS, ECONOMIC PACK","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SANDWICH AU POULET CROUSTILLANT | CRISPY CHICKEN SANDWICH","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","ROSETTES DE BOEUF | BEEF PINWHEELS","N/A",$10.99,$11.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BÂTONNETS DE FROMAGE SELECTION | SELECTION CHEESE STICKS","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","RADIS ROUGES | RED RADISHES","N/A",$2.69,$2.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PASTILLES DE CHOCOLAT FREDDO |FREDDO CHOCOLATE CHIPS","N/A",$18.99,$21.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SAUCISSES FUMÉES AU POULET SELECTION | SELECTION CHICKEN WIENERS","N/A",$2.99,$3.69,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BOUILLON CONCENTRÉ SELECTION | SELECTION CONCENTRATED BROTH","N/A",$6.49,$6.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FRUIT UGLI | UGLI FRUIT","N/A",$3.49,$3.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SIMILI POULET GASPÉSIEN | GASPÉSIEN MOCK CHICKEN","N/A",$1.59,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BOULETTES DE VIANDE METROGO! | METROGO! MEATBALLS","N/A",$15.99,$16.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CONFITURE BONNE MAMAN | BONNE MAMAN JAM","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CLÉMENTINES | CLEMENTINES","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SALADE DE GOBERGE | POLLOCK SALAD","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","TOMATES ROUGES EN GRAPPE | STEMMED RED TOMATOES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FROMAGE LA VACHE QUI RIT | THE LAUGHING COW CHEESE","N/A",$6.99,$7.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FROMAGE EN TRANCHES P'TIT QUÉBEC, CRACKER BARREL | P'TIT QUÉBEC, CRACKER BARREL SLICED CHEESE","N/A",$5.79,$7.79,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SAUCE PIQUANTE LOOUNIE CUISINE | LOOUNIE CUISINE HOT SAUCE","N/A",$10.99,$12.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CROUSTILLES KETTLE | KETTLE POTATO CHIPS","N/A",$3.49,$4.79,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SAUCISSES JOHNSONVILLE | JOHNSONVILLE SAUSAGES","N/A",$4.99,$6.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PÂTES FRAÎCHES FARCIES OLIVIERI |OLIVIERI FRESH STUFFED PASTA","N/A",$9.99,$11.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","GRAINES DE CHIA PRANA | PRANA CHIA SEEDS","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","AMUSE‑ GUEULE SELECTION | SELECTION SNACK","N/A",$2.99,$3.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CARTES-CADEAUX","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FRUITS MIEUX‑ÊTRE NATURALIA | LIFE SMART NATURALIA FROZEN FRUITS","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","TARTE ST-HUBERT | ST-HUBERT FROZEN PIE","N/A",$9.99,$10.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PÂTE À TARTE FRANÇOIS HUBERT | FRANÇOIS HUBERT PIE DOUGH","N/A",$5.99,$7.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CHAPELURE PASTENE | PASTENE BREADCRUMBS","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PÂTÉ AUX 3 VIANDES IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN 3 MEATS PIE","N/A",$7.99,$9.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","JAMBON CUIT SELECTION | SELECTION COOKED HAM","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CROUSTILLES TORTILLA BIOLOGIQUES QUE PASA | QUE PASA ORGANIC TORTILLA CHIPS","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","ÉMINCÉ DE JAMBON NATURAL SELECTIONS MAPLE LEAF | MAPLE LEAF NATURAL SELECTIONS SHAVED HAM","N/A",$13.99,$16.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BIFTECK DE MACREUSE | TOP BLADE STEAK","N/A",$8.49,$9.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BACON LAFLEUR | LAFLEUR BACON","N/A",$9.99,$11.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","COMPOTE DE POMMES MIEUX‑ÊTRE BIOLOGIQUE | LIFE SMART ORGANIC APPLE SAUCE","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BIÈRE BORÉALE, BOLDWIN, LE CASTOR CANETTE CONSIGNÉE CONSIGNE BEER","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CÔTES DE DOS DE PORC CUITES PLAISIRS GASTRONOMIQUES | PLAISIRS GASTRONOMIQUES COOKED PORK BACK RIBS","N/A",$14.99,$17.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","MIEL LE MIEL D'ÉMILIE | LE MIEL D'ÉMILIE HONEY","N/A",$9.99,$10.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CALMARS CROUSTILLANTS IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN CRISPY CALAMARI","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BONBONS SWEET SIXTEEN MONDOUX | MONDOUX SWEET SIXTEEN CANDIES","N/A",$6.99,$7.79,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FROMAGE ALEXIS DE PORTNEUF | ALEXIS DE PORTNEUF CHEESE","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CROÛTES À TARTE TENDERFLAKE | TENDERFLAKE PIE CRUSTS","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CYCLAMEN MA BOUQUETERIE | MA BOUQUETERIE CYCLAMEN","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CRAQUELINS CHEEZ‑IT | CHEEZ-IT CRACKERS","N/A",$2.99,$4.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BROCHETTES DE CREVETTES IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN SHRIMP SKEWERS","N/A",$12.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BISCUITS CHRISTIE","N/A",$5.79,$6.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BISCUITS WHIPPET DARE | DARE WHIPPET COOKIES","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","GRAINES DE CHANVRE HEMP HEARTS | HEMP HEARTS HEMP SEEDS","N/A",$8.99,$10.29,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","RIZ BEN'S ORIGINAL | BEN'S ORIGINAL RICE","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","YOGOURT GREC OÎKOS DANONE | DANONE OÎKOS GREEK YOGURT","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SAUCE CHINOISE VH | VH CHINESE SAUCE","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CREVETTES ET PÉTONCLES IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN SHRIMP AND BAY SCALLOPS","N/A",$9.99,$10.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","NOUILLES INSTANTANÉES NONG SHIM | NONG SHIM INSTANT NOODLES","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","MÉLANGE À CHOCOLAT CHAUD TIM HORTONS | TIM HORTONS HOT CHOCOLATE MIX","N/A",$7.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","POULET, DE DINDE OU DE PORC AVEC LÉGUMES | BEEF, CHICKEN, TURKEY OR PORK SKEWERS WITH VEGETABLES","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","TARTELETTES À LA PORTUGAISE IRRÉSISTIBLE | IRRÉSISTIBLE TARTS","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","AIL MARINÉ, ÉMINCÉ OU FLEUR D'AIL FERME CHANT-O-VENT | FERME CHANT-O-VENT MARINATED GARLIC, MINCED GARLIC OR GARLIC FLOWER","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PAPIER D'ALUMINIUM ALCAN | ALCAN ALUMINUM FOIL","N/A",$4.99,$6.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","GRANA PADANO IRRÉSISTIBLE | IRRÉSISTIBLE GRANA PADANO CHEESE","N/A",$9.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BARRES AUX FIGUES NATURE'S BAKERY | NATURE'S BAKERY FIG BARS","N/A",$7.49,$8.79,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","LINDT LINDOR SACHETS, GHIRARDELLI SACHETS","N/A",$8.99,$10.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","GALETTES DE POMMES DE TERRE CAVENDISH | CAVENDISH HASHBROWN POTATOES","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","JAMBON BLANC PREMIÈRE MOISSON | PREMIÈRE MOISSON WHITE HAM","N/A",$3.39,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CUISSES DE CANARD CONFITES GIBIERS CANABEC | GIBIERS CANABEC CONFIT DUCK LEGS","N/A",$12.99,$23.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","MIEL LE MIEL D'ÉMILIE | LE MIEL D'ÉMILIE HONEY","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SMOOTHIE EVIVE | EVIVE FROZEN SMOOTHIE","N/A",$8.99,$10.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","ANANAS DOLE | DOLE PINEAPPLE","N/A",$2.99,$3.50,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","YOGOURT ACTIVIA | ACTIVIA YOGURT","N/A",$8.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PAIN PLAT BIOLOGIQUE LE PAIN DES FLEURS | LE PAIN DES FLEURS ORGANIC FLAT BREAD","N/A",$6.99,$8.79,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CANNOLI À LA CRÈME DE RICOTTA | RICOTTA CREAM-FILLED CANNOLI","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","REPAS IRRÉSISTIBLE, MIEUX-ÊTRE, SELECTION | IRRÉSISTIBLE, LIFE SMART, SELECTION FROZEN MEALS","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","REPAS INDIVIDUEL | INDIVIDUAL MEAL","N/A",$2.29,$5.29,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FOCACCIA | FOCACCIA","N/A",$3.79,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","POUDING EN COUPE SELECTION | SELECTION PUDDING CUP","N/A",$0.99,$2.29,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PAIN TRANCHÉ PREMIÈRE MOISSON | PREMIÈRE MOISSON SLICED BREAD","N/A",$3.49,$3.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BIÈRE CORONA EXTRA, STELLA ARTOIS, SAPPORO, HEINEKEN | BEER","N/A",$45.48,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","DANOISES | DANISHES","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BOL POKÉ | POKE BOWL","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CRAQUELINS DE RIZ MIEUX-ÊTRE | LIFE SMART RICE CRACKERS","N/A",$0.99,$1.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CREVETTES BLANCHES DU PACIFIQUE | FROZEN PACIFIC WHITE SHRIMP","N/A",$7.99,$13.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BIÈRE LABATT, BUD LIGHT, BUD LIGHT, MOLSON MOLSON LIGHT | BEER","N/A",$67.48,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SAUCISSES PORC‑BOEUF LAFLEUR | LAFLEUR PORK-BEEF SAUSAGES","N/A",$3.99,$6.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FEUILLES DE PALMIER | PALM LEAVES","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BIÈRE LABATT BUDWEISER, MOLSON EXPORT CAISSE, BOUT. OU CANETTES | BEER","N/A",$71.48,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","RÔTI OU CÔTELETTES DE SURLONGE DE PORC DÉSOSSÉES | BONELESS PORK SIRLOIN ROAST OR CHOPS","N/A",$2.99,$5.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","GÂTEAUX MINI MOUSSE IRRESISTIBLE | IRRESISTIBLE MINI MOUSSE CAKES","N/A",$11.99,$13.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FROMAGE CRACKER BARREL | CRACKER BARREL CHEESE","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","EAU PÉTILLANTE BUBLY | BUBLY SPARKLING WATER","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BIÈRE LABATT MICHELOB ULTRA, MOLSON MILLER LITE, SLEEMAN CLEAR 2.0 | BEER","N/A",$45.29,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","DEMI BAGUETTE CIABATTA PREMIÈRE MOISSON | PREMIÈRE MOISSON CIABATTA HALF BAGUETTE","N/A",$1.99,$2.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PORTIONS DE POULET PANÉES ST‑HUBERT | ST-HUBERT FROZEN CHICKEN PORTIONS","N/A",$9.99,$11.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PAIN TRANCHÉ VILLAGGIO | VILLAGGIO SLICED BREAD","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PAIN TRANCHÉ | SLICED BREAD","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BAGUETTE FRANÇAISE | FRENCH BAGUETTE","N/A",$3.29,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CHOU-FLEUR | CAULIFLOWER","N/A",$3.99,$4.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SOUPE SELECTION | SELECTION SOUP","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","VINAIGRETTE SELECTION | SELECTION SALAD DRESSING","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BISCUITS À LA FARINE D'AVOINE COLLATION DARE | DARE COLLATION OATMEAL COOKIES","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PÂTÉ ST-HUBERT | ST-HUBERT POT PIE","N/A",$12.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PÂTES ALIMENTAIRES SELECTION | SELECTION PASTA","N/A",$1.99,$2.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FILETS DE PORC | PORK TENDERLOINS","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","RAISINS VERTS EXTRA GROS OU NOIRS SANS PÉPINS | SEEDLESS EXTRA LARGE GREEN OR BLACK GRAPES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BLEUETS | BLUEBERRIES","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","TARTARE GRIZZLY | GRIZZLY FROZEN TARTARE","N/A",$9.99,$12.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","LES JUS SIMPLY ORANGE EN BOUTEILLE DE","N/A",$7.49,$8.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PAMPLEMOUSSE ROUGE | RED GRAPEFRUIT","N/A",$2.69,$2.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","COURONNE DE BROCOLI | BROCCOLI CROWN","N/A",$2.69,$2.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CÔTES DE DOS DE PORC FRAIS FRESH PORK BACK RIBS","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","LES BOISSONS FRUITOPIA, ET LES THÉS GLACÉS FUZE","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PÂTÉ 8"" | 8"" PIE","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","SAUCISSES FRAÎCHES | FRESH SAUSAGES","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FROMAGE TRE STELLE | TRE STELLE CHEESE","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","GERMES DE HARICOT | BEAN SPROUTS","N/A",$2.69,$2.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","ORCHIDÉE 1 TIGE MA BOUQUETERIE | MA BOUQUETERIE ORCHID 1 STEM","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CÉRÉALES JORDANS, PRANA | JORDANS, PRANA CEREAL","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BIFTECKS FRANÇAIS | FRENCH STYLE STEAKS","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","ORCHIDÉE CASCADE COLORÉE 1 TIGE MA BOUQUETERIE | CASCADING COLORED ORCHID","N/A",$34.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BOISSON GAZEUSE SELECTION | SELECTION SOFT DRINK","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","YOGOURT BALKAN ASTRO | ASTRO BALKAN YOGURT","N/A",$3.49,$4.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","AVOCATS | AVOCADOS","N/A",$4.99,$5.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BARRES NUTRI GRAIN KELLOGG'S | KELLOGG'S NUTRI GRAIN BARS","N/A",$2.65,$4.49,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BOUQUET MA BOUQUETERIE | MA BOUQUETERIE BOUQUET","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BRUSCHETTA PLAISIRS GASTRONOMIQUES | PLAISIRS GASTRONOMIQUES BRUSCHETTA","N/A",$6.49,$6.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","LINDT EXCELLENCE BARRES 50-100 G GHIRARDELLI BARRES 138 G","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","AUBERGINES | EGGPLANTS","N/A",$2.69,$2.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BIFTECK SANDWICH ESCALOPE | SANDWICH CUTLET STEAK","N/A",$12.99,$13.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CHRISTIE SNAK PAK","N/A",$3.49,$4.29,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","CRETONS GASPÉSIEN | GASPÉSIEN CRETONS","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","YOGOURT IÖGO | IÖGO YOGURT","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","LÉGUMES SELECTION, IRRÉSISTIBLE | SELECTION, IRRÉSISTIBLE FROZEN VEGETABLES","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","LAIT AROMATISÉ AU CHOCOLAT NATREL | NATREL CHOCOLATE FLAVOURED MILK","N/A",$5.99,$7.39,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","BROCHETTES | SKEWERS","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","ORANGES SANGUINES MORO | MORO BLOOD ORANGES","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","FILET DE SAUMON FUMÉ À CHAUD ARTISANAL | ARTISANAL SMOKED SALMON FILLET","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PÉTONCLES DE BAIE IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN BAY SCALLOPS","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","KALANCHOÉ MA BOUQUETERIE | MA BOUQUETERIE KALANCHOE","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","PAIN DE VIANDE DE PORC | PORK MEAT LOAF","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
-7734139,"Metro","N/A","MÉLANGE À BROWNIES BETTY CROCKER | BETTY CROCKER BROWNIE MIX","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-01-28T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BIÈRE SOBER CARPENTER | BEER","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","COCKTAIL OU JUS DE CANNEBERGE OCEAN SPRAY | OCEAN SPRAY CRANBERRY COCKTAIL OR JUICE","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ÉMINCÉ DE POITRINE DE DINDE NATURAL SELECTIONS MAPLE LEAF | MAPLE LEAF NATURAL SELECTIONS SHAVED TURKEY BREAST","N/A",$7.49,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PÂTES ALIMENTAIRES CATELLI | CATELLI PASTA","N/A",$3.00,$4.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BIÈRE LA BITTT À TIBI | LA BITTT À TIBI BEER","N/A",$20.99,$22.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","DENTIFRICE CREST | CREST TOOTHPASTE","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CORNICHONS SELECTION | SELECTION PICKLES","N/A",$3.00,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PLANTE FLEURIE MA BOUQUETERIE | MA BOUQUETERIE BLOOMING PLANT","N/A",$18.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOISSON À L'AVOINE EARTH'S OWN SO FRESH | SOFRESH EARTH'S OWN OAT DRINK","N/A",$4.00,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SUCCULENTES ASSORTIES MA BOUQUETERIE | MA BOUQUETERIE ASSORTED SUCCULENT","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SAUCE POUR PÂTES MIEUX‑ÊTRE BIOLOGIQUE | LIFE SMART PASTA SAUCE","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","NETTOYANT POUR LE CORPS IVORY | IVORY BODY WASH","N/A",$4.99,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BIÈRE CORONA CERO | CORONA CERO BEER","N/A",$22.99,$25.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","TRIO DE CHARCUTERIES EN TRANCHES SELECTION | SELECTION SLICED DELI COLD CUTS TRIO","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SAUCE CRÉMEUSE SELECTION | SELECTION CREAMY SAUCE","N/A",$3.00,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","JUS OU BOISSON MINUTE MAID | MINUTE MAID JUICE OR DRINK","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOUQUET MA BOUQUETERIE | MA BOUQUETERIE BOUQUET","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PURIFICATEUR D'AIR FEBREZE | FEBREZE AIR FRESHENER","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FRIANDISES GLACÉES MAGNUM | MAGNUM FROZEN TREATS","N/A",$5.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","LÉGUMES SELECTION | SELECTION FROZEN VEGETABLES","N/A",$9.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SHORTENING TOUT VÉGÉTAL CRISCO | CRISCO ALL VEGETABLE SHORTENING","N/A",$4.00,$4.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MÉLANGE À TREMPETTE CLUB HOUSE | CLUB HOUSE DIP MIX","N/A",$1.00,$1.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","RIZ VITE & BON BEN'S ORIGINAL | BEN'S ORIGINAL FAST & FANCY RICE","N/A",$2.00,$2.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","COLLATION AUX FRUITS MIEUX‑ÊTRE | LIFE SMART FRUIT SNACK","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOISSON NON ALCOOLISÉE CHERRY RIVER | CHERRY RIVER NON-ALCOHOLIC DRINK","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SOUPE STEFANO FAITA | STEFANO FAITA SOUP","N/A",$6.49,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOISSON PÉTILLANTE NON ALCOOLISÉE MAISON PERRIER CHIC | MAISON PERRIER CHIC NON-ALCOHOLIC SPARKLING DRINK","N/A",$7.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FROMAGE RAPÉ SELECTION | SELECTION SHREDDED CHEESE","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ORCHIDÉE CASCADE 1 TIGE MA BOUQUETERIE | MA BOUQUETERIE 1 STEM CASCADE ORCHID","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PÂTÉ À SANDWICH PARIS PÂTÉ | PARIS PÂTÉ SANDWICH SPREAD","N/A",$2.00,$3.19,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SOUPE INSTANTANÉE SAPPORO | SAPPORO INSTANT SOUP","N/A",$1.00,$1.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PESTO IRRÉSISTIBLE | IRRÉSISTIBLE PESTO","N/A",$4.49,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","RINCE-BOUCHE CREST, SCOPE | CREST, SCOPE MOUTHWASH","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CAISSE DE 12 CANETTES SLEEMAN","N/A",$20.99,$23.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PAPIER HYGIÉNIQUE CHARMIN | CHARMIN BATHROOM TISSUE","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","REPAS PRÊT À CUIRE O SOLE MIO | O SOLE MIO MEAL KITS","N/A",$16.99,$19.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","O SOLE MIO SAUCES FRAICHES | O SOLE MIO FRESH SAUCES","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","O SOLE MIO SAUCES FRAICHES | FRESH SAUCES","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","VIN BLANC OU ROSÉ BÙ | BÙ WHITE OR ROSÉ WINE","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SIROP COCKTAIL FITCOOK FOODZ | FITCOOK FOODZ COCKTAIL SYRUP","N/A",$8.99,$10.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BARRES B‑READY NUTELLA | NUTELLA B-READY BARS","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","COCKTAIL PÉTILLANT NON ALCOOLISÉ ROMEO'S GIN | ROMEO'S SPARKLING COCKTAIL","N/A",$17.49,$18.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BIÈRE NON ALCOOLISÉE BRASSEUR DE MONTRÉAL | NON-ALCOHOLIC BEER","N/A",$12.99,$15.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","EAU DE SOURCE NATURELLE ESKA | ESKA NATURAL SPRING WATER","N/A",$4.49,$5.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ARRANGEMENT FLORAL MA BOUQUETERIE | MA BOUQUETERIE FLORAL ARRANGEMENT","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BONBONS MAYNARDS | MAYNARDS CANDIES","N/A",$4.99,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CROUSTILLES PRINGLES","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BIÈRE NON ALCOOLISÉE HEINEKEN | HEINEKEN NON-ALCOHOLIC BEER","N/A",$22.99,$27.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FRIANDISES CHOCOLATÉES NESTLÉ | NESTLÉ CHOCOLATE TREATS","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CROUSTILLES MISS VICKIE'S | MISS VICKIE'S POTATO CHIPS","N/A",$4.49,$5.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CRÉMIER À CAFÉ BAILEYS | BAILEYS COFFEE CREAMER","N/A",$3.79,$4.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MÉLANGE DE JUJUBES SELECTION | SELECTION GUMMY MIX","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOUILLON CONCENTRÉ SIMPLEMENT KOSY | SIMPLY KOSY CONCENTRATE BROTH","N/A",$8.99,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","12 CANETTES","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ASSOUPLISEUR DE TISSUS DOWNY | DOWNY FABRIC SOFTENER","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","AMANDES OU FRUITS ENROBÉS DE CHOCOLAT IRRÉSISTIBLE |IRRÉSISTIBLE CHOCOLATE COATED ALMONDS OR FRUITS","N/A",$7.99,$8.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","EAU PÉTILLANTE SAN PELLEGRINO | SAN PELLEGRINO SPARKLING WATER","N/A",$6.99,$8.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","COLORANT À CAFÉ SILK | SILK COFFEE WHITENER","N/A",$3.00,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","NOIX SELECTION, MIEUX‑ÊTRE | SELECTION, LIFE SMART NUTS","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","VIN ROUGE OU BLANC | RED OR WHITE WINE","N/A",$45.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","GUIMAUVES SELECTION | SELECTION MARSHMALLOWS","N/A",$3.79,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CAPSULES DE CAFÉ IRRÉSISTIBLE | IRRÉSISTIBLE COFFEE CAPSULES","N/A",$31.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PASTILLES POUR LAVE-VAISSELLE CASCADE | CASCADE DISHWASHER TABS","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ORCHIDÉE 1 TIGE MA BOUQUETERIE | MA BOUQUETERIE ORCHID 1 STEM","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ÉPICES LA GRILLE CLUB HOUSE | CLUB HOUSE LA GRILLE SPICES","N/A",$5.00,$6.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ORCHIDÉE CASCADE COLORÉE 1 TIGE MA BOUQUETERIE | MA BOUQUETERIE CASCADING COLORED ORCHID","N/A",$34.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SAC CROUSTILLES YUM YUM","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CARLSBERG","N/A",$22.99,$25.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MAÏS À ÉCLATER ORVILLE | ORVILLE POPPING CORN","N/A",$5.49,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PLANTE TROPICALE PREMIUM MA BOUQUETERIE | MA BOUQUETERIE TROPICAL PREMIUM PLANT","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FROMAGE SELECTION | SELECTION CHEESE","N/A",$11.48,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CAFÉ MOULU OU EN GRAINS BRÛLERIES FARO | BRÛLERIES FARO COFFEE BEANS OR GROUND COFFEE","N/A",$22.99,$25.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CÔTES DE DOS CUITES LA CAGE","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BISCUITS TRADITION LECLERC | LECLERC TRADITION COOKIES","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","EAU DE SOURCE NATURAL SELECTION | SELECTION NATURAL SPRING WATER","N/A",$0.99,$2.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FILETS DE POISSON HIGH LINER | HIGH LINER FROZEN BREADED FISH FILLETS","N/A",$10.99,$20.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","HUILE D'OLIVE SELECTION | SELECTION OLIVE OIL","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CAFÉ EN GRAINS BIOLOGIQUE CAFÉ WILLIAM | CAFÉ WILLIAM ORGANIC COFFEE BEANS","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SOUPE HAIKU | HAIKU SOUP","N/A",$4.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SOUPE | SOUP","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","POULET HACHÉ EXTRA MAIGRE MIEUX‑ÊTRE | LIFE SMART EXTRA LEAN GROUND CHICKEN","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOISSON SPORTIVE POWERADE | POWERADE SPORT DRINK","N/A",$1.99,$2.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PEPPERONI 88 ROMA | ROMA PEPPERONI 88","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FRICADELLES DE POISSON | FROZEN FISH CAKES","N/A",$9.99,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ALGUES EN FLOCONS OCÉAN DE SAVEURS | OCÉAN DE SAVEURS SEAWEED","N/A",$9.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PÂTÉ DE CAMPAGNE OU DE FOIE LA BELLE BRETAGNE | LA BELLE BRETAGNE COUNTRY STYLE OR LIVER PÂTÉ","N/A",$4.49,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","JUS RÉFRIGÉRÉ OASIS | OASIS REFRIGERATED JUICE","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","EAU DE SOURCE SELECTION | SELECTION WATER","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CÔTELETTES DE PORC FUMÉES THÉBERGE | THÉBERGE SMOKED PORK CHOPS","N/A",$8.99,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SAUCE À PIZZA GATTUSO | GATTUSO PIZZA SAUCE","N/A",$3.29,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","À L'ACHAT DE BOISSON NON ALCOOLISÉE BARRFLY | BARRFLY NON-ALCOHOLIC DRINK","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","LAIT SANS LACTOSE LACTANTIA","N/A",$11.79,$12.19,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","TORTILLAS OLD EL PASO | OLD EL PASO TORTILLAS","N/A",$3.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOISSON SPORTIVE MAPLE 3 | MAPLE 3 SPORT DRINK","N/A",$2.99,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SHAMPOOING - REVITALISANT HEAD & SHOULDERS | HEAD & SHOULDERS CONDITIONING SHAMPOO","N/A",$5.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CROUSTILLES YUM YUM","N/A",$2.99,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CRAQUELINS CHEEZ-IT SNAP'D | CRAQUELINS TOWN HOUSE","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","WRAP | WRAP","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","REPAS | MEAL, ECONOMIC PACK","N/A",$2.09,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BÂTONNET DE POULET MIGHTY PROTEIN MAPLE LEAF | MAPLE LEAF MIGHTY PROTEIN CHICKEN STICK","N/A",$1.99,$2.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MÉDAILLON DE PÉTONCLE | FROZEN SCALLOP MEDALLION","N/A",$1.79,$1.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FROMAGE RACLETTE OKA | OKA RACLETTE CHEESE","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MAYONNAISE HELLMANN'S | HELLMANN'S MAYONNAISE","N/A",$6.99,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","VIN ROUGE, BLANC OU ROSÉ | RED, WHITE OR ROSÉ WINE","N/A",$16.99,$18.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","COLORANT À CAFÉ INTERNATIONAL DELIGHT | INTERNATIONAL DELIGHT COFFEE WHITENER","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SUCRE BLANC GRANULÉ REDPATH | REDPATH GRANULATED WHITE SUGAR","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOISSON NON ALCOOLISÉE OLÉ! SANGRITA | OLÉ! SANGRITA NON-ALCOHOLIC DRINK","N/A",$8.99,$10.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BARRES RICE KRISPIES® (154 G - 198 G) BARRES KASHI® (175 G – 200 G) BARRES SPECIAL K® (165 G)","N/A",$3.49,$5.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SAUCISSES FUMÉES HYGRADE | HYGRADE WIENERS","N/A",$5.99,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOISSON ÉNERGISANTE GURU | GURU ENERGY DRINK","N/A",$8.99,$12.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","NETTOYANT À VITRES BON AMI | BON AMI GLASS CLEANER","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","COCKTAIL DE LÉGUMES GARDEN COCKTAIL MOTT'S | MOTT'S GARDEN COCKTAIL VEGETABLE COCKTAIL","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CAISSE DE 12 CANETTES UNIBROUE","N/A",$22.99,$25.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","EAU GAZÉIFIÉE SELECTION | SELECTION CARBONATED WATER","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","TRIO DE CHARCUTERIES MASTRO | MASTRO DELI COLD CUTS TRIO","N/A",$6.99,$8.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BARRES TENDRES QUAKER | QUAKER CHEWY BARS","N/A",$12.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CYCLAMEN MA BOUQUETERIE | MA BOUQUETERIE CYCLAMEN","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SAUMON FUMÉ FUMOIR DES CANTONS-DE-L'EST | FUMOIR DES CANTONS-DE-L'EST SMOKED SALMON","N/A",$10.99,$11.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","COUCHES POUR BÉBÉS PAMPERS | PAMPERS BABY DIAPERS","N/A",$34.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOUQUET MA BOUQUETERIE | MA BOUQUETERIE BOUQUET","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","POM","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PORTIONS DE POULET FLAMINGO | FLAMINGO FROZEN CHICKEN PORTIONS","N/A",$13.99,$15.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MOTT'S FRUITSATIONS","N/A",$2.79,$3.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CRETONS BILOPAGE | BILOPAGE CRETONS","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","JUS DE TOMATE HEINZ | HEINZ TOMATO JUICE","N/A",$2.49,$2.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BARRES SELECTION | SELECTION BARS","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SALADE CHOU FRISÉ, FETA, QUINOA ET RAISINS","N/A",$2.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MÉLANGE À MUFFINS MADAME LABRISKI | MADAME LABRISKI MUFFIN MIX","N/A",$6.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BIÈRE BAVARIA | BAVARIA BEER","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","RIZ DAINTY | DAINTY RICE","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","HUILE D'OLIVE EXTRA VIERGE O-LIVE & CO | O-LIVE & CO EXTRA VIRGIN OLIVE OIL","N/A",$19.99,$24.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PAIN TORTILLAS PROTÉINES POM","N/A",$5.99,$7.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ATYPIQUE MOCKTAILS","N/A",$15.99,$17.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PÂTÉ AUX TROIS VIANDES STYLE MAISON IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN HOMESTYLE THREE-MEAT PIE","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","VINAIGRETTE KRAFT | KRAFT SALAD DRESSING","N/A",$2.99,$4.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CAFÉ INSTANTANÉ MAXWELL HOUSE | MAXWELL HOUSE INSTANT COFFEE","N/A",$5.99,$8.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","RÔTI DE BAS DE PALETTE DÉSOSSÉ | BONELESS BOTTOM BLADE ROAST","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","LÉGUMES COUPÉS | CUT VEGETABLES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","AILES DE POULET MÈRE MICHEL | MÈRE MICHEL FROZEN CHICKEN WINGS","N/A",$11.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","RÔTI DE CONTRE-FILET | STRIPLOIN ROAST","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MÉLANGE À SAUCE ST‑HUBERT | ST-HUBERT SAUCE MIX","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","TOFU UNISOYA | UNISOYA TOFU","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","JUS ET BOISSONS IRRÉSISTIBLE | IRRÉSISTIBLE REFRIGERATED JUICE OR BEVERAGE","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","GAUFRES EGGO KELLOGG'S, PIZZA POCHETTES MCCAIN | KELLOGG'S EGGO FROZEN WAFFLES OR MCCAIN FROZEN PIZZA POCKETS","N/A",$4.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PAIN PLAT NAAN IRRÉSISTIBLE | IRRÉSISTIBLE NAAN FLATBREAD","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FÈVES AU LARD CLARK | CLARK PORK'N BEANS","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CÔTES DE DOS DE PORC CUITES IRRÉSISTIBLE | IRRÉSISTIBLE COOKED PORK BACK RIBS","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","POITRINES DE POULET FRAIS DÉSOSSÉES | FRESH BONELESS CHICKEN BREASTS","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CHAMPIGNONS SELECTION | SELECTION MUSHROOMS","N/A",$0.99,$1.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ENSEMBLE À TACOS TACO BELL | TACO BELL TACO KIT","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
