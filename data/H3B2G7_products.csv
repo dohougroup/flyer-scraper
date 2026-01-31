@@ -1,154 +1,231 @@
 flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize,validUnit,imageUrl,validFrom,validTo,category,postalCode
-7746488,"Walmart","N/A","Your Fresh Market™ croissants","N/A",$5.94,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Infants' or toddlers' sleepers","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Great Value frozen fruit","N/A",$5.96,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","UFile 2025","N/A",$23.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Twizzlers","N/A",$2.97,$3.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Crispers or Bits & Bites","N/A",$2.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Pringles","N/A",$2.88,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Ol'Roy dry dog food","N/A",$32.97,$36.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","FC 26 for PS5","N/A",$44.96,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Nestlé Drumstick","N/A",$5.44,$6.77,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Samyang Buldak spicy ramen","N/A",$6.98,$8.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Licensed Valentine plush","N/A",$19.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Robax Platinum","N/A",$32.17,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Kraft Dinner","N/A",$9.97,$12.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Great Value Cheese Blocks","N/A",$5.48,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Buckley's Complete 40s","N/A",$13.57,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Tylenol Extra Strength 150s or Arthritis pain 120s","N/A",$13.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","L'Oréal Paris Hair Expertise shampoo or conditioner","N/A",$8.97,$9.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","Valentine plush in a bag or mug","N/A",$7.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Valentine trading cards","N/A",$3.58,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","All-season windshield washer fluid","N/A",$4.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Ferrero Collection chocolates","N/A",$7.77,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Kinder & Love Mini chocolate hearts 25-pack","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Charmin bathroom tissue 30 triple rolls","N/A",$22.98,$30.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Great Value butter","N/A",$5.84,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Tums Chewy Bites with Gas Relief","N/A",$9.17,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","EA Sports NHL 26","N/A",$44.96,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Your Fresh Market beef stir fry strips","N/A",$15.39,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Global Hotels","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","TWIZZLERS Twists Strawberry","N/A",$2.97,$3.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Your Fresh Market™ chocolate chip cookies","N/A",$7.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Pringles® Mingles™","N/A",$4.18,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Tide liquid detergent 100 loads","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","Rustica rising crust frozen pizza","N/A",$7.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Open Stock Flat or Fitted Sheets","N/A",$11.94,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Tums Chewy Bites","N/A",$9.17,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Great Value AA48 or AAA30 batteries","N/A",$17.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Crispers family size","N/A",$3.98,$4.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Extra large Plush","N/A",$29.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Cesar wet dog food","N/A",$1.34,$1.74,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Canada Any Card Thank You DDP 50 ED","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Extra large plush","N/A",$29.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Charmin bathroom tissue 30 triple rolls","N/A",$22.98,$30.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Always Discreet incontinence pads","N/A",$16.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Open stock flat or fitted sheets","N/A",$11.94,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Yummy Sports creatine","N/A",$35.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Ferrero Collection or Rocher heart chocolates","N/A",$7.77,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Lay's chips or Tostitos tortilla chips","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Huggies superpack diapers","N/A",$26.98,$32.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","IAMS dry dog food","N/A",$54.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Pillsbury Pizza Pops 4-pack or Toaster Strudel 6-pack","N/A",$4.48,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Benylin syrup","N/A",$7.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","EA Sports NHL 26","N/A",$44.96,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Samyang Buldak spicy ramen","N/A",$6.98,$8.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Enfamil A+ NeuroPro 2 x 445 g powder formula refill","N/A",$65.47,$72.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Dove x Crumbl body wash","N/A",$10.27,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","UFile 2025","N/A",$23.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Valentine plush in a bag or mug","N/A",$7.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Buckley's Complete 40s","N/A",$13.57,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Cheez-It Snap'd","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Great Value cheese blocks","N/A",$5.48,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","IAMS dry dog food","N/A",$54.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Twizzlers","N/A",$2.97,$3.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Sensodyne 135 mL or Pronamel 110 mL toothpaste mom","N/A",$5.77,$6.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Renée's Gourmet salad dressing","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Filters 3-pack","N/A",$24.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Velour 2-ply bathroom tissue","N/A",$19.96,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Licensed Valentine plush","N/A",$19.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Barilla heart-shaped pasta","N/A",$2.44,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Villaggio sliced bread","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Renée's Gourmet salad dressing","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Heinz mayo-style dips","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Dial body, face and hair wash","N/A",$3.77,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Great Value butter","N/A",$5.84,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Villaggio hot dog 6-pack buns","N/A",$3.38,$3.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Special Kitty dry cat food","N/A",$18.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Scotties facial tissue","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","68 L Storage tote","N/A",$9.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Fleecy Fabric Softener 3.5 L or Sheets 200s","N/A",$7.97,$11.87,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","Our Finest Thin & Crispy frozen pizza","N/A",$4.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Swiffer PowerMop starter kit","N/A",$29.97,$39.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","TCL 75"" 4K QLED TV","N/A",$784.75,$964.75,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Town House® crackers","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Michelina's frozen entrees","N/A",$1.47,$2.48,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Valentine trading cards","N/A",$3.58,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","McCain fries","N/A",$5.67,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Fontaine Santé salads","N/A",$4.98,$5.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Rustica rising crust frozen pizza","N/A",$7.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Great Value AA48 batteries","N/A",$17.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Deli Express breaded chicken strips, nuggets or burgers","N/A",$4.88,$7.87,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Pepsi","N/A",$12.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Philadelphia cream cheese","N/A",$6.88,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Michelina's Zap'ems","N/A",$1.47,$2.48,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Pillsbury Pizza Pops 4-pack or Toaster Strudel 6-pack","N/A",$4.48,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Infants' or Toddlers' sleepers","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Bulk green peppers","N/A",$2.94,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","The Blue Whale pillow","N/A",$5.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Pine-Sol cleaner","N/A",$11.97,$15.57,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Febreze PLUG scented oil refills 2-pack or scent booster","N/A",$9.97,$13.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Listerine mouthwash","N/A",$5.47,$7.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Pringles® Mingles™","N/A",$4.18,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Tide or Ivory Snow Laundry Detergent","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","SpongeTowels UltraPRO Choose-A-Size 8 = 24 paper towels","N/A",$21.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","P'tit Québec Cheese Slices","N/A",$4.98,$6.48,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Valentine trading cards","N/A",$3.58,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Summ! appetizers","N/A",$4.96,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Brar's vegetable samosas","N/A",$6.18,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Pringles","N/A",$2.88,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Taco Bell sauce","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","P'tit Québec cheese slices","N/A",$4.98,$6.48,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Valentine trading cards","N/A",$3.58,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Licensed Valentine plush","N/A",$19.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Bulk Gala apples","N/A",$1.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Kraft Dinner","N/A",$9.97,$12.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Liberté Méditerranée 500 g or 4 x 100 g or Greek 2 x 130 g or 4 x 100 g yogurt","N/A",$4.78,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Whiskas dry cat food","N/A",$6.98,$8.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Broccoli stalks","N/A",$3.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Aylmer soup","N/A",$0.97,$1.27,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Food storage containers","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Crispers family size","N/A",$3.98,$4.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Palmolive dish soap","N/A",$1.97,$3.27,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Febreze PLUG scented oil refills 2-pack","N/A",$9.97,$13.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Activia probiotic yogurt tub","N/A",$3.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Cashmere bathroom tissue","N/A",$11.97,$14.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Pringles® Mingles™","N/A",$4.18,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Huggies superpack diapers","N/A",$26.98,$32.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","RITZ Drizzled minis","N/A",$4.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Red Bull energy drink","N/A",$8.97,$10.47,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Mère Michel bacon","N/A",$4.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Taco Bell seasoning","N/A",$1.27,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Crew neck tee","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Clover Leaf tuna","N/A",$1.14,$1.92,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Our Finest Thin & Crispy frozen pizza","N/A",$4.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Great Value frozen fruit","N/A",$5.96,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Your Fresh Market™ sourdough sliced bread","N/A",$3.43,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Licensed Valentine cards and stickers sets","N/A",$3.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","TWIZZLERS GUMMIES Strawberry or Tongue Twisters Tangy","N/A",$3.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Small plush","N/A",$3.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Young coconut","N/A",$1.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Philadelphia cream cheese","N/A",$6.88,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Crispers family size","N/A",$3.98,$4.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Old Dutch chips or snacks","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Doritos tortilla chips","N/A",$3.46,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","Bulk Roma tomatoes","N/A",$1.92,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","Great Value butter","N/A",$5.84,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Crew neck tee","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Activia Probiotic Yogurt tub","N/A",$3.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Olay Complete+ moisturizing cream 241 g","N/A",$19.98,$24.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Old Dutch chips or snacks","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","French's Ketchup","N/A",$3.74,$4.77,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Valentine plush in a bag or mug","N/A",$7.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Your Fresh Market sourdough sliced bread","N/A",$3.43,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Maple Leaf Natural Selections deli meat club pack","N/A",$11.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Downy Light scent","N/A",$15.97,$19.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Cesar wet dog food","N/A",$1.34,$1.74,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Taco Bell Sauce","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","TCL 75"" 4K QLED TV","N/A",$784.75,$964.75,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","Extra large plush","N/A",$29.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Iceberg lettuce","N/A",$2.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Dare Meteo or Maxi Fruits cookies","N/A",$3.78,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Great Value original wieners 24-pack","N/A",$4.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","Marcangelo fresh chicken or pork kabobs","N/A",$9.97,$13.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Licensed Valentine cards and stickers sets","N/A",$3.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Benylin syrup","N/A",$7.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","IAMS dry dog food","N/A",$54.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Tums Chewy Bites","N/A",$5.17,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Licensed Valentine cards and sticker sets","N/A",$3.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Villaggio sliced bread","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Dove x Crumbl body wash","N/A",$10.27,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Dove x Crumbl body wash","N/A",$10.27,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","68 L Storage tote","N/A",$9.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","The Blue Whale pillow","N/A",$5.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Brome Lake Duck","N/A",$9.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Villaggio sliced bread","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Tostitos tortilla chips","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Olymel Tuscan chicken breasts","N/A",$16.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Swiffer PowerMop starter kit","N/A",$29.97,$39.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Filters 3-pack","N/A",$24.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Old El Paso dinner kits","N/A",$3.77,$4.47,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Rustica rising crust frozen pizza","N/A",$7.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Coca-Cola Pop","N/A",$8.28,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Town House® crackers","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Fontaine Santé salads","N/A",$4.98,$5.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","TWIZZLERS GUMMIES Strawberry","N/A",$3.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Twizzlers","N/A",$2.97,$3.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","15"" x 29"" Soho boot tray","N/A",$6.88,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Kicking Horse Ground Coffee","N/A",$9.97,$16.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Pepsi","N/A",$12.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Fontaine Santé salads","N/A",$4.98,$5.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Great Value AA48 batteries","N/A",$17.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Valentine plush in a bag or mug","N/A",$7.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Downy Light scent booster laundry beads","N/A",$15.97,$19.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Crispers family size","N/A",$3.98,$4.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Villaggio hot dog 6-pack buns","N/A",$3.38,$3.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Our Finest Thin & Crispy frozen pizza","N/A",$4.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Valentine gifts","N/A",$14.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Your Fresh Market™ Atlantic salmon with butter","N/A",$16.64,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","PowerForce bagless upright vacuum","N/A",$89.98,$109.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Fancy Feast wet cat food value pack","N/A",$10.78,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Villaggio hot dog","N/A",$3.38,$3.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Bounty Select-A-Size paper towels 8 = 24 rolls","N/A",$22.47,$29.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Febreze Plug scented oil refills","N/A",$9.97,$13.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Diet Coke Pop","N/A",$8.28,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Olymel split chicken wings","N/A",$6.34,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Turtles heart chocolates","N/A",$11.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Christie RITZ Bits or original crackers","N/A",$2.48,$2.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Natrel fine-filtered 2% milk","N/A",$4.48,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Goldfish Valentine multipack","N/A",$7.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Massibec salads","N/A",$4.96,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Head & Shoulders Smooth & Silky shampoo","N/A",$10.32,$11.48,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Cara Cara Oranges","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Sistema Food storage container","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Tide Snow laundry detergent","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Tide Free & Gentle pods 76s","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","CRAVE frozen entrees or bowls","N/A",$5.27,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Valentine gifts","N/A",$14.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Aylmer soup","N/A",$0.97,$1.27,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Ferrero Collection or Rocher heart chocolates","N/A",$7.77,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Great Value original wieners 24-pack","N/A",$4.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","Tylenol Arthritis pain 120s","N/A",$13.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Fancy Feast Wet Cat Food Value Pack","N/A",$10.78,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Frank's RedHot sauce","N/A",$3.74,$4.77,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Old Dutch chips or snacks","N/A",$2.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Open stock flat or fitted sheets","N/A",$11.94,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Our Finest Orange Juice","N/A",$6.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","68 L Storage tote","N/A",$9.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Real Dairy Confectionery Tubs","N/A",$5.44,$6.77,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Kinder Surprise Valentine heart 2-pack","N/A",$2.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","Christie RITZ Bits or original crackers","N/A",$2.48,$2.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Tide or Ivory Snow Laundry Detergent","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Barilla heart-shaped pasta","N/A",$2.44,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Activia probiotic yogurt tub","N/A",$3.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","P'tit Québec Cheese Slices","N/A",$4.98,$6.48,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Summ! appetizers","N/A",$4.96,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","IAMS dry dog food","N/A",$54.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Aylmer soup","N/A",$0.97,$1.27,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Valentine trading cards","N/A",$3.58,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Bulk Gala apples","N/A",$1.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Infants' or Toddlers' sleepers","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","P'tit Québec cheese slices","N/A",$4.98,$6.48,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Whiskas dry cat food","N/A",$6.98,$8.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Michelina's Zap'ems","N/A",$1.47,$2.48,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Red Bull energy drink","N/A",$8.97,$10.47,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Olay facial moisturizer with SPF 177 mL","N/A",$19.98,$24.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746488,"Walmart","N/A","Bulk green peppers","N/A",$2.94,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Valentine gifts","N/A",$14.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Your Fresh Market sourdough sliced bread","N/A",$3.43,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Olymel Tuscan chicken breasts","N/A",$16.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","L'Oreal Paris Hair Expertise shampoo","N/A",$8.97,$9.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Turtles heart chocolates","N/A",$11.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Ol'Roy dry dog food","N/A",$32.97,$36.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Sistema Food storage container","N/A",$3.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Great Value Cheese Blocks","N/A",$5.48,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Native shampoo or conditioner","N/A",$12.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Valentine gifts","N/A",$14.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Tums Chewy Bites","N/A",$5.17,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","St-Hubert fully cooked pork back ribs","N/A",$10.76,$11.96,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Taco Bell DIPS","N/A",$5.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Fontaine Santé salads","N/A",$4.98,$5.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Kinder & Love Mini chocolate hearts 25-pack","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Great Value chicken wings","N/A",$13.18,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Native shampoo or conditioner","N/A",$12.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Pringles","N/A",$2.88,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Natrel fine-filtered 2% milk","N/A",$4.48,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","PowerForce bagless upright vacuum","N/A",$89.98,$109.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Your Fresh Market™ Atlantic salmon with butter","N/A",$16.64,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Infants' or toddlers' sleepers","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Taco Bell seasoning","N/A",$1.27,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Kinder Surprise Valentine heart 2-pack","N/A",$2.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Great Value frozen fruit","N/A",$5.96,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Tylenol Extra Strength 150s or Arthritis pain 120s","N/A",$13.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Tums Chewy Bites with Gas Relief","N/A",$5.17,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Real Dairy Confectionery Tubs","N/A",$5.44,$6.77,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Kicking Horse ground coffee","N/A",$9.97,$16.78,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Great Value Chicken Wings","N/A",$13.18,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Taco Bell meal kits","N/A",$3.97,$4.47,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Cara Cara Oranges","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","TWIZZLERS Twists Strawberry","N/A",$2.97,$3.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Heinz beans or pasta","N/A",$1.54,$1.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","White cauliflower","N/A",$3.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Open stock flat or fitted sheets","N/A",$11.94,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Marcangelo fresh chicken or pork kabobs","N/A",$9.97,$13.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Coca-Cola Pop","N/A",$8.28,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Samyang Buldak spicy ramen","N/A",$6.98,$8.97,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Robax Platinum","N/A",$32.17,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Nestlé Drumstick","N/A",$5.44,$6.77,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Christie RITZ Bits or original crackers","N/A",$2.48,$2.98,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Taco Bell Baja sauce","N/A",$4.47,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Your Fresh Market beef stir fry strips","N/A",$15.39,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746488,"Walmart","N/A","Oîkos Greek yogurt tubs","N/A",$6.46,$7.18,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 100 caplets caplets or tablets, 325 mg, 120 tablets or Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","EMERGEN-C Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ADVIL, Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXISAL, Back and muscle pain, 18 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","VALDA Lozenges, 50 units","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GELOMYRTOL Bronchi and sinuses, 300 mg, 50 capsules","N/A",$32.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","BUCKLEY'S, Selected syrups, 250 ml","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ADVIL, Cold and sinus, 40 caplets","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","VOLTAREN, Back and muscle pain, 120 g ou/or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ABREVA Cold sore treatment, 2 g","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","CASCADES, Fluff, Bathroom tissue, 24 jumbo rolls or SPONGE TOWELS, Ultra Pro, Paper towels, 6 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","DEPEND or POISE Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","Tylenol cold & sinus daytime and nighttime extra strength caplets 40un","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","TUMS Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","CENTRUM, MultiGummies Selected vitamin and mineral supplements","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","Probaclac Travelers 9 probiotic strains vegetable capsules","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Back and muscle pain, 120 g or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ESSENTIEL Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","BUCKLEY'S, Selected syrups, 250 ml","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CAPRINA Selected products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","LA PARISIENNE, Liquid detergent","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","L'ORÉAL PARIS, Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","BON AMI Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DOVE MEN CARE Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules or Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ESSENTIEL, Bathroom tissue, 8 double rolls or Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Scrubbing Bubbles rainshower mega shower foamer 946ml","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SIMILAC, Powdered infant formula, 850 g","N/A",$33.99,$38.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","LADY SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Advil Cold & Sinus analgesic and decongestant non-drowsy caplets","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","L'ORÉAL PARIS Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ALWAYS Selected products","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SPONGE TOWELS, Ultra Pro, Paper towels, 6 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Tampax tampons regular abs 40un","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ABREVA Cold sore treatment, 2 g","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXISAL, Back and muscle pain, 18 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DOVE MEN CARE, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CASCADES Fluff, Bathroom tissue, 24 jumbo rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","FRUCTIS, Shampoo or conditioner, selected sizes","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Gaviscon Regular fruit blend soothing antiacid 600ml","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","VALDA, Lozenges, 50 units","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","EMERGEN-C Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","TYLENOL Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ADVIL Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Centrum Women Multigummies multivitamin & mineral supplement cherry berry and orange","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SPEED STICK or LADY SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CAPRINA","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SENSODYNE Selected toothpastes","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DAWN Dishwashing liquid, 431 ml or 473 ml","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","PROBACLAC Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","La Parisienne Biodégradable fabric softener Sunshine 60 loads 1.44L","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","FANTASTIK, SCRUBBING BUBBLES, BON AMI or WINDEX, Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 100 caplets or tablets, 325 mg, 120 tablets or Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","TUMS, Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","FINISH, Powerball All In 1 Max, Dishwasher detergent, 55 tabs","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","OLD SPICE Selected antiperspirants or deodorants","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","Essentiel mini liners regular 64un","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","JOUVIANCE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
@@ -299,165 +376,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7752500,"Familiprix","N/A","L'ORÉAL PARIS, Superior Preference or Magic Root Cover Up, Selected products","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","FREDDO Chocolate hearts, 150 g","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752500,"Familiprix","N/A","FANTASTIK, SCRUBBING BUBBLES, BON AMI or WINDEX, Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 100 caplets caplets or tablets, 325 mg, 120 tablets or Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","Tylenol cold & sinus daytime and nighttime extra strength caplets 40un","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","TUMS Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","CENTRUM, MultiGummies Selected vitamin and mineral supplements","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","Probaclac Travelers 9 probiotic strains vegetable capsules","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","EMERGEN-C Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","ADVIL, Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXISAL, Back and muscle pain, 18 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","VALDA Lozenges, 50 units","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","GELOMYRTOL Bronchi and sinuses, 300 mg, 50 capsules","N/A",$32.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","BUCKLEY'S, Selected syrups, 250 ml","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","ADVIL, Cold and sinus, 40 caplets","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","VOLTAREN, Back and muscle pain, 120 g ou/or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","ABREVA Cold sore treatment, 2 g","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","CASCADES, Fluff, Bathroom tissue, 24 jumbo rolls or SPONGE TOWELS, Ultra Pro, Paper towels, 6 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752488,"Familiprix","N/A","DEPEND or POISE Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","FANTASTIK, SCRUBBING BUBBLES, BON AMI or WINDEX, Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 100 caplets or tablets, 325 mg, 120 tablets or Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","TUMS, Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","FINISH, Powerball All In 1 Max, Dishwasher detergent, 55 tabs","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","LADY SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Advil Cold & Sinus analgesic and decongestant non-drowsy caplets","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","L'ORÉAL PARIS Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ALWAYS Selected products","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","SPONGE TOWELS, Ultra Pro, Paper towels, 6 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Tampax tampons regular abs 40un","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ABREVA Cold sore treatment, 2 g","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXISAL, Back and muscle pain, 18 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","DOVE MEN CARE, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","CASCADES Fluff, Bathroom tissue, 24 jumbo rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","FRUCTIS, Shampoo or conditioner, selected sizes","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Gaviscon Regular fruit blend soothing antiacid 600ml","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","VALDA, Lozenges, 50 units","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","EMERGEN-C Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","TYLENOL Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ADVIL Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Centrum Women Multigummies multivitamin & mineral supplement cherry berry and orange","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","SPEED STICK or LADY SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","CAPRINA","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","SENSODYNE Selected toothpastes","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","DAWN Dishwashing liquid, 431 ml or 473 ml","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","PROBACLAC Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","La Parisienne Biodégradable fabric softener Sunshine 60 loads 1.44L","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Back and muscle pain, 120 g or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ESSENTIEL Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","BUCKLEY'S, Selected syrups, 250 ml","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","CAPRINA Selected products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","LA PARISIENNE, Liquid detergent","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","L'ORÉAL PARIS, Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","BON AMI Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","DOVE MEN CARE Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules or Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","ESSENTIEL, Bathroom tissue, 8 double rolls or Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","Scrubbing Bubbles rainshower mega shower foamer 946ml","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7752510,"Familiprix","N/A","SIMILAC, Powdered infant formula, 850 g","N/A",$33.99,$38.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","SELECT CLEARANCE MATTRESSES","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Micah Loveseat - White","N/A",$579.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Laredo Power Reclining Sofa - Walnut","N/A",$999.00,$1999.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Beautyrest Duchess Medium Queen Mattress","N/A",$499.00,$999.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Chestnut Ridge Side Chair - Dark Brown, Beige","N/A",$110.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Sealy® Essentials Evan II Medium Full Mattress","N/A",$249.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Reena Pop up Sofa Bed - Grey","N/A",$799.00,$1599.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Bamboo Firm Twin Mattress","N/A",$99.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Phoenix Power Lift Recliner Chair - Brown","N/A",$849.00,$1199.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Owen Recliner - Grey","N/A",$399.00,$799.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Stampede Leather Sofa - Chestnut","N/A",$1699.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Jupiter 4-Piece Sectional with Left-Facing Chaise - Ash Grey","N/A",$2299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Brook Bay Extendable Dining Table - Sand , Brown","N/A",$699.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Samsung 58"" 4K CUHD Smart LED TV - UN58U8000FFXZC","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","LG Stainless Steel Smart Electric Freestanding Range with Air Fry (6.3 Cu.Ft) - LREN6323YE","N/A",$1145.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","GE Diamond Grey Top Load Washer (4.9 Cu. Ft.) - GTW491BMRDG","N/A",$795.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Mackay Reversible Chaise Sofa - Blue","N/A",$1099.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Silverstone 3-Piece Queen Storage Bed - Mist Grey","N/A",$749.00,$899.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Beautyrest World Class Monarch Firm Queen Mattress","N/A",$799.00,$1599.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","GE Diamond Grey Electric Dryer with SaniFresh Cycle (7.2 cu.ft.) - GTD49EBMRDG","N/A",$795.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Bosch Stainless Steel Anti Fingerprint 24"" Smart Dishwasher with Home Connect, Third Rack - SHX5AEM5N","N/A",$895.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","SELECT SOFAS","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Verissimo Leather Sofa - Silver","N/A",$799.00,$1599.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Brayden 65"" TV Stand - Charcoal","N/A",$329.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","L2 White Front Load Washer (5.2 Cu. Ft) - LF52N3AWW","N/A",$995.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Beautyrest World Class Grandeur 2.0 Plush Queen Mattress","N/A",$999.00,$1999.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Corsica 5-Piece Dual Power Reclining Sectional - Brown","N/A",$3699.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Sealy® Essentials Evan II Medium Queen Mattress","N/A",$299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Samsung Stainless Steel Freestanding Electric Fan Convection Range with Air Fry and Wi-Fi (6.3 Cu.Ft) - NE63A6511SS/AC","N/A",$995.00,$1095.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 5 Medium Eurotop King Mattress","N/A",$999.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Nyla Sintered Stone Round Dining Table- White, Black","N/A",$299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Mackay Sofa - Grey","N/A",$799.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Miller 3-Piece King Storage Bed - Grey","N/A",$799.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Beautyrest Duchess Medium Twin Mattress","N/A",$469.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Milo 40"" Lift Top Coffee Table - Natural","N/A",$549.00,$599.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Rossco 6-Piece Queen Storage Bedroom Package - Rustic Oak","N/A",$1299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Micah Sofa - White","N/A",$599.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Electrolux Titanium Front Load Perfect Steam™ Washer with LuxCare® Wash (5.2 Cu.Ft.) - ELFW7437AT","N/A",$1095.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Cinema 6-Drawer Dresser - Charcoal","N/A",$849.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Beautyrest World Class Grandeur 2.0 Plush Twin Mattress","N/A",$949.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","SELECT DINING SETS","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Brook Bay 7 Piece Extendable Dining Set - Sand, Brown","N/A",$1299.00,$1799.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 4 Firm Eurotop Queen Mattress","N/A",$599.00,$999.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Beautyrest World Class Majesty Medium King Mattress","N/A",$1299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Huston 22"" End Table - Grey","N/A",$249.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Cinema 5-Drawer Chest - Charcoal","N/A",$749.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Breeze 6-Piece Dining Set - Dark Grey","N/A",$749.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Mackay Loveseat - Grey","N/A",$779.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 5 Medium Eurotop Twin Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Kingsdown Mila Medium Queen Mattress","N/A",$549.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 4 Firm Eurotop Full Mattress","N/A",$549.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Breeze Bench - Dark Grey","N/A",$140.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","SELECT BEDS","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Caylie Dining Chair - Ivory, Driftwood","N/A",$120.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","LG 30"" 22.1 Cu. Ft. Stainless Steel Bottom-Freezer Refrigerator - LRDNS2200S","N/A",$1335.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Serta Panama Firm Full Mattress","N/A",$479.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Caylie 7-Piece Dining Set - Ivory, Driftwood","N/A",$999.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Cinema 3-Piece King Storage Bed - Charcoal","N/A",$1199.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Kingsdown Mila Medium Full Mattress","N/A",$499.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Fresh Perspective Ceramic Bedroom Table Lamp - Light Brown and White","N/A",$149.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Maxwell Power Reclining Sofa - Brown","N/A",$999.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Kingsdown Oxford Firm Tight Top Full Mattress","N/A",$629.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","SELECT BEDS","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Mackay Storage Ottoman - Grey","N/A",$599.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Silverstone Mirror - Mist Grey","N/A",$169.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Breeze Dining Table - Dark Grey","N/A",$249.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Beautyrest World Class Majesty Medium Full Mattress","N/A",$879.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Haven Dual Power Reclining Sofa - Grey","N/A",$1299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Rossco 3-Piece Queen Storage Bed - Rustic Oak","N/A",$549.00,$1099.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Kelleher Chair - Beige","N/A",$599.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Stampede Leather Ottoman - Chestnut","N/A",$599.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Nyla 5-Piece Sintered Stone Round Dining Set - White, Black, Grey","N/A",$749.00,$1099.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Laredo Power Reclining Loveseat with Console - Walnut","N/A",$979.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Chelsea Night Table - Grey","N/A",$499.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Miller Mirror - Grey","N/A",$99.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Kingsdown Oxford Firm Tight Top Queen Mattress","N/A",$649.00,$1099.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Serta iComfort® AIR 1 Firm 11.5","N/A",$1299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 5 Medium Eurotop Queen Mattress","N/A",$699.00,$1169.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Silverstone 6-Drawer Dresser - Mist Grey","N/A",$899.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
-7722560,"Leon's","N/A","Maxwell Power Recliner - Brown","N/A",$549.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Serta Panama Firm Queen Mattress","N/A",$499.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Maxwell Power Reclining Loveseat with Console - Brown","N/A",$979.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
@@ -526,6 +444,88 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7722560,"Leon's","N/A","Serta Panama Firm King Mattress","N/A",$699.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Beautyrest World Class Majesty Medium Twin Mattress","N/A",$849.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","COFFEE TABLE","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Miller Night Table - Grey","N/A",$179.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Rossco 3-Piece King Storage Bed - Rustic Oak","N/A",$749.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Miller 6-Drawer Dresser - Grey","N/A",$449.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Electrolux Titanium Front Load Perfect Steam™ Electric Dryer with Instant Refresh (8.0 Cu. Ft) - ELFE743CAT","N/A",$995.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Caylie Noir 6-Piece Dining Set - Ebony, Driftwood","N/A",$999.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Silverstone 5-Drawer Chest - Mist Grey","N/A",$749.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Atomic 26"" End Table - Brown Cherry","N/A",$299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Mackay Queen Sofa Bed - Grey","N/A",$1399.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Nyla Dining Chair - Grey","N/A",$129.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Samsung 30"" 22.1 Cu. Ft. Stainless Steel French Door Refrigerator with External Water Dispenser - RF22A4221SR/AA","N/A",$1835.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Silverstone 6 - Piece Queen Storage Bedroom Package - Mist Grey","N/A",$1999.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Chelsea 5-Drawer Chest - Grey","N/A",$999.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Daytona Leather 2-Piece Sectional with Left-Facing Chaise - Light Grey","N/A",$1999.00,$2999.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Kelleher Loveseat - Beige","N/A",$779.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","L2 White Electric Dryer (8.0 Cu. Ft) - LE52N3AWW","N/A",$995.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Chelsea 3-Piece King Storage Bed - Grey","N/A",$1199.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Cohen 78"" Fireplace TV Stand - Grey","N/A",$649.00,$749.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Rossco 5-Drawer Chest - Rustic Oak","N/A",$399.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Sealy® Essentials Evan II Medium Twin Mattress","N/A",$199.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Haven 6-Piece Dual Power Reclining Sectional - Grey","N/A",$2799.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Kelleher Ottoman - Beige","N/A",$249.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop Queen Mattress","N/A",$399.00,$449.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Mackay Chair - Grey","N/A",$699.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Beautyrest World Class Grandeur 2.0 Plush Full Mattress","N/A",$979.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Rossco 6-Drawer Dresser - Rustic Oak","N/A",$449.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Caylie Noir Bench - Ebony, Driftwood","N/A",$200.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Kingsdown Mila Medium Twin Mattress","N/A",$449.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Meadow 3-Piece Sectional with Left-Facing Pop-Up Bed - Grey","N/A",$1699.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Milo Sofa Table","N/A",$449.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Breeze Side Chair - Dark, Grey","N/A",$100.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Beautyrest Duchess Medium Full Mattress","N/A",$489.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Sealy® Essentials Remy II Firm Eurotop King Mattress","N/A",$699.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Chelsea 6-Drawer Dresser - Grey","N/A",$1199.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Pasadena 6-Piece Reclining Sectional with Right-Facing Chaise - Light Grey","N/A",$2999.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Kingsdown Oxford Firm Tight Top King Mattress","N/A",$949.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Beautyrest World Class Majesty Medium Queen Mattress","N/A",$899.00,$1799.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Kingsdown Oxford Firm Tight Top Twin Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Stampede Leather Loveseat - Chestnut","N/A",$1679.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Brook Bay Dining Chair - Sand, Brown","N/A",$110.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Beautyrest World Class Monarch Firm King Mattress","N/A",$1199.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Kingsdown Mila Medium King Mattress","N/A",$849.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Beautyrest World Class Grandeur 2.0 Plush King Mattress","N/A",$1399.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","SELECT CLEARANCE MATTRESSES","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Micah Loveseat - White","N/A",$579.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Laredo Power Reclining Sofa - Walnut","N/A",$999.00,$1999.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Beautyrest Duchess Medium Queen Mattress","N/A",$499.00,$999.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Chestnut Ridge Side Chair - Dark Brown, Beige","N/A",$110.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Sealy® Essentials Evan II Medium Full Mattress","N/A",$249.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Reena Pop up Sofa Bed - Grey","N/A",$799.00,$1599.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Bamboo Firm Twin Mattress","N/A",$99.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Phoenix Power Lift Recliner Chair - Brown","N/A",$849.00,$1199.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Owen Recliner - Grey","N/A",$399.00,$799.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Stampede Leather Sofa - Chestnut","N/A",$1699.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Jupiter 4-Piece Sectional with Left-Facing Chaise - Ash Grey","N/A",$2299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Brook Bay Extendable Dining Table - Sand , Brown","N/A",$699.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Samsung 58"" 4K CUHD Smart LED TV - UN58U8000FFXZC","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","LG Stainless Steel Smart Electric Freestanding Range with Air Fry (6.3 Cu.Ft) - LREN6323YE","N/A",$1145.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","GE Diamond Grey Top Load Washer (4.9 Cu. Ft.) - GTW491BMRDG","N/A",$795.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Mackay Reversible Chaise Sofa - Blue","N/A",$1099.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Silverstone 3-Piece Queen Storage Bed - Mist Grey","N/A",$749.00,$899.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Beautyrest World Class Monarch Firm Queen Mattress","N/A",$799.00,$1599.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","GE Diamond Grey Electric Dryer with SaniFresh Cycle (7.2 cu.ft.) - GTD49EBMRDG","N/A",$795.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Bosch Stainless Steel Anti Fingerprint 24"" Smart Dishwasher with Home Connect, Third Rack - SHX5AEM5N","N/A",$895.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","SELECT SOFAS","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Verissimo Leather Sofa - Silver","N/A",$799.00,$1599.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","L2 White Front Load Washer (5.2 Cu. Ft) - LF52N3AWW","N/A",$995.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Beautyrest World Class Grandeur 2.0 Plush Queen Mattress","N/A",$999.00,$1999.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Corsica 5-Piece Dual Power Reclining Sectional - Brown","N/A",$3699.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Sealy® Essentials Evan II Medium Queen Mattress","N/A",$299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Samsung Stainless Steel Freestanding Electric Fan Convection Range with Air Fry and Wi-Fi (6.3 Cu.Ft) - NE63A6511SS/AC","N/A",$995.00,$1095.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 5 Medium Eurotop King Mattress","N/A",$999.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Nyla Sintered Stone Round Dining Table- White, Black","N/A",$299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Mackay Sofa - Grey","N/A",$799.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Miller 3-Piece King Storage Bed - Grey","N/A",$799.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Beautyrest Duchess Medium Twin Mattress","N/A",$469.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Milo 40"" Lift Top Coffee Table - Natural","N/A",$549.00,$599.00,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Rossco 6-Piece Queen Storage Bedroom Package - Rustic Oak","N/A",$1299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Micah Sofa - White","N/A",$599.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Electrolux Titanium Front Load Perfect Steam™ Washer with LuxCare® Wash (5.2 Cu.Ft.) - ELFW7437AT","N/A",$1095.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7722560,"Leon's","N/A","Cinema 6-Drawer Dresser - Charcoal","N/A",$849.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","RICARDO FRESH STUFFED CHICKEN BREASTS","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","BIÈRE SANS ALCOOL NON-ALCOHOLIC BEER","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","HABITANT SOUP","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
@@ -676,6 +676,103 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7752410,"IGA","N/A","ALLEN'S COCKTAIL JUICE","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","VAN HOUTTE GROUND COFFEE","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","GREEN CABBAGE","N/A",$0.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BLEUETS | BLUEBERRIES","N/A",$2.88,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CHOUCROUTE OU KIMCHI GOOD BIG NICE | GOOD BIG NICE SAUERKRAUT OR KIMCHI","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FILETS DE POISSON HIGH LINER | HIGH LINER FROZEN BREADED FISH FILLETS","N/A",$10.99,$20.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CAFÉ INSTANTANÉ MAXWELL HOUSE | MAXWELL HOUSE INSTANT COFFEE","N/A",$5.99,$8.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","POITRINES DE POULET FRAIS DÉSOSSÉES | FRESH BONELESS CHICKEN BREASTS","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CÉRÉALES GENERAL MILLS, VAL NATURE, KELLOGG'S | GENERAL MILLS, NATURE VALLEY, KELLOGG'S CEREAL","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","TOFU UNISOYA | UNISOYA TOFU","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PAPIER HYGIÉNIQUE CHARMIN | CHARMIN BATHROOM TISSUE","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CAROTTES OU OIGNONS JAUNES | CARROTS OR YELLOW ONIONS","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","OEUFS BLANCS SELECTION | SELECTION WHITE EGGS","N/A",$5.99,$6.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PETITES POMMES DE TERRE ROUGES OU À CHAIR JAUNE | SMALL POTATOES","N/A",$2.49,$2.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MINI CONCOMBRES | MINI CUCUMBERS","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CRÈME GLACÉE IRRÉSISTIBLE | IRRÉSISTIBLE ICE CREAM","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","TOMATES RAISINS DE SERRE | HOTHOUSE GRAPE TOMATOES","N/A",$1.77,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FROMAGE À LA CRÈME PHILADELPHIA, FROMAGE EXTRA CHEDDAR KRAFT | PHILADELPHIA CREAM CHEESE OR KRAFT EXTRA CHEDDAR CHEESE","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","EAU DE SOURCE SELECTION | SELECTION WATER","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BIÈRE DÉSALCOOLISÉE SELECTION | DE-SELECTION ALCOHOLIZED BEER","N/A",$9.99,$10.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FINES HERBES IRRÉSISTIBLE | IRRÉSISTIBLE FINE HERBS","N/A",$2.69,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","THON ASSAISONNÉ CLOVER LEAF | CLOVER LEAF SEASONED TUNA","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FROMAGE COTTAGE SELECTION | SELECTION COTTAGE CHEESE","N/A",$3.49,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BEURRE D'ARACHIDE KRAFT | KRAFT PEANUT BUTTER","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PAIN BAGEL PROTÉINES","N/A",$5.99,$7.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ORANGES SANGUINES MORO | MORO BLOOD ORANGES","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PEPPERONI TRANCHÉ SELECTION | SELECTION SLICED PEPPERONI","N/A",$6.99,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BIFTECKS ATTENDRIS | TENDERIZED STEAKS","N/A",$12.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SOUPE OU POTAGE COMMENSAL | COMMENSAL SOUP","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOEUF HACHÉ MAIGRE MIEUX‑ÊTRE NATURALIA | LIFE SMART NATURALIA LEAN GROUND BEEF","N/A",$10.99,$12.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FILETS DE SÉBASTE | ROCKFISH FILLETS","N/A",$8.99,$11.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","GROS ANANAS TROPICAL GOLD OU ANANAS DÉCORTIQUÉ | TROPICAL GOLD LARGE PINEAPPLE OR CORED PINEAPPLE","N/A",$4.99,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CERISES EXTRA GROSSES | JUMBO CHERRIES","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SANDWICH SMUCKER'S UNCRUSTABLES | SMUCKER'S UNCRUSTABLES SANDWICH","N/A",$5.49,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","TORTILLAS MEJICANO | MEJICANO TORTILLAS","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SAUCE CHILI HEINZ | HEINZ CHILI SAUCE","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOL REPAS | BOWL MEAL","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BEIGNES | DONUTS","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FRUITS EN COUPE DOLE | DOLE FRUIT CUP","N/A",$2.99,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SHOT BIEN-ÊTRE DOSE | DOSE WELLNESS SHOT","N/A",$12.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BÂTONNETS DE FROMAGE AMOOZA! TWISTS | AMOOZA! TWISTS CHEESE STICKS","N/A",$7.99,$8.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","VINAIGRETTE LA VINAIGRETTE À BARRETTE | LA VINAIGRETTE À BARRETTE SALAD DRESSING","N/A",$4.99,$6.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PÂTÉS IMPÉRIAUX WONG WING | WONG WING FROZEN EGG ROLLS","N/A",$8.49,$9.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FILET DE PORC IRRÉSISTIBLE | IRRÉSISTIBLE PORK TENDERLOIN","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","LAIT SANS LACTOSE LACTANTIA","N/A",$11.79,$12.19,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOISSON SPORTIVE MAPLE 3 | MAPLE 3 SPORT DRINK","N/A",$2.99,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SHAMPOOING - REVITALISANT HEAD & SHOULDERS | HEAD & SHOULDERS CONDITIONING SHAMPOO","N/A",$5.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","WRAP | WRAP","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","REPAS | MEAL, ECONOMIC PACK","N/A",$2.09,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MÉDAILLON DE PÉTONCLE | FROZEN SCALLOP MEDALLION","N/A",$1.79,$1.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FROMAGE RACLETTE OKA | OKA RACLETTE CHEESE","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MAYONNAISE HELLMANN'S | HELLMANN'S MAYONNAISE","N/A",$6.99,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","VIN ROUGE, BLANC OU ROSÉ | RED, WHITE OR ROSÉ WINE","N/A",$16.99,$18.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","COLORANT À CAFÉ INTERNATIONAL DELIGHT | INTERNATIONAL DELIGHT COFFEE WHITENER","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SUCRE BLANC GRANULÉ REDPATH | REDPATH GRANULATED WHITE SUGAR","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOISSON NON ALCOOLISÉE OLÉ! SANGRITA | OLÉ! SANGRITA NON-ALCOHOLIC DRINK","N/A",$8.99,$10.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BARRES RICE KRISPIES® (154 G - 198 G) BARRES KASHI® (175 G – 200 G) BARRES SPECIAL K® (165 G)","N/A",$3.49,$5.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SAUCISSES FUMÉES HYGRADE | HYGRADE WIENERS","N/A",$5.99,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOISSON ÉNERGISANTE GURU | GURU ENERGY DRINK","N/A",$8.99,$12.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","NETTOYANT À VITRES BON AMI | BON AMI GLASS CLEANER","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","COCKTAIL DE LÉGUMES GARDEN COCKTAIL MOTT'S | MOTT'S GARDEN COCKTAIL VEGETABLE COCKTAIL","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","TRIO DE CHARCUTERIES MASTRO | MASTRO DELI COLD CUTS TRIO","N/A",$6.99,$8.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BARRES TENDRES QUAKER | QUAKER CHEWY BARS","N/A",$12.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CYCLAMEN MA BOUQUETERIE | MA BOUQUETERIE CYCLAMEN","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SAUMON FUMÉ FUMOIR DES CANTONS-DE-L'EST | FUMOIR DES CANTONS-DE-L'EST SMOKED SALMON","N/A",$10.99,$11.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","COUCHES POUR BÉBÉS PAMPERS | PAMPERS BABY DIAPERS","N/A",$34.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOUQUET MA BOUQUETERIE | MA BOUQUETERIE BOUQUET","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","VINAIGRETTE KRAFT | KRAFT SALAD DRESSING","N/A",$2.99,$4.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","LÉGUMES COUPÉS | CUT VEGETABLES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","RÔTI DE CONTRE-FILET | STRIPLOIN ROAST","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MÉLANGE À SAUCE ST‑HUBERT | ST-HUBERT SAUCE MIX","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","JUS ET BOISSONS IRRÉSISTIBLE | IRRÉSISTIBLE REFRIGERATED JUICE OR BEVERAGE","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PAIN PLAT NAAN IRRÉSISTIBLE | IRRÉSISTIBLE NAAN FLATBREAD","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CÔTES DE DOS DE PORC CUITES IRRÉSISTIBLE | IRRÉSISTIBLE COOKED PORK BACK RIBS","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CHAMPIGNONS SELECTION | SELECTION MUSHROOMS","N/A",$0.99,$1.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ENSEMBLE À TACOS TACO BELL | TACO BELL TACO KIT","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PORTIONS DE POULET PANÉES FLAMINGO | FLAMINGO FROZEN BREADED CHICKEN PORTIONS","N/A",$5.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SOUPE AYLMER | AYLMER SOUP","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PAINS À SOUS-MARIN 6"" | SUBMARINE SANDWICHES","N/A",$0.83,$5.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","POIVRONS VERTS | GREEN PEPPERS","N/A",$1.44,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","POMMES HONEYCRISP, ORLÉANS AMBROSIA | APPLES","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","ORANGES NAVEL | NAVEL ORANGES","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","KIWIS | KIWIS","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","TRÈS GROSSE PAPAYE | JUMBO PAPAYA","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","VARIÉTÉ DE FORMATS ÉCONOMIQUES | FROZEN ECONOMIC PACK","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","MANGUES ROUGES | RED MANGOES OR SUMO MANDARINS","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PLATEAU DE FRUITS OU DE LÉGUMES | FRUITS OR VEGETABLES PLATTER","N/A",$14.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","JARRETS D'AGNEAU FAMILLE FONTAINE ORIGINES | FONTAINE FAMILY ORIGINES LAMB SHANKS","N/A",$9.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","NOUILLES INSTANTANÉES MR. NOODLES | MR.NOODLES INSTANT NOODLES","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","YOGOURT GREC LIBERTÉ | LIBERTÉ GREEK YOGURT","N/A",$7.99,$9.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BACON MAPLE LEAF | MAPLE LEAF BACON","N/A",$5.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","TRÈS GROS CANTALOUP | JUMBO CANTALOUPE","N/A",$2.99,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FILETS D'AIGLEFIN FRAIS | FRESH HADDOCK FILLETS","N/A",$9.99,$18.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","FRAMBOISES OU MÛRES | RASPBERRIES OR BLACKBERRIES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CREVETTES SAUVAGES D'ARGENTINE IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN ARGENTINIAN WILD SHRIMP","N/A",$7.99,$10.00,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PAIN TRANCHÉ POM | POM SLICED BREAD","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CÉRÉALES GENERAL MILLS | GENERAL MILLS CEREAL","N/A",$4.87,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","PAINS À SOUS-MARIN 9"" | SUBMARINE SANDWICHES","N/A",$1.25,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","LAIT FINEMENT FILTRÉ NATREL | NATREL FINE-FILTERED MILK","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","VARIÉTÉ DE BOEUF PLATINUM AAA PLUS | PLATINUM AAA PLUS BEEF VARIETY","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746330,"Metro","N/A","PAINS DE GOBERGE | POLLOCK BREADS","N/A",$10.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746330,"Metro","N/A","CROISSANTS 100% BEURRE | 100% BUTTER CROISSANTS","N/A",$6.77,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746330,"Metro","N/A","FLOCONS DE GOBERGE À SAVEUR DE CRABE SELECTION | SELECTION CRAB FLAVOURED POLLOCK FLAKES","N/A",$10.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
@@ -729,103 +826,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7746330,"Metro","N/A","GUIMAUVES SELECTION | SELECTION MARSHMALLOWS","N/A",$3.79,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746330,"Metro","N/A","CAPSULES DE CAFÉ IRRÉSISTIBLE | IRRÉSISTIBLE COFFEE CAPSULES","N/A",$31.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746330,"Metro","N/A","PASTILLES POUR LAVE-VAISSELLE CASCADE | CASCADE DISHWASHER TABS","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","ORCHIDÉE 1 TIGE MA BOUQUETERIE | MA BOUQUETERIE ORCHID 1 STEM","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","ÉPICES LA GRILLE CLUB HOUSE | CLUB HOUSE LA GRILLE SPICES","N/A",$5.00,$6.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","ORCHIDÉE CASCADE COLORÉE 1 TIGE MA BOUQUETERIE | MA BOUQUETERIE CASCADING COLORED ORCHID","N/A",$34.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SAC CROUSTILLES YUM YUM","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CARLSBERG","N/A",$22.99,$25.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","MAÏS À ÉCLATER ORVILLE | ORVILLE POPPING CORN","N/A",$5.49,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","PLANTE TROPICALE PREMIUM MA BOUQUETERIE | MA BOUQUETERIE TROPICAL PREMIUM PLANT","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","FROMAGE SELECTION | SELECTION CHEESE","N/A",$11.48,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CAFÉ MOULU OU EN GRAINS BRÛLERIES FARO | BRÛLERIES FARO COFFEE BEANS OR GROUND COFFEE","N/A",$22.99,$25.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CÔTES DE DOS CUITES LA CAGE","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","HUILE D'OLIVE SELECTION | SELECTION OLIVE OIL","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CAFÉ EN GRAINS BIOLOGIQUE CAFÉ WILLIAM | CAFÉ WILLIAM ORGANIC COFFEE BEANS","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SOUPE HAIKU | HAIKU SOUP","N/A",$4.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SOUPE | SOUP","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","POULET HACHÉ EXTRA MAIGRE MIEUX‑ÊTRE | LIFE SMART EXTRA LEAN GROUND CHICKEN","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","BOISSON SPORTIVE POWERADE | POWERADE SPORT DRINK","N/A",$1.99,$2.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","PEPPERONI 88 ROMA | ROMA PEPPERONI 88","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","FRICADELLES DE POISSON | FROZEN FISH CAKES","N/A",$9.99,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","ALGUES EN FLOCONS OCÉAN DE SAVEURS | OCÉAN DE SAVEURS SEAWEED","N/A",$9.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","MOTT'S FRUITSATIONS","N/A",$2.79,$3.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CRETONS BILOPAGE | BILOPAGE CRETONS","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","JUS DE TOMATE HEINZ | HEINZ TOMATO JUICE","N/A",$2.49,$2.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","BARRES SELECTION | SELECTION BARS","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","PÂTÉ DE CAMPAGNE OU DE FOIE LA BELLE BRETAGNE | LA BELLE BRETAGNE COUNTRY STYLE OR LIVER PÂTÉ","N/A",$4.49,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SAUCISSES ENROBÉES DE PÂTE POGO | POGO FROZEN BREADED WIENERS","N/A",$18.99,$20.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","NECTARINES OU PÊCHES | NECTARINES OR PEACHES","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CARRÉS SELECTION | SELECTION SQUARES","N/A",$7.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","ASPERGES | ASPARAGUS","N/A",$4.99,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","LITCHIS | LYCHEES","N/A",$6.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","NESTEA","N/A",$6.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","TOASTER STRUDEL PILLSBURY | PILLSBURY FROZEN TOASTER STRUDEL","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","TARTINADE ORIGINALE LACTANTIA | LACTANTIA ORIGINAL SPREAD","N/A",$6.99,$7.89,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","PILONS DE POULET | CHICKEN DRUMSTICKS, ECONOMIC PACK","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","ROULEAUX DE SOLE OU DE SAUMON FARCIS | 7 SEAS FROZEN STUFFED SALMON","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","HAUTS DE CUISSES DE POULET FRAIS DÉSOSSÉS | FRESH BONELESS CHICKEN THIGHS","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SALADE ST‑HUBERT | ST-HUBERT SALAD","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","JUS RÉFRIGÉRÉ OASIS | OASIS REFRIGERATED JUICE","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CÔTELETTES DE PORC FUMÉES THÉBERGE | THÉBERGE SMOKED PORK CHOPS","N/A",$8.99,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SAUCE À PIZZA GATTUSO | GATTUSO PIZZA SAUCE","N/A",$3.29,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","À L'ACHAT DE BOISSON NON ALCOOLISÉE BARRFLY | BARRFLY NON-ALCOHOLIC DRINK","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","TORTILLAS OLD EL PASO | OLD EL PASO TORTILLAS","N/A",$3.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CROUSTILLES YUM YUM","N/A",$2.99,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CRAQUELINS CHEEZ-IT SNAP'D | CRAQUELINS TOWN HOUSE","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","BÂTONNET DE POULET MIGHTY PROTEIN MAPLE LEAF | MAPLE LEAF MIGHTY PROTEIN CHICKEN STICK","N/A",$1.99,$2.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CAISSE DE 12 CANETTES UNIBROUE","N/A",$22.99,$25.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","EAU GAZÉIFIÉE SELECTION | SELECTION CARBONATED WATER","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","POM","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","RÔTI DE BAS DE PALETTE DÉSOSSÉ | BONELESS BOTTOM BLADE ROAST","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","AILES DE POULET MÈRE MICHEL | MÈRE MICHEL FROZEN CHICKEN WINGS","N/A",$11.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","GAUFRES EGGO KELLOGG'S, PIZZA POCHETTES MCCAIN | KELLOGG'S EGGO FROZEN WAFFLES OR MCCAIN FROZEN PIZZA POCKETS","N/A",$4.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","FÈVES AU LARD CLARK | CLARK PORK'N BEANS","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","LAITUE AQUAVERTI | AQUAVERTI LETTUCE","N/A",$3.99,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","FILETS DE SAUMON ROSE SAUVAGE DU PACIFIQUE HIGHLINER | HIGHLINER WILD CAUGHT PACIFIC SALMON FILLETS","N/A",$9.99,$11.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","VIN ROUGE, BLANC OU ROSÉ | RED, WHITE OR ROSÉ WINE","N/A",$13.29,$19.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","PETITS PAINS VIENNOIS | VIENNESE BUNS","N/A",$0.58,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","ORANGES ROUGES CARA CARA | CARA CARA RED ORANGES","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CÔTELETTES DE PORC FRAIS DÉSOSSÉES | FRESH BONELESS PORK CHOPS","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SIROP COCKTAIL FITCOOK FOODZ | FITCOOK FOODZ COCKTAIL SYRUP","N/A",$8.99,$10.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","BARRES B‑READY NUTELLA | NUTELLA B-READY BARS","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","PÂTES ALIMENTAIRES CATELLI | CATELLI PASTA","N/A",$3.00,$4.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","BIÈRE LA BITTT À TIBI | LA BITTT À TIBI BEER","N/A",$20.99,$22.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","KALANCHOÉ MA BOUQUETERIE | MA BOUQUETERIE KALANCHOE","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","COOLER LÉGER CASAL DOMINGO | CASAL DOMINGO COOLER LIGHT","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","BOISSON PÉTILLANTE XAVIER | XAVIER SPARKLING DRINK","N/A",$4.99,$6.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","PLANTE PACHIRA MA BOUQUETERIE | MA BOUQUETERIE PACHIRA PLANT","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SAUCE CRÉMEUSE SELECTION | SELECTION CREAMY SAUCE","N/A",$3.00,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","JUS OU BOISSON MINUTE MAID | MINUTE MAID JUICE OR DRINK","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","BOUQUET MA BOUQUETERIE | MA BOUQUETERIE BOUQUET","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","PURIFICATEUR D'AIR FEBREZE | FEBREZE AIR FRESHENER","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","FRIANDISES GLACÉES MAGNUM | MAGNUM FROZEN TREATS","N/A",$5.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","LÉGUMES SELECTION | SELECTION FROZEN VEGETABLES","N/A",$9.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SHORTENING TOUT VÉGÉTAL CRISCO | CRISCO ALL VEGETABLE SHORTENING","N/A",$4.00,$4.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","MÉLANGE À TREMPETTE CLUB HOUSE | CLUB HOUSE DIP MIX","N/A",$1.00,$1.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","RIZ VITE & BON BEN'S ORIGINAL | BEN'S ORIGINAL FAST & FANCY RICE","N/A",$2.00,$2.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","COLLATION AUX FRUITS MIEUX‑ÊTRE | LIFE SMART FRUIT SNACK","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","BOISSON NON ALCOOLISÉE CHERRY RIVER | CHERRY RIVER NON-ALCOHOLIC DRINK","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SOUPE STEFANO FAITA | STEFANO FAITA SOUP","N/A",$6.49,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","BOISSON PÉTILLANTE NON ALCOOLISÉE MAISON PERRIER CHIC | MAISON PERRIER CHIC NON-ALCOHOLIC SPARKLING DRINK","N/A",$7.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","ARRANGEMENT FLORAL MA BOUQUETERIE | MA BOUQUETERIE FLORAL ARRANGEMENT","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","PESTO IRRÉSISTIBLE | IRRÉSISTIBLE PESTO","N/A",$4.49,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","BIÈRE NON ALCOOLISÉE HEINEKEN | HEINEKEN NON-ALCOHOLIC BEER","N/A",$22.99,$27.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","RINCE-BOUCHE CREST, SCOPE | CREST, SCOPE MOUTHWASH","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CAISSE DE 12 CANETTES SLEEMAN","N/A",$20.99,$23.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","REPAS PRÊT À CUIRE O SOLE MIO | O SOLE MIO MEAL KITS","N/A",$16.99,$19.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CROUSTILLES DE LÉGUMES TERRA | TERRA VEGETABLE CHIPS","N/A",$3.99,$6.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","FETA SELECTION | SELECTION FETA CHEESE","N/A",$5.99,$6.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","JAMBON SELECTION | SELECTION HAM","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","TARTARE SHAKER | SHAKER FROZEN","N/A",$11.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CREVETTES OU FRUITS DE MER IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN SHRIMP OR SEAFOOD","N/A",$8.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","ÉMINCÉ DE JAMBON SELECTION | SELECTION SHAVED HAM","N/A",$10.49,$11.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","SMOKED MEAT STYLE MONTRÉAL IRRÉSISTIBLE ARTISAN | IRRÉSISTIBLE ARTISAN MONTRÉAL STYLE SMOKED MEAT","N/A",$13.99,$15.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CHOCOLAT IRRÉSISTIBLE | IRRÉSISTIBLE CHOCOLATE","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","YOGOURT VÉGÉTAL RIVIERA | RIVIERA VEGAN YOGURT","N/A",$5.49,$7.19,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","POULET DE GRAIN ENTIER BIOLOGIQUE MIEUX‑ÊTRE | LIFE SMART ORGANIC GRAIN- FED WHOLE CHICKEN","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","CAFÉ MOULU MELITTA | MELITTA GROUND COFFEE","N/A",$23.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","DÎNER IRRÉSISTIBLE, MIEUX‑ÊTRE | LIFE SMART FROZEN DINNER","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7746330,"Metro","N/A","FROMAGE RACLETTE MONSIEUR GUSTAV | MONSIEUR GUSTAV RACLETTE CHEESE","N/A",$8.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7735346,"The Brick","N/A","The Brick Oscar 47"" Reversible Office Desk with 3-Drawers - White","N/A",$169.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
 7735346,"The Brick","N/A","Chateau d'Ax Lusso 92"" 100% Genuine Leather Sofa with Wood Legs - Smoke Grey","N/A",$1199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
 7735346,"The Brick","N/A","Beautyrest GL4 Eurotop Firm King Mattress","N/A",$979.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
@@ -976,167 +976,176 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7735346,"The Brick","N/A","Masterguard® Cooltouch™ Queen Pillow","N/A",$44.94,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
 7735346,"The Brick","N/A","Midea 30"" 6.3 Cu. Ft. Electric Range - MER30B14ASTC","N/A",$849.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
 7735346,"The Brick","N/A","Samsung 5.2 Cu. Ft. Front-Load Washer - White - Stackable - WF45T6000AW/A5","N/A",$945.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","20V 1-Speed Drill Kit","N/A",$100.99,$150.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Heaters","N/A",$110.99,$159.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","12˝ x 17˝ Roaster.","N/A",$29.99,$39.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Starbucks by Nespresso Original Line Capsules","N/A",$8.99,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Power Tools and Batteries","N/A",$32.99,$40.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Tide Laundry Detergents and Softeners.","N/A",$19.99,$24.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","TG165-X Thermal Camera with MSX Technology.","N/A",$419.99,$589.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","NOMA A19 60W LED Bulbs. Warm White or Daylight","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","IceBreaker Windshield Washer Fluid","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Heaters, Humidifier and Dehumidifier.","N/A",$63.99,$79.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Folding Fabric Chair, Beige.","N/A",$29.99,$39.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","DYSON V9 Motorbar Cordless Stick Vacuum.","N/A",$499.99,$599.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","NESPRESSO Vertuo Next Premium Coffee & Espresso Machine.","N/A",$129.99,$249.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Garbage Cans and Bags.","N/A",$10.39,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","2-in-1 120V AC Hardwired Smoke Alarm/CO Detector with AA Battery Backup","N/A",$70.05,$85.05,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","For Living Selected Office Chairs and Desk.","N/A",$99.99,$164.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Ice Fishing Accessories.","N/A",$7.19,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","20/AAA Alkaline Batteries.","N/A",$22.39,$27.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Bissell Little Green® HydroSteam™ Pet Portable Carpet & Upholstery Cleaner.","N/A",$199.99,$329.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Ground or Instant Coffee and K-Cup® Pods","N/A",$6.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Yardworks 24˝ Heavy-Duty Snow Shovel with Ergonomic VersaGrip Handle.","N/A",$59.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","6´ Folding Table with Carry Handle.","N/A",$59.99,$79.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Outdoor Extension Cords.","N/A",$6.49,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Sponge Paper Towels, Scotties Facial Tissues or Cashmere Bathroom Tissues","N/A",$13.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Capsule Ceramic Heater.","N/A",$49.99,$59.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Men's Winter Lined Rubber Boots or Maxxdry GripOns.","N/A",$14.99,$19.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Home Radon Detector with LCD Display.","N/A",$160.05,$180.05,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","20cm Ceramic Zero Frypan.","N/A",$25.99,$46.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","MasterChef 12-Cup Stainless-Steel Coffeemaker.","N/A",$39.99,$59.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","8-Pc Non-Stick Cookset","N/A",$119.99,$149.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","DEWALT 20V MAX 61⁄2˝ Circular Saw.","N/A",$149.99,$199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Air Compressors.","N/A",$249.99,$349.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Cat Litter","N/A",$9.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","MERV 8 Furnace Filter","N/A",$39.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","PANASONIC 0.9 Cu-Ft Microwave","N/A",$139.99,$179.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","DREO 6L Warm and Cool Mist Humidifier.","N/A",$119.99,$139.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","PADERNO Selected Cutting Boards, Knives and Shears","N/A",$19.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","TINECO T1 Cordless Stick Vacuum with LED Headlights.","N/A",$149.99,$259.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Clear Heavy-Duty Storage Bin.","N/A",$19.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Contigo Selected Reusable Bottles and Food Jars","N/A",$14.99,$20.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Food Storage Solutions.","N/A",$7.99,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","20V MAX 5Ah Battery","N/A",$223.79,$323.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Heavy-Duty Storage Tote.","N/A",$14.99,$24.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","5-Qt Dutch Oven.","N/A",$44.99,$69.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","PADERNO 26cm and 30cm Forged Non-Stick Pan","N/A",$49.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Linea Classic Espresso Machine.","N/A",$199.99,$249.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Invisible Glass Cleaner Spray","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Laundry Detergent.","N/A",$14.99,$17.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Vtech 2-Handset Cordless Phone with Answering System.","N/A",$61.09,$81.09,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Lagostina 8-Pc Classico Cookset","N/A",$149.99,$229.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Affresh Washing Machine Cleaner, 3-Pk.","N/A",$22.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","For Living Selected Portable Heaters.","N/A",$23.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Starbucks by Nespresso Vertuo Capsules, 8-Ct or 10-Ct.","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Series 5000 Wet/Dry Electric Shaver.","N/A",$139.99,$169.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Motomaster Selected Grease and Small Engine Oils.","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Lagostina 5-Qt Pre-Seasoned Cast-Iron Dutch Oven.","N/A",$59.99,$99.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","T-fal AirGrip 24cm and 28cm Frypan Set.","N/A",$29.99,$49.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected FRANK Bathroom Tissue and Paper Towel or Mega Paper Towels","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Premier Extra Interior Paint + Primer.","N/A",$59.49,$69.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Food Processor, Blender Combo and Nutrition Extractor.","N/A",$59.99,$99.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","EveryGrain Rice Cooker.","N/A",$89.99,$109.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Pre-Seasoned Cast-Iron Pan, 12˝.","N/A",$31.99,$49.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Men's Winter and Work Boots. Selected styles and sizes.","N/A",$99.99,$149.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Master Chef 5-Pk Kitchen Towels.","N/A",$9.99,$19.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Crispi™ Air Fryer","N/A",$189.99,$219.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Vida by PADERNO Selected Toasters, Kettles, Coffee Makers and Slow Cooker.","N/A",$59.99,$89.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Drip Coffee and Espresso Pod Machine","N/A",$299.99,$349.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Coffee K-Cup® Pods, 30-Ct and 48-Ct.","N/A",$28.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Copenhagen 2-Shelf Bookcase with 3 Drawers.","N/A",$199.99,$249.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","10A Electric Snow Shovel, 12˝.","N/A",$139.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Salton Variable-Temperature Electric Kettle","N/A",$64.99,$79.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Bosch 18V Brushless Compact 1⁄2˝ Drill/Driver Kit.","N/A",$149.99,$199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","3.5 Cu-Ft Chest Freezer, White.","N/A",$259.99,$299.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Little Trees Car Air Fresheners","N/A",$3.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Reflex 50˝ Snow Brush and Scraper","N/A",$23.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Headphones, Earbuds and Smartwatches","N/A",$30.94,$100.94,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Earbuds, Power Banks, Chargers and Other Power and Phone Accessories.","N/A",$9.99,$17.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Roku Smart TV","N/A",$208.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Shave + Groom Tool Kit with 9 Attachments.","N/A",$79.99,$119.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Conair Selected Grooming Aids.","N/A",$34.99,$44.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Lagostina Pre-Seasoned Cast-Iron Reversible Grill 20 x 10.5˝.","N/A",$44.99,$69.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Salton Power Blender","N/A",$129.99,$199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","SpongeTowels Ultra Pro, 3=6 Rolls.","N/A",$14.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Lagostina Pre-Seasoned Cast-Iron Frypan, 10˝","N/A",$19.89,$34.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Wahl 22-Pc Chrome Pro Haircutting Kit with Trimmer.","N/A",$36.99,$49.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","DEWALT 5˝ Angle Grinder","N/A",$139.99,$159.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Professional Grade Socket Sets","N/A",$179.99,$299.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Maximum Professional Grade Socket Sets","N/A",$324.99,$499.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Alcan Aluminum Foil","N/A",$9.99,$11.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Revlon One-Step 2.8˝ Volumizer Hot Air Brush.","N/A",$49.99,$52.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Premium Four Season Suet Bird Blend","N/A",$2.29,$2.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Starfrit Personal Blender with Locking Lid.","N/A",$19.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Sauder 2-Door Wardrobe","N/A",$149.99,$199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Wet and Dry Cat Food and Treats.","N/A",$6.49,$7.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Simoniz Microfibre Cloths, 8-Pk.","N/A",$7.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Spray Nine Heavy-Duty Cleaner/Degreaser, 4L Jug","N/A",$25.99,$35.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Indoor Games","N/A",$20.99,$32.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","Selected Air Tools.","N/A",$15.99,$22.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Stools, Kitchen Cart or Island.","N/A",$29.99,$59.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Milk Frother.","N/A",$119.99,$149.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","1⁄2˝-Drive Torque Wrench.","N/A",$74.99,$169.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Capsule Ceramic Heater.","N/A",$49.99,$59.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Household Laundry and Cleaning Products.","N/A",$9.99,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","20V Brushless 1⁄2˝ Impact Wrench Kit","N/A",$159.99,$299.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Mastercraft 5˝ Vise with Locking Swivel Base.","N/A",$59.99,$99.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Contigo Selected Reusable Bottles and Food Jars","N/A",$14.99,$20.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","DEWALT 20V MAX 61⁄2˝ Circular Saw.","N/A",$149.99,$199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Nailers.","N/A",$239.99,$299.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Men's Winter Lined Rubber Boots or Maxxdry GripOns.","N/A",$14.99,$19.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","72˝ Extra-Wide Rolling Cabinet with Butcher-Block Top.","N/A",$539.99,$849.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","TINECO T1 Cordless Stick Vacuum with LED Headlights.","N/A",$149.99,$259.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","MAX Alkaline Battery Packs. 24/AAA or 36/AA.","N/A",$20.95,$29.95,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","MAXIMUM 22L Wet/Dry Vac","N/A",$99.99,$154.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","For Living Heavy-Duty Indoor/Outdoor Floor Mat, 4 x 6´.","N/A",$41.99,$64.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Hoover Bagless Multi-Surface Canister Vac.","N/A",$129.99,$229.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Living Padded Vinyl Folding Chair or LIFETIME Folding Table","N/A",$24.99,$32.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Large Pantry","N/A",$279.99,$399.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Air Compressors.","N/A",$249.99,$349.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Robson Bookcase","N/A",$199.99,$299.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Organizers and Bookcases","N/A",$79.99,$99.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Plymouth 1-Handle.","N/A",$79.99,$134.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","Selected DEWALT and Mastercraft Tool Storage","N/A",$99.99,$154.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Stick Vacuums","N/A",$49.99,$89.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Plastic Folding Chair, White","N/A",$19.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","FOR LIVING Bamboo Folding Tray.","N/A",$21.99,$39.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Electric Fireplaces","N/A",$249.99,$289.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","26cm or 30cm Ceramic Frypan, Turquoise.","N/A",$29.99,$34.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","18V Brad Nailer.","N/A",$199.99,$239.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Type A Clear Tote. Wheeled.","N/A",$11.79,$18.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Lunkerhunt Titan Ice Fishing Combo Kit, 24˝","N/A",$55.99,$69.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Lisa Pull-Down Kitchen Faucet.","N/A",$99.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","2-Door Cabinet. White.","N/A",$89.99,$114.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Restore Nesting Tote","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Upright Vacs.","N/A",$179.99,$359.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Hand Tools.","N/A",$9.99,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Mastercraft Black Chrome Sockets Sets","N/A",$157.99,$264.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Dewalt 81⁄4˝ Compact Jobsite Table Saw, 15A.","N/A",$429.99,$499.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Kamenstein Salt & Pepper Grinder Set, Pre-Filled","N/A",$9.99,$18.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Starfrit 1.5L Deep Fryer with Variable Temperature Control.","N/A",$89.99,$99.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Hamilton Beach Electric Knife Set.","N/A",$36.99,$49.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","CANVAS 4-Pc Herringbone Bakeware Set","N/A",$35.99,$64.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Air Purifiers and Heater","N/A",$127.99,$159.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Socket Sets.","N/A",$26.59,$47.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Men's Realtree Camo Hoodie.","N/A",$14.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Mastercraft 20-oz Graphite Hammer.","N/A",$9.99,$19.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","CSV 2-Motor.","N/A",$149.99,$269.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Detect Pro with Self-Cleaning PowerFins Brushroll.","N/A",$299.99,$399.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Wall Cabinet.","N/A",$134.99,$209.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected MERV 8 Furnace Filters","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","4 Diesel Motor Oil. 15W40. 18.9L.","N/A",$99.99,$129.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","TG165-X Thermal Camera with MSX Technology.","N/A",$419.99,$589.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Dinnerware Sets.","N/A",$39.99,$49.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Storage Racks.","N/A",$164.99,$209.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Blades, Discs, Hole Saw and Accessory Sets.","N/A",$13.69,$24.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Black Chrome Socket Sets","N/A",$105.99,$169.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected 20V Tools, Kits and Batteries","N/A",$99.99,$129.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","11-Pc Ceramic Cookware Set","N/A",$149.99,$199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Smoke Alarm","N/A",$29.99,$37.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Automotive Tools and Workshop Equipment.","N/A",$56.99,$66.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","A15 25W Bulbs, 4-Pk. Non-Dimmable","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","ENVY WHEELS CAR/CUV/TRUCK/SUV ALLOY WHEELS","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Hip-Hugger Laundry Basket","N/A",$11.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","30L Stainless-Steel Wet/Dry Vac","N/A",$129.99,$199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Upright Vacs.","N/A",$179.99,$359.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","NOMA Milton LED Ceiling Fan with Remote. 6-speed.","N/A",$146.99,$209.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Height-Adjustable Shop Stool. Dewalt","N/A",$129.99,$209.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","3-Door Locker. 15 x 18 x 72"" h.","N/A",$229.99,$339.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Serta Mattress-in-a-Box and For Living Pillows","N/A",$21.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","36˝ Tool Cabinet","N/A",$389.99,$599.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","MAXIMUM 24-Pc Ratcheting Wrench Set.","N/A",$119.99,$159.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","MICHELIN WINTER TRUCK & SUV","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Wire Gullwing Drying Rack.","N/A",$21.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Mastercraft 7-Pc Stubby Wrench Set","N/A",$14.99,$25.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Power Bars.","N/A",$23.99,$39.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","2-Gallon Quiet Air Compressor","N/A",$261.99,$349.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","5˝ Random-Orbit Sandpaper, 50-Pk.","N/A",$9.99,$34.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","18V Brad Nailer.","N/A",$199.99,$239.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Folding Fabric Chair, Beige.","N/A",$29.99,$39.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","CERTIFIED WINTERTREK","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","MotoMaster OEPlus Synthetic Grade Oil Filters.","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Mastercraft 21´ M capacity.","N/A",$210.99,$359.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Tall Cabinet","N/A",$369.99,$549.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Huntshield 12-Gun Fire Safe.","N/A",$599.99,$699.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Oscillating Multi-Tool with 12-Pc Accessory Kit.","N/A",$34.99,$69.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Wrench Sets","N/A",$32.99,$54.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","HPA5150BC Insight Series Air Purifier.","N/A",$176.99,$219.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Airstrait Wet to Dry Hair Straightener.","N/A",$599.99,$699.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","Navigator Swivel Pro Complete.","N/A",$199.99,$304.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","72˝ Wood-Top Workbench","N/A",$279.99,$429.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","TuffStore 4-Shelf Resin Rack","N/A",$34.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Ladders, Hand Trucks and Stepstools.","N/A",$28.99,$44.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Pfister Karava Pull-Down Kitchen Faucet","N/A",$167.99,$279.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Litevak Corded Hard Floor Wet Cleaner","N/A",$149.99,$299.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Selected Mats and Boot Trays.","N/A",$12.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7727951,"Canadian Tire","N/A","Restore Nesting Tote","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","Slide Dimmer With Wall Plate","N/A",$13.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","HANDYMAN PANEL","N/A",$9.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","Electric Box 2.5"" (10)","N/A",$12.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","Rustic V-Joint Wood Panelling","N/A",$8.77,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","Vaccum Wet & Dry 5 Gallons 5.5HP","N/A",$59.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","11/16"" x 12"" x 48""","N/A",$5.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","White Electrical Wire14/2 NMD90 15 A","N/A",$67.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","Decorator Switch (10)","N/A",$15.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","Circular Saw","N/A",$149.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","Primed Finger Jointed Pine Base Shoe","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","White Slim LED 4"" Recessed Light 9W (10)","N/A",$59.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","Decorator Plate (10)","N/A",$4.67,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","Modern Primed MDF Baseboard","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
-7747637,"Matériaux Pont Masson","N/A","Decorator Outlet (10)","N/A",$8.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","DREO 6L Warm and Cool Mist Humidifier.","N/A",$119.99,$139.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected MERV 8 Furnace Filters","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Floor Cleaners.","N/A",$249.99,$499.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Lisa 1-Handle","N/A",$109.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Wrench Sets","N/A",$32.99,$54.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Bosch Selected Laser Measuring Tools and Stud Finder.","N/A",$49.99,$77.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","3⁄4-HP Belt-Drive Garage Door Opener with Camera.","N/A",$449.99,$599.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Laundry Hampers, Basket, Sorter or Cabinets.","N/A",$11.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","WRANGLER DURATRAC RT","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Lunkerhunt Titan Ice Fishing Combo Kit, 24˝","N/A",$55.99,$69.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","26cm or 30cm Non-Stick Frypan.","N/A",$24.99,$34.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","80-Pc Screwdriver Set with Storage Bag.","N/A",$29.99,$79.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Pennzoil Platinum Synthetic Motor Oil","N/A",$38.99,$52.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Supersonic Hair Dryer.","N/A",$479.99,$579.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","4-Gallon Twin Stack Air Compressor","N/A",$349.99,$499.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","PowerLifter® Swivel Pet Bagless Upright Vacuum","N/A",$139.99,$199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Hand Vacuums or Steam Mop.","N/A",$79.99,$129.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Height-Adjustable Shop Stool. Dewalt","N/A",$129.99,$209.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","56˝ 9-Drawer Cabinet with Built-In Power Bar with USB. Up to 2000-lb caster capacity.","N/A",$799.99,$999.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","6´ Folding Table with Carry Handle.","N/A",$59.99,$79.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Yardworks 21˝ Snow Pusher.","N/A",$27.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Sienna Ice Combo Medium Heavy, 40˝","N/A",$84.99,$99.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Master Chef 5-Pk Kitchen Towels.","N/A",$9.99,$19.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Lagostina Pre-Seasoned Cast-Iron Reversible Grill 20 x 10.5˝.","N/A",$44.99,$69.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Nespresso Selected Vertuo Next Coffee and Espresso Machines.","N/A",$129.99,$229.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Milk Frother.","N/A",$119.99,$149.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Heavy-Duty Storage Tote.","N/A",$14.99,$24.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Linea Classic Espresso Machine.","N/A",$199.99,$249.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Type A Clear Tote. Wheeled.","N/A",$11.79,$18.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Starbucks by Nespresso Original Line Capsules","N/A",$8.99,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Ground or Instant Coffee and K-Cup® Pods","N/A",$6.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","La Specialista Opera Espresso Machine.","N/A",$899.99,$1199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Breville Barista Express® Espresso Machine.","N/A",$799.99,$999.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","FoodSaver VS1230 Space Saver Vacuum Sealer.","N/A",$99.99,$154.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","K-Crema Single-Serve Coffeemaker.","N/A",$199.99,$229.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","MASTER CHEF Selected Countertop Appliances.","N/A",$14.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Starbucks by Nespresso Vertuo Capsules, 8-Ct or 10-Ct.","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Thermometers and Kitchen Tools.","N/A",$13.99,$17.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","2-lb Bread Maker","N/A",$99.99,$159.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Starfrit 1.5L Deep Fryer with Variable Temperature Control.","N/A",$89.99,$99.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Global 5-Pc Knife Block Set.","N/A",$299.99,$499.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Salt & Pepper Sets","N/A",$7.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Coffee K-Cup® Pods, 30-Ct and 48-Ct.","N/A",$28.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Hamilton Beach Electric Knife Set.","N/A",$36.99,$49.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Kamenstein Salt & Pepper Grinder Set, Pre-Filled","N/A",$9.99,$18.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Starfrit Personal Blender with Locking Lid.","N/A",$19.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","CANVAS 4-Pc Herringbone Bakeware Set","N/A",$35.99,$64.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","T-fal AirGrip 24cm and 28cm Frypan Set.","N/A",$29.99,$49.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Motomaster Selected Grease and Small Engine Oils.","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Car Cleaning Products.","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Dash Cams or AutoStart System Kit*.","N/A",$93.74,$153.74,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Summer by Ingenuity My Size Potty Pro 2-in-1 Toilet Training Seat.","N/A",$34.99,$39.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","FLEX G-36 Cellular Trail Camera","N/A",$169.99,$199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected AutoTrends Car Organizers or Certified Steering Wheel Lock","N/A",$11.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Aluminum Expandable Snow Shovel with Telescopic Handle.","N/A",$26.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Paderno Baking and Mixing Essentials.","N/A",$14.99,$19.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Crispi™ Air Fryer","N/A",$189.99,$219.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","type A Clear-View Wardrobe","N/A",$40.99,$52.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Champion Selected Champion and Warn Winches","N/A",$399.99,$549.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Woods Selected Air Beds and Mattress Toppers","N/A",$62.99,$84.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Harmony Commander 3-in-1 Booster Seat","N/A",$149.99,$189.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Armor All Carpet and Upholstery Cleaner, 510g.","N/A",$11.69,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Men's Winter and Work Boots. Selected styles and sizes.","N/A",$99.99,$149.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","CANVAS Robson Wide Bookcase","N/A",$199.99,$349.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Adjustable Walk-In Squat Rack and Pull-Up Bar.","N/A",$299.99,$399.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Premier Extra Interior Paint + Primer.","N/A",$59.49,$69.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","DEWALT 5˝ Angle Grinder","N/A",$139.99,$159.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Mastercraft 180-Lumen LED Spotlight","N/A",$15.05,$30.05,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Funplay Foldable Double-sided Play Mat","N/A",$49.99,$59.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Marcy MWM-7072 Adjustable Power Cage.","N/A",$349.99,$449.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Sherwood Icon and Icon Pro Hockey Sticks.","N/A",$47.99,$59.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Celestron Game Camera or Spotting Scope.","N/A",$139.99,$239.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","12-Bin Organizer. Multi-colour or grey","N/A",$79.99,$99.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Moving Boxes.","N/A",$1.75,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Premium Four Season Suet Bird Blend","N/A",$2.29,$2.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Motomaster Selected Work Lights and Spotlight","N/A",$15.05,$23.05,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Shave + Groom Tool Kit with 9 Attachments.","N/A",$79.99,$119.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Basic Anti-Theft Steering Wheel Lock","N/A",$64.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Professional Grade Socket Sets","N/A",$179.99,$299.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected FRANK Bathroom Tissue and Paper Towel or Mega Paper Towels","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","For Living Selected Portable Heaters.","N/A",$23.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Dewalt 20V MAX Brushless 1⁄2˝ Drill/Driver, 1⁄4˝ Impact Driver and Oscillating Multi-Tool Combo Kit","N/A",$301.99,$451.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Temperature and Weather Stations.","N/A",$15.99,$22.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Delta In2ition 2-in-1 Shower Head, Chrome.","N/A",$35.99,$74.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","6˝ Digital Caliper with LCD Display","N/A",$19.99,$34.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Affresh Washing Machine Cleaner, 3-Pk.","N/A",$22.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Singer M3500 Sewing Machine.","N/A",$209.99,$229.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Laundry Detergent.","N/A",$14.99,$17.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Lagostina 8-Pc Classico Cookset","N/A",$149.99,$229.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Lagostina Pre-Seasoned Cast-Iron Frypan, 10˝","N/A",$19.89,$34.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Salton Variable-Temperature Electric Kettle","N/A",$64.99,$79.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Wahl 22-Pc Chrome Pro Haircutting Kit with Trimmer.","N/A",$36.99,$49.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Salton Power Blender","N/A",$129.99,$199.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected Laundry Products.","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Vermont Selected Premium Hardwood and Softwood Pellets","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Garmin DriveSmart 66 GPS Navigator.","N/A",$303.74,$343.74,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Selected MotoMaster Towing Ball Mounts.","N/A",$63.99,$79.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7727951,"Canadian Tire","N/A","Vtech 2-Handset Cordless Phone with Answering System.","N/A",$61.09,$81.09,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","TOFU MIEUX-ÊTRE | LIFE SMART TOFU","N/A",$2.69,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","SOUPE PRÊTE-À-SERVIR AMY'S | AMY'S READY TO SERVE SOUP","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","NOIX MÉLANGÉES PRANA | PRANA MIXED NUTS","N/A",$5.49,$6.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","SAUCISSES À BASE DE PLANTES BEYOND MEAT | BEYOND MEAT FROZEN PLANT-BASED SAUSAGES","N/A",$9.99,$11.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","PAIN TRANCHÉ PREMIÈRE MOISSON | PREMIÈRE MOISSON SLICED BREAD","N/A",$3.49,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","MÉLANGE À CRÊPES ET À GAUFRES FLOURISH | FLOURISH PANCAKE AND WAFFLE MIX","N/A",$11.49,$13.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","GRAINES DE CHANVRE HEMP HEARTS | HEMP HEARTS HEMP SEEDS","N/A",$8.99,$10.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","YOGOURT GREC OÎKOS DANONE | DANONE OÎKOS GREEK YOGURT","N/A",$7.79,$8.59,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","BOULETTES À BASE DE PLANTES MIEUX-ÊTRE | LIFE SMART FROZEN PLANT-BASED MEATBALLS","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","LAIT FAIRLIFE | FAIRLIFE MILK","N/A",$7.49,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","YOGOURT BALKAN ASTRO ORIGINAL | ASTRO ORIGINAL BALKAN YOGURT","N/A",$3.99,$4.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","TEMPEH NOBLE BEAN | NOBLE BEAN TEMPEH","N/A",$4.99,$5.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","FROMAGE MIEUX-ÊTRE | LIFE SMART CHEESE","N/A",$11.48,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","HUMMUS IRRÉSISTIBLE | IRRÉSISTIBLE HUMMUS","N/A",$3.49,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","FROMAGE BERGERON | BERGERON CHEESE","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","LÉGUMES MIEUX‑ÊTRE, BIOLOGIQUE, IRRÉSISTIBLE | LIFE SMART, ORGANIC, IRRÉSISTIBLE VEGETABLES","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","BAGUETTE AU LEVAIN PREMIÈRE MOISSON | PREMIÈRE MOISSON SOURDOUGH BAGUETTE","N/A",$3.49,$3.89,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","LÉGUMINEUSES MIEUX-ÊTRE BIOLOGIQUE | LIFE SMART ORGANIC LEGUMES","N/A",$1.99,$2.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","CÉRÉALES SELECTION | SELECTION CEREAL","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","DÎNER DR. ISABELLE | DR. ISABELLE FROZEN DINNER","N/A",$8.49,$9.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","MINI-FROMAGES BABYBEL | BABYBEL MINI CHEESES","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","BOISSON DE SOYA BIOLOGIQUE NATUR-A | NATUR-A ORGANIC SOYA DRINK","N/A",$2.99,$3.79,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746342,"Metro","N/A","SAUCISSES VÉGÉTALIENNES MIEUX-ÊTRE | LIFE SMART VEGAN SAUSAGES","N/A",$5.99,$6.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
