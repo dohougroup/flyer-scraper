@@ -149,9 +149,233 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7746488,"Walmart","N/A","Valentine gifts","N/A",$14.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","Dare Meteo or Maxi Fruits cookies","N/A",$3.78,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746488,"Walmart","N/A","CEBORY 3-IN-1 Stand Mixer","N/A",$159.89,$399.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Gaviscon Regular fruit blend soothing antiacid 600ml","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","VALDA, Lozenges, 50 units","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","EMERGEN-C Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","TYLENOL Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ADVIL Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SPEED STICK or LADY SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CAPRINA","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DAWN Dishwashing liquid, 431 ml or 473 ml","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","PROBACLAC Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","TUMS, Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","FINISH, Powerball All In 1 Max, Dishwasher detergent, 55 tabs","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Back and muscle pain, 120 g or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","BUCKLEY'S, Selected syrups, 250 ml","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CAPRINA Selected products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","L'ORÉAL PARIS, Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","BON AMI Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DOVE MEN CARE Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules or Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ESSENTIEL, Bathroom tissue, 8 double rolls or Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SIMILAC, Powdered infant formula, 850 g","N/A",$33.99,$38.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","LADY SPEED STICK, Selected antiperspirants or deodorants","N/A",$2.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Advil Cold & Sinus analgesic and decongestant non-drowsy caplets","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","L'ORÉAL PARIS Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXISAL, Back and muscle pain, 18 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ABREVA Cold sore treatment, 2 g","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","CENTRUM Selected vitamin and mineral supplements","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","La Parisienne Biodégradable fabric softener Sunshine 60 loads 1.44L","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752510,"Familiprix","N/A","CASCADES Fluff, Bathroom tissue, 24 jumbo rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","FRUCTIS, Shampoo or conditioner, selected sizes","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","POLIDENT, Selected denture cleaners","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SENSODYNE Selected toothpastes","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","LA PARISIENNE, Liquid detergent","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DOVE MEN CARE, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","DEPEND or POISE, Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752510,"Familiprix","N/A","SPONGE TOWELS, Ultra Pro, Paper towels, 6 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ALWAYS Selected products","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","ESSENTIEL Tissues, 6 packs","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Scrubbing Bubbles rainshower mega shower foamer 946ml","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Centrum Women Multigummies multivitamin & mineral supplement cherry berry and orange","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","Tampax tampons regular abs 40un","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","FANTASTIK, SCRUBBING BUBBLES, BON AMI or WINDEX, Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752510,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 100 caplets or tablets, 325 mg, 120 tablets or Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 100 caplets caplets or tablets, 325 mg, 120 tablets or Arthritis pain, 650 mg, 50 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","TUMS Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","Probaclac Travelers 9 probiotic strains vegetable capsules","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","EMERGEN-C Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ADVIL, Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ROBAX, Platinum, ROBAXACET or ROBAXISAL, Back and muscle pain, 18 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","VALDA Lozenges, 50 units","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GELOMYRTOL Bronchi and sinuses, 300 mg, 50 capsules","N/A",$32.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GAVISCON, For acid reflux and heartburn, selected products","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","BUCKLEY'S, Selected syrups, 250 ml","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ADVIL, Cold and sinus, 40 caplets","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","VOLTAREN, Back and muscle pain, 120 g ou/or 150 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752488,"Familiprix","N/A","CASCADES, Fluff, Bathroom tissue, 24 jumbo rolls or SPONGE TOWELS, Ultra Pro, Paper towels, 6 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","CENTRUM, MultiGummies Selected vitamin and mineral supplements","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","Tylenol cold & sinus daytime and nighttime extra strength caplets 40un","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","DEPEND or POISE Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752488,"Familiprix","N/A","ABREVA Cold sore treatment, 2 g","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ORAJEL, Anticavity fluoride toothpaste gel, 119 g","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","DIVA, Culotte Reusable period underwear, 1 unit","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","HYDRASENSE, Eye drops, 2 x 10 ml","N/A",$18.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","STYLÉ, Collection Mini, Selected jewelry","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","JERGENS, Moisturizer oil infused, 620 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","CELLA'S, Cherries covered chocolate, 141 g","N/A",$3.49,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Dove hypoallergenic body wash sensitive skin 325ml","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ESSENTIEL Moisturizing lotion 532 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","AVÈNE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$23.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BAND-AID, Selected adhesive bandages","N/A",$6.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","CENTRUM, Selected vitamin and mineral supplements","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FREDDO Milk chocolate with a irresistible smooth centre, 80 g","N/A",$4.99,$5.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","COMPOUND W, Skin tag remover, 8 applications or Freeze Off, Wart removal system, 15 treatments""","N/A",$29.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC, Acid reducer, 50 tablets","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC, Lubricant jelly, 225 g","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","HAMLET, Chocolate candy pralines, 200 g","N/A",$10.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC Lozenges","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","POLYSPORIN, Selected products, 30 g","N/A",$13.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","NESTLÉ, Milk chocolate, 30 mini bars","N/A",$10.49,$10.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","URIAGE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Pantene Pro-V Miracles regenerative oil blend shampoo for extremely damaged hair 400ml","N/A",$10.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","URIAGE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Benylin Chest Congestion & Cold extra strength syrup 250ml","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","AVENT Selected baby products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ON ALMOST EVERYTHING","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Biomedic heating cream extra strength 100g","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LAURA SECORD, Milk chocolate, 110 g","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FERRERO ROCHER, Fine hazelnut chocolate, 100 g","N/A",$8.99,$11.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ADRIEN GAGNON","N/A",$17.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Ö HYDRATION Vitamin water, 4 x 355 ml","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","EDGE or SCHICK Selected products","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SENSODYNE, Clinical White, Daily toothpaste, 75 ml","N/A",$8.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","STYLÉ Selected women's socks","N/A",$21.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","STYLÉ Selected women's socks","N/A",$21.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LE GOURMET Milk chocolate hearts, 24 g","N/A",$2.49,$3.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","CLAIROL, Selected colors","N/A",$6.97,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",$11.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GLYSOMED Hand cream, 200 ml or foot balm, 120 ml","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","McCORMICKS Cinnamon hearts, 300 g","N/A",$5.19,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","DOVE MEN CARE Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LYSOL Selected disinfecting products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","POUR EXTRA HOLISTA or WEBBER NATURALS, Selected products","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","TUMS, Selected antacids","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","COVERGIRL Selected makeup products","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","AVEENO Selected products","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC first aid products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BREATHE RIGHT, Nasal strips, 26 or 30 unités","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Biomedic day/night cold medication caplets combo pack 20un","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SIMILAC Powdered infant formula, 850 g","N/A",$33.99,$38.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SCOTTIES, Ultra Soft, Tissues, 4 x 52 units","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","MARCELLE On selected makeup products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","DOVE Body wash, 325 ml","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIO-K+ On selected probiotics","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FREDDO Milk chocolate with a irresistible smooth centre, 80 g","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","RELAXA Laxative, 510 g or 30 sachets x 17 g","N/A",$20.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BAUSCH + LOMB Selected products","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BRAUN AgePrecision, Digital termometer","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","POISE Selected products and sizes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FERRERO ROCHER, Chocolate bar, 90 g","N/A",$3.99,$4.89,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","STYLÉ, Collection Mini, Selected jewelry","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","MYOFLEX, Extra strength, Pain relief rub, 100 g","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","EMERGEN-C, Selected vitamin and mineral supplements","N/A",$12.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ADRIEN GAGNON","N/A",$11.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Ferrero Rocher Ferrero Rocher fine hazelnut chocolates 200g","N/A",$10.49,$14.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GILLETTE, Selected cartridges","N/A",$46.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","TYLENOL, Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BLISTEX Selected lip care products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LAURA SECORD Fruity harvest jelly treats, 200 g","N/A",$10.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LINDT, Assorted chocolates, 103 g","N/A",$7.79,$9.69,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","RHINARIS, Nasal spray, 10 ml","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BENYLIN, All-in-one, Selected products","N/A",$13.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","AVEENO, Selected products","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","MARCELLE On selected makeup products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","MARCELLE On selected makeup products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","L'ORÉAL PARIS","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","PRINGLES, Chips, 148 g","N/A",$2.99,$3.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ENERGIZER, Hearing aid batteries, pack of 8","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","MAYBELLINE NEW YORK, Selected makeup products","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","EDGE or SCHICK Selected products","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LABORATOIRE On selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","JOUVIANCE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BASE GLAXAL Moisturizing cream, 100 g or Lotion, 227 g","N/A",$9.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Nivea Express eye make-up remover Blue Cornflower Extract 125ml","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LAURA SECORD, Signature chocolates salted caramel, 240 g","N/A",$16.99,$18.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FANTASTIK, SCRUBBING BUBBLES, BON AMI or WINDEX, /Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC Anti-nauseant ginger","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BASE GLAXAL, Moisturizing cream, 100 g or Lotion, 227 g","N/A",$9.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LA PARISIENNE, or Fabric softener, selected sizes","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","PROBACLAC, Selected probiotics","N/A",$21.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GeloMyrtol bronchi & sinuses relief capsules","N/A",$32.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LABORATOIRE SUISSE selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ZÀINI, Chocolate, 154 g","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","NIVEA, NIVEA MEN or EUCERIN, Selected products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ESSENTIEL, Selected cleaning products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BASE GLAXAL, Moisturizing cream, 450 g","N/A",$20.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ESSENTIEL, Selected razors or cartridges","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","AVENT, Selected baby products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","On selected hair coloring and nail accessories","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","OLAY, Age defy, Soap, 4 x 90 g","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","METAMUCIL Fibre therapy, selected products","N/A",$24.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SENSODYNE, Selected toothpastes","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Jelly Belly Sour Pucker Up Lips Candy 79g","N/A",$2.99,$3.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","FANTASTIK, SCRUBBING BUBBLES, BON AMI or WINDEX Selected cleaning products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","TYLENOL or MOTRIN, Selected products for infants or children","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","NAIR, Selected hair removal products","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Insta-Dri, Nail polish","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Insta-Dri Nail polish","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SWICAL ENERGY Vitamins minerals and plant extracts","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LINDT, Lindor, Chocolate, 250 g","N/A",$27.49,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","STYLÉ, Selected women's socks","N/A",$21.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC, Cold + Sinus Plus, 40 caplets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GENACOL Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","WEBBER NATURALS, Selected products","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","CLARITIN, Allergy, 10 tablets","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIOMEDIC Glycerin suppositories USP, 12 units","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Essentiel mini liners regular 64un","N/A",$10.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","JOUVIANCE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","DOVE, Hand wash, 300 ml to 355 ml","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GENACOL, Selected products","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ADVIL, Ibuprofen, Children's, 230 ml or Junior, 40 tablets","N/A",$14.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","CHLORASEPTIC, Lozenges, 15 units","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIO-K+ On selected probiotics","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 32 capsules, Mini gels, 30 capsules or Nighttime, 20 capsules","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Munchkin weighted flexi-straw cup 6m+ 7oz","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","Biomedic extra strength muscle & back pain relief caplets 75un","N/A",$25.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","L'ORÉAL PARIS Selected hair products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$23.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","COVERGIRL Selected makeup products","N/A",$10.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","URIAGE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GARNIER Selected facial care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","SYSTANE Selected lubricant eye drops","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BAN, Selected antiperspirants or deodorants","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","BIORÉ, Blemish patches day and night, 30 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","WEBBER NATURALS Selected products","N/A",$15.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","STYLÉ, Collection Mini, Selected jewelry","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LABORATOIRE SUISSE On selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","DOVE or DOVE MEN CARE Soap, 12 x 106 g","N/A",$16.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","GILLETTE Selected antiperspirants or deodorants","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","NIVEA Selected products","N/A",$8.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","LAURA SECORD, Gift set, 3 pieces","N/A",$10.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752500,"Familiprix","N/A","CAPRINA, Selected products","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Breeze Dining Table - Dark Grey","N/A",$249.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Beautyrest World Class Majesty Medium Full Mattress","N/A",$879.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Haven Dual Power Reclining Sofa - Grey","N/A",$1299.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
@@ -302,10 +526,306 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7722560,"Leon's","N/A","Mackay Loveseat - Grey","N/A",$779.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Sealy Posturepedic® Correct Comfort 5 Medium Eurotop Twin Mattress","N/A",$599.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
 7722560,"Leon's","N/A","Kingsdown Mila Medium Queen Mattress","N/A",$549.00,N/A,"N/A",each,"N/A",2026-01-22T00:00:00-05:00,2026-02-11T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","OASIS REFRIGERATED FRUIT JUICE OR SMOOTHIE","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MARCANGELO SLICED ITALIAN DELI MEATS","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","STEFANO FAITA PASTA SAUCE","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","PAYSAN BRETON CREPES","N/A",$8.49,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LES INDISPENSABLES SUCCULENT","N/A",$6.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BEACH DAY EVERY DAY ALCOHOLIC DAY ALCOHOLIC MALT BEVERAGE","N/A",$22.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","VERACI WHITE OR RED WINE","N/A",$12.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","KIM PHAT SHIITAKE MUSHROOMS","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","KIM PHAT HEARTS OF PALM","N/A",$3.48,$5.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","YELLOW PEACHES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","FROMAGERIE BERGERON CLASSIQUE CHEESE","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","TACO BELL CREAMY SAUCE","N/A",$4.99,$5.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LAGABIÈRE NON-ALCOHOLIC BEER","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","AVEC MÉLANIE ASTROLOGICAL PLANT","N/A",$19.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","FRESH PORK OR CHICKEN BREAST SOUVLAKIS, PORK SHOULDER PICNIC ROAST OR FRESH BUTTERFLIED PORK TENDERLOIN","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MARCANGELO SEASONED CHICKEN BREAST STRIPS","N/A",$6.99,$8.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","C'EST PRÊT! À CUIRE FRESH BEEF ROSETTES","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","FREDDO TREATS","N/A",$5.79,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SUCCULENT","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SMOKY BAY RED WINE","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","COORS SELTZER ALCOHOLIC MALT BEVERAGE","N/A",$22.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","COMPLIMENTS ONION RINGS","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CHERRY RIVER MOCKTAIL NON-ALCOHOLIC FLAVOURED SPARKLING BEVERAGE","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LES INDISPENSABLES CACTUS OR SUCCULENT","N/A",$6.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","PAYSAN BRETON CREPES","N/A",$8.49,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","C'EST PRÊT! WRAP","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","HUNTER MARINE COOKED OCTOPUS LEGS","N/A",$23.99,$26.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MAPLE LEAF FLAKES OF MEAT","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BILOPAGE CRETONS","N/A",$5.49,$6.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","POST HONEYCOMB, SUGAR-CRISP, SHREDDIES (525 à 635 g) FORMAT FAMILIAL OU/OR ALPEN MUESLI (650 g) CEREAL","N/A",$5.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","KIM PHAT FROZEN PREPARED DISH","N/A",$9.98,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","COMPLIMENTS DE-ALCOHOLIZED BEER","N/A",$9.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ATTITUDE FRAÎCHE LETTUCE OR LETTUCE MIX WITH TOPPINGS","N/A",$4.99,$6.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","C'EST PRÊT! WRAP","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BREYERS FROZEN DESSERT","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SUNRYPE SLIM COCKTAIL OR FRUIT JUICE","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","GREEN OCEAN FROZEN BAY SCALLOPS","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","TACO BELL SEASONING MIX","N/A",$1.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","RICARDO FRESH STUFFED CHICKEN BREASTS","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","HORS SENTIERS NON-ALCOHOLIC BEER","N/A",$6.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","JP. CHENET ALCOHOL-FREE WINE","N/A",$10.99,$11.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","RICARDO PASTA SAUCE","N/A",$8.49,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BEIGNES D'ANTAN POTATO DONUTS","N/A",$6.99,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","COMMENSAL SOUP OR CREAM SOUP","N/A",$6.49,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ST-AMBROISE NON-ALCOHOLIC BEER","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ASIAN INSPIRATIONS FROZEN DISH","N/A",$5.99,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","STEFANO FAITA SPREAD","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","AU PAIN DORÉ CIABATTA","N/A",$2.99,$3.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MOX ARTISANAL MOCKTAIL","N/A",$10.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","FROMAGERIE FRITZ KAISER SLICED RACLETTE CHEESE","N/A",$4.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LAY'S CHIPS","N/A",$8.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CHERRY RIVER MOCKTAIL NON-ALCOHOLIC FLAVOURED SPARKLING BEVERAGE","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BODYARMOR HYDRATION DRINK","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","STATERA PREMIUM MOCKTAIL","N/A",$6.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","STEFANO FAITA PASTA","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","STATERA PREMIUM MOCKTAIL","N/A",$6.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","TACO BELL SAUCE","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ACTIVIA PROBIOTIC AND PREBIOTIC YOGURT","N/A",$8.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MARUKAN RICE VINEGAR","N/A",$3.88,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MARCANGELO SLICED ITALIAN DELI MEATS","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7752410,"IGA","N/A","LACTANTIA MILK OR CHOCOLATE MILK","N/A",$5.99,$6.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MARCANGELO SLICED ITALIAN DELI MEATS","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ARCHIBALD DEALCOHOLIZED BEER","N/A",$20.99,$24.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","NON-ALCOHOLIC BEER","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SMOKY BAY ALCOHOL-FREE WINE","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","TRE STELLE CHEESE","N/A",$6.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SANS ALCOOL NON-ALCOHOLIC BEER","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","C'EST PRÊT! WRAP","N/A",$6.99,$7.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LA CUISINE A JEAN PHILIPPE FROZEN MEAL","N/A",$7.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","TACO BELL TACO KIT","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","PURINA FANCY FEAST CAT FOOD","N/A",$1.09,$1.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","INTERNATIONAL DELIGHT MOUSSE FROIDE (396 g) COFFEE ENHANCER","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","JELL-O REFRIGERATED DESSERT","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SANS ALCOOL NON-ALCOHOLIC BEER","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CLEANSEMORE RENEW LIFE","N/A",$37.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","KELLOGG'S EGGO FROZEN WAFFLES","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BRASSEUR DE MONTRÉAL NON-ALCOHOLIC BEER","N/A",$11.99,$15.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SMOKY BAY ALCOHOL-FREE WINE","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","RICARDO LAVA CAKES","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","TACO BELL TACO KIT","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MAPLE LEAF NATURAL SELECTIONS SHAVED OR SLICED DELI MEAT","N/A",$13.99,$15.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LAGABIÈRE NON-ALCOHOLIC BEER","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","PRINGLES MINGLES SNACKS","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","RICARDO FROZEN MEAL","N/A",$7.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ENSURE MEAL REPLACEMENT","N/A",$15.99,$19.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","TACO BELL SAUCE","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SALUS EPRESAT MULTIVITAMINS","N/A",$31.99,$35.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SOBER CARPENTER NON-ALCOHOLIC BEER","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LAC BROME FROZEN DUCKS LEGS OR BONELESS BREASTS","N/A",$32.99,$37.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ALCHIMISTE BEER","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","VEGA PLANT-BASED PROTEIN","N/A",$19.99,$21.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CHEEZ-IT CRACKERS","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BLASON ROUGE WHITE OR RED WINE","N/A",$12.49,$15.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ST-AMBROISE NON-ALCOHOLIC BEER","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","COMPLIMENTS DE-ALCOHOLIZED BEER","N/A",$9.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ASIAN INSPIRATIONS FROZEN DISH","N/A",$5.99,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","AGROPUR (400 L) OR HAVARTI MONSIEUR GUSTAV CHEESE","N/A",$3.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CLASSIC CHEESE OKA","N/A",$9.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BULLES DE NUIT NON-ALCOHOLIC SPARKLING WINE","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ALCHIMISTE NON-ALCOHOLIC BEER","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","PEPITO SANGRIA NON ALCOHOLIC BEVERAGE","N/A",$7.99,$8.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","HORS SENTIERS NON-ALCOHOLIC BEER","N/A",$6.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","YELLOW FLESH NECTARINES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ATYPIQUE NON-ALCOHOLIC FLAVOURED SPARKLING BEVERAGE","N/A",$7.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MAISON PERRIER CHIC FLAVOURED SPARKLING BEVERAGE","N/A",$7.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LANDISH COFFEE CREAMER OR CANADIAN PURE MARINE COLLAGEN","N/A",$42.99,$49.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BORÉALE HORS SENTIERS ALCOHOL-FREE BEER","N/A",$19.99,$21.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","A. VOGEL Rhume et grippe SORE THROAT SPRAY","N/A",$16.99,$18.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SOBER CARPENTER NON-ALCOHOLIC BEER","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SAPPORO NON-ALCOHOLIC BEER","N/A",$14.99,$15.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ROMEO'S NON-ALCOHOLIC SPARKLING COCKTAIL","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LAGABIÈRE NON-ALCOHOLIC BEER","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ENSURE MEAL REPLACEMENT","N/A",$15.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ATYPIQUE NON-ALCOHOLIC FLAVOURED SPARKLING BEVERAGE","N/A",$7.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CORDON BLEU SAUCE","N/A",$2.49,$2.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BLANC NON-ALCOHOLIC BEER","N/A",$14.99,$15.29,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","JP. CHENET ALCOHOL-FREE WINE 750 mL","N/A",$10.99,$11.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ATYPIQUE NON-ALCOHOLIC FLAVOURED SPARKLING BEVERAGE","N/A",$7.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ESTA SAUCE","N/A",$2.49,$2.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LES TROIS PIGNONS WHITE WINE","N/A",$12.49,$15.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CHAPMAN'S FROZEN DESSERT OR TREATS","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ARTISANAL MOCKTAIL","N/A",$10.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MOX ARTISANAL MOCKTAIL","N/A",$10.99,$13.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","TACO BELL SEASONING MIX","N/A",$1.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","JP. CHENET ALCOHOL-FREE WINE","N/A",$10.99,$11.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MARCANGELO PORCHETTA","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","STATERA NON-ALCOHOLIC GIN","N/A",$24.99,$29.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LAC BROME BONELESS DUCKS BREASTS","N/A",$39.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","RICARDO BROTH","N/A",$2.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BRASSEUR DE MONTRÉAL NON-ALCOHOLIC BEER","N/A",$11.99,$15.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","HEINEKEN NON-ALCOHOLIC BEER","N/A",$22.99,$27.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","ROMEO'S NON-ALCOHOLIC SPARKLING COCKTAIL","N/A",$8.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MR. NOODLES BOWL INSTANT NOODLES","N/A",$4.98,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BORÉALE HORS SENTIERS NON-ALCOHOLIC BEER","N/A",$6.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","NOW PURE SWEET ALMOND OIL","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LAURA SECORD CHOCOLATE","N/A",$8.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","RICARDO FROZEN PIZZA","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CHEEZ-IT SNAP'D CRACKERS","N/A",$6.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","TACO BELL SAUCE","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LAGABIÈRE NON-ALCOHOLIC BEER","N/A",$5.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","HERBASANTÉ ALTERRA CHOLESTER-AID","N/A",$46.99,$54.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","CHERRY RIVER MOCKTAIL NON-ALCOHOLIC FLAVOURED SPARKLING BEVERAGE","N/A",$12.99,$14.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","BORÉALE HORS SENTIERS NON-ALCOHOLIC BEER","N/A",$6.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","FERRERO COLLECTION, ROCHER TREATS","N/A",$15.99,$17.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","MAISON PERRIER CHIC FLAVOURED SPARKLING BEVERAGE","N/A",$7.99,$9.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","STATERA PREMIUM MOCKTAIL","N/A",$6.50,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LA PLANCHE SLICED DELI MEATS","N/A",$20.99,$24.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","SANS ALCOOL NON-ALCOHOLIC BEER","N/A",$7.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","TACO BELL TACO KIT","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7752410,"IGA","N/A","LAURA SECORD CAKE OR MOUSSE","N/A",$18.49,$18.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Vale Dining Table, Wood, 72""W - Brown","N/A",$1295.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Midea 18 Cu. Ft. Top-Freezer Refrigerator - MRT18S4AWW","N/A",$729.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Huntley 59"" Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 65""- White","N/A",$569.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Yorkdale 6-Drawer Platform Bed with Headboard & Storage Frame, Made in Canada, Grey - Queen Size","N/A",$699.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Devon 5pc Dining Set with Table & 4 Chairs - 60""W, Wood - Dark Brown","N/A",$595.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Made in Canada Febe 100"" Chenille Fabric Sofa with Flared Arms and Accent Pillows - Charcoal Grey","N/A",$999.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Zoe Dining Chair with Polyester Fabric & Channeled Tufting, Metal - Ivory","N/A",$165.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Whirlpool 4.8 Cu. Ft. Top Load Washer and 7 Cu. Ft. Electric Dryer with AutoSensing - White","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Chelsea 5pc Bedroom Set with Storage Bed, Dresser & Mirror, Cherry Brown - Queen Size","N/A",$1899.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Maytag 5.8 Cu. Ft. Pet Pro Smart Front-Load Washer - Midnight Steel - MFW7020RF","N/A",$1395.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Tavo 7pc Dining Set with Table & Chairs, 63-79""W Extension, Metal - Grey & Black","N/A",$1399.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Devon 7pc Dining Set with Table & 6 Chairs - 60""W, Wood - Dark Brown","N/A",$793.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Astro Dining Chair with Curved Spindle-Back - Black","N/A",$125.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Spencer 20"" Accent Table - Brown","N/A",$59.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LumiSource Lombardi Faux Leather Mid-Century Modern Adjustable Barstool - Walnut/Grey","N/A",$199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Tempur-Pedic® TEMPUR Support® Firm King Mattress","N/A",$2599.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 6.3 Cu. Ft. Smart Electric Range with Air Fry - Fingerprint Resistant Stainless Steel - LREN6325XE","N/A",$1395.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Plum 6pc Dining Set with Table, Bench & 4 Chairs, Wood, Live-Edge Look, 70.75""W- Nutmeg Brown","N/A",$1399.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Westinghouse 43"" QLED 4K UHD Smart Roku TV (WR43QC5500) - 2025 Model","N/A",$308.45,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","TCL 50"" S551G LED 4K UHD Smart Google TV (50S551G-CA)","N/A",$386.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Stearns & Foster Founders Collection Cardiff City Eurotop King Mattress","N/A",$2329.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Chelsea Platform Storage Bed with Headboard & Frame, Cherry Brown - Queen Size","N/A",$799.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Talia 5pc Dining Set with Table & 4 Chairs, 60-78""W Extension - Grey/Brown","N/A",$795.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 7.3 Cu. Ft. Electric Dryer with AI Sensing and ThinQ® - Platinum Black - DLE8200L","N/A",$945.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","The Brick Oscar 47"" Reversible Office Desk with 3-Drawers - White","N/A",$169.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Chateau d'Ax Lusso 92"" 100% Genuine Leather Sofa with Wood Legs - Smoke Grey","N/A",$1199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Beautyrest GL4 Eurotop Firm King Mattress","N/A",$979.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Mehgan 43.8"" Modern Electric Fireplace - White & Brown Two Tone","N/A",$499.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Paseo Upholstered Platform Bed in Navy Fabric - Queen Size","N/A",$299.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Stearns & Foster Founders Collection Derby County Eurotop Queen Mattress","N/A",$2099.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Clark 60"" Genuine Leather Loveseat with Button Tufting Charcoal","N/A",$979.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Chelsea 7pc Dining Set with Table & 6 Blue Chairs, 60""W - Walnut Brown","N/A",$989.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 4.8 Cu. Ft. Top-Load High-Efficiency Washer - White - WT6105CW","N/A",$745.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Echo 5pc Dining Table Set with Table & 4 Chairs, Storage Drawers, Trestle Base, 70""W - White/Grey","N/A",$899.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Loft 47.24"" Height-Adjustable Office Desk with Storage and Wireless Charging - Natural","N/A",$489.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Aurora 72"" Modern Electric Fireplace TV Stand with Storage & Cable Management for TVs up to 80""- As","N/A",$749.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Hisense 36"" 26.6 Cu. Ft. French-Door Refrigerator - Titanium - RF27A3FSE","N/A",$1539.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Midea 10.3 Cu. Ft. Convertible Chest Refrigerator-Freezer - MRC10M4CWW","N/A",$389.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Vale 7pc Dining Set with Table & 6 Chairs, Wood, 72""W - Brown & Beige","N/A",$1593.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Envy 5-Piece Right-Facing Chenille Fabric Sleeper Sectional with Storage Chaise - Fog Grey","N/A",$2899.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Robin 70"" Modern Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 80""- White","N/A",$849.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Oscar Owen 22.5"" 2-Shelf Bookcase with File Drawer - Grey","N/A",$159.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Kort & Co. Kassia 80"" Linen-Look Fabric Condo Size Sofa with Wood Base and Legs - Orange","N/A",$879.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Made in Canada Morgan 2-Piece Right-Facing Chenille Fabric Sectional with Sofa and Accent Pillows - Grey","N/A",$1599.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Citadel 2-Piece Left-Facing Top-Grain Genuine Leather Sectional with Wood Legs - Grey","N/A",$1899.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","TCL 55"" Q65 QLED 4K UHD Smart Google TV (55Q651G-CA)","N/A",$616.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Frigidaire Gallery 6.2 Cu. Ft. Electric Range With Total Convection and Air Fry - Smudge-Proof® Stai","N/A",$1795.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Scott Living Dante 5pc Bedroom Set with Bed, Dresser & Mirror, Brown - King Size","N/A",$1499.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Silvia 48"" Modern Coffee Table - White and Grey Marble Look with Brown Wood Legs","N/A",$419.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","SAMSUNG 75"" U8000 Crystal 4K UHD Smart Tizen OS TV (UN75U8000FFXZC) - 2025 Model","N/A",$916.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Tulsa Upholstered Platform Bed in Grey Vegan-Leather Fabric, Button Tufted - Queen Size","N/A",$499.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Maytag 7.4 Cu. Ft. Pet Pro Smart Electric Dryer - Midnight Steel - YMED7020RF","N/A",$1195.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","SAMSUNG 55"" U8000 Crystal 4K UHD Smart Tizen OS TV (UN55U8000FFXZC) - 2025 Model","N/A",$516.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Springwall Red Cedar Tight Top Medium Twin Mattress-in-a-Box","N/A",$399.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Tavo 5pc Dining Set with Table & Chairs, 63-79""W Extension, Metal - Grey & Black","N/A",$1199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 33"" 25 Cu. Ft. Smart French-Door Refrigerator - Stainless Steel - LF25S6000S","N/A",$1635.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Oscar 47"" Reversible Office Desk with 3-Drawers - White","N/A",$199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 5.2 Cu. Ft. Front-Load Washer 7.4 Cu. Ft. Electric Dryer with AI - White","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Cami Dining Table with Genuine Marble Top, 70""W - White","N/A",$899.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Zao Dining Table with 66-94""W Extension, Melamine, Trestle Base - Brown","N/A",$799.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Scott Living Henri Bedside 2-Drawer Nightstand with USB Ports, 26""W x 26""H, Wood - Brown","N/A",$499.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 65"" B5 OLED 4K UHD evo AI Smart webOS TV (OLED65B5PUA.ACC) - 2025 Model","N/A",$1616.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Levi Platform Storage Bed with Headboard & Frame, Wooden, Drift Grey - Queen Size","N/A",$999.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Made in Canada Febe 49"" Chenille Fabric Chair with Flared Arms and Wood Legs - Charcoal Grey","N/A",$749.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Amanda 21.5"" Modern Square End Table - White Marble Top with Gold Metal Base","N/A",$279.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Beautyrest Black Signature Magenta Euro Pillowtop King Mattress","N/A",$1599.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Jace Upholstered Storage Platform Bed in Grey Fabric, Tufted - Queen Size","N/A",$699.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 30"" 21.8 Cu. Ft. French Door Standard-Depth Refrigerator - Stainless Steel - LFCS22520S","N/A",$1535.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Aspen 6pc Dining Package with 80-104""Extension Table, Bench & 4 Chairs, Fabric - Natural","N/A",$2049.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Linden 55"" Faux Leather Bench - Brown","N/A",$199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Morgan 16"" Rustic Powered Chairside Table with Storage - Dark Brown with Reclaimed Wood","N/A",$369.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Bristow 31"" Accent Cabinet with Shelves and Sliding Barn Door - White Oak","N/A",$179.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Gravity 6-drawer Dresser - Rubbed Black","N/A",$299.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Olivia 5pc Bedroom Set with Storage Bed, Dresser & Mirror, Made in Canada, White - Queen Size","N/A",$1399.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Samsung 5.4 Cu. Ft. Top-Load Washer - Black Stainless Steel - WA46CG3505AVA4","N/A",$895.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Samsung 24"" 44 dBA Built-In Top-Control Dishwasher with 3rd Rack - DW80B6060US/AC","N/A",$945.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Whirlpool 5.2 Cu. Ft. Smart Front-Load Washer with FreshFlow Vent System - White - WFW5720RW","N/A",$1045.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 7.4 Cu. Ft. Smart Electric Dryer - White - Stackable - DLE3600W","N/A",$1045.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Samsung 30"" 22.1 Cu. Ft. French-Door Refrigerator - Stainless Steel - RF22A4111SR/AA","N/A",$1535.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Cindy Crawford Home Aspen 3-Piece Power Reclining Sectional with Adjustable Headrests and USB Port - Alabaster","N/A",$2999.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Toreno 64"" Genuine Leather Reclining Loveseat - Brown","N/A",$1279.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Lappland 70"" Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 80""- Black","N/A",$949.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Proscan 55"" LED 4K UHD Smart Roku TV (PTRU5580)","N/A",$366.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 2.0 CH Bluetooth Dolby Atmos DTS:X Soundbar (SK1.ACANLLK)","N/A",$93.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Zao 5pc Dining Set with Table & 4 Chairs, 66-94""W Extension, Melamine - Brown","N/A",$1399.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Ella Panel Bed with Headboard & Frame for Kids, Chevron Pattern, White - Twin Size","N/A",$399.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Alwin Dining Table with Sintered Stone Top, Hourglass Base with Gold Accent - 47.25""W Round - Brown","N/A",$799.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 75"" UA7000 4K UHD Smart webOS TV (75UA7000PUB.ACC) - 2025 Model","N/A",$816.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Odesos 72"" Modern Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 80","N/A",$1299.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Breya 64"" Modern Electric Fireplace TV Stand with Storage & USB Charging for TVs up to 70""- Grey","N/A",$879.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Aspen 5pc Dining Package with 80-104"" Extension Table & 4 Chairs, Fabric - Natural","N/A",$1699.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Stearns & Foster Founders Collection Derby County Eurotop King Mattress","N/A",$2379.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Aimy 28"" Linen Look Fabric Accent Chair with Cylindrical Wood Legs - Orange","N/A",$199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Plum Dining Bench, Wood, Live-Edge Look, 47.25""W- Nutmeg Brown","N/A",$215.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Lark Panel Bed with Headboard & Frame, Chevron Pattern, Rustic White - Queen Size","N/A",$399.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Curt 41"" Genuine Leather Chair with Button Tufting - Black","N/A",$799.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Moon 78"" Fabric Curved Loveseat with Accent Pillows - Wooly Raven Black","N/A",$879.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Hugo 73"" Genuine Leather Power Reclining Loveseat with Power Headrests, Storage Console and USB Ports - Brown","N/A",$1979.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Alia Bedside 2-Drawer Nightstand with Gold Accent, 18""W x 25.75""H - Black","N/A",$199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Margo 59"" Glam Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 65""- Sil","N/A",$899.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Alwin 19.5 Modern Round End Table with White Sintered Stone Top - Brown","N/A",$259.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Velocity 24"" Ergonomic Gaming Chair - Black & Red","N/A",$124.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Citadel 28"" Top-Grain Genuine Leather Ottoman with Wood Legs - Grey","N/A",$299.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Scott Living Berwick ET Medium King Mattress","N/A",$1299.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Sealy Posturepedic® Bloomfield 2.0 Eurotop Queen Mattress","N/A",$699.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Tempur-Pedic® TEMPUR Support® Medium Queen Mattress","N/A",$2499.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Fawn Terrace 3-Piece Full/Queen Comforter Set - Warm Caramel","N/A",$99.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Keena 40"" Solid Wood Accent Cabinet - Grey","N/A",$499.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Kinsley 47.25"" Modern Sofa Table - Dark Brown Wood","N/A",$169.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Echo Dining Table with Storage Drawers, Wood, Trestle Base, 70""W - White/Grey","N/A",$499.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Proscan 2 x 15"" 120W Light Up Party Speaker with Bluetooth and Microphone","N/A",$353.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Charlie 3-Piece Twin Comforter Set - Grey","N/A",$59.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Samsung HW-B650F 3.1-Channel 370 W Soundbar with Wireless Subwoofer","N/A",$353.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Westinghouse 50"" QLED 4K UHD Smart Roku TV (WR55QC5500) - 2025 Model","N/A",$416.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Levi 5pc Bedroom Set with Storage Bed, Dresser & Mirror, Wooden, Drift Grey - Queen Size","N/A",$1899.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Samsung 7.4 Cu. Ft. Electric Dryer - Black Stainless Steel - DVE47CG3500VAC","N/A",$795.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Garbo 7pc Dining Set with Table & 6 Chairs, Glass Insert, Pedestal Base, Glam, 78.75""W - White","N/A",$1499.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Kate 5pc Bedroom Set with Bed, Dresser & Mirror, Grey/Brown - Queen Size","N/A",$895.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Profile 1.8 Cu. Ft. Over-the-Range Microwave with Convection and 400 CFM - Stainless - PVM1899SJC","N/A",$845.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Samsung 6.3 Cu. Ft. Smart Electric Slide In Range with Voice Control - Stainless Steel - NSE6DG8100","N/A",$1495.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Talia Dining Table with 60-78""W Extension - Brown","N/A",$399.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Hugo 84"" Genuine Leather Power Reclining Sofa with Power Headrests, Dual Cupholders and USB Ports - Brown","N/A",$1499.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Garbo 5pc Dining Set with Table & 4 Chairs, Glass Insert, Pedestal Base, Glam, 78.75""W - White","N/A",$1299.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","LG 6.3 Cu. Ft. Smart Electric Range with Air Fry - Stainless Steel - LREN6323YE","N/A",$1145.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Kendal 31.5"" Modern Round Glass Top Coffee Table with Casters - Black","N/A",$169.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Westinghouse 50"" QLED 4K UHD Smart Roku TV (WR50QC5500) - 2025 Model","N/A",$366.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Eva 29.5"" Faux Suede Power Reclining Chair - Dark Grey","N/A",$599.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Casey 50"" Rustic Sofa Table with Storage and Shelf - Brown Wood","N/A",$479.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Olivia Platform Storage Bed with Headboard & Frame, Made in Canada, White - Full Size","N/A",$799.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Morgan 48"" Rustic Coffee Table With Storage, Shelf and Casters - Dark Brown with Reclaimed Wood","N/A",$519.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Axel 74"" Modern Electric Fireplace TV Stand with Storage and Cable Management for TVs up to 85""- Taupe","N/A",$1099.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Montana 43.5"" Rustic Electric Fireplace - Grey Stone","N/A",$999.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Midea 30"" 18.4 Cu. Ft. French-Door Refrigerator - Stainless Steel - MRF18B4AST","N/A",$1039.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Willow 40"" Light Grey Fabric Chair with Track Arms and Reversible Seat and Back Cushions","N/A",$529.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","SAMSUNG B-Series 2.1 Channel Soundbar with Wireless Subwoofer (HW-B550F/ZC)","N/A",$203.70,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Kort & Co. Kassia 65.4"" Linen-Look Fabric Loveseat with Wood Base and Legs - Blue","N/A",$879.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Kort & Co. Kassia 40.9"" Linen-Look Fabric Chair with Wood Base and Legs - Blue","N/A",$679.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Zephyr Queen Platform Base","N/A",$299.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Plum 5pc Dining Set with Table & 4 Chairs, Wood, Live-Edge Look, 70.75""W- Nutmeg Brown","N/A",$1199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Ignatius 64"" Modern Electric Fireplace TV Stand with Storage & Cable Management for TVs up to 70","N/A",$699.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Lexi Dining Chair with Velvet-Look Fabric, Metal - Blue","N/A",$99.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Chelsea Dining Table, 60""W - Walnut Brown","N/A",$299.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Cedar 6pc Dining Set with Table, Bench & 4 Chairs, Pine Wood, Trestle-Base, 72.07""W - Brown","N/A",$2099.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Vikki 48"" Modern Oval Glass Top Coffee Table - Glass with Metal Base","N/A",$199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","SAMSUNG B-Series 2.1 Channel Soundbar with Wireless Subwoofer (HW-B550F/ZC)","N/A",N/A,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Chateau d'Ax Lusso 92"" 100% Genuine Leather Sofa with Wood Legs - Smoke Grey","N/A",$1599.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Midea 21 Cu. Ft. Convertible 2-in-1 Upright Refrigerator-Freezer - Stainless Steel - MRU21B6ASL","N/A",$939.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Scott Living Henri 5pc Bedroom Set with Bed, Dresser & Mirror, Wood, Brown - Queen Size","N/A",$2199.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Springwall Odell Eurotop Twin Mattress","N/A",$249.95,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
+7735346,"The Brick","N/A","Whirlpool 24"" 47 dBA Built-In Top-Control Dishwasher - Fingerprint Resistant Stainless Steel - WDTA5","N/A",$795.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-09T23:59:59-05:00,"N/A",H3B2G7
 7746330,"Metro","N/A","PAINS DE GOBERGE | POLLOCK BREADS","N/A",$10.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746330,"Metro","N/A","CROISSANTS 100% BEURRE | 100% BUTTER CROISSANTS","N/A",$6.77,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746330,"Metro","N/A","FLOCONS DE GOBERGE À SAVEUR DE CRABE SELECTION | SELECTION CRAB FLAVOURED POLLOCK FLAKES","N/A",$10.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
@@ -452,6 +972,10 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7746330,"Metro","N/A","SÉBASTE CHASSE‑MARÉE | CHASSE-MARÉE REDFISH","N/A",$11.99,$12.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746330,"Metro","N/A","GOUDA MONSIEUR GUSTAV | MONSIEUR GUSTAV GOUDA CHEESE","N/A",$7.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7746330,"Metro","N/A","TOURNEDOS DE SAUMON | SALMON TOURNEDOS","N/A",$17.99,$19.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","BOLOGNE LESTERS | LESTERS BOLOGNA","N/A",$6.99,$7.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","LACTANTIA CRÈME SANS LACTOSE","N/A",$5.29,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","SAUMON ATLANTIQUE FUMÉ IRRÉSISTIBLE | IRRÉSISTIBLE FROZEN SMOKED ATLANTIC SALMON","N/A",$19.99,$21.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7746330,"Metro","N/A","CHARCUTERIE GRAN PIATTO MASTRO | MASTRO GRAN PIATTO DELI COLD CUTS","N/A",$10.49,$14.49,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","8-Pc Non-Stick Cookset","N/A",$119.99,$149.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","For Living Selected Office Chairs and Desk.","N/A",$99.99,$164.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","TG165-X Thermal Camera with MSX Technology.","N/A",$419.99,$589.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
@@ -602,3 +1126,65 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7727951,"Canadian Tire","N/A","Restore Nesting Tote","N/A",$14.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","De'Longhi La Specialista Arte Evo Espresso Machine","N/A",$699.99,$899.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
 7727951,"Canadian Tire","N/A","20V 1-Speed Drill Kit","N/A",$100.99,$150.99,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","CAMEMBERT ET BRIE PRÉSIDENT","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","CREVETTES D'ARGENTINE","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","THON RICAMAR ET MARATUN","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","NAWA HUILE D'OLIVE VIERGE","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","FADY MIEL","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","CREVETTES BLANCHE","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","SAUCE TOMATE ET PIZZA CAB","N/A",$1.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","OIKOS PRO 24G PROTÉINES","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","KAYNA CHEVEUX D'ANGE","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","PÂTE DIVELLA","N/A",$1.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","BLUETIDE SARDINES ENTIÈRES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","OIKOS PRO 19G ET 18G PROTÉINE","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","CREVETTES D'ARGENTINE","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","IÇIM TRIANGLE FROMAGE","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","MERGUEZ DE BOEUF","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","BIMO CROC MATIN","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","PILON DE POULET","N/A",$2.25,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","LA ROSINA COULIS DE TOMATES","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","COUSCOUS MOYEN ET FIN SALAM","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","BEATRICE LAIT DE BABEURRE","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","DANONE CRÉMEUX","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","CUBE DE RAGOUT DE BOEUF","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","POITRINE DE POULET SANS OS SANS PEAU","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","SALAM SEMOULE","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","OLÉOR HUILE DE TABLE","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","MELON JAUNE","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","SALAM CHEVEUX D'ANGE","N/A",$1.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","ALSA LEVURE ET SUCRE VANILLE","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","JARRET DE BOEUF SANS OS","N/A",$7.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","CÔTELETTE D'AGNEAU","N/A",$13.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","COMPOTE AUX FRUITS GOGO SQUEEZ","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","OIKOS YOGOURT GREC","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","BIMO GALETTE SENIOR","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","MERGUEZ DE POULE","N/A",$5.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","NAYA EAU DE SOURCE NATURELL","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","NAWA HUILE D'OLIVE EXTRA VIERGE","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","POIRE ANJOU","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","DANONE DANINO","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","COEUR DE ROMAINE","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","POMME FUJI","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","ROSTOY JUS DE FRUITS","N/A",$2.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","SALMA OLIVES VARIÉS","N/A",$3.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","MOUTARDE FLEURIAL","N/A",$1.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","BIMO BISCUITS PÉPITES DE CHOCOLAT","N/A",$5.00,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","CHOU FLEUR","N/A",$1.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","NEBLIA DOUBLE CONCENTRÉ DE TOMATES","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","OLIVE & BRICHE HUMMUS","N/A",$3.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","FADY SUCRE LINGOTS","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","GIGOT ET ÉPAULE D'AGNEAU","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","ORANGE","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","CONTRE FILET DE BOEUF AAA","N/A",$11.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","PATATES JAUNE","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","RAISIN ROUGE","N/A",$1.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","PIMENT VERT","N/A",$1.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","CUBE DE FONDU DE BOEUF","N/A",$9.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","ESKA EAU PÉTILLANTE","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","PATATES BLANCHE","N/A",$2.49,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","FILLET DE SAUMON FRAIS","N/A",$8.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","NAYA EAU DE SOURCE NATURELL","N/A",$0.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","ICEBERG LETTUCE","N/A",$1.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","ESKA EAU DE SOURCE NATURELL","N/A",$4.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
+7756745,"Supermarche Aures","N/A","IÇIM LABNEH","N/A",$6.99,N/A,"N/A",each,"N/A",2026-01-29T00:00:00-05:00,2026-02-04T23:59:59-05:00,"N/A",H3B2G7
