@@ -7,112 +7,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7770508,"PetSmart","N/A","SHOP AQUATIC","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-15T23:59:59-05:00,"N/A",K1P1J1
 7770508,"PetSmart","N/A","SHOP BIRD","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-15T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Unknown Product","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Great Value chips","N/A",$1.57,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Dog Chow 8 kg","N/A",$17.97,$19.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Perfect Sports HULK clean mass gainer","N/A",$44.97,$49.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","PrettyLitter cat litter","N/A",$34.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Parent's Choice milk-based infant formula","N/A",$24.94,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Brar's ghee","N/A",$22.97,$29.47,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","NYX The Brow Glue","N/A",$13.77,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Dove x Crumbl body wash","N/A",$10.27,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Your Fresh Market­™ fully cooked entrees","N/A",$8.46,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Beyond Steak plant-based seared steak tips","N/A",$9.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Ol'Roy dry dog food","N/A",$27.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Beggin' dog treats","N/A",$7.97,$9.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Excel gum","N/A",$3.98,$4.88,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Cesar wet dog food","N/A",$1.34,$1.74,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Earth Rated dog shampoo","N/A",$11.97,$15.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","CRAVE single-serve frozen entrees","N/A",$3.97,$4.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Dove x Crumbl body wash","N/A",$10.27,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Joyburst hydration ready-to-drink","N/A",$7.97,$8.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Dove x Crumbl body scrub","N/A",$10.86,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Caledon Farms Plaque busters dental treats","N/A",$16.88,$18.87,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Friskies wet cat food","N/A",$0.90,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Long eggplant","N/A",$1.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Hangers 10-pack","N/A",$2.98,$3.78,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","naturSource salad topper","N/A",$10.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Verka spicy para snacks","N/A",$3.27,$3.77,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Olay Complete+ cream 251 mL or facial moisturizer with SPF40 177 mL","N/A",$19.98,$24.98,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Milk-Bone Soft & Chewy dog treats","N/A",$9.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Economy Cat dry cat food","N/A",$19.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","PrettyLitter cat litter","N/A",$34.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Olivieri fresh pasta sauce 300 ml","N/A",$5.27,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Milk-Bone Soft & Chewy dog treats","N/A",$9.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Lenny & Larry's Fitzels protein pretzels","N/A",$3.97,$4.47,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Fomin deodorant wipes","N/A",$6.94,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Hans Dahi 2% or 3.2% natural yogurt","N/A",$2.27,$2.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Hans Dahi 3.2% natural yogurt","N/A",$2.27,$2.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","SheaMoisture Coconut & Hibiscus shampoo","N/A",$13.96,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Special Kitty lightweight cat litter","N/A",$18.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Blue Buffalo dry cat food","N/A",$24.93,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Valentine's Day throws","N/A",$7.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Aussie Miracle Moist conditioner","N/A",$10.48,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Crest Pro-Health mouthwash 1 L or Complete toothpaste 3-pack","N/A",$8.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Olay Complete+ cream 251 mL or facial moisturizer with SPF40 177 mL","N/A",$19.98,$24.98,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Valentines games","N/A",$29.93,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Skinny girl salad dressing","N/A",$2.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Valentine plush couple","N/A",$14.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Silk plant-based beverage","N/A",$4.78,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Cesar wet dog food","N/A",$1.34,$1.74,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Selected video games for Nintendo Switch","N/A",$59.96,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Joyburst hydration ready-to-drink","N/A",$7.97,$8.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","NYX The Brow Glue","N/A",$13.77,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Nido 3+ Toddlers Nutritional Supplement 850 g","N/A",$24.97,$27.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Hallmark Valentine candles","N/A",$18.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Medicube collagen night wrapping mask","N/A",$31.49,$39.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Watson AC Food steamed rice roll","N/A",$7.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Valentine's Day throws","N/A",$7.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Valentine's Day extra large plush","N/A",$29.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Disney Mickey and Friends family matching character heart striped print ruffled sleeveless smocked Dress, cotton top and romper","N/A",$19.99,$49.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Adults' EZ ON athletic shoes","N/A",$32.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Gold or silver plated jewellery","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Native conditioner","N/A",$12.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Microfibre sheets set","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Men's soft wash tee","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Heated blankets","N/A",$99.89,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Kraft salad dressing","N/A",$3.24,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Hostess snack cakes","N/A",$2.78,$3.17,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Great Value thin crust frozen pizza","N/A",$4.17,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Kraft salad dressing","N/A",$3.24,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Bikaji snacks","N/A",$0.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Fleece zip hoodie","N/A",$18.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Watson AC Food Har Gow shrimp dumplings","N/A",$7.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Lucky Me! instant pancit canton noodles","N/A",$2.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Graco TrioGrow Snuglock 3-in-1 care seat","N/A",$329.97,$449.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","VTech VM5267 5"" digital video baby monitor with pan and tilt and night light","N/A",$99.74,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Crest Scope Outlast mouthwash 1 L or SD White Advanced toothpaste 135 mL","N/A",$5.97,$7.48,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Valentine novelties","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Pure Balance dog treats","N/A",$19.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Bonkers cat treats","N/A",$1.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Great Value chips","N/A",$1.57,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Fomin deodorant wipes","N/A",$6.94,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Sher durum atta","N/A",$12.98,$18.47,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Delectables Squeeze Up cat treats variety pack","N/A",$11.98,$13.48,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Delectables Squeeze Up cat treats variety pack","N/A",$11.98,$13.48,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","MCoBeauty peptide lip treatment","N/A",$11.96,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Bella Vita Luxury GLAM Long Lasting Perfume for Woman EDP","N/A",$34.79,$41.92,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","3-Drawer medium cart","N/A",$22.47,$29.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Zabiha Halal Juicy or Spicy Supreme chicken frankfurters","N/A",$6.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Gillette Fusion5","N/A",$19.77,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Icons Bouquet of Roses","N/A",$79.86,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Fleece zip hoodie","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Kettle Brand chips o Snyder's of Hanover pretzel pieces","N/A",$3.47,$3.68,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Women's ribbed tee","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Your choice blender","N/A",$29.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Women's ribbed tee","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Your Fresh Market 2-pack pasta 510 g","N/A",$5.27,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Joyburst hydration ready-to-drink","N/A",$7.97,$8.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","One Paw spring dog sweaters","N/A",$14.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Dial body wash","N/A",$3.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Infants' or toddlers' fleece hoodie","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Microfibre sheets set","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Women's ribbed tee","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Gold or silver plated jewellery","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Reser's family sized salads","N/A",$7.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Microfibre sheets set","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Men's soft wash tee","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Fleece joggers","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Indomie hot and spicy instant noodles","N/A",$3.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Adults' EZ ON athletic shoes","N/A",$32.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Crest Scope Outlast mouthwash 1 L","N/A",$5.97,$7.48,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Women's Mercie sterling silver gold vermeil pink heart pendant necklace","N/A",$36.99,$53.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -129,16 +23,19 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7765096,"Walmart","N/A","Gold or silver plated jewellery","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Microfibre sheets set","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Your Fresh Market™ Arabic-style pita bread","N/A",$2.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Verka cookies","N/A",$5.34,$6.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Crew-neck popover sweatshirt","N/A",$17.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Hostess snack cakes","N/A",$2.78,$3.17,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Deli Express bacon","N/A",$3.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Reser's family sized salads","N/A",$7.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Skater dress","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Gold or silver plated jewellery","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Men's soft wash tee","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Great Value cooked shrimp","N/A",$8.96,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","3-Drawer medium cart","N/A",$22.47,$29.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Zabiha Halal Juicy or Spicy Supreme chicken frankfurters","N/A",$6.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Gillette Fusion5","N/A",$19.77,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Icons Bouquet of Roses","N/A",$79.86,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Fleece zip hoodie","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Kettle Brand chips o Snyder's of Hanover pretzel pieces","N/A",$3.47,$3.68,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Women's ribbed tee","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Your choice blender","N/A",$29.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Women's ribbed tee","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Your Fresh Market 2-pack pasta 510 g","N/A",$5.27,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Infants' or toddlers' fleece hoodie","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Microfibre sheets set","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Women's ribbed tee","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","25 cm Non-stick multi-pan","N/A",$17.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Heated blankets","N/A",$99.89,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Fleece joggers","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -146,61 +43,119 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7765096,"Walmart","N/A","Ol'Roy Maximum dry dog food","N/A",$32.97,$36.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Ol' Roy dry dog food","N/A",$27.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Microfibre sheets set","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Sitara basmati rice","N/A",$11.97,$15.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Large Valentine plush","N/A",$14.48,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","The Face Shop rice water bright vegan cream","N/A",$28.94,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","NYX Lip Lingerie lip liner stain","N/A",$14.96,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Lenny & Larry's Fitzels protein pretzels","N/A",$3.97,$4.47,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Valentine's Day hedgehog dog toy","N/A",$4.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Dial body wash","N/A",$3.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Thayers facial toner","N/A",$17.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Nido 3+ Toddlers Nutritional Supplement 850 g","N/A",$24.97,$27.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Hallmark Valentine candles","N/A",$18.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Medicube collagen night wrapping mask","N/A",$31.49,$39.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Adults' EZ ON athletic shoes","N/A",$32.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Gold or silver plated jewellery","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Native conditioner","N/A",$12.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Microfibre sheets set","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Men's soft wash tee","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Heated blankets","N/A",$99.89,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Kraft salad dressing","N/A",$3.24,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Hostess snack cakes","N/A",$2.78,$3.17,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Great Value thin crust frozen pizza","N/A",$4.17,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Kraft salad dressing","N/A",$3.24,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Watson AC Food steamed rice roll","N/A",$7.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Valentine's Day extra large plush","N/A",$29.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","MCoBeauty peptide lip treatment","N/A",$11.96,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Bella Vita Luxury GLAM Long Lasting Perfume for Woman EDP","N/A",$34.79,$41.92,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Crest Scope Outlast mouthwash 1 L or SD White Advanced toothpaste 135 mL","N/A",$5.97,$7.48,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","e.l.f Cosmetics setting mist","N/A",$12.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Pure Balance dog treats","N/A",$19.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Hangers 10-pack","N/A",$2.98,$3.78,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","GENUINE HEALTH, Omega3+ Joy,Omega 3, 120 softgels","N/A",$45.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","GELOMYRTOL Bronchi and Sinuses, 300 mg, 20 Capsules","N/A",$18.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC, Lozenges, 16 units","N/A",$3.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","TENA or TENA MEN, Selected products","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC Cold and sinus relief combo or Extra strenght sinus medication, 20 caplets","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC Acetaminophen, 500 mg, 130 caplets tablets or caplets or 325 mg, 120 caplets tablets or caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BENYLIN Selected syrups, 100 ml","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ROBITUSSIN, Selected syrups, 100 ml or 115 ml","N/A",$8.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","COLD-FX, Selected products","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC, Cold and flu-in-one extra-strength or Flu, cough and cold complete day and night formula, 24 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ADVIL, Cold and sinus, selected products, 36 or 40 units","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","HERO, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","LAMBERT Natural syrup, 150 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","FISHERMAN'S FRIEND, Lozenges, 22 units","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","Cold-FX First Signs vegan capsules 48un","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BOIRON Syrup for children, 125 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC Pastilles Cough lozenges, 30 units","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","TENA or TENA MEN, Selected products","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","PEDIALYTE, Freezer pops, 16 x 62,5 ml or Advanced Care+, Powder sticks, 6 x 17 g or Oral rehydration solution, 1 litre","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","RICOLA, Pastilles, 34 or 45 units","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","RICOLA, Lozenges, 34 units","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","GENUINE HEALTH, Daily Omega3, Good health, 120 softgels","N/A",$27.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","WEBBER NATURALS Men's Health Maca vegetarian capsules 60un","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","GENUINE HEALTH Omega 3+ Joy Omega 3, 240 softgels","N/A",$81.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 50 tablets","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC Decongestant nasal spray 30 ml","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC, Cold sore treatment, 2 g","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ALIGN or VITOLI, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","Ricola cough suppressant throat lozenges - Honey Lemon with Echinacea 19un","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ENA, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ALIGN, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","NEO-LARYNGOBIS, Suppositories, 2 units","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BONTÉ,Lozenges, 20 units","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BOIRON, Syrup for children, 125 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","FORTIN Selected syrups, 500 ml","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","PROSPAN by HELIXIA","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","WEBBER NATURALS, Maca for women or men, 60 capsules","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","VITOLI, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","VOLTAREN Emulgel, Back and Muscle Pain Relief, 100 g or VOLTAREN No Mess Applicator, 75 g or VOLTACARE Cooling Pain Relief Cream, 65 g","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","Systane Ultra high performance lubricant eye drops 10ml","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","CASHMERE Bathroom Tissue, 24 Double Rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC, Diarrhea relief, 2 mg, 12 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BOOST, replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Special Kitty lightweight cat litter","N/A",$18.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Beggin' dog treats","N/A",$7.97,$9.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Purple passion fruit","N/A",$0.53,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Puppy Chow 6.5 kg","N/A",$17.97,$19.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Long squash","N/A",$1.27,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Tropicana Pure Premium juice","N/A",$4.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Brar's Rasmalai","N/A",$8.47,$9.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","HP LaserJet M110w printer","N/A",$99.98,$199.98,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","SheaMoisture Jamaican Black Castor Oil masque","N/A",$14.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Crest Pro-Health mouthwash","N/A",$8.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Pampers super econo pack diapers","N/A",$34.97,$41.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Huggies Pull-Ups superpack training pants","N/A",$26.97,$32.98,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Valentine licensed trading cards","N/A",$3.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Brar's Rasmalai","N/A",$8.47,$9.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Dove x Crumbl liquid hand soap","N/A",$3.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Core Power Elite protein milk shake","N/A",$5.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Garnier Whole Blends conditioner","N/A",$5.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Garnier Fructis shampoo 370 mL or conditioner 354 mL","N/A",$3.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Garnier Belle Color hair colour","N/A",$6.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Barebells protein bars","N/A",$15.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Crest Scope Outlast mouthwash 1 L","N/A",$5.97,$7.48,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Catelli Protein+ pasta","N/A",$3.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Allmax AllWhey protein powder","N/A",$37.97,$46.17,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","e.l.f. Cosmetics Soft Glam concealer or corrector","N/A",$5.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Verka Gol Gappa 175 g","N/A",$2.12,$3.47,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Catelli Protein+ pasta","N/A",$3.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Lenny & Larry's Fitzels protein pretzels","N/A",$3.97,$4.47,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Nivea women's body wash 887 mL","N/A",$7.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","L'Oréal Paris Hair Expertise shampoo","N/A",$9.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Nivea men's body wash 887 mL","N/A",$7.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Olympic organic yogurt tubs","N/A",$4.78,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Great Value fully cooked pork back ribs","N/A",$8.46,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","L'Oréal Paris Hair Expertise conditioner","N/A",$9.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Garnier Whole Blends shampoo or conditioner","N/A",$5.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Nescafé Rich instant coffee","N/A",$6.44,$7.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","St. Ives body lotion","N/A",$4.93,$5.93,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Always Flexfoam pads 20s - 32s","N/A",$10.98,$11.93,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Remedy kombucha","N/A",$6.47,$8.37,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Lenny & Larry's Fitzels protein pretzels","N/A",$3.97,$4.47,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Cetaphil lotion 89 mL","N/A",$20.96,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Tropicana Pure Premium juice","N/A",$4.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Buckley's Complete nighttime syrup","N/A",$14.37,$15.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","La Cocina tortilla chips or Great Value salsa","N/A",$3.44,$3.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Ruffles chips","N/A",$2.97,$4.47,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","-35 °C Windshield washer fluid","N/A",$4.68,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Turtles heart chocolates","N/A",$11.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Medela Harmony manual breast pump with PersonalFit Flex","N/A",$49.94,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Zift Zillions of Gifts gift card","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Tide liquid laundry detergent 83 — 100 loads","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Buckley's Complete nighttime syrup","N/A",$14.37,$15.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Nintendo Switch console Plus Sports game and leg strap bundle","N/A",$419.96,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","65"" UHD Roku TV","N/A",$478.00,$648.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Sher Besan chana flour","N/A",$6.24,$7.44,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","iPhone 16 postpaid phone","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Rascals 8x wipes","N/A",$15.88,$17.88,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Kendamil whole milk powder infant formula","N/A",$44.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","UFile 2025","N/A",$23.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Mother's Magic puff pastry","N/A",$7.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","iPad Air 11"" Wi-Fi (M3) 128GB","N/A",$679.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Selected video games or Nintendo Switch","N/A",$59.96,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Smarties, Aero or KitKat Valentine candies","N/A",$7.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Gillette Fusion5 or Venus razors","N/A",$19.77,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Knorr chicken broth mix 1 kg","N/A",$8.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Bounty Select-A-Size paper towels 8 = 24 rolls","N/A",$22.47,$29.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Always Infinity Flexfoam pads 26s","N/A",$10.98,$12.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Rascals premium superpack overnight diapers 50s -58s","N/A",$21.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Rascals superpack diapers 56s - 64s","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Digital Simplicity 14-cup rice cooker","N/A",$64.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Good Start Plus step 1 ready to feed","N/A",$53.44,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Samyang Buldak spicy ramen","N/A",$6.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Fried dace with beans 184 g","N/A",$2.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Zift Zillions of Gifts gift card","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Nivea body lotion","N/A",$7.98,$9.48,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Dozen roses","N/A",$18.87,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","K-Express Essentials single-serve K-Cup coffee maker","N/A",$69.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Great Value nuts or trail mix","N/A",$5.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Valentine's Day throws","N/A",$7.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","McCain Superfries","N/A",$2.77,$4.68,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","e.l.f. Sept Cosmetics Soft Glam concealer or corrector","N/A",$5.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Swiffer Dusters starter kit","N/A",$9.97,$12.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Hangers 10-pack","N/A",$2.98,$3.78,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Listerine mouthwash","N/A",$5.47,$7.78,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Beats Solo 4","N/A",$159.99,$229.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Cate & Chloe Waverly 18k White Gold Plated Heart Hoop Earrings","N/A",$23.99,$170.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","iögo nano drinkable yogurt","N/A",$4.68,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","GOOLOO Car Jump Starter,1500A Peak 12V Battery Jump Box","N/A",$46.99,$149.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","TRESemmé shampoo, conditioner or styling products","N/A",$7.27,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","La Cocina tortilla chips","N/A",$3.44,$3.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","International Delight coffee creamer 946 mL or cold foam 396 g","N/A",$5.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Monsieur Gustav gouda 170 g","N/A",$5.37,$7.18,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Softsoap hand soap refill","N/A",$6.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Listerine mouthwash","N/A",$5.47,$7.78,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","NEO-LARYNGOBIS, Suppositories, 2 units","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","DEGREE, Selected antiperspirants or deodorants","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","ESSENTIEL, Tissues, 9 packs or SPONGE TOWELS, Ultra or Ultra Pro, Paper towels, 3 double rolls","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -258,20 +213,65 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7773936,"Familiprix","N/A","RICOLA, Lozenges, 17 or 19 17 or 19 units","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","essentiel Denture cleanser 96 tablets","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","TIDE, Simply All in One, Laundry detergent, 2,72 litres","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","Essential Selected pads or liners","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","DEGREE,Selected antiperspirants or deodorants","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","SPONGE TOWELS, Ultra or Ultra Pro, Paper towels, 3 double rolls","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","""DOWNY FIREWORKS, In-wash scent booster, 379 g …""","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","AVÈNE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","NESCAFÉ, Rich instant coffee, 170 g","N/A",$6.99,$11.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","Essential Selected pads or liners","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","LISTERINE,Selected mouthwashes, 1,5 litre","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","AVEENO, OLD SPICE, SECRET or TENA, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","AVÈNE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","CASHMERE, Bathroom tissue, 24 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","TENA or TENA MEN","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","NESCAFÉ, Rich instant coffee, 170 g","N/A",$6.99,$11.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","LISTERINE,Selected mouthwashes, 1,5 litre","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","AVEENO, OLD SPICE, SECRET or TENA, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","DEGREE,Selected antiperspirants or deodorants","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","SPONGE TOWELS, Ultra or Ultra Pro, Paper towels, 3 double rolls","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","ALIGN, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","GENUINE HEALTH, Omega3+ Joy,Omega 3, 120 softgels","N/A",$45.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","GELOMYRTOL Bronchi and Sinuses, 300 mg, 20 Capsules","N/A",$18.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC, Lozenges, 16 units","N/A",$3.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","TENA or TENA MEN, Selected products","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC Cold and sinus relief combo or Extra strenght sinus medication, 20 caplets","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC Acetaminophen, 500 mg, 130 caplets tablets or caplets or 325 mg, 120 caplets tablets or caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BENYLIN Selected syrups, 100 ml","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ROBITUSSIN, Selected syrups, 100 ml or 115 ml","N/A",$8.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","COLD-FX, Selected products","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC, Cold and flu-in-one extra-strength or Flu, cough and cold complete day and night formula, 24 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ADVIL, Cold and sinus, selected products, 36 or 40 units","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","HERO, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","LAMBERT Natural syrup, 150 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","FISHERMAN'S FRIEND, Lozenges, 22 units","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","Cold-FX First Signs vegan capsules 48un","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BOIRON Syrup for children, 125 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC Pastilles Cough lozenges, 30 units","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","TENA or TENA MEN, Selected products","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","PEDIALYTE, Freezer pops, 16 x 62,5 ml or Advanced Care+, Powder sticks, 6 x 17 g or Oral rehydration solution, 1 litre","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","RICOLA, Pastilles, 34 or 45 units","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","RICOLA, Lozenges, 34 units","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","GENUINE HEALTH, Daily Omega3, Good health, 120 softgels","N/A",$27.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","WEBBER NATURALS Men's Health Maca vegetarian capsules 60un","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","GENUINE HEALTH Omega 3+ Joy Omega 3, 240 softgels","N/A",$81.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","TYLENOL, Acetaminophen, 500 mg, 50 tablets","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC Decongestant nasal spray 30 ml","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC, Cold sore treatment, 2 g","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ALIGN or VITOLI, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","Ricola cough suppressant throat lozenges - Honey Lemon with Echinacea 19un","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ENA, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ALIGN, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","NEO-LARYNGOBIS, Suppositories, 2 units","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BONTÉ,Lozenges, 20 units","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BOIRON, Syrup for children, 125 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","FORTIN Selected syrups, 500 ml","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC, Diarrhea relief, 2 mg, 12 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BOOST, replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","PROSPAN by HELIXIA","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","WEBBER NATURALS, Maca for women or men, 60 capsules","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","VITOLI, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","VOLTAREN Emulgel, Back and Muscle Pain Relief, 100 g or VOLTAREN No Mess Applicator, 75 g or VOLTACARE Cooling Pain Relief Cream, 65 g","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","Systane Ultra high performance lubricant eye drops 10ml","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","CASHMERE Bathroom Tissue, 24 Double Rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","BIOMEDIC, Selected multivitamins and minerals","N/A",$12.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","Collection Mini, Selected jewelry","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","REACTINE or BENADRYL, Selected products","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -428,11 +428,7 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7759414,"The Beer Store","N/A","BAVARIA PREMIUM","N/A",$12.62,$13.58,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","DAB EXPORT","N/A",$20.79,$22.79,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","BEAU'S LUG TREAD","N/A",$46.99,$50.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
-7759414,"The Beer Store","N/A","STEAM WHISTLE PILSNER","N/A",$46.99,N/A,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
-7759414,"The Beer Store","N/A","MOLSON CANADIAN","N/A",$47.99,$50.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
-7759414,"The Beer Store","N/A","MILLER HIGH LIFE","N/A",$42.99,$44.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","BUDWEISER","N/A",$47.99,$51.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
-7759414,"The Beer Store","N/A","MICHELOB ULTRA","N/A",$51.99,$54.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","SLEEMAN ORIGINAL LAGER","N/A",$37.99,$40.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","BUD LIGHT","N/A",$25.99,$26.49,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","SLEEMAN CLEAR 2.0","N/A",$51.99,N/A,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
@@ -442,6 +438,10 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7759414,"The Beer Store","N/A","8.6 CHERRY STRONG BEER","N/A",$2.54,$2.79,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","DAB EXPORT","N/A",$12.58,N/A,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","SLEEMAN ORIGINAL LAGER","N/A",$51.99,N/A,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
+7759414,"The Beer Store","N/A","MICHELOB ULTRA","N/A",$51.99,$54.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
+7759414,"The Beer Store","N/A","STEAM WHISTLE PILSNER","N/A",$46.99,N/A,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
+7759414,"The Beer Store","N/A","MOLSON CANADIAN","N/A",$47.99,$50.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
+7759414,"The Beer Store","N/A","MILLER HIGH LIFE","N/A",$42.99,$44.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7758613,"Leon's","N/A","SELECT BEDS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7758613,"Leon's","N/A","Sophie Mirror - Weathered Grey","N/A",$119.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7758613,"Leon's","N/A","Sophie Mirror - Weathered Grey","N/A",$119.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -592,6 +592,156 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7758613,"Leon's","N/A","Sassari Round Dining Table","N/A",$249.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7758613,"Leon's","N/A","Samsung White Front Load Washer with Shallow Depth (5.2 Cu.Ft) - WF45T6000AW/A5","N/A",$945.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7758613,"Leon's","N/A","San Mateo 6-Piece Queen Bedroom Package-Tuscan","N/A",$1999.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","MINI KALANCHOE","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","10 STEM TULIPS","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CLOVER LEAF WHITE TUNA, 170 G","N/A",$2.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® BACON WRAPPED STUFFED JALAPENO PEPPERS, 225 G OR PORK SAUSAGE ROLLS, 500 G","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® NATURAL SPRING WATER, 24X500 ML","N/A",$6.54,$7.98,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","30 PIECE WINGS & WEDGES BUCKET 1.2-2 KG","N/A",$20.00,$30.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® PREMIUM OR ELITE GIFTING BOUQUET","N/A",$35.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","KINGS HAWAIIAN ROLLS","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CORED PINEAPPLE","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","FANTINO AND MONDELLO SALAMETTI DICED OR SLICED, 100-200 G","N/A",$7.00,$8.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® PACIFIC WHITE SHRIMP RING WITH MILD COCKTAIL SAUCE, 568 G","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","FERRERO COLLECTION OR ROCHER HEART, 16'S","N/A",$12.00,$17.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® ENTRÉES, 770 G-1.13 KG","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BLUE DRAGON CHILI CRISP SAUCE, 180 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® COCKTAIL JUICE, 1.89 L","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","OGX, MAUI OR AVEENO HAIR CARE","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CALIFORNIA FAMILY PACK SUSHI, 654 G","N/A",$16.00,$18.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","NESTLÉ DRUMSTICK, 4'S OR CONFECTIONARY NOVELTIES, 4-10'S OR TUBS, 1.5 L","N/A",$5.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CHOCOLATE CROISSANTS, 4'S","N/A",$4.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ASTRO YOGURT TUBS, 650/750 G OR MINUTE MAID ZERO SUGAR DRINK, 1.54 L","N/A",$4.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CASCADE TUBS, 63/83/112'S","N/A",$27.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","SMALL FRUIT OR VEGETABLE PLATTERS, 818 G-1.04 KG","N/A",$15.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","KELLOGG'S EGGO WAFFLES, 8'S","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ANY 30-PIECE WINGS AND WEDGES BUCKET 1.2-2 KG, RUFFLES POTATO CHIPS OR DORITOS TORTILLA CHIPS 180-235 G, 1 L PEPSI","N/A",$22.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ROASTED GARLIC HUMMUS, 482 g","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CHEEZ-IT BAKED SNACK CRACKERS, 191/200 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","MCCAIN SUPERFRIES FAMILY PACK, 1.45-1.8 KG","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ACTIVIA® EXPERT - 4 X 100 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","VH® SAUCES, 341-380 ML","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","IVORY BODY WASH OR BAR SOAP","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","SPONGETOWELS® ULTRAPRO PAPER TOWEL, 8=16 ROLLS","N/A",$23.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","STOK® - 1.42 L","N/A",$7.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","DOVE BODY WASH, 905/950 ML OR BAR SOAP, 12X106","N/A",$13.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","KELLOGG'S FAMILY SIZE CEREAL, 450-650 G","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","OASIS 100% JUICE BLENDS, DEL MONTE NECTAR, HYDRAFRUIT OR ARIZONA TEA, 960 ML","N/A",$2.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","HEART SHAPE CAKES VANILLA OR CHOCOLATE, 462 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","YOPLAIT TUBES® 8 X 56 G, YOPLAIT MINIGO® 6 X 60 G","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PILLER'S CHARCUTERIE, 125 g","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BOOST READY TO DRINK SHAKES","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","THE SNACK FACTORY CHOCOLATE PRETZEL CRISPS, 155 G OR LESLEY STOWE RAINCOAST CRISPS, 150 G","N/A",$7.00,$8.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","DARE VEGGIE CRISPS, 100 G","N/A",$2.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","KASHI CEREAL, 349-510 G","N/A",$8.00,$9.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® DOUBLE CREAM BRIE, 170-200 G","N/A",$7.00,$8.79,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","SCOTTIES®' ULTRA SOFT FACIAL TISSUE, 4-PACK","N/A",$14.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® SHRIMP APPETIZERS, 294-454 G","N/A",$11.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","OLIVIERI PASTA, 250-350 G OR SAUCE 300 ML","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CHARMIN BATH TISSUE, 12=48 ROLL, SOFT","N/A",$18.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","THAI KITCHEN CURRY PASTE, 112 G","N/A",$4.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® MAYONNAISE, 750/890 ML","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ASSORTED SINGLE SERVE BAKERY ITEMS","N/A",$1.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","LECLERC GO PURE GRANOLA BARS, 140-175 G OR NUGABAR, 175 G","N/A",$7.50,$9.50,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","MINI CROISSANTS, 10'S SELECTED VARIETIES OR CINNAMON RAISIN, 468 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ACTIVIA® EXPERT - 750 G","N/A",$6.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CHEF BOYARDEE PASTA, 425 G","N/A",$2.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PARTY PLATTER, 696 G-1.15 KG","N/A",$30.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® DIPS, 200/227 G OR NAAN CRISPS, 170 G","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CASTELLO HAVARTI, 170-200 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","KELLOGG'S VECTOR GRANOLA, 311 G","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","POWERADE SPORTS DRINK, 24X591 ML","N/A",$23.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PILLER'S CHARCUTERIE, 175 G","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","MARIE MORIN CRÈME BRÛLÉE, SALTED CARAMEL CHEESECAKE OR CHOCOLATE GANACHE, 90 - 103 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","DAWN 2.21/2.64 L, MR. CLEAN LIQUID 2.93 L, SWIFFER DUSTER REFILLS 6/10'S, SWEEPER WET REFILLS 12/20/24'S, SWEEPER DRY REFILLS 16/20/32'S, WETJET REFILLS 12'S, POWERMOP REFILLS 5'S, WETJET LIQUID 2.5 L, POWERMOP LIQUID 2.5 L","N/A",$11.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CHARMIN BATH TISSUE, 12=48 ROLL, STRONG","N/A",$18.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","LIBERTÉ® MÉDITERRANÉE, 4 X 100 G","N/A",$4.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","20 STEM TULIPS WITH WILLOW","N/A",$22.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","LISTERINE CLASSIC, 1 L OR KIDS, 500 ML MOUTHWASH","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PARTY PLATTERS","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","FARMER'S MARKET™ CUPCAKES, 6/12'S","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","AXE BODY SPRAY, 113 G DEODORANT, 76/85 G OR BODY WASH, 473 ML","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","VALENTINE'S DAY VASE ARRANGEMENT IN GIFT BOX","N/A",$70.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","NO NAME® CHUNK OR FLAKED LIGHT TUNA, 170 G","N/A",$1.25,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","GENERAL MILLS CEREAL, 300-437 G","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","OIKOS® - 650 G, 750 G","N/A",$7.25,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","LINDOR HEART, 202G","N/A",$25.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ACE BAGUETTE, 325-400 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BUTTER CROISSANTS 12'S","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","D'ITALIANO GUSTO BAGELS, 6'S","N/A",$4.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CASTELLO SPECIALTY CHEESE, 170-200 G","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CHRISTIE OREO, CHIPS AHOY, FUDGEE-O OR NUTTER BUTTER COOKIES, 170-303 G","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","LINDT HEARTS OR TRUFFLES, 108/168 G","N/A",$15.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","SUMM! 6 PIECE SPRING ROLLS, 350G OR 10 PIECE GYOZA DUMPLINGS, 250G","N/A",$4.48,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","NESTLÉ JUNIORS, 30'S","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","LIBERTÉ® GREEK, 4 X 100 G","N/A",$4.25,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","SAPUTO CATHEDRAL CHEESE CHEDDAR, 200 g","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","GENERAL MILLS CEREAL, 300-437 G","N/A",$9.00,$11.58,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","LIBERTÉ® GREEK CRUNCH, 2 X 130 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ACTIVIA®, 8 X 93 ML","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CASTELLO BLUE CHEESE, 125 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","GLACEAU VITAMIN WATER, 591 ML","N/A",$5.50,$6.58,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ALEXIS DE PORTNEUF BRIE, 125 G","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","HABITANT SOUP, 796 ML","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BLACK DIAMOND CHEESTRINGS, 28 PK, 588 G","N/A",$11.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PILLSBURY CRESCENT OR WIENER WRAP, 200-235 G","N/A",$3.00,$4.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ACTIVIA® - 12 X 100 G","N/A",$7.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","HIGH LINER PAN SEAR OR SIGNATURE FISH, 425-540 G","N/A",$14.00,$17.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® ORRI MANDARINS, 2 LB","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","NEW NORDIC, 30-60'S IRON KIDS CHILDREN'S, 60-200'S VITAMINS OR SUPPLEMENTS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","VAN HOUTTE PODS, 30'S","N/A",$24.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PEARL MILLING COMPANY PANCAKE SYRUP, 750 ML OR MIX 905 g","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ACTIVIA YOGURT, 12X100 G OR IÖGO YOGURT, 16X100 G","N/A",$7.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BASSÉ NUT MIX, 415-600 G","N/A",$5.00,$7.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","GRUVI DRY SECCO NON ALCOHOLIC, 4X275 ML","N/A",$14.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","L'ORÉAL HAIR EXPERTISE OR GARNIER WHOLE BLENDS HAIR CARE","N/A",$5.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","LIFE BRAND® VITAMINS OR SUPPLEMENTS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PACE® CHUNKY SALSA, 642 ML","N/A",$5.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BOUNTY NAPKIN 400'S","N/A",$11.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® SPICES, 7-82 G","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ROASTED PINE NUT HUMMUS 283 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","IN-STORE PREPARED SHEPHERD'S PIE, STUFFED PEPPERS OR CHICKEN ENCHILADAS, 990 G-1.3 KG","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BLUE DRAGON COCONUT MILK, 400 ML","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","VACHON SNACK CAKES","N/A",$2.67,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","QUAKER INSTANT, 232-344 G OR OATS, 900 G-1 KG","N/A",$8.00,$9.58,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CATELLI PROTEIN+ PASTA, 340 G OR CATELLI GLUTEN-FREE PASTA, 300/340 G","N/A",$3.50,$4.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","NICE'N EASY NATURAL INSTINCTS OR COLOR STRONG HAIR COLOUR","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","MAISON PERRIER, PERRIER SLIM CANS, 8x330 ML, PERRIER OR SAN PELLEGRINO 6X500 ML, OR MAISON PERRIER CHIC 4X250 ML","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ALEXIS DE PORTNEUF BRIE, 125-170 g","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BLUE DRAGON THAI SAUCE AND PASTE, 270/325 ML","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CASTELLO CREAM CHEESE RINGS, 125 G","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® DE-ALCOHOLIZED WINE, 750 ML","N/A",$7.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","SNACK FACTORY PRETZEL CRISPS , 200 G OR SOMETHING SPECIAL JELLY,300 G","N/A",$4.00,$6.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","SANTOSH ROTI, 400 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BLUE DRAGON NOODLES, 300 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","TRADITIONAL HUMMUS, 850 G","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","REESE'S FILLED HEARTS OR RED VELVET MINIATURES, 161/200 G OR HERSHEY KISSES POUCHES, 180 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ALEVE, ASPIRIN CAPLETS GELS OR CHEWS","N/A",$16.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","RUBICON JUICES, 1 L","N/A",$2.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BABY GOURMET ORGANIC PUFFIES, BARS, FRUIT BITES OR CRUNCHY CROCS SNACKS, 35-90 G","N/A",$4.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PEDIGREE DENTASTIX TREATS FOR DOGS, 100 G-1.9 KG","N/A",$11.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","DOVE SHAMPOO, CONDITIONER OR STYLING PRODUCTS","N/A",$5.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","AVEENO BODY LOTIONS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PC® PORK SAUSAGE, 375/500 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","KIMBERLY FROSTED COOKIES OR TWO BITE MINI CUPCAKES, 12'S","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","HUGGIES PULL UPS OR PAMPERS EASY UPS GIANT PACK TRAINING PANTS, 68-112'S","N/A",$36.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CREST TOOTHPASTE, 63-200 ML SCOPE PRO HEALTH OR KIDS, 500 ML MOUTHWASH, ORAL-B MANUAL TOOTHBRUSH, EA. OR FLOSS PICKS, 75'S","N/A",$5.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","OIKOS® PRO™ - 300 ML","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","NO NAME® CLUMPING CAT LITTER, 18 KG","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","RED MANGOES","N/A",$0.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","TENA UNDERWEAR OR BRIEFS","N/A",$18.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","FRESH COCKTAIL OYSTERS","N/A",$1.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","BONELESS RIB STEAK","N/A",$10.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","HUMPTY DUMPTY OR OLD DUTCH POTATO CHIPS OR CHEESE FLAVOURED SNACKS OR PARTY MIXES, 200-290 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","PILLSBURY TOASTER STRUDEL, 326 G OR SCRAMBLES, 204 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","IN-STORE BAKED COOKIES, 18'S","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ENFAMIL A+ NEUROPRO OR GENTLEASE OR GENTLEASE READY TO FEED FORMULA, 18X237 ML","N/A",$78.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","LACTANTIA BUTTER, 454 G, KRAFT PARMESAN SHREDDED CHEESE, 200 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","STARBUCKS COFFEE ENHANCER, 828 ML","N/A",$7.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","CHICKEN DRUMSTICKS OR THIGHS","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","MARCANGELO ITALIAN DELI MEATS SLICED, 85 G OR BOURSIN, 150 G","N/A",$6.00,$8.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","ALWAYS PADS, 26-62'S LINERS, 116-216'S OR TAMPAX TAMPONS, 38-50'S","N/A",$16.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7770425,"Your Independent Grocer","N/A","SIMILAC 360 TOTAL CARE INFANT FORMULA LARGE TUBS, 859 G","N/A",$59.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7776180,"Metro","N/A","SCHNEIDERS BREAKFAST SANDWICHES OR EGG BITES | SANDWICHS DÉJEUNER OU BOUCHÉES D'OEUFS SCHNEIDERS","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7776180,"Metro","N/A","VALENTINE'S DAY DESSERT CAKES | GÂTEAUX DE LA SAINT-VALENTIN","N/A",$22.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7776180,"Metro","N/A","CAMPBELL'S BROTH | BOUILLON CAMPBELL'S","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -742,156 +892,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7776180,"Metro","N/A","AUSSIE HAIR CARE | SOINS CAPILLAIRES AUSSIE","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7776180,"Metro","N/A","MARC ANGELO BREAKFAST SAUSAGE | SAUCISSES À DÉJEUNER MARC ANGELO","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7776180,"Metro","N/A","TIDE OR GAIN DETERGENT, DOWNY SOFTENERS, CASCADE OR BOUNTY | DÉTERGENT TIDE OU GAIN, ASSOUPLISSANTS DOWNY, CASCADE OU BOUNTY","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LIFE AT HOME™ ASSORTED SCENTED CANDLES","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","FERRERO COLLECTION OR ROCHER HEART 16'S","N/A",$12.00,$17.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","SOUR JU JUBES, 320 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® GOAT CHEESE LOGS, 300 G","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","T&T® ALMOND COOKIES, 304 G","N/A",$3.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","TURTLES HEART, 167 G","N/A",$15.00,$18.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","AHMAD TEA, 200 G","N/A",$6.75,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","MAD BEAUTY STITCH BODY MIST OR FACE MASK","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CASTELLO CHEESE, 125-200 G","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","MAD BEAUTY STITCH BATH FIZZER TRIO, LIP BALM TIN TRIO, HEART BODY WASH OR SLEEP MASK","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","MONDAY HAIR CARE","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","SWANSON FAMILY SIZE SKILLET, 1.19 Kg","N/A",$9.99,$12.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","SPINACH AND PUMPERNICKEL OR SOURDOUGH TRAY OR EVERYDAY CHEESE BOARD, 1.4 KG","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","BIG FOOT JUBES, 250 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","DOVE HAIR CARE","N/A",$5.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","DR. BROWNS FEEDING ACCESSORIES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LITTLE BELLIES ORGANIC PICK-ME STICKS, 16 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","BABY BOYS' GRAPHIC LONG SLEEVE","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","DABUR REAL JUICES, 1 L","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","MILK CHOCOLATE COVERED PRETZELS, 220 G","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","GUMMI BEARS, 280 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","STITCH CHAIN SET OR LIP OIL SET","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","HAMILTON BEACH APPLIANCES OR GARMENT CARE","N/A",$25.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","IÖGO YOGURT, 2 KG","N/A",$10.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® PANTRY CANNISTERS AND BINS","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","VALENTINE'S BOOKS","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LIFE AT HOME™ SEASONAL DRINKWARE, DINNERWARE OR SERVEWARE","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","TIGER BALM ULTRA STRENGTH OINTMENT","N/A",$13.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","YADAH CACTUS OR FOODAHOLIC SKIN CARE","N/A",$2.23,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","COCK BRAND CHILI SAUCES, 650 ML","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NATURAL BAKERY RYE BREAD, 500 G","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CELSIUS ENERGY DRINKS, 4x355 Ml","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® SAUSAGES, 375-500 G","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","IAMS CAT FOOD 1.36/1.59 KG","N/A",$13.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PUCK THICKENED CREAMY PRODUCT, 160 G","N/A",$2.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LIFE AT HOME™ BEDDING, CUSHIONS, THROWS, CANDLES OR HOME DECOR","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","L' ORÉAL BIG DEAL MASCARA, INFALLIBLE CONCEALER, SKIN INK FOUNDCEALER OR TRUE MATCH PRESSED POWDER","N/A",$18.00,$21.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LINDOR HEART, 202g","N/A",$25.00,$30.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","GALAXY S25","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","BRISK ICED TEA, 12X355 ML","N/A",$7.29,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","SNACK FACTORY PRETZEL CRISPS","N/A",$4.50,$5.50,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NO NAME® FOOD STORAGE CONTAINERS","N/A",$4.00,$6.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC ORGANICS GRANOLA, 325 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","BRAR'S SAMOSA, 624 G","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","BIGEN HAIR COLOUR, 80 G","N/A",$11.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","KELLOGG'S JUMBO SIZE CEREAL, 700 G - 1.05 KG","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NO NAME® VEGETABLES, 750 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","MAD BEAUTY STITCH COSMETICS BAG OR HAIR BRUSH","N/A",$15.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","ZEVIA BEVERAGES, 6X355 ML","N/A",$6.50,$7.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","GENERAL MILLS, NATURE VALLEY, PILLSBURY, BETTY CROCKER OR MOTT'S FRUITSATIONS, GRANOLA, CEREAL BARS TREATS OR FRUIT SNACKS, 120-230 G","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","TAMAM CANNED BEANS, 540 ML","N/A",$1.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","DARE CANDY","N/A",$3.75,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LIFE BRAND® PAIN RELIEF PRODUCTS TABLETS, 32-500'S OR CAPLETS 32-100'S","N/A",$3.83,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® SOFT GRIP GADGETS","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LIFE AT HOME™ ASSORTED SCENTED CANDLES","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® FREE FROM® SAUSAGE, 375 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CEDAR PITA, 330 G","N/A",$1.25,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® BBQ PORK BACK RIBS, 500 G","N/A",$13.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","HUNGRY-MAN ENTRÉES, 360-455 G","N/A",$4.99,$6.29,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LADLES OF LOVE SOUPS 454 ML","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","P. F. CHANG'S SAUCE , 350 ML","N/A",$4.29,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","SURATI SNACKS, 250-341 G","N/A",$2.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LIFE AT HOME™ COMFORTER SETS","N/A",$74.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","RUFFLES POTATO CHIPS, 180-200 G","N/A",$4.29,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NESTLÉ JUNIORS, 30'S","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CHRISTIE FAMILY SIZE COOKIES 374-488 G OR CAKESTERS 285 G","N/A",$4.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","FERRERO COLLECTION OR ROCHER HEART, 8' S","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","OLD EL PASO DINNER KIT","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","DIAPER GENIE REFILLS OR SYSTEMS","N/A",$3.19,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","FRUITOPIA OR PEACE TEA DRINKS, 1.75 L","N/A",$2.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NESTLÉ SNACK SIZE, 8'S","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® TOWELS","N/A",$28.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","POWERADE SPORTS DRINK, 710 ML","N/A",$1.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LEGO BOTANICALS","N/A",$63.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® DOZEN ROSES","N/A",$25.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","QUO BEAUTY HAIR ACCESSORIES","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PRINGLES SUPER STACK POTATO CHIPS, 148/156 G","N/A",$2.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LA ROCCA 8 INCH CAKES","N/A",$25.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NO NAME® NATURALLY IMPERFECT™ LEMONS, 3 LB","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","FARMER'S MARKET™ MUFFINS, 6' S","N/A",$6.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","HUMPTY DUMPTY SNACKS, 250-280 G, OLD DUTCH POTATO CHIPS, 200/235 G OR RESTAURANTE TORTILLA CHIPS, 275/290 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","KINDER SURPRISE VALENTINE'S DAY, 2'S","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® UDON NOODLES, 4'S","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® RICOTTA CHEESE 450 G OR ZIGGY'S® MOZZARELLA 340 G, 170-454 G","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NONGSHIM NOODLES, 400-508 G","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CHOCOLATE CROISSANTS, 4'S, OR CINNAMON RAISIN BREAD, 468 G","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PINE-SOL MULTI SURFACE CLEANER, 1.41 L","N/A",$4.49,$6.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","KIWI","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PEPPERIDGE FARM GOLDFISH CRACKERS, 560-750 G","N/A",$8.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","HONEY TANGERINES","N/A",$1.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","SUMM!, 6 PIECE SPRING ROLLS, 350g OR 10 PIECE GYOZA DUMPLINGS, 250g","N/A",$3.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CAMPBELL'S CHUNKY SOUP, 515 ML","N/A",$2.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","SIGGI'S SKYR, 650/750 G OR IÖGO, 16X100 G YOGURT","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","WAHAHA YOGURT FLAVOURED DRINK, 4X100 ML","N/A",$1.48,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","ROYALE BATHROOM TISSUE 30 = 90 ROLLS","N/A",$22.99,$29.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","VALENTINE'S DAY PARTYWARE","N/A",$1.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","OCEAN JEWEL ASC MEDITERRANEAN SEA BASS","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","MISS VICKIE'S KETTLE COOKED POTATO CHIPS, 190/200 G","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NO NAME® NATURALLY IMPERFECT™ APPLES, 6 LB","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LECLERC CÉLÉBRATION COOKIES, 200- 350 G","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NINJAMAS OR HUGGIES GOODNITES NIGHTTIME UNDERWEAR 28-44' S","N/A",$26.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","POGO, 8/10'S","N/A",$7.99,$10.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","HIGH LINER PAN SEAR SELECTS 500/540 G OR SIGNATURE CUTS 425/515 G","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","RIBENA BLACKCURRANT JUICE, 850 ML","N/A",$8.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","BOUNTY PAPER TOWEL, 8 = 24 ROLLS OR CHARMIN BATHROOM TISSUE, 24 = 96 ROLLS","N/A",$23.99,$32.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","SIMILAC PRO-ADVANCE POWDER FORMULA, 837-859 G","N/A",$53.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","ENFAMIL A + NEURO PRO OR GENTLEASE READY TO FEED FORMULA, 18X237 ML","N/A",$74.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","WHITE PUMMELO","N/A",$2.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NEILSON ORGANIC MILK, 2 L","N/A",$6.75,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CLIF BAR ENERGY BARS, CRUNCHY, 5'S, 340 G","N/A",$9.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® BATHROOM TISSUE","N/A",$22.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","GOLDEN HAPPINESS SPECIALTY BUNS, 100 G","N/A",$0.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","FINO HAIR CARE","N/A",$9.74,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","T & T® HEAD-ON, SHELL-ON COOKED SHRIMP 21-25/LB, 300 G OR RAW SHRIMP 30-40/LB, 400 G","N/A",$5.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","LEGO LUNAR NEW YEAR ITEM","N/A",$7.74,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CLUB HOUSE GRAVY OR SEASONING MIXES, 20-47 G","N/A",$0.99,$1.24,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CAMPBELL'S BROTH","N/A",$1.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","DISNEY PRINCESS, RING POP OR BLUEY TEARAWAY LIP BALM SET","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","O'TASTY STEAMED BUNS, 680 G","N/A",$8.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","ST. IVES BODY LOTIONS, 600 ML","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","ROMA TOMATOES","N/A",$2.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","AXE, OLD SPICE, METHOD OR DOVE MENS HAIR CARE","N/A",$4.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","TURKISH APRICOTS, 280 G","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","ZINDA COUSCOUS, 907 G","N/A",$3.75,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PORK BELLY","N/A",$5.48,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","BEEF LIVER","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CHEESE STICKS","N/A",$4.25,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® SPLENDIDO™ SLICED MEAT, 200 G, NATURAL CHOICE SALAMI TRIO, 250/400 G OR ROMA SLICED PEPPERONI, 900 G","N/A",$12.50,$14.50,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","STRAWBERRIES, 454 G","N/A",$4.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CHAPMAN'S MARKDALE CREAMERY ICE CREAM 2 L, LOLLYS 28' S OR COLLECTION NOVELTIES 8' S","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","MONSIEUR GUSTAV CHEDDAR 200/250 g MONSIEUR GUSTAV GOUDA 170 g","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","CANTALOUPE","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","T & T® CASHEWS, 800 G","N/A",$11.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","GREEN GIANT CANNED VEGETABLES, 341/398 ML","N/A",$1.59,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","SENSODYNE OR PRONAMEL BASE TOOTHPASTE, 75/100 ML, POLIDENT TABLETS, 40'S OR POLIGRIP, 40 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","GARNIER BELLE HAIR COLOUR","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","DR. OETKER SUPREMA, 475-520 G OR STUFFED CRUST PIZZA, 685-771 G","N/A",$6.99,$8.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PAMPERS, 9/10X BABY WIPES, 336-504'S OR WATERWIPES, 240'S","N/A",$17.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PORK SHOULDER BLADE STEAKS","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","MASTRO SALAMI OR SALAMI WITH PROSCIUTTO, 100 G","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","GOGO QUINOA PASTA, 170/227 G","N/A",$4.25,$5.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","NYX BROW GLUE STICK, LINE LOUD LIP LINER OR EPIC WEAR LINER STICK","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","MCCAFÉ PREMIUM ROAST COFFEE, 640/875 G","N/A",$25.99,$32.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","KURKURE MASALA MUNCH, 115 G","N/A",$1.75,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","GRADE A, DUCK, 9.44/KG","N/A",$4.28,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","PC® RUSSET POTATOES, 10 LB","N/A",$4.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","KERSAYS HAIR CARE, 600 ML OR RYO HAIR CARE, 400/480 ML","N/A",$5.62,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","GRAB-AND-GO MEAL DEALS","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","QUALITY BROWN SUGAR, 4.5 KG","N/A",$11.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7770148,"Real Canadian Superstore","N/A","ACTIVIA OR EXPERT, 650/750 G/4X100 OR 12X100 G OR DRINKABLES, 8X93 ML YOGURT","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","BAGEL BITES, 198 G","N/A",$2.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","BONNE MAMAN JAM, 250 ML, CORA CREPE MIX, 700 G OR CORA MUFFIN MIX, 450 G","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","NUTELLA HAZELNUT SPREAD, 725 G OR NUTELLA & GO HAZELNUT SPREAD WITH BREADSTICKS, 208 G","N/A",$7.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -1021,7 +1021,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7769776,"No Frills","N/A","NO NAME® CHICKEN STRIPS, 908 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","PC® MEAT LASAGNA, 2.27 kg","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","PC® GNOCCHI or RISOTTO, 350/400 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7769776,"No Frills","N/A","PC® BLUE MENU® CALAMANSI CITRUS AND STRAWBERRY SPARKLING WATER, 12 x 355 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","PC® BASQUE CHEESECAKE, 600 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","NO NAME® 100% WHOLE GRAIN QUICK OATS, 1 KG","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","PC® LOW SODIUM CLUB SODA, 12 X 355 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -1031,6 +1030,7 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7769776,"No Frills","N/A","NO NAME® CHICKEN WINGS, MEDIUM BBQ, 908 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","NO NAME® EXTRA SCENTED SCOOPABLE CLUMPING CAT LITTER, 7 KG","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","PC® BABY WIPES 300' s","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7769776,"No Frills","N/A","PC® BLUE MENU® CALAMANSI CITRUS AND STRAWBERRY SPARKLING WATER, 12 x 355 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","NO NAME® FACIAL TISSUE, 2 PLY, 6 X 200 SHEETS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","NO NAME® LEMONADE, 1.75 L","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7769776,"No Frills","N/A","NO NAME® CHOCOLATE CHIP COOKIES, 907 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
