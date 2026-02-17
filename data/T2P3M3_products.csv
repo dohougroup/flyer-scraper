@@ -6,7 +6,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7773572,"PetSmart","N/A","shop cat","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-16T00:00:00-05:00,2026-02-22T23:59:59-05:00,"N/A",T2P3M3
 7773572,"PetSmart","N/A","shop aquatic","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-16T00:00:00-05:00,2026-02-22T23:59:59-05:00,"N/A",T2P3M3
 7773572,"PetSmart","N/A","shop dog","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-16T00:00:00-05:00,2026-02-22T23:59:59-05:00,"N/A",T2P3M3
-7765102,"Walmart","N/A","Raspberries 170 g","N/A",$3.84,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7765102,"Walmart","N/A","Al Safa beef samosas value pack","N/A",$17.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7765102,"Walmart","N/A","Zabiha Halal frozen breaded chicken nuggets","N/A",$9.87,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7765102,"Walmart","N/A","Parnoosh pitted dates","N/A",$4.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
@@ -156,6 +155,7 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7765102,"Walmart","N/A","Mina halal ground chicken","N/A",$6.98,$7.98,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7765102,"Walmart","N/A","Wagh Bakri loose tea","N/A",$9.98,$12.47,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7765102,"Walmart","N/A","Redpath white sugar","N/A",$3.38,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7765102,"Walmart","N/A","Golden Valley Medjoul dates","N/A",$7.97,$8.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7762899,"London Drugs","N/A","Collection by London Drugs Kitchen Trolley","N/A",$129.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7762899,"London Drugs","N/A","Core Kitchen Love Snackle Box","N/A",$19.99,$29.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7762899,"London Drugs","N/A","Heart Straw Toppers","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
@@ -183,35 +183,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7762899,"London Drugs","N/A","Canon EF 70 – 200mm f/2.8L IS III USM Lens","N/A",$1999.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7762899,"London Drugs","N/A","Wellness by London Drugs","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7762899,"London Drugs","N/A","Canon Body Only","N/A",$1899.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Webber Naturals","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Nivea Products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Intuit TurboTax 2025 Standard","N/A",$44.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Proscan 37"" Bluetooth Soundbar","N/A",$24.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","L'il Critters Vitamins shown) 150s/190s or First Response Prenatal Multivitamins with Folic Acid 90s or Vitafusion Vitamins 90s/150s","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Umbra Bathroom, Kitchen Organizers or Accessories","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Whisps Cheese Crisps","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","La Roche Posay and Proactiv skin Care","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Nature's Bakery Fig Bar","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Thirsty Buddha Sparkling Coconut Water","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Oral-B Pro 500 + Rechargeable Toothbrush","N/A",$39.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","NicoDerm Stop Smoking System Step 1 Clear Patches","N/A",$29.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","iPhone 16 128GB","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Select Nintendo Switch Games","N/A",$59.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Dove Men + Care Antiperspirant or Deodorant 76/85g or Body Wash 532ml","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Liquid Plumr Products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Today by London Drugs Small Compost Bags","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Nikon Z5 with 24-50mm Lens","N/A",$1699.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Salton Essentials Kettle, Coffee Maker and Toaster Set","N/A",$39.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Collection by London Drugs Flower Vase or Planter","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Core Kitchen or Brooklyn Steel 5Qt Silicone Air Fryer Liner","N/A",$4.99,$7.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Papparosso Extra Virgin Olive Oil","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Poise or Tena Products","N/A",$16.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Nabob Coffee Pods","N/A",$18.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","BB Home Valentine's Mug","N/A",$9.99,$14.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Starfrit Alston Kettle 1L #024009-006-0000 or 2 - Slice Toaster #024021-006-0000","N/A",$19.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Nutricook Steami X 24L Digital Air Fryer","N/A",$229.99,$399.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","Blistex Lip Balm","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7762899,"London Drugs","N/A","SkyFlakes Crackers 450g or Cha's Organics Organic Coconut Whipping Cream 400ml","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7762899,"London Drugs","N/A","Robaxacet Extra Strength","N/A",$22.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7762899,"London Drugs","N/A","Core Kitchen Cake Pan Set with Spatula & Oven Mitts or Muffin Pan with Silicone Liners","N/A",$19.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7762899,"London Drugs","N/A","Lasko Digital Tower Heater","N/A",$99.99,$139.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
@@ -306,6 +277,35 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7762899,"London Drugs","N/A","Collection by London Drugs Storage Ottoman Assorted colours 44 x 44 x 42cm or Samantha Bar Stool 95-109cm height range Black or matte black","N/A",$69.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7762899,"London Drugs","N/A","Starfrit Personal Blender","N/A",$29.99,$39.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7762899,"London Drugs","N/A","Dan-D Pak Almonds","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Tazo Tea","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Dawn Dishwashing Liquid 825ml/982ml, Powerwash Refill 473ml or EZ-Squeeze 532ml-650ml","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Zevia Zero Sugar Soda","N/A",$11.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Gaviscon Tablets","N/A",$27.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","ASUS 15.6"" Chromebook CX1505CKA","N/A",$269.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","T-fal 6L Clipso Pressure Cooker","N/A",$99.99,$129.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Gimme Organic Seaweed Snack","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Doritos Tortilla 210g/235g or Ruffles Chips 180g/200g","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Bolton's Magnesium Gel 237ml or Magnesium Spray 237ml","N/A",$15.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Listerine Mouthwash Select products, 1L or Listerine PocketPaks 72s","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","S & Co Flannel, Emboss Flannel or Micromink Throw","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Herbatint Hair Colour","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Taj Mahal Ready To Eat Vegetarian Meal","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Epson EcoTank ET-2800 All-In-One Supertank Printer","N/A",$249.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Bounty Towels Select-A-Size Paper Towel 2 = 6 rolls or Charmin Bathroom Tissue 8 triple rolls","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Jamieson Sleep or Stress Melatonin or B12","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Starfrit Asian-Style Stainless Steel Kitchen Tools","N/A",$5.99,$7.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","FUJIFILM X-T5 Mirrorless Camera with XF16 – 80mm f/4.0 R OIS WR Lens","N/A",$2969.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Salton Cordless 1.5L Glass Kettle Boil-dry automatic","N/A",$24.99,$39.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Lindt Lindor Chocolate Bag","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Whittaker's Chocolate","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Supercoco 100% Coconut Water","N/A",$5.50,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Sapporo Ichiban Noodles","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Sally Hansen Miracle Gel Nail","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Clover Leaf Wild Red Pacific Sockeye Salmon","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Core Kitchen Food Storage Container 2-Section","N/A",$11.99,$16.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Mishima Miso Soup Mix 3 pack or Itsuki Ramen 174g/186g","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Ten Strawberry Street Made With Love Loaf Pan","N/A",$12.99,$17.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7762899,"London Drugs","N/A","Yorkshire Decaf or Gold Tea","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7758615,"Leon's","N/A","San Antonio Dual Power Recliner - Grey","N/A",$1199.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7758615,"Leon's","N/A","Sophie 3-Piece Queen Bed - Weathered Grey","N/A",$399.00,$799.00,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7758615,"Leon's","N/A","Stampede Leather Ottoman - Cognac","N/A",$599.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
@@ -456,419 +456,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7758615,"Leon's","N/A","SELECT BEDS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7758615,"Leon's","N/A","Serta Panama Firm Queen Mattress","N/A",$499.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7758615,"Leon's","N/A","Cooper Leather Reclining Loveseat with Console - Brown","N/A",$1299.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® 100% WHOLE GRAIN QUICK OATS, 1 kg","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® FACIAL TISSUE, 2 PLY, 6 X 200 SHEETS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® RED BREW DE-ALCOHOLIZED LAGER BEER, 12 X 355 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® CALIFORNIA MIXED VEGETABLES, 750 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","ITALPASTA, 750 g","N/A",$1.69,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","BROCCOLINI, TOMATOES ON THE VINE","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® LOW SODIUM CLUB SODA, 12 x 355 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NESCAFÉ RICH INSTANT COFFEE","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® KITCHEN GARBAGE BAGS, 21 L","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® MEAT LASAGNA, 2.27 kg","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® SPICES, 150 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","ROYALE TIGER TOWEL, 3 = 6 ROLLS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","REAL CANADIAN SPRING WATER,24x500 mL","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® SPLENDIDO™ DELI MEAT 100 g or ZIGGY'S® KOLBASSA 375 g","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® CHICKEN HOT DOGS, 1.5 kg","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® BABY WIPES, 300' s","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® BASQUE CHEESECAKE, 600 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® VINEGAR","N/A",$2.29,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® CHICKEN NUGGETS, 908 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® CHICKEN STRIPS, 908 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","ASTRO OR IÖGO 650/750 G OR LIBERTÉ GREEK 4X100 G YOGURT","N/A",$2.97,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® CHICKEN WINGS, MEDIUM BBQ, 908 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","HIGH LINER FISH FILLETS, 330-700 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® LEMONADE,1.75 L","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","STRAWBERRIES, 1 LB CLAMSHELL","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","GIUSEPPE THIN CRUST OR RISING CRUST PIZZA, 439-785 G","N/A",$5.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","WONDER BREAD, 570 G OR BUNS, 12' S","N/A",$2.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","FERRERO ROCHER HEART ,16' s","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","TIMOTHY'S, KRISPY KREME or DONUT HOUSE COFFEE PODS, 30'S","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","MINI ROSES","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","LINDT ASSORTED MILK CHOCOLATE HEART , 108 g","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® CHOCOLATE CHIP COOKIES, 907 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® GNOCCHI OR RISOTTO, 350/400 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® INSTANT COFFEE, 80-100 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® BUTTER, 454 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NUTELLA HAZELNUT SPREAD, 725 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","HOLIDAY ROSES","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","FARMER'S MARKET™ LOAF CAKES, 344-390 g","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® CHICKEN BURGER, 908 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® BASQUE CHOCOLATE CHEESECAKE, 600 G","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® COLESLAW, 397 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","SEAQUEST® FLAVOURED ALASKA POLLOCK READY TO EAT, 227 G, SMOKED STEELHEAD, 50 G, GO SHRIMP RAW, 51/70 PER LB OR COOKED, 61/90 PER LB, 160 G,","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","COCA-COLA or PEPSI SOFT DRINKS, 2 L","N/A",$1.69,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","CAVENDISH FRIES, 800 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® EXTRA SCENTED SCOOPABLE CLUMPING CAT LITTER, 7 KG","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","BEN & JERRY'S ICE CREAM 473 ML OR MAGNUM NOVELTIES 3' S","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","TULIPS or SMALL MIXED BOUQUET","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","RED OR GREEN SEEDLESS GRAPES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","MAPLE LEAF TOP DOGS OR SCHNEIDERS WIENERS, 375 G","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","HERSHEY' VALENTINES CHOCOLATE or CANDY","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® BLUE MENU® CALAMANSI CITRUS AND STRAWBERRY SPARKLING WATER, 12 X 355 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","GREEN GIANT VEGETABLES, 341/398 mL","N/A",$1.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","OIKOS GREEK OR ACTIVIA EXPERT YOGURT, 650/750 G","N/A",$6.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","AVOCADOS, PINEAPPLE","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","PC® CHOCOLATE BARS, 300 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","LACTANTIA OR DAIRYLAND CREAM, 473 ML - 1 L","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","CRACKER BARREL CHEESE SHREDS 320 g, or BLACK DIAMOND CHEESTRINGS or SNACKS 252/336 g","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","CHEF BOYARDEE PASTA, 418/425 G","N/A",$1.69,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","CAMPBELL'S TOMATO, CREAM OF MUSHROOM, VEGETABLE or CHICKEN NOODLE SOUP, 284 mL","N/A",$1.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","BECEL MARGARINE, 637/850 g","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","LACTANTIA BUTTER, 454 g","N/A",$4.95,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","SEAQUEST® COLOSSAL RAW WHITE SHRIMP, 16-20 PER LB, 300 G, BAY SCALLOPS, 400 G OR SHRIMP RING, 227 G","N/A",$6.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","RED or WHITE POTATOES, 10 LB BAG","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","DAN-D PAK CASHEWS, 908 G","N/A",$13.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® VINEGAR, 4 L","N/A",$2.29,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NO NAME® EVAPORATED MILK, 354 mL","N/A",$1.25,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","LOUS KITCHEN ENTRÉES, 375-400 G","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","UNICO BEANS, 540 ML OR TOMATOES, 796 ML","N/A",$1.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","BONELESS RIB STEAK or STRIPLOIN STEAK, 300 g","N/A",$11.00,$14.00,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","WATSON RIDGE CHICKEN STRIPS or NUGGETS or TA'AAM HALAL NUGGETS, 800 g","N/A",$3.91,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","ASTRO OR IÖGO, 650/750 G OR LIBERTÉ GREEK, 4X100 G YOGURT","N/A",$2.97,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","ASPARAGUS","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","CHICKEN BREAST","N/A",$4.85,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","LACTANTIA PUR FILTRE, LACTOSE FREE or ULTRAPUR MILK","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","OASIS JUICE, DEL MONTE NECTAR, or ARIZONA ICED TEA, 960 ML","N/A",$1.44,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","ITALPASTA, 750 G","N/A",$1.69,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","GALLO EXTRA VIRGIN OLIVE OIL, 1 L","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","FERRERO ROCHER DIAMOND BOX, 24'S","N/A",$15.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","TOBLERONE TINY CHOCOLATE, 120 g","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","HEINZ BEANS or PASTA, 398 ML","N/A",$1.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","NESTLÉ KITKAT OR SMARTIES, 30' S","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","VACHON SNACK CAKES, 282 g - 336 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770159,"No Frills","N/A","DELUXE BOUQUETS","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Beefeater Gin, Selected Flavours","N/A",$24.99,$31.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Bent Stick House Beer English Style Pub Ale","N/A",$12.49,$14.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","The Glenlivet 12-Year-Old Single Malt Scotch Whisky","N/A",$56.99,$71.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Corona Extra, 28 x 330 mL","N/A",$62.99,$72.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Espolòn Tequila Reposado","N/A",$39.99,$49.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Smirnoff Vodka","N/A",$25.99,$30.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Courvoisier VS Cognac","N/A",$36.88,$56.88,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Old Milwaukee","N/A",$35.99,$42.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Keystone Light","N/A",$21.99,$28.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Espolòn Tequila Blanco","N/A",$49.99,$67.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Molson Canadian or Coors Light","N/A",$42.99,$53.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Alberta Premium or Alberta Pure Canadian Rye Whisky or Vodka","N/A",$19.99,$26.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Kim Crawford","N/A",$14.99,$24.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Zaya Gran Reserva Rum","N/A",$66.99,$86.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Forty Creek Barrel Select Canadian Whisky","N/A",$48.99,$60.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Peller Family Vineyards","N/A",$8.99,$12.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Martini & Rossi Asti Spumante","N/A",$17.99,$23.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Red Tassel Vodka","N/A",$23.99,$29.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Simply Spiked","N/A",$25.99,$31.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Martini & Rossi Asti Spumante","N/A",$17.99,$23.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Bodacious","N/A",$37.99,$46.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","La Marca Prosecco or Prosecco Rosé","N/A",$15.99,$22.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Muddlers Moscow Mule","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Sleeman Clear 2.0","N/A",$38.99,$53.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Original 16","N/A",$29.99,$37.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Cabin Brewing Super Saturation New England IPA","N/A",$18.49,$21.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Bumbu Craft Rum","N/A",$37.99,$47.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Black Fly Vodka Crushed Mixer Pack","N/A",$24.99,$30.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Jack Daniel's Tennessee Whiskey","N/A",$33.99,$42.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Le Bijou Sophie Valrose Rosé","N/A",$14.99,$19.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Aperol Aperitivo","N/A",$22.99,$32.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Heineken","N/A",$29.99,$38.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Olmeca Altos Margarita Lime or Strawberry","N/A",$23.99,$29.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Grand Marnier Cognac & Orange Liqueur","N/A",$39.99,$52.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Baileys Irish Cream","N/A",$27.99,$35.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Nütrl7 Vodka Soda Mixers","N/A",$26.99,$32.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Jägermeister Herbal Liqueur","N/A",$29.99,$37.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","G. H. Mumm Champagne","N/A",$54.99,$69.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Annex Ale Forward Progress","N/A",$18.99,$21.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Tom Gore","N/A",$16.99,$22.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","FLAMES GAME DAYS CANADIAN","N/A",$27.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Troubled Tea Hard Iced Tea","N/A",$24.99,$31.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Wirra Wirra Church Block Cabernet Sauvignon Shiraz Merlot","N/A",$24.99,$31.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Mirada Sedosa Organic Rosé","N/A",$15.99,$21.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Alley Kat Pack","N/A",$25.99,$32.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Bread & Butter","N/A",$17.99,$23.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Ménage à Trois","N/A",$13.99,$21.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Norton Malbec Reserva","N/A",$20.99,$27.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Rival Trade What? Nooo Waaay!","N/A",$31.99,$37.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Saintly","N/A",$16.99,$22.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Montecillo Crianza","N/A",$19.99,$26.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Decero Malbec","N/A",$18.99,$26.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Masi Bonacosta Valpolicella Classico or Masianco","N/A",$12.99,$20.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7770327,"Sobeys & Safeway Liquor","N/A","Masi Costasera Amarone Classico","N/A",$44.99,$59.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","MARS Bags","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","QUAKER Yogurt Bars","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS ORGANIC Purée Pouches","N/A",$1.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","PANTENE Hair Care","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","PILLER'S Salami","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","HOSTESS Snacks","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","KELLOGG'S Vector Granola","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","TRE STELLE Halloumi","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","NESTLÉ Parlour Frozen Dessert","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","ORVILLE REDENBACHER Ready-To-Eat","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","DR. OETKER Ristorante or Casa Di Mama Pizza","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","AL'FEZ Shish Taouk Marinade","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","MCCAIN Pockets","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","ANDALOU BODY, HAIR OR SKIN CARE","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","DEEP Aloo, Paneer or Paratha","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","HUY FONG Sriracha Hot Chili Sauce","N/A",$6.98,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SAPUTO Shredded Cheese","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","CARNATION Evaporated Milk","N/A",$2.78,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Real Cream Layered Cakes","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","LOTTE Yukimi Mochi Ice","N/A",$4.48,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","GREENWORLD Mixed Baklawa","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Caramel Filled or Milk Chocolate Hearts","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","L'ORÉAL Skin Care","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SUMMER FRESH 6-Layer Dip","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Mini Pizzas","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","DESERT ESSENCE BODY, HAIR OR ORAL CARE","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","KIRI Cheese Portions","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","1/4 Assorted Dagwood","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","MR. CLEAN Magic Erasers","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","PANACHE Frozen Desserts","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Pitas","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","P. F. CHANG'S Bowls","N/A",$7.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","FRITO-LAY Prosperity Pack Snacks","N/A",$9.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","LEE KUM KEE Sriracha Mayo","N/A",$6.48,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","HEALTHY CHOICE Simply Steamers or MARIE CALLENDER'S","N/A",$11.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Hot Roast Chicken or Full Rack of Back Ribs","N/A",$19.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","KNORR OXO Sachets","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","KOZY SHACK Rice Pudding","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Taco or Souvlaki Meal Kits","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","KRAFT Milk Chocolate Peanut Butter Heart","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","OASIS Health Break or Smoothie","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","LEFT COAST ORGANICS Pantry Essentials","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SALUS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","NESTLÉ Minis","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SCHNEIDERS Breakfast Sandwiches or Egg Bites","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","HUMPTY DUMPTY Party Mix","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Valentine's Day Potted Upgrades","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","ANNIE'S Fruit Snacks","N/A",$7.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Broth","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","NOW BEAUTY PRODUCTS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SAINSBURY'S Biscuits","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","FLEECY Fabric Softener","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","AURA CACIA SKIN CARE, BODY CARE OR ESSENTIAL OILS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SNACK FACTORY Pretzel Crisps","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Winnipeg Style Light Rye Bread","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Flakes of Ham, Turkey or Chicken","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Valentine's Day Arrangements","N/A",$19.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","GOURMET BY STARFRIT Eco Bamboo Steamer Set","N/A",$13.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","ENERGIZER Max","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","IRON VEGAN PROTEIN BARS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","KASIH Pistachio Premium Halva","N/A",$5.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","PRINGLES Super Stacks","N/A",$2.47,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Cheese Swirl Buns","N/A",$6.29,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","IMODIUM","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","KERRYGOLD","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Flatbreads","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","LEE KUM KEE Hoisin Sauce","N/A",$3.48,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","ORANGE NATURALS KIDS IMMUNITY SUPPORT MAGNESIUM, ZINC OR PROBIOTIC SUPPLEMENTS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","LINDT Coronet","N/A",$24.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Chicken Balls","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","BIC Men's and Women's Razors or Blades, GILLETTE Fusion or Mach 3 Blades, Skintimate or SCHICK Razors, SATIN CARE or GILLETTE Shave Gel or Cream or BLISTEX Lip Balm","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","AL' FEZ Lebanese Style Falafel or Moroccan Couscous","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Potato Chips Extraaa! Flavour or Kettle Chips","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SAINSBURY'S Bitter Seville Orange or Three Fruit Marmalade","N/A",$4.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","KIKKOMAN Stir-Fry Sauce","N/A",$5.48,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","LECLERC Go Pure Oatmeal Bars","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","DARE Ultimate Cookies","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","DEEP IQF Baby Bhindi","N/A",$1.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","ETI Mini Popkek Cake","N/A",$2.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SAINSBURY'S Candy","N/A",$1.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Spices or Seasonings","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Single Layer Shortcakes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Rice Crackers","N/A",$1.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","CALIFORNIA GARDEN Fava Beans","N/A",$1.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Gourmet Cookies","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","CHICKAPEA Organic Pasta","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Brownies","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","GENUINE HEALTH KIDS IMMUNITY OR PROBIOTIC SUPPLEMENTS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Fully Cooked Meat Strips","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","OIKOS Greek Yogurt","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","CHEEMO Perogies","N/A",$2.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","ROYALE Bathroom Tissue","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","STARFRIT 13-Piece Wok Set","N/A",$29.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","PILLSBURY Pizza Pops","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","PEDIGREE Dry Dog Food","N/A",$26.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SENSODYNE Whitening or Pronamel","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","HUGGIES Giga Pack Pull-Ups","N/A",$28.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","ULTRA NATURAL Raw Shrimp Skewers","N/A",$18.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","ULTRA NATURAL Black Tiger Shrimp","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","FERRERO ROCHER Chocolate Jewel Box","N/A",$10.98,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Frozen Grade A Duck","N/A",$4.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","STARBUCKS Creamers or Non-Dairy Creamers","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SAINSBURY'S Vegetable Soup","N/A",$2.29,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Phalaenopsis Heart Orchid in Ceramic","N/A",$34.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Mini Rose Plant in Gift Bag","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","GAIN Liquid Detergent","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","CHASING TIDES Roast & Ground Coffee","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SPRAY NINE Multi-Purpose Cleaners","N/A",$6.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Chocolate Chips","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","RXBAR Minis","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","GENERAL MILLS Family Size Cheerios or Selected Varieties","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SUNRISE Extra Firm Tofu","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SIWIN Potstickers or Dumplings","N/A",$5.48,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Raspberry Heart","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SAPPORO ICHIBAN Noodles","N/A",$5.48,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","DEMPSTER'S White or Whole Wheat, Texas Toast or Sandwich Bread","N/A",$3.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","HATA RAMUNE Soda","N/A",$2.78,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","MUSSEL KING Whole Cooked PEI Mussels","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Greek Yogurt","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Fresh Pork Tenderloin","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","DAN-D PAK Cashews","N/A",$8.98,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Cupcakes","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Fresh Boneless Whole Beef Brisket","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","BEST BUY Breaded Popcorn Shrimp or Squid Rings","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Blueberries Pint","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","BINGGRAE Melona Ice Bars","N/A",$4.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","AL' FEZ Garlic or Tahini Sauce","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","PANACHE Premium Ice Cream","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","NESCAFÉ Sweet & Creamy","N/A",$8.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","BOURSIN","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Dragon Fruit","N/A",$3.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Regular Wieners","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","TIM HORTONS Hot Chocolate","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Rose Arrangement with Bear","N/A",$44.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","SOFTSOAP Liquid Hand Soap","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Snow Crab Clusters","N/A",$20.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Lobster Claws","N/A",$22.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","INTERNATIONAL DELIGHT","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","EARTH'S OWN Select Beverages","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Baby Spinach, Baby Arugula or Spring Mix","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Small Bar Cakes","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","COMPLIMENTS Pudding Cups","N/A",$1.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","Small Pull-Apart Cakes","N/A",$9.99,$12.99,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","CHARMIN Bathroom Tissue","N/A",$32.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","MICHELINA'S Frozen Entrées","N/A",$4.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","FUZE Iced Tea","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","MAPLE LEAF or SCHNEIDERS Bacon","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","LISTERINE Mouthwash","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","DANONE Activia Yogurt","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7766888,"Sobeys","N/A","CHARMIN Bathroom Tissue","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Pastrami","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Tortilla Chips","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","HALLMARK CARDS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Wild Snapper Fillets","N/A",$1.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Vitamins","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","6"" Potted Mini Roses","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Sauce","N/A",$3.48,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Cal & Gary's Oat Porridge Sourdough Loaf","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Veggie Entrees","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Mini Babybel 12's","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Sunflower Flax or Canadian Harvest Multigrain","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Fresh Greek Salad or Greek Chicken Pasta Salad","N/A",$2.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Byblos Bakery Baklava Tray","N/A",$24.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Tinted Dozen Roses","N/A",$49.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Sara's Ice Cream Cakes","N/A",$19.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Lay's Magic Masala Potato Chips","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Ginger Beef and Mango Chicken","N/A",$2.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Strawberry Fruit Blends","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Candy","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Original Pogos","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Bulk Pastries","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Vitamins & Supplements","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Asparagus","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Catch of the Day Fillets","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Black Truffle or Habenaro Black Pepper or Smoked Gouda","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Paczki","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Traditional Pemmican Strip","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Scones","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Eggplant","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Love Notes Planter with Kalanchoe or Polka Dot Plant","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Valentine's Heart Shaped Cakes Chocolate or Vanilla","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Founders & Farmers Sliced or Shredded Cheese 220-320g and Oasis Orange Juice 1.5L","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Fresh Pasta Kits","N/A",$8.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Schick Razors and Blades","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Breaded Pork Cutlets","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Nabob Coffee","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Valentine's Day Candy","N/A",$2.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Whole Duck","N/A",$4.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Tylenol Pain Relief","N/A",$15.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","5"" Artistica Heart Shaped Orchid","N/A",$54.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Pitted Nour Dates","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Pineapple","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Premiere Bouquet Valentine's Day Theme","N/A",$47.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Bone In Pork Loin Centre or Rib End Chops","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Large Scallop Meat","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Block Cheese","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Honeycrisp Apples","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Dumplings or Wontons","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Bottom Blade Pot Roast","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Premium Diapers","N/A",$24.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Valentine's Day Cupcakes","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Valentine's Day Heart Charcuterie Tray","N/A",$21.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Toothpaste 75-135ml and Pro Advanced Mouthwash 1L or Clinical Deodorant 45g","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Cream Cheese 200g or Pie and Mini Tart Shells 255-397g","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","TY Plush","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Dozen Roses","N/A",$34.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Hair Care 350ml or Liquid Hand Soap Refill 828ml-1L and Colorsilk Hair Colour 1' s","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Yogurt Tubs 650-750g or Greek and Méditerranée Yogurt Tubs 650-900g","N/A",$6.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Large Avocados","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Lamb Tonight Boneless Seasoned Butterflied Lamb Leg","N/A",$19.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Snap Peas","N/A",$9.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Cookies","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Purex Triple","N/A",$17.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Lean Ground Beef or Lilydale Extra Lean Ground Chicken","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Premium Rose 18 Stem Bouquet","N/A",$49.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Honey or Red Pomelos","N/A",$2.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Lemons","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Ice Cream","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Pasta Sauce 218-600ml or Pasta 340-410g","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Pork Back Ribs or Whole Pork Tenderloin","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Bubly or AHA Sparkling Water","N/A",$10.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Tampons","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Chocolates","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Sweet Bell Peppers","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Rose in Gift Box","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Garlic Toast Bread","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Pork Bellies","N/A",$4.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Fruit or Vegetable Trays","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Flatbread Pizzas","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Surf & Turf Top Sirloin Medallion Grilling Steak & White Raw Shrimp","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Juice","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","3"" Mousse Cakes","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Top Sirloin Grilling Steak","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Romaine Hearts","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Smart Sweets Strawberry Hearts","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","RWA Boneless Skinless Chicken Thighs","N/A",$16.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Joy of Mountains Oil of Oregano","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Dark Chocolate Raspberry or Dubai Style Pistachio Chocolate","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Eye Care","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Hair Care","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Cal & Gary's Black Forest Cake or 7"" Chocolate Ganache","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Boneless Skinless Chicken Breast","N/A",$8.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Fresh Made Dips","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Hand Formed Fieldburgers or Apple Maple Breakfast Sausage","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Yellow Potatoes","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Lobster Tails","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","8"" Valentines Day Garden","N/A",$46.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Cheddar","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Cooked Black Tiger Shrimp","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Hair Care or Body Wash","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Raspberries or Blackberries","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Olive Oil","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Sausage Rings or Schneiders Sliced Meats","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Chopped Salad Kits","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Long English Cucumbers","N/A",$1.69,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Canned Vegetables 341-398ml or Best Baked Beans 398ml","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Cereal","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Deli Hummus Dip","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Smart Italian Sausage, Tempeh Original or Smoky Bacon","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","NyQuil/DayQuil Complete","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Fondue or Heart Shaped Brie Cheese","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Jasmine or Basmati Rice","N/A",$2.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Whole Medjool Dates","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Schneiders Bacon or Maple Leaf Shredded or Sliced Roasted Chicken","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Campbell's Chunky Soup","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Tidy Cat Litter","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Desi Ghee","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Sriracha Hot Chili Sauce","N/A",$5.48,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Mustard","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Steelhead Trout Fillets","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Sauce","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Ravioli","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Dozen Roses","N/A",$34.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Surf & Turf Top Sirloin Medallion Grilling Steak & White Raw Shrimp","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Marinated Boneless Skinless Chicken Thighs","N/A",$8.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
-7769764,"Calgary Co-op","N/A","Soleterra Sliced Salami","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7766699,"IGA","N/A","GATORADE G Fit","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7766699,"IGA","N/A","PEARL MILLING COMPANY Pancake Mix","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7766699,"IGA","N/A","Ciabatta or Artisan Style Baguettes","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
@@ -1169,3 +756,416 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7770209,"Real Canadian Superstore","N/A","P. F. CHANG'S SAUCE, 350 ML","N/A",$4.29,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7770209,"Real Canadian Superstore","N/A","CERAVE SKINCARE CLEANSERS OR MOISTURIZERS","N/A",$11.19,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
 7770209,"Real Canadian Superstore","N/A","PC® SPLENDIDO™ SLICED MEAT, 200 G, NATURAL CHOICE SALAMI TRIO, 250/400 G OR ROMA SLICED PEPPERONI, 900 G","N/A",$12.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Beefeater Gin, Selected Flavours","N/A",$24.99,$31.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Bent Stick House Beer English Style Pub Ale","N/A",$12.49,$14.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","The Glenlivet 12-Year-Old Single Malt Scotch Whisky","N/A",$56.99,$71.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Corona Extra, 28 x 330 mL","N/A",$62.99,$72.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Espolòn Tequila Reposado","N/A",$39.99,$49.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Smirnoff Vodka","N/A",$25.99,$30.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Courvoisier VS Cognac","N/A",$36.88,$56.88,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Old Milwaukee","N/A",$35.99,$42.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Keystone Light","N/A",$21.99,$28.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Espolòn Tequila Blanco","N/A",$49.99,$67.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Molson Canadian or Coors Light","N/A",$42.99,$53.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Alberta Premium or Alberta Pure Canadian Rye Whisky or Vodka","N/A",$19.99,$26.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Kim Crawford","N/A",$14.99,$24.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Zaya Gran Reserva Rum","N/A",$66.99,$86.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Forty Creek Barrel Select Canadian Whisky","N/A",$48.99,$60.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Peller Family Vineyards","N/A",$8.99,$12.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Martini & Rossi Asti Spumante","N/A",$17.99,$23.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Red Tassel Vodka","N/A",$23.99,$29.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Simply Spiked","N/A",$25.99,$31.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Martini & Rossi Asti Spumante","N/A",$17.99,$23.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Bodacious","N/A",$37.99,$46.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","La Marca Prosecco or Prosecco Rosé","N/A",$15.99,$22.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Muddlers Moscow Mule","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Sleeman Clear 2.0","N/A",$38.99,$53.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Original 16","N/A",$29.99,$37.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Cabin Brewing Super Saturation New England IPA","N/A",$18.49,$21.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Bumbu Craft Rum","N/A",$37.99,$47.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Black Fly Vodka Crushed Mixer Pack","N/A",$24.99,$30.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Jack Daniel's Tennessee Whiskey","N/A",$33.99,$42.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Le Bijou Sophie Valrose Rosé","N/A",$14.99,$19.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Aperol Aperitivo","N/A",$22.99,$32.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Heineken","N/A",$29.99,$38.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Olmeca Altos Margarita Lime or Strawberry","N/A",$23.99,$29.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Grand Marnier Cognac & Orange Liqueur","N/A",$39.99,$52.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Baileys Irish Cream","N/A",$27.99,$35.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Nütrl7 Vodka Soda Mixers","N/A",$26.99,$32.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Jägermeister Herbal Liqueur","N/A",$29.99,$37.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","G. H. Mumm Champagne","N/A",$54.99,$69.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Annex Ale Forward Progress","N/A",$18.99,$21.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Tom Gore","N/A",$16.99,$22.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","FLAMES GAME DAYS CANADIAN","N/A",$27.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Troubled Tea Hard Iced Tea","N/A",$24.99,$31.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Wirra Wirra Church Block Cabernet Sauvignon Shiraz Merlot","N/A",$24.99,$31.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Mirada Sedosa Organic Rosé","N/A",$15.99,$21.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Alley Kat Pack","N/A",$25.99,$32.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Bread & Butter","N/A",$17.99,$23.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Ménage à Trois","N/A",$13.99,$21.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Norton Malbec Reserva","N/A",$20.99,$27.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Rival Trade What? Nooo Waaay!","N/A",$31.99,$37.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Saintly","N/A",$16.99,$22.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Montecillo Crianza","N/A",$19.99,$26.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Decero Malbec","N/A",$18.99,$26.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Masi Bonacosta Valpolicella Classico or Masianco","N/A",$12.99,$20.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770327,"Sobeys & Safeway Liquor","N/A","Masi Costasera Amarone Classico","N/A",$44.99,$59.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","MAPLE LODGE Chicken Sausage","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","ANDALOU BODY, HAIR OR SKIN CARE","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Large Pineapples","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","MCCAIN Pockets","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Brownie Cakes","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Fresh AIR-CHILLED Boneless Skinless Chicken Thighs","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","LAO GAN MA Chili in Oil Crisp","N/A",$2.98,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","All Butter Croissants and Pastries","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","KELLOGG'S Rice Krispies Squares Bars, Pop-Tarts Pastries, Nutri-Grain Bars or Special K Crisps","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","HUY FONG Sriracha Hot Chili Sauce","N/A",$6.98,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","TRE STELLE Halloumi","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","WANT-WANT Rice Crackers Gift Pack","N/A",$9.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","PURINA ONE SmartBlend Dry Cat or Dog Food","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SHERBON Juice","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","GREENWORLD Mixed Baklawa","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Red Onions","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","GOGO SQUEEZ Fruit","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","ETI Mini Popkek Cake","N/A",$2.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SAVI GOURMET Gnocchi, Risotto or Penne Pasta Meals","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SAINSBURY'S Candy","N/A",$1.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Single Layer Shortcakes","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Seasoned Lamb Chops","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Fresh Atlantic Salmon Fillets","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","GENERAL MILLS Jumbo Cereal","N/A",$8.47,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","NATREL Coffee Creamer","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Value Size Breakfast, Mild or Honey Garlic Pork Sausage","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","ROLD GOLD Pretzels","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS ORGANIC Portabella Mushroom Caps","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Ground Pork","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Valentine's Day Bouquets","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","DAIRYLAND or LUCERNE Chocolate Milk","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","NATURAL ONE Juice","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","JANES Lightly Dusted Haddock or Sole","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","HIIROS Cherry Tomatoes on the Vine","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","ROBIN HOOD Oats","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","ALCAN Foil","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Fruit cups","N/A",$3.69,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","RED BULL Energy Drink","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Brownies","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Sliced Cheeses","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","CRACKER BARREL Cheese Slices","N/A",$4.77,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SIMPLY Cheetos, Ruffles or Smartfood","N/A",$4.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","ROBIN HOOD Flour","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SUMMER FRESH 6-Layer Dip","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Indian Eggplant","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Family Size Fresh Pasta","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","PANACHE Maple Syrup","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","HAMDARD Roohafza Syrup","N/A",$4.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","KELLOGG'S Eggo Waffles","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","RUBICON Exotic Juice","N/A",$2.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","RXBAR Minis","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","DAN-D PAK Cashews","N/A",$8.98,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SAINSBURY'S Vegetable Soup","N/A",$2.29,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Valentine's Day Potted Upgrades","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","LINDT Bagged Chocolates","N/A",$9.98,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Chicken Balls","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","AL'FEZ Harissa Paste","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","PREMIER SEAFOODS Smoked Pink Salmon Nuggets","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","DEMPSTER'S White or Whole Wheat, Texas Toast or Sandwich Bread","N/A",$3.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","BEST BUY Breaded Popcorn Shrimp or Squid Rings","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Cheese Swirl Buns","N/A",$6.29,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","DEEP IQF Baby Bhindi","N/A",$1.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","HATA RAMUNE Soda","N/A",$2.78,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","LEE KUM KEE Hoisin Sauce","N/A",$3.48,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","IMODIUM","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","FUZE Iced Tea","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Winnipeg Style Light Rye Bread","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Cupcakes","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Baby Spinach, Baby Arugula or Spring Mix","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Fresh Extra Lean Ground Beef","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","MAPLE LEAF or SCHNEIDERS Bacon","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","FERRERO ROCHER Hearts","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Raspberry Heart","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Small Bar Cakes","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Snow Crab Clusters Fully Cooked","N/A",$20.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SIWIN Potstickers or Dumplings","N/A",$5.48,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","P. F. CHANG'S Bowls","N/A",$7.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Flakes of Ham, Turkey or Chicken","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","TYLENOL Pain Relief","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Flatbreads","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","LISTERINE Mouthwash","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Regular Wieners","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SAINSBURY'S Bitter Seville Orange or Three Fruit Marmalade","N/A",$4.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","PANACHE Premium Ice Cream","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Red or Black Plums, Peaches or Nectarines","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Mini Rose Plant in Gift Bag","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","DARE Ultimate Cookies","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","AURA CACIA SKIN CARE, BODY CARE OR ESSENTIAL OILS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","ANNIE'S Fruit Snacks","N/A",$7.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","BINGGRAE Melona Ice Bars","N/A",$4.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Broth","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","TIM HORTONS Hot Chocolate","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","AL' FEZ Lebanese Style Falafel or Moroccan Couscous","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Small Pull-Apart Cakes","N/A",$9.99,$12.99,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Pomelo Gift Pack","N/A",$9.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","LINDT Coronet","N/A",$24.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","DEPEND Underwear or POISE Pads","N/A",$19.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","ULTRA NATURAL Black Tiger Shrimp","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","HUGGIES Giga Pack Pull-Ups","N/A",$28.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","EARTH'S OWN Select Beverages","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","ULTRA NATURAL Raw Shrimp Skewers","N/A",$18.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","MUSSEL KING Whole Cooked PEI Mussels","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","HUMPTY DUMPTY Party Mix","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Pitas","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","MCCAIN Deep'n Delicious Cakes","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","AL' FEZ Garlic or Tahini Sauce","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","LEE KUM KEE Sriracha Mayo","N/A",$6.48,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","CHARMIN Bathroom Tissue","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","NOW BEAUTY PRODUCTS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Fresh Boneless Whole Beef Brisket","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","JOLLY RANCHER Ropes","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Frozen Grade A Duck","N/A",$4.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","KASIH Pistachio Premium Halva","N/A",$5.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Snow Crab Clusters","N/A",$20.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","BARD VALLEY Medjool Dates","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","LIL SNAPPERS D'Anjou or Bosc Pears","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SAINSBURY'S Baked Beans in Tomato Sauce","N/A",$1.79,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","1/2 Dessert Cake","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","CHOCOLATS FAVORIS Mini Fondue","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","JOHNSON & JOHNSON Baby","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SO DELICIOUS Dairy Free Frozen Dessert","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","CHAPMAN'S Super or No Sugar Added Novelties","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Salads","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Caramel Filled or Milk Chocolate Hearts","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Cooked Whole Lobsters","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Dessert Cakes","N/A",$21.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","FRESH ATTITUDE Caesar or Spring Mix Salad Kits","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Frozen Fruit","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","DEGREE Men's or Women's Deodorant","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Ataulfo Mangoes","N/A",$3.47,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","BARD VALLEY Dates","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","SALEM FOODS Liquid Honey","N/A",$8.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Sliced Deli Meats","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COCA-COLA Mini Cans","N/A",$5.29,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","KELLOGG'S Cheez-It Crackers","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Spices or Seasonings","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Love is Sweet Pot with Succulent","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Mini Pizzas","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Real Cream Layered Cakes","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Dessert Cake Slices","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","CHICKAPEA Organic Pasta","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","L'ORÉAL Skin Care","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","RANA Lasagna","N/A",$18.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","WONG WING Frozen Entrées, Egg Rolls, Spring Rolls or Dumplings","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","DESERT ESSENCE BODY, HAIR OR ORAL CARE","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Gourmet Cookies","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Ecuadorian Roses","N/A",$64.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","TOBLERONE Milk Chocolate","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","Roses","N/A",$24.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7766888,"Sobeys","N/A","COMPLIMENTS Rice Crackers","N/A",$1.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Pastrami","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Tortilla Chips","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","HALLMARK CARDS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Wild Snapper Fillets","N/A",$1.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Vitamins","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","6"" Potted Mini Roses","N/A",$14.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Sauce","N/A",$3.48,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Cal & Gary's Oat Porridge Sourdough Loaf","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Veggie Entrees","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Mini Babybel 12's","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Sunflower Flax or Canadian Harvest Multigrain","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Fresh Greek Salad or Greek Chicken Pasta Salad","N/A",$2.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Byblos Bakery Baklava Tray","N/A",$24.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Tinted Dozen Roses","N/A",$49.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Sara's Ice Cream Cakes","N/A",$19.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Lay's Magic Masala Potato Chips","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Ginger Beef and Mango Chicken","N/A",$2.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Strawberry Fruit Blends","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Candy","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Original Pogos","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Bulk Pastries","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Vitamins & Supplements","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Asparagus","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Catch of the Day Fillets","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Black Truffle or Habenaro Black Pepper or Smoked Gouda","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Paczki","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Traditional Pemmican Strip","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Scones","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Eggplant","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Love Notes Planter with Kalanchoe or Polka Dot Plant","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Valentine's Heart Shaped Cakes Chocolate or Vanilla","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Founders & Farmers Sliced or Shredded Cheese 220-320g and Oasis Orange Juice 1.5L","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Fresh Pasta Kits","N/A",$8.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Schick Razors and Blades","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Breaded Pork Cutlets","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Nabob Coffee","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Valentine's Day Candy","N/A",$2.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Whole Duck","N/A",$4.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Tylenol Pain Relief","N/A",$15.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","5"" Artistica Heart Shaped Orchid","N/A",$54.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Pitted Nour Dates","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Pineapple","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Premiere Bouquet Valentine's Day Theme","N/A",$47.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Bone In Pork Loin Centre or Rib End Chops","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Large Scallop Meat","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Block Cheese","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Honeycrisp Apples","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Dumplings or Wontons","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Bottom Blade Pot Roast","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Premium Diapers","N/A",$24.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Valentine's Day Cupcakes","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Valentine's Day Heart Charcuterie Tray","N/A",$21.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Toothpaste 75-135ml and Pro Advanced Mouthwash 1L or Clinical Deodorant 45g","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Cream Cheese 200g or Pie and Mini Tart Shells 255-397g","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","TY Plush","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Dozen Roses","N/A",$34.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Hair Care 350ml or Liquid Hand Soap Refill 828ml-1L and Colorsilk Hair Colour 1' s","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Yogurt Tubs 650-750g or Greek and Méditerranée Yogurt Tubs 650-900g","N/A",$6.47,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Large Avocados","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Lamb Tonight Boneless Seasoned Butterflied Lamb Leg","N/A",$19.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Snap Peas","N/A",$9.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Cookies","N/A",$8.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Purex Triple","N/A",$17.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Lean Ground Beef or Lilydale Extra Lean Ground Chicken","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Premium Rose 18 Stem Bouquet","N/A",$49.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Honey or Red Pomelos","N/A",$2.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Lemons","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Ice Cream","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Pasta Sauce 218-600ml or Pasta 340-410g","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Pork Back Ribs or Whole Pork Tenderloin","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Bubly or AHA Sparkling Water","N/A",$10.98,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Tampons","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Chocolates","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Sweet Bell Peppers","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Rose in Gift Box","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Garlic Toast Bread","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Pork Bellies","N/A",$4.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Fruit or Vegetable Trays","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Flatbread Pizzas","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Surf & Turf Top Sirloin Medallion Grilling Steak & White Raw Shrimp","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Juice","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","3"" Mousse Cakes","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Top Sirloin Grilling Steak","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Romaine Hearts","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Smart Sweets Strawberry Hearts","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","RWA Boneless Skinless Chicken Thighs","N/A",$16.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Joy of Mountains Oil of Oregano","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Dark Chocolate Raspberry or Dubai Style Pistachio Chocolate","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Eye Care","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Hair Care","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Cal & Gary's Black Forest Cake or 7"" Chocolate Ganache","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Boneless Skinless Chicken Breast","N/A",$8.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Fresh Made Dips","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Hand Formed Fieldburgers or Apple Maple Breakfast Sausage","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Yellow Potatoes","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Lobster Tails","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","8"" Valentines Day Garden","N/A",$46.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Cheddar","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Cooked Black Tiger Shrimp","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Hair Care or Body Wash","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Raspberries or Blackberries","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Olive Oil","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Sausage Rings or Schneiders Sliced Meats","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Chopped Salad Kits","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Long English Cucumbers","N/A",$1.69,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Canned Vegetables 341-398ml or Best Baked Beans 398ml","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Cereal","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Deli Hummus Dip","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Smart Italian Sausage, Tempeh Original or Smoky Bacon","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","NyQuil/DayQuil Complete","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Fondue or Heart Shaped Brie Cheese","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Jasmine or Basmati Rice","N/A",$2.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Whole Medjool Dates","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Schneiders Bacon or Maple Leaf Shredded or Sliced Roasted Chicken","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Campbell's Chunky Soup","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Tidy Cat Litter","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Desi Ghee","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Sriracha Hot Chili Sauce","N/A",$5.48,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Mustard","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Steelhead Trout Fillets","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Sauce","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Ravioli","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Dozen Roses","N/A",$34.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Surf & Turf Top Sirloin Medallion Grilling Steak & White Raw Shrimp","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Marinated Boneless Skinless Chicken Thighs","N/A",$8.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7769764,"Calgary Co-op","N/A","Soleterra Sliced Salami","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® 100% WHOLE GRAIN QUICK OATS, 1 kg","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® FACIAL TISSUE, 2 PLY, 6 X 200 SHEETS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® RED BREW DE-ALCOHOLIZED LAGER BEER, 12 X 355 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® CALIFORNIA MIXED VEGETABLES, 750 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","ITALPASTA, 750 g","N/A",$1.69,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","BROCCOLINI, TOMATOES ON THE VINE","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® LOW SODIUM CLUB SODA, 12 x 355 mL","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NESCAFÉ RICH INSTANT COFFEE","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® KITCHEN GARBAGE BAGS, 21 L","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® MEAT LASAGNA, 2.27 kg","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® SPICES, 150 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","ROYALE TIGER TOWEL, 3 = 6 ROLLS","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","REAL CANADIAN SPRING WATER,24x500 mL","N/A",$3.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® SPLENDIDO™ DELI MEAT 100 g or ZIGGY'S® KOLBASSA 375 g","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® CHICKEN HOT DOGS, 1.5 kg","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® BABY WIPES, 300' s","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® BASQUE CHEESECAKE, 600 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® VINEGAR","N/A",$2.29,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® CHICKEN NUGGETS, 908 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® CHICKEN STRIPS, 908 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","ASTRO OR IÖGO 650/750 G OR LIBERTÉ GREEK 4X100 G YOGURT","N/A",$2.97,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® CHICKEN WINGS, MEDIUM BBQ, 908 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","HIGH LINER FISH FILLETS, 330-700 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® LEMONADE,1.75 L","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","STRAWBERRIES, 1 LB CLAMSHELL","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","GIUSEPPE THIN CRUST OR RISING CRUST PIZZA, 439-785 G","N/A",$5.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","WONDER BREAD, 570 G OR BUNS, 12' S","N/A",$2.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","FERRERO ROCHER HEART ,16' s","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","TIMOTHY'S, KRISPY KREME or DONUT HOUSE COFFEE PODS, 30'S","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","MINI ROSES","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","LINDT ASSORTED MILK CHOCOLATE HEART , 108 g","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® CHOCOLATE CHIP COOKIES, 907 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® GNOCCHI OR RISOTTO, 350/400 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® INSTANT COFFEE, 80-100 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® BUTTER, 454 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NUTELLA HAZELNUT SPREAD, 725 G","N/A",$7.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","HOLIDAY ROSES","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","FARMER'S MARKET™ LOAF CAKES, 344-390 g","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® CHICKEN BURGER, 908 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® BASQUE CHOCOLATE CHEESECAKE, 600 G","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® COLESLAW, 397 G","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","SEAQUEST® FLAVOURED ALASKA POLLOCK READY TO EAT, 227 G, SMOKED STEELHEAD, 50 G, GO SHRIMP RAW, 51/70 PER LB OR COOKED, 61/90 PER LB, 160 G,","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","COCA-COLA or PEPSI SOFT DRINKS, 2 L","N/A",$1.69,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","CAVENDISH FRIES, 800 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® EXTRA SCENTED SCOOPABLE CLUMPING CAT LITTER, 7 KG","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","BEN & JERRY'S ICE CREAM 473 ML OR MAGNUM NOVELTIES 3' S","N/A",$5.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","TULIPS or SMALL MIXED BOUQUET","N/A",$10.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","RED OR GREEN SEEDLESS GRAPES","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","MAPLE LEAF TOP DOGS OR SCHNEIDERS WIENERS, 375 G","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","HERSHEY' VALENTINES CHOCOLATE or CANDY","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® BLUE MENU® CALAMANSI CITRUS AND STRAWBERRY SPARKLING WATER, 12 X 355 ML","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","GREEN GIANT VEGETABLES, 341/398 mL","N/A",$1.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","OIKOS GREEK OR ACTIVIA EXPERT YOGURT, 650/750 G","N/A",$6.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","AVOCADOS, PINEAPPLE","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","PC® CHOCOLATE BARS, 300 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","LACTANTIA OR DAIRYLAND CREAM, 473 ML - 1 L","N/A",$3.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","CRACKER BARREL CHEESE SHREDS 320 g, or BLACK DIAMOND CHEESTRINGS or SNACKS 252/336 g","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","CHEF BOYARDEE PASTA, 418/425 G","N/A",$1.69,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","CAMPBELL'S TOMATO, CREAM OF MUSHROOM, VEGETABLE or CHICKEN NOODLE SOUP, 284 mL","N/A",$1.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","BECEL MARGARINE, 637/850 g","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","LACTANTIA BUTTER, 454 g","N/A",$4.95,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","SEAQUEST® COLOSSAL RAW WHITE SHRIMP, 16-20 PER LB, 300 G, BAY SCALLOPS, 400 G OR SHRIMP RING, 227 G","N/A",$6.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","RED or WHITE POTATOES, 10 LB BAG","N/A",$3.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","DAN-D PAK CASHEWS, 908 G","N/A",$13.88,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® VINEGAR, 4 L","N/A",$2.29,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NO NAME® EVAPORATED MILK, 354 mL","N/A",$1.25,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","LOUS KITCHEN ENTRÉES, 375-400 G","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","UNICO BEANS, 540 ML OR TOMATOES, 796 ML","N/A",$1.50,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","BONELESS RIB STEAK or STRIPLOIN STEAK, 300 g","N/A",$11.00,$14.00,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","WATSON RIDGE CHICKEN STRIPS or NUGGETS or TA'AAM HALAL NUGGETS, 800 g","N/A",$3.91,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","ASTRO OR IÖGO, 650/750 G OR LIBERTÉ GREEK, 4X100 G YOGURT","N/A",$2.97,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","ASPARAGUS","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","CHICKEN BREAST","N/A",$4.85,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","LACTANTIA PUR FILTRE, LACTOSE FREE or ULTRAPUR MILK","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","OASIS JUICE, DEL MONTE NECTAR, or ARIZONA ICED TEA, 960 ML","N/A",$1.44,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","ITALPASTA, 750 G","N/A",$1.69,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","GALLO EXTRA VIRGIN OLIVE OIL, 1 L","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","FERRERO ROCHER DIAMOND BOX, 24'S","N/A",$15.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","TOBLERONE TINY CHOCOLATE, 120 g","N/A",$6.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","HEINZ BEANS or PASTA, 398 ML","N/A",$1.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","NESTLÉ KITKAT OR SMARTIES, 30' S","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","VACHON SNACK CAKES, 282 g - 336 g","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3
+7770159,"No Frills","N/A","DELUXE BOUQUETS","N/A",$20.00,N/A,"N/A",each,"N/A",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",T2P3M3

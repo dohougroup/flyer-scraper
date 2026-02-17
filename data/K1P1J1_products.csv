@@ -6,8 +6,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7773572,"PetSmart","N/A","shop cat","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-16T00:00:00-05:00,2026-02-22T23:59:59-05:00,"N/A",K1P1J1
 7773572,"PetSmart","N/A","shop aquatic","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-16T00:00:00-05:00,2026-02-22T23:59:59-05:00,"N/A",K1P1J1
 7773572,"PetSmart","N/A","shop dog","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-16T00:00:00-05:00,2026-02-22T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Tide laundry detergent 80-100 loads","N/A",$19.97,$24.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7765096,"Walmart","N/A","Coca-Coca Pop","N/A",$3.97,$5.88,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Microfibre sheets set","N/A",$19.88,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Crew-neck popover sweatshirt","N/A",$17.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Women's ribbed tee","N/A",$9.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -156,6 +154,8 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7765096,"Walmart","N/A","Bikaji snacks","N/A",$0.97,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Wagh Bakri loose tea","N/A",$9.98,$12.47,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7765096,"Walmart","N/A","Shan spice mixes","N/A",$1.27,$2.14,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Shana paratha","N/A",$1.97,$2.88,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7765096,"Walmart","N/A","Al Dayaa tahina","N/A",$5.97,$8.97,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7783743,"Familiprix","N/A","FEBREZE, Plug, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
 7783743,"Familiprix","N/A","NICORETTE","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
 7783743,"Familiprix","N/A","TRESemmé, Selected hair care products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
@@ -306,21 +306,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7783743,"Familiprix","N/A","AERIUS or CLARITIN, Selected products","N/A",$31.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
 7783743,"Familiprix","N/A","DOVE, Derma Scalp, Serum, 59 ml","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
 7783743,"Familiprix","N/A","GLUCERNA, Meal replacement 6 x 237 ml","N/A",$12.99,$17.79,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","NEO-LARYNGOBIS, Suppositories, 2 units","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","FISHERMAN'S FRIEND","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","SIMILAC, Total Comfort, Powdered infant formula, 837 g","N/A",$54.99,$60.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","VITOLI, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","GUM","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","COLD-FX Selected products","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","GILLETTE, Selected cartridges","N/A",$27.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","ESSENTIEL, Selected pads or liners","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","AVÈNE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","DOVE Body Wash, 905 ml or DOVE MEN CARE Body and Face Wash, 950 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","PROSPAN by HELIXIA, Cough, Syrup, 200 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","AVEENO, OLD SPICE, SECRET or TENA, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","DOVE Body wash, 905 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","HERO, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","RICOLA Lozenges, 34 or 45 Units","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","BOIRON Stodal, Sirop pour enfant Syrup for children,","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -357,7 +342,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7773936,"Familiprix","N/A","AVÈNE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","RICOLA, Lozenges, 17 or 19 17 or 19 units","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","essentiel Denture cleanser 96 tablets","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773936,"Familiprix","N/A","""DOWNY FIREWORKS, In-wash scent booster, 379 g …""","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","SPONGE TOWELS, Ultra or Ultra Pro, Paper towels, 3 double rolls","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","NESCAFÉ, Rich instant coffee, 170 g","N/A",$6.99,$11.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","TIDE, Simply All in One, Laundry detergent, 2,72 litres","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -377,6 +361,61 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7773936,"Familiprix","N/A","AVÈNE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","Essentiel zinc ointment 100g","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773936,"Familiprix","N/A","ROBITUSSIN Selected syrups, 100 ml","N/A",$8.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","NEO-LARYNGOBIS, Suppositories, 2 units","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","FISHERMAN'S FRIEND","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","SIMILAC, Total Comfort, Powdered infant formula, 837 g","N/A",$54.99,$60.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","VITOLI, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","GUM","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","COLD-FX Selected products","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","GILLETTE, Selected cartridges","N/A",$27.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","ESSENTIEL, Selected pads or liners","N/A",$5.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","AVÈNE On selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","DOVE Body Wash, 905 ml or DOVE MEN CARE Body and Face Wash, 950 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","PROSPAN by HELIXIA, Cough, Syrup, 200 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","BOOST, Meal replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","AVEENO, OLD SPICE, SECRET or TENA, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","SYSTANE, Selected lubricant eye drops","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","DOVE Body wash, 905 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773936,"Familiprix","N/A","""DOWNY FIREWORKS, In-wash scent booster, 379 g …""","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BIOMEDIC AREDS 2 Ocular multivitamin, 60 tablets","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","RHINARIS, Saline solution, 100 ml","N/A",$11.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","HUGGIES Selected diapers","N/A",$24.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BIOMEDIC, Bronchi and sinuses, 30 softgels","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BIOMEDIC, Nasal rinse, 1 bottle + 50 packets of sinus rinse","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 110 or 115 capsules","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","Biomedic extra strength muscle & back pain relief caplets 18un","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","HYDRASENSE Daily nasal care 100 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","SYSTANE","N/A",$15.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","POISE, Pads or liners,selected sizes","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BENYLIN, All-in-one Selected products","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","ENSURE, High protein, Nutritional supplement, 6 x 235 ml","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","VICKS, Early Defence, Nasal spray, 15 ml, NyQuil or DayQuil Complete, Cold and flu, 236 ml or 8 packets powder","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","VICKS, NyQuil or DayQuil, Selected products","N/A",$10.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","""TYLENOL, Acetaminophen for children, 160 mg, 20 tablets""","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","CÉPACOL, Pastilles/Lozenges, 12 or 16 units","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","HUGGIES Baby wipes, selected refills","N/A",$19.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BENYLIN, Selected syrups, 250 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","ROBITUSSIN, Selected syrups","N/A",$15.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BIOMEDIC Cold + sinus,","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","NICORETTE, Nicotine gum, 2 mg or 4 mg, 30 pieces","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","TYLENOL Acetaminophen","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BIOMEDIC, Selected melatonin","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BIOMEDIC, Meal replacement, 6 x 235 ml","N/A",$9.99,$15.99,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","TYLENOL or MOTRIN Selected products for infants or children","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","TYLENOL, Complete, cold, cough and flu, elected sizes","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","SAMBUCOL, Anti-viral flu care, syrup, 230 ml","N/A",$15.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","NIC-HIT, Nicotine liquid, vaporisation/spray, 1 mg, 30 ml","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","SALINEX, Nasal spray, 125 ml or ProText, Nasal spray, 20 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","HUGGIES GoodNites or Pull-Ups Selected training pants","N/A",$26.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","TYLENOL, Rhume, Sinus ou Rhume et Sinus Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","""BUCKLEY'S, Cough, cold and flu day/night, 24 caplets or …Selected syrups, 100 ml or 115 ml …""","N/A",$8.79,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","CASHMERE, Bathroom tissue, 8 double rolls","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","""ESSENTIEL, Selected protective underwear …""","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BIOMEDIC, Calcium +D3, Vitamin, 400 I.U., 60 tablets","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BIOMEDIC, Vapourizing cold rub ointment, 135 ml","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","BENTASIL Lozenges 20 units","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","DUREX or K-Y, Condoms Selected condoms or lubricants","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7783747,"Familiprix","N/A","POUR EXTRA BIODERMA, EUCERIN or VICHY,Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
 7783737,"Familiprix","N/A","HUGGIES Baby wipes, selected refills","N/A",$19.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
 7783737,"Familiprix","N/A","SOFTSOAP or VASELINE, Selected products","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
 7783737,"Familiprix","N/A","BIOMEDIC, Rhume + sinus/Cold + sinus, 20 caplets","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
@@ -423,24 +462,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7783737,"Familiprix","N/A","Colgate cavity protection toothpaste Regular 95ml","N/A",$2.22,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
 7783737,"Familiprix","N/A","BANANA BOAT, Selected suncare products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
 7783737,"Familiprix","N/A","BIOMEDIC, Nasal rinse, 1 bottle + 50 packets of sinus rinse","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","GENUINE HEALTH, Omega3+ Joy,Omega 3, 120 softgels","N/A",$45.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","GELOMYRTOL Bronchi and Sinuses, 300 mg, 20 Capsules","N/A",$18.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC, Lozenges, 16 units","N/A",$3.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC Cold and sinus relief combo or Extra strenght sinus medication, 20 caplets","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ROBITUSSIN, Selected syrups, 100 ml or 115 ml","N/A",$8.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","COLD-FX, Selected products","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC, Cold and flu-in-one extra-strength or Flu, cough and cold complete day and night formula, 24 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ADVIL, Cold and sinus, selected products, 36 or 40 units","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","HERO, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","LAMBERT Natural syrup, 150 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","FISHERMAN'S FRIEND, Lozenges, 22 units","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","Cold-FX First Signs vegan capsules 48un","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","Systane Ultra high performance lubricant eye drops 10ml","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","WEBBER NATURALS, Maca for women or men, 60 capsules","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","BIOMEDIC Decongestant nasal spray 30 ml","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","ENA, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773914,"Familiprix","N/A","CASHMERE Bathroom Tissue, 24 Double Rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773914,"Familiprix","N/A","BOIRON Syrup for children, 125 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773914,"Familiprix","N/A","BIOMEDIC Pastilles Cough lozenges, 30 units","N/A",$2.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773914,"Familiprix","N/A","PEDIALYTE, Freezer pops, 16 x 62,5 ml or Advanced Care+, Powder sticks, 6 x 17 g or Oral rehydration solution, 1 litre","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -468,45 +489,24 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7773914,"Familiprix","N/A","PROSPAN by HELIXIA","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773914,"Familiprix","N/A","BIOMEDIC Acetaminophen, 500 mg, 130 caplets tablets or caplets or 325 mg, 120 caplets tablets or caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773914,"Familiprix","N/A","BOOST, replacement, 6 x 237 ml","N/A",$10.99,$16.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BIOMEDIC AREDS 2 Ocular multivitamin, 60 tablets","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","RHINARIS, Saline solution, 100 ml","N/A",$11.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","HUGGIES Selected diapers","N/A",$24.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BIOMEDIC, Bronchi and sinuses, 30 softgels","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BIOMEDIC, Nasal rinse, 1 bottle + 50 packets of sinus rinse","N/A",$13.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","ADVIL, Ibuprofen, 200 mg, 110 or 115 capsules","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","Biomedic extra strength muscle & back pain relief caplets 18un","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","HYDRASENSE Daily nasal care 100 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","SYSTANE","N/A",$15.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","POISE, Pads or liners,selected sizes","N/A",$12.00,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BENYLIN, All-in-one Selected products","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","ENSURE, High protein, Nutritional supplement, 6 x 235 ml","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","VICKS, Early Defence, Nasal spray, 15 ml, NyQuil or DayQuil Complete, Cold and flu, 236 ml or 8 packets powder","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","VICKS, NyQuil or DayQuil, Selected products","N/A",$10.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","""TYLENOL, Acetaminophen for children, 160 mg, 20 tablets""","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","CÉPACOL, Pastilles/Lozenges, 12 or 16 units","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","HUGGIES Baby wipes, selected refills","N/A",$19.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BENYLIN, Selected syrups, 250 ml","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","ROBITUSSIN, Selected syrups","N/A",$15.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BIOMEDIC Cold + sinus,","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","NICORETTE, Nicotine gum, 2 mg or 4 mg, 30 pieces","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","TYLENOL Acetaminophen","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BIOMEDIC, Selected melatonin","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BIOMEDIC, Meal replacement, 6 x 235 ml","N/A",$9.99,$15.99,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","TYLENOL or MOTRIN Selected products for infants or children","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","TYLENOL, Complete, cold, cough and flu, elected sizes","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","SAMBUCOL, Anti-viral flu care, syrup, 230 ml","N/A",$15.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","NIC-HIT, Nicotine liquid, vaporisation/spray, 1 mg, 30 ml","N/A",$13.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","SALINEX, Nasal spray, 125 ml or ProText, Nasal spray, 20 ml","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","HUGGIES GoodNites or Pull-Ups Selected training pants","N/A",$26.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","TYLENOL, Rhume, Sinus ou Rhume et Sinus Cold, Sinus or Cold and Sinus, selected products, 40 units","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","""BUCKLEY'S, Cough, cold and flu day/night, 24 caplets or …Selected syrups, 100 ml or 115 ml …""","N/A",$8.79,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","CASHMERE, Bathroom tissue, 8 double rolls","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","""ESSENTIEL, Selected protective underwear …""","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BIOMEDIC, Calcium +D3, Vitamin, 400 I.U., 60 tablets","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BIOMEDIC, Vapourizing cold rub ointment, 135 ml","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","BENTASIL Lozenges 20 units","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","DUREX or K-Y, Condoms Selected condoms or lubricants","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
-7783747,"Familiprix","N/A","POUR EXTRA BIODERMA, EUCERIN or VICHY,Selected care products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","GENUINE HEALTH, Omega3+ Joy,Omega 3, 120 softgels","N/A",$45.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","GELOMYRTOL Bronchi and Sinuses, 300 mg, 20 Capsules","N/A",$18.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC, Lozenges, 16 units","N/A",$3.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC Cold and sinus relief combo or Extra strenght sinus medication, 20 caplets","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ADRIEN GAGNON, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ROBITUSSIN, Selected syrups, 100 ml or 115 ml","N/A",$8.79,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","COLD-FX, Selected products","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC, Cold and flu-in-one extra-strength or Flu, cough and cold complete day and night formula, 24 caplets","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ADVIL, Cold and sinus, selected products, 36 or 40 units","N/A",$16.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","HERO, Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","LAMBERT Natural syrup, 150 ml","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","FISHERMAN'S FRIEND, Lozenges, 22 units","N/A",$1.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","Cold-FX First Signs vegan capsules 48un","N/A",$21.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","Systane Ultra high performance lubricant eye drops 10ml","N/A",$9.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","WEBBER NATURALS, Maca for women or men, 60 capsules","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","BIOMEDIC Decongestant nasal spray 30 ml","N/A",$5.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","ENA, Selected products","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773914,"Familiprix","N/A","CASHMERE Bathroom Tissue, 24 Double Rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","BIOMEDIC, Selected multivitamins and minerals","N/A",$12.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","Collection Mini, Selected jewelry","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","OLA BAMBOO, Natural deodorant, 42 g","N/A",$8.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -534,13 +534,10 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7773942,"Familiprix","N/A","ADRIEN GAGNON,Selected products","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","BONTERRA, Bathroom tissue, 9 triple rolls or Paper towels, /mega rolls","N/A",$6.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","L'ORÉAL PARIS, Selected products","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773942,"Familiprix","N/A","CELLA'S Cherries covered chocolate, 141 g","N/A",$3.49,$3.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","LINDT, Lindor,Milk chocolate hearts, 202 g","N/A",$31.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","ALIGN, Probiotic supplement, 28 capsules","N/A",$39.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773942,"Familiprix","N/A","FLEECY, Fabric softener, 2,6 litres ou/or TIDE, Simply All in One, Laundry detergent, 2,72 litres","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","Fleecy concentrated fabric softener fresh air 2.6L","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","ESSENTIEL, Bathroom tissue, 8 double rolls","N/A",$4.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773942,"Familiprix","N/A","SCHWARZKOPF Keratin Color or Root Retouch, Selected hair colors","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","Poligrip value size strong hold denture adhesive cream 70g","N/A",$6.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","CASHMERE, Bathroom tissue, 24 double rolls","N/A",$10.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","FIRST RESPONSE, Selected pregnancy tests","N/A",$15.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -549,8 +546,12 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7773942,"Familiprix","N/A","KANDJU, Candies, 225 g","N/A",$4.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","TYLENOL, Selected products","N/A",$21.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","AERIUS Allergy, 5 mg, 70 tablets","N/A",$36.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773942,"Familiprix","N/A","Voltaren Emulgel topical pain relieving gel back & muscle pain - Triple Effect 100g","N/A",$12.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","GLYSOMED Hand cream, 50 ml","N/A",$3.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773942,"Familiprix","N/A","SCHWARZKOPF Keratin Color or Root Retouch, Selected hair colors","N/A",$11.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773942,"Familiprix","N/A","CELLA'S Cherries covered chocolate, 141 g","N/A",$3.49,$3.99,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773942,"Familiprix","N/A","SELSUN BLUE, Selected anti-dandruff shampoos, 300 ml","N/A",$8.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773942,"Familiprix","N/A","FLEECY, Fabric softener, 2,6 litres ou/or TIDE, Simply All in One, Laundry detergent, 2,72 litres","N/A",$7.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7773942,"Familiprix","N/A","MONDOUX, Sweet Sixteen, Candies, 400 g","N/A",$5.99,$7.49,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","L'ORÉAL PARIS, Selected makeup products","N/A",$12.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","BIOMEDIC, Cold and sinus relief combo or Extra strenght sinus medication, 20 caplets","N/A",$7.49,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","Vitoli Sleep triple action capsules 30un","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -656,7 +657,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7773942,"Familiprix","N/A","COLGATE, Selected buccal products","N/A",$6.29,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","Selected hair accessories","N/A",N/A,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7773942,"Familiprix","N/A","GELOMYRTOL, Bronchi and sinuses, 300 mg, 20 capsules","N/A",$18.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
-7773942,"Familiprix","N/A","HYDRALYTE, Electrolyte powder, 12 x 6 g or 10 x 6,2 g","N/A",$15.99,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","BEAU'S LUG TREAD","N/A",$46.99,$50.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","STEAM WHISTLE PILSNER","N/A",$46.99,N/A,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","SLEEMAN ORIGINAL LAGER","N/A",$51.99,N/A,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
@@ -677,7 +677,6 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7759414,"The Beer Store","N/A","BAVARIA PREMIUM","N/A",$12.62,$13.58,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","8.6 CHERRY STRONG BEER","N/A",$2.54,$2.79,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
 7759414,"The Beer Store","N/A","CORONA","N/A",$44.99,$46.99,"N/A",each,"N/A",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,"N/A",K1P1J1
-7758613,"Leon's","N/A","San Antonio Dual Power Recliner - Grey","N/A",$1199.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7758613,"Leon's","N/A","Manila 20"" End Table - Brown","N/A",$299.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7758613,"Leon's","N/A","Stampede Leather Loveseat - Chestnut","N/A",$1679.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7758613,"Leon's","N/A","Sealy Posturepedic® Plus Sterling Milana II Luxury Plush Eurotop Twin Mattress","N/A",$849.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
@@ -827,3 +826,4 @@ flyerId,storeName,storeAddress,productName,brand,salePrice,regularPrice,unitSize
 7758613,"Leon's","N/A","Frigidaire Gallery Stainless Steel Freestanding Electric Range with Stone-Baked Pizza (6.2 Cu. Ft.) - GCFE307CBF","N/A",$2095.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7758613,"Leon's","N/A","Jackson Leather 6-Piece Power Reclining Sectional with Heat and Massage - Butternut","N/A",$3999.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
 7758613,"Leon's","N/A","Serta Panama Firm Twin Mattress","N/A",$449.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
+7758613,"Leon's","N/A","Adjustable Base","N/A",$399.00,N/A,"N/A",each,"N/A",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,"N/A",K1P1J1
