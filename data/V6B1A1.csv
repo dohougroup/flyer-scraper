@@ -1,119 +1,97 @@
 id,storeName,title,validFrom,validTo,postalCode,sourceUrl
 7773572,"PetSmart","Weekend Flyer",2026-02-16T00:00:00-05:00,2026-02-22T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7773572-1187679
 7778483,"Walmart","Flyer",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7778483-1178520
-7765092,"Walmart","Flyer",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7765092-1178519
-7762899,"London Drugs","Special Flyer - West",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7762899-1155431
-7758618,"Leon's","Great Canadian Super Sale",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7758618-1173989
-7770267,"Real Canadian Superstore","Weekly Flyer - Valid Thursday, February 12 - Wednesday, February 18",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7770267-1152219
-7766895,"Safeway","Weekly eFlyer 02/12 - 02/18",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7766895-970110
-7780288,"No Frills","Weekly Flyer Valid Thursday, February 19 - Wednesday, February 25 ",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780288-1174343
-7768355,"SuperValu","Weekly Flyer Valid Thursday, Ferbuary 12 - Wednesday, Ferbuary 18",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7768355-1128869
-7785630,"Loblaws","Weekly Flyer Valid Thursday, February 19 - Wednesday, February 25 ",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785630-1152063
-7781898,"Your Independent Grocer","Weekly Flyer - Valid Thursday, February 19 - Wednesday, February 25",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781898-1163209
-7769950,"Loblaws","Weekly Flyer Valid Thursday, February 12 - Wednesday, February 18",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7769950-1152062
-7776240,"The Brick","Sleep Better Sale",2026-02-18T00:00:00-05:00,2026-03-05T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7776240-1186104
-7779480,"SuperValu","Weekly Flyer Valid Thursday, February 19 - Wednesday, February 25 ",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7779480-1128870
-7778661,"Safeway","Weekly eFlyer 02/19 - 02/25",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7778661-970111
-7770146,"Your Independent Grocer","Weekly Flyer - Valid Thursday, February 12 - Wednesday, February 18",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7770146-1163208
-7770156,"No Frills","Weekly Flyer - Valid Thursday, February 12 - Wednesday, February 18",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7770156-1174342
+7771694,"London Drugs","Special Flyer - West",2026-02-20T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7771694-1155432
 7782002,"Real Canadian Superstore","Weekly Flyer Valid Thursday, February 19 - Wednesday, February 25 ",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7782002-1152220
+7776240,"The Brick","Sleep Better Sale",2026-02-18T00:00:00-05:00,2026-03-05T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7776240-1186104
+7781898,"Your Independent Grocer","Weekly Flyer - Valid Thursday, February 19 - Wednesday, February 25",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781898-1163209
+7785630,"Loblaws","Weekly Flyer Valid Thursday, February 19 - Wednesday, February 25 ",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785630-1152063
+7779480,"SuperValu","Weekly Flyer Valid Thursday, February 19 - Wednesday, February 25 ",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7779480-1128870
+7780288,"No Frills","Weekly Flyer Valid Thursday, February 19 - Wednesday, February 25 ",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780288-1174343
+7778661,"Safeway","Weekly eFlyer 02/19 - 02/25",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7778661-970111
 7754864,"Canadian Tire","Weekly Flyer",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7754864-1173313
 7765067,"Canadian Tire","Weekly Flyer",2026-02-20T00:00:00-05:00,2026-02-26T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7765067-1173314
-7785230,"Everything Wine","Flyer",2026-02-18T00:00:00-05:00,2026-03-01T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785230-1183384
-7717301,"Home Hardware","Kitchen and Bath",2026-01-15T00:00:00-05:00,2026-04-08T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7717301-1156689
 7742519,"Lifeplus Natural Health","flyer",2026-02-06T00:00:00-05:00,2026-02-21T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7742519-1183204
-7742966,"Tisol","Bi-Weekly Flyer",2026-02-05T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7742966-1169928
-7767149,"Safeway","Ramadan",2026-02-12T03:00:00-05:00,2026-03-18T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7767149-1186705
-7788232,"Sephora ","FlyerCP",2026-02-18T00:00:00-05:00,2026-02-24T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7788232-1189797
+7781928,"Staples","Weekly",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781928-1188854
+7756996,"Tisol","Lookbooks",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7756996-1169935
+7727610,"Tisol","Lookbooks",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7727610-1169938
+7727612,"Bosley's","Lookbooks",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7727612-1169964
+7780507,"Black History Month by Flipp","Flyer",2026-02-15T00:00:00-05:00,2026-02-21T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780507-1188585
 7785573,"Wayfair","flyer",2026-02-17T00:00:00-05:00,2026-02-23T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785573-1189187
-7780717,"PetSmart","Monthly Flyer",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780717-1184292
-7779499,"T&T Supermarket","Weekly Flyer",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7779499-1143341
-7767389,"Safeway","Health & Beauty - Safeway Canada",2026-02-12T03:00:00-05:00,2026-03-18T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7767389-1186714
+7730974,"Princess Auto","National Sale",2026-02-10T00:00:00-05:00,2026-02-22T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7730974-1159976
+7757003,"Bosley's","Lookbooks",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7757003-1169959
+7754449,"Princess Auto","Price Wrecker",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7754449-1159983
+7779504,"Red Apple Stores","Digital Flyer",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7779504-1188410
+7755075,"Bumper to Bumper","Flyer",2026-02-02T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7755075-1181080
+7767149,"Safeway","Ramadan",2026-02-12T03:00:00-05:00,2026-03-18T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7767149-1186705
+7756994,"Fabricland","All Out Clearout",2026-02-01T00:00:00-05:00,2026-02-27T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7756994-1185139
 7774257,"Home Hardware","Ultimate Bath Sale",2026-02-19T00:00:00-05:00,2026-03-18T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7774257-1187605
-7788185,"H&M ","Flyer",2026-02-18T00:00:00-05:00,2026-02-24T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7788185-1189791
-7780222,"Sport Chek","Flyer",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780222-1188547
+7782255,"Choices Markets","Weekly",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7782255-1176453
+7785230,"Everything Wine","Flyer",2026-02-18T00:00:00-05:00,2026-03-01T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785230-1183384
+7785461,"Costco","Flyer",2026-02-17T00:00:00-05:00,2026-02-22T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785461-1189173
+7784087,"Pharmasave","Weekly Flyer",2026-02-20T00:00:00-05:00,2026-02-26T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7784087-1170932
+7768607,"Tisol","Bi-Weekly Flyer",2026-02-19T00:00:00-05:00,2026-03-04T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7768607-1169929
 7773530,"Pharmasave","Weekly Flyer",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7773530-1170931
 7689520,"Subway","Subway",2026-01-02T00:00:00-05:00,2026-02-26T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7689520-1175428
-7779504,"Red Apple Stores","Digital Flyer",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7779504-1188410
 7788233,"Old Navy ","Flyer",2026-02-18T00:00:00-05:00,2026-02-22T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7788233-1189795
-7781928,"Staples","Weekly",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781928-1188854
-7785461,"Costco","Flyer",2026-02-17T00:00:00-05:00,2026-02-22T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785461-1189173
-7780194,"IKEA","Flyer",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780194-1188539
-7780507,"Black History Month by Flipp","Flyer",2026-02-15T00:00:00-05:00,2026-02-21T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780507-1188585
-7757003,"Bosley's","Lookbooks",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7757003-1169959
-7785307,"Best Buy","Flyer",2026-02-17T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785307-1189155
-7780221,"Dollarama","Flyer",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780221-1188546
-7732209,"Safeway","Lunar New Year Festival",2026-01-22T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7732209-1180793
-7754449,"Princess Auto","Price Wrecker",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7754449-1159983
-7780260,"Famous Foods ","Indexed Weekly",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780260-1188554
-7756997,"Bosley's","Lookbooks",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7756997-1169961
-7768607,"Tisol","Bi-Weekly Flyer",2026-02-19T00:00:00-05:00,2026-03-04T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7768607-1169929
-7780210,"The Shopping Channel","Flyer",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780210-1188545
-7755075,"Bumper to Bumper","Flyer",2026-02-02T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7755075-1181080
-7727610,"Tisol","Lookbooks",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7727610-1169938
-7773551,"Choices Markets","Weekly",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7773551-1176452
-7781655,"Sabzi Mandi ","Indexed",2026-02-13T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781655-1188820
-7778948,"PriceSmart foods","Additional Deals",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7778948-1143897
-7730974,"Princess Auto","National Sale",2026-02-10T00:00:00-05:00,2026-02-22T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7730974-1159976
-7784428,"Pomme Produce","Weekly",2026-02-17T00:00:00-05:00,2026-02-23T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7784428-1189104
-7756994,"Fabricland","All Out Clearout",2026-02-01T00:00:00-05:00,2026-02-27T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7756994-1185139
-7780178,"Holt Renfrew","Flyer",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780178-1188536
 7723382,"On the Run","Direct Flyer",2026-01-14T00:00:00-05:00,2026-03-31T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7723382-1160176
-7727612,"Bosley's","Lookbooks",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7727612-1169964
-7770176,"Shoppers Drug Mart","Event",2026-02-11T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7770176-1187317
-7756996,"Tisol","Lookbooks",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7756996-1169935
+7788232,"Sephora ","FlyerCP",2026-02-18T00:00:00-05:00,2026-02-24T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7788232-1189797
 7762431,"Home Depot","Flyer",2026-02-05T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7762431-1182268
+7717301,"Home Hardware","Kitchen and Bath",2026-01-15T00:00:00-05:00,2026-04-08T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7717301-1156689
+7784428,"Pomme Produce","Weekly",2026-02-17T00:00:00-05:00,2026-02-23T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7784428-1189104
+7785307,"Best Buy","Flyer",2026-02-17T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785307-1189155
 7730675,"Choices Markets","February Heartbeet",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7730675-1181075
-7781078,"Chong Lee Market","Weekly",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781078-1188790
-7785639,"Costco","Costco Grocery",2026-02-17T00:00:00-05:00,2026-02-22T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785639-1189186
-7782263,"Costco","Flyer",2026-02-16T00:00:00-05:00,2026-03-15T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7782263-1188884
+7780717,"PetSmart","Monthly Flyer",2026-02-02T00:00:00-05:00,2026-03-01T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780717-1184292
+7788185,"H&M ","Flyer",2026-02-18T00:00:00-05:00,2026-02-24T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7788185-1189791
+7786080,"PriceSmart foods","Additional Deals",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7786080-1143898
+7785295,"Shoppers Drug Mart","Event",2026-02-24T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785295-1179464
+7767389,"Safeway","Health & Beauty - Safeway Canada",2026-02-12T03:00:00-05:00,2026-03-18T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7767389-1186714
+7756997,"Bosley's","Lookbooks",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7756997-1169961
+7779499,"T&T Supermarket","Weekly Flyer",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7779499-1143341
 7779648,"Fruiticana","Insert",2026-02-12T00:00:00-05:00,2026-12-31T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7779648-1188495
+7782263,"Costco","Flyer",2026-02-16T00:00:00-05:00,2026-03-15T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7782263-1188884
+7785639,"Costco","Costco Grocery",2026-02-17T00:00:00-05:00,2026-02-22T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7785639-1189186
 7782279,"Foody World","Weekly",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7782279-1188896
+7781078,"Chong Lee Market","Weekly",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781078-1188790
 7498513,"Party City","Local Ad",2025-08-29T00:00:00-04:00,2026-03-26T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7498513-1062812
-7760124,"Pharmasave","Weekly Flyer",2026-02-13T00:00:00-05:00,2026-02-26T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7760124-1170825
-7773691,"Visions Electronics","Liquidation",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7773691-1149689
-7770185,"Nesters Market","Weekly Ad",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7770185-1162548
-7773843,"Michaels Canada","Weekly Ad",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7773843-1187374
-7768762,"M&M Food Market","Weekly Flyer",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7768762-1185772
-7755446,"Home Hardware","Home Hardware",2026-02-12T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7755446-1156696
-7729192,"Wholesale Club and Club Entrepôt","Happy Lunar New Year",2026-01-29T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7729192-1171680
-7764404,"Shoppers Drug Mart","Flyer",2026-02-14T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7764404-1151073
-7769804,"Save-On-Foods","Flyer",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7769804-1143576
-7780971,"Lucky Supermarket","Indexed Weekly",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780971-1188719
-7781834,"Nesters Market","Weekly Ad",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781834-1162549
-7776095,"Stokes ","Cookware Sale",2026-02-16T00:01:00-05:00,2026-03-22T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7776095-1187910
-7761557,"PharmaChoice","Flyer",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7761557-1077387
-7776349,"Cabela's & Bass Pro","Snow Days",2026-02-12T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7776349-1175516
-7782243,"Greens Organic and Natural Market","Indexed Bi-Weekly",2026-02-13T00:00:00-05:00,2026-02-26T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7782243-1188885
-7739598,"PriceSmart foods","Lunar New Year",2026-01-22T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7739598-1182819
-7771782,"Buy-Low Foods","Weekly Ad",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7771782-1162617
 7770395,"Rexall","Weekly Flyer",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7770395-1146986
-7766706,"Thrifty Foods","Weekly eFlyer 02/12 - 02/18",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7766706-1183877
-7778434,"Thrifty Foods","Weekly eFlyer 02/19 - 02/25",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7778434-1183878
-7772469,"PharmaChoice","Flyer",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7772469-1162446
-7776111,"Freshmart","Weekly Flyer Valid Thursday, Ferbuary 12 - Wednesday, Ferbuary 18",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7776111-1128836
-7781698,"Urban Fare","Weekly Flyer",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781698-1143629
-7765134,"RONA & RONA +","Weekly Flyer",2026-02-12T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7765134-1169487
+7770185,"Nesters Market","Weekly Ad",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7770185-1162548
+7782257,"Buy-Low Foods","Weekly Ad",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7782257-1162618
+7755446,"Home Hardware","Home Hardware",2026-02-12T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7755446-1156696
+7771782,"Buy-Low Foods","Weekly Ad",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7771782-1162617
+7773843,"Michaels Canada","Weekly Ad",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7773843-1187374
+7776349,"Cabela's & Bass Pro","Snow Days",2026-02-12T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7776349-1175516
+7773691,"Visions Electronics","Liquidation",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7773691-1149689
+7781940,"Shoppers Drug Mart","Flyer",2026-02-21T00:00:00-05:00,2026-02-26T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781940-1151074
 7772482,"PharmaChoice","Health Centre Flyer",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7772482-1187599
 7781748,"Save-On-Foods","Flyer",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781748-1143577
-7784188,"Freshmart","Weekly Flyer Valid Thursday, February 19 - Wednesday, February 25 ",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7784188-1128837
-7769840,"Urban Fare","Weekly Flyer",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7769840-1143628
+7760124,"Pharmasave","Weekly Flyer",2026-02-13T00:00:00-05:00,2026-02-26T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7760124-1170825
+7781698,"Urban Fare","Weekly Flyer",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781698-1143629
+7764404,"Shoppers Drug Mart","Flyer",2026-02-14T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7764404-1151073
+7769804,"Save-On-Foods","Flyer",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7769804-1143576
 7767491,"Wholesale Club and Club Entrepôt","Weekly Flyer - Valid Thursday Feb 19 - Wednesday March 11",2026-02-19T00:00:00-05:00,2026-03-11T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7767491-1171681
+7776095,"Stokes ","Cookware Sale",2026-02-16T00:01:00-05:00,2026-03-22T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7776095-1187910
+7769840,"Urban Fare","Weekly Flyer",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7769840-1143628
+7772469,"PharmaChoice","Flyer",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7772469-1162446
+7782243,"Greens Organic and Natural Market","Indexed Bi-Weekly",2026-02-13T00:00:00-05:00,2026-02-26T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7782243-1188885
+7765134,"RONA & RONA +","Weekly Flyer",2026-02-12T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7765134-1169487
+7780971,"Lucky Supermarket","Indexed Weekly",2026-02-13T00:00:00-05:00,2026-02-19T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780971-1188719
 7779117,"M&M Food Market","Weekly Flyer",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7779117-1187080
-7754798,"Wholesale Club and Club Entrepôt","Weekly Flyer - Valid Thursday Jan 29 - Wednesday Feb 18",2026-01-29T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7754798-1171679
-7782257,"Buy-Low Foods","Weekly Ad",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7782257-1162618
+7778434,"Thrifty Foods","Weekly eFlyer 02/19 - 02/25",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7778434-1183878
+7782301,"Rexall","Weekly Flyer",2026-02-20T00:00:00-05:00,2026-02-26T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7782301-1146987
+7766706,"Thrifty Foods","Weekly eFlyer 02/12 - 02/18",2026-02-12T03:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7766706-1183877
+7781834,"Nesters Market","Weekly Ad",2026-02-19T03:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7781834-1162549
+7784188,"Freshmart","Weekly Flyer Valid Thursday, February 19 - Wednesday, February 25 ",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7784188-1128837
 7778458,"Sleep Country Canada","eFlyer",2026-02-18T00:00:00-05:00,2026-03-02T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7778458-1184229
+7780565,"Pro Hockey Life","Flyer",2026-02-20T00:00:00-05:00,2026-03-05T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780565-1188595
 7761542,"Mark's ","Weekly Flyer",2026-02-19T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7761542-1175087
 7779089,"Showcase","flyer",2026-02-16T00:00:00-05:00,2026-02-22T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7779089-1188365
-7758329,"JYSK","Flyer",2026-02-05T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7758329-1118481
-7776969,"Trail Appliances","BC Flyer",2026-02-12T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7776969-1187979
 7768609,"Bosley's","Bi-Weekly Flyer",2026-02-19T00:00:00-05:00,2026-03-04T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7768609-1169955
-7742968,"Bosley's","Bi-Weekly Flyer",2026-02-05T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7742968-1169954
+7776969,"Trail Appliances","BC Flyer",2026-02-12T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7776969-1187979
 7779044,"La-Z-Boy Furniture Galleries","Flyer",2026-02-17T00:00:00-05:00,2026-02-22T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7779044-1188279
 7787498,"Summit Tools","Indexed Monthly",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7787498-1189604
 7717406,"Walmart","Happy Lunar Year",2026-02-05T00:00:00-05:00,2026-02-25T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7717406-1179013
-7549030,"Long & McQuade Musical Instruments","Gear Issue 2025",2025-10-01T00:00:00-04:00,2026-07-31T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7549030-1153153
 7761012,"Chatters Salon","Flyer",2026-02-05T00:00:00-05:00,2026-03-04T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7761012-1164973
-7780161,"Walmart","Ramadan Kareem",2026-02-12T00:00:00-05:00,2026-02-18T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780161-1188367
 7780549,"Walmart","Happy Holi",2026-02-12T00:00:00-05:00,2026-03-04T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7780549-1188368
 7774414,"Root's Natural ","Indexed Monthly",2026-02-01T00:00:00-05:00,2026-02-28T23:59:59-05:00,V6B1A1,https://flipp.com/flyer/7774414-1187870
+7549030,"Long & McQuade Musical Instruments","Gear Issue 2025",2025-10-01T00:00:00-04:00,2026-07-31T23:59:59-04:00,V6B1A1,https://flipp.com/flyer/7549030-1153153
